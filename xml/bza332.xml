@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum
+                              Buddhist College 法鼓佛教研修學院.
+        </title>
+        <funder>
+          Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會
+        </funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist
+                              College 法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>
+            Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉,
+                                    Chueh Hui-chen 闕慧貞
+          </name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>
+          This is the default header for all files in the database. Files which contain
+                              gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.
+        </p>
+        <p>
+          The project was conducted 2005-2008. Some minor revisions and additions were done
+                              in 2009.
+        </p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                    Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                    text lies with the Vipassana Research Institute. Copyright for the Sanskrit
+                                    text lies with Fumio Enomoto. Copyright for the English text lies with
+                                    Marcus Bingenheimer. The Tibetan and Manchu texts are in the public realm.
+                                    The digital edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                    (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                    (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                    comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding
+                                    to the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                    literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly
+                                publications (as referenced). English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the
+                              Bieyi za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies
+                              中華佛學研究所 and the Dharma Drum Buddhist College 法鼓佛教研修學院. The project is funded by
+                              the Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會. The aim of the project is to produce a comparative digital edition
+                              and partial translation of the 364 sutras of the BZA and their parallels. The
+                              texts are kept in single files in an eXist database and are realized via XQuery
+                              and XSLT as HTML for the online user. The project lasts from 2005-2008. For any
+                              changes after 2008 see the revision description.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                              attribute on the containing elements
+        </p>
+        <p>
+          BZA: New Punctuation. Markup of person and place names. Verse and prose.
+                              References to the print edition (Taishō). Corrected characters (according to
+                              CBETA).
+        </p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō).</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA. Verse and
+                              Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan: Parallel and not-parallel divisions regarding the BZA.
+                              Verse and Prose. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="bza332">
+      <anchor type="start" xml:id="Tp0486b24"/>
+      <div type="opening" xml:id="obza332">
+        <p n="bza332.01">如是我聞：一時佛住<name type="place">舍衛國</name>
+          <name type="place">祇樹給孤獨園</name>。</p>
+      </div>
+      <div type="main" xml:id="mbza332">
+        <p n="bza332.02">爾時佛告諸比丘言：</p>
+        <q who="gotamo">
+          <p n="bza332.03">生死長遠，無有邊際，無有能知其根<app n="fnT02p0485n13">
+              <lem wit="【大】">源</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">原</rdg>
+            </app>源者。一切眾生皆為無明之所覆蓋，愛結纏縛，流轉生死，無有窮已。過去億苦無能知者。</p>
+        </q>
+        <p n="bza332.04">復告比丘：</p>
+        <q who="gotamo">
+          <p n="bza332.05">譬如恒河，流注四海。於昔過去生死曠遠飲於母乳，比恒河<pb ed="T" xml:id="T02.0100.0486c" n="0486c"/>水，何者為多？</p>
+        </q>
+        <p n="bza332.06">比丘白佛：</p>
+        <q who="bhikkhavo">
+          <p n="bza332.07">如我解佛所說義者，過去久遠所飲母乳，多彼恒河及四海水。受形已來，無量無邊。或受象、馬、駝、驢、牛、羊、鹿等，種種畜獸，所飲母乳不可稱計。譬如<app n="fnT02p0486n06">
+              <lem wit="【大】">瀑</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">暴</rdg>
+            </app>瀑流，漂諸草木，合成聚<app n="fnT02p0486n11">
+              <lem wit="【大】">集</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">沫</rdg>
+            </app>集，妨塞途路。愛之聚沫，亦復如是，能遮聖道。……（餘如上說。）</p>
+        </q>
+      </div>
+    </body>
+  </text>
+</TEI>

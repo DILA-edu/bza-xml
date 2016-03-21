@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 166. It is found in the 大智度論 Abhidharma at T.25.1509.0064.</p>
+      </div>
+    </front>
+    <body xml:id="T25.1509.0064a14">
+      <anchor type="start" xml:id="t25.1509.0064a14"/>
+      <div type="not-parallel">
+        <p>我<anchor type="variant" n="fnT25p0064n08"/>者<anchor type="variant" n="fnT25p0064n09"/>今當說。</p>
+        <p>問曰。若佛法中言一切法空<anchor type="variant" n="fnT25p0064n10"/>一切無有<anchor type="variant" n="fnT25p0064n11"/>吾我。云何佛經初<anchor type="variant" n="fnT25p0064n12"/>頭言如是我聞。</p>
+        <p>答曰。佛弟子<anchor type="variant" n="fnT25p0064n13"/>輩雖知無我。隨俗法說。我非實我也。譬如以金錢買銅錢人無笑者。何以故。賣買法應<anchor type="variant" n="fnT25p0064n14"/>
+            爾。言我者亦如
+                                    是。於無我法中而說我。隨
+          <anchor type="variant" n="fnT25p0064n15"/>世俗故不應難。如天問經中偈<anchor type="variant" n="fnT25p0064n16"/>說。</p>
+      </div>
+      <div type="parallel">
+        <lg met="5">
+          <l>
+            <anchor type="variant" n="fnT25p0064n17"/>有羅漢比丘<caesura/>諸漏已永盡</l>
+          <l>於最後邊身<caesura/>能言<anchor type="variant" n="fnT25p0064n18"/>吾我不</l>
+        </lg>
+        <p>佛答<anchor type="variant" n="fnT25p0063n67"/>言。</p>
+        <lg met="5">
+          <l>
+            <anchor type="variant" n="fnT25p0064n17"/>有羅漢比丘<caesura/>諸漏已永盡</l>
+          <l>於最後邊身<caesura/>能言有吾我</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

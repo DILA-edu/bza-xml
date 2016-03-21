@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Enomoto 1997: 96</head>
+        <p>From Fumio Enomoto: "Sanskrit Fragments from the Saṃgītanipāta of the Saṃyuktāgama", in Baud-dhavidyasudhakarah: Studies in Honour of Heinz Bechert on the Occasion of his b65th birthday, Petra Kieffer-Pütz und Jens-Uwe Hartmann(ed.), India et Tibetica 30, Swisstal-Odendorf, pp96. This is part of the text-cluster of BZA (T.100) sutra 262.</p>
+      </div>
+    </front>
+    <body xml:lang="sa">
+      <anchor type="start" xml:id="eno1997.96"/>
+      <div type="parallel">
+        <note type="reference">TochSprR(A) 360,1-11. Cf. SN 7.2.4.5f. (vol. 1, p. 176).</note>
+        <p>15 sutra<note type="footnote">It is possible that this number indicates the Sūtra number in a chapter in a chapter in the Saṃyuktāgama.</note>
+        </p>
+        <lg>
+          <l>
+            <space extent="10"/>
+            <caesura/>+ + + + bhṛtaṃ dhanam |</l>
+          <l>te me dāreṇa + + + <note type="footnote">Cf. te maṃ dārehi sampuccha: SN.</note>
+            <caesura/>*svān niṣkrāmayan*<note type="variant">*...* svāṃ niṣkrāmayaṃ: ms.</note>gṛhāt ||<note type="reference">(1)</note>
+          </l>
+          <l>+ + + + + + + + <caesura/>tāta tāteti vādina〈ḥ〉 |</l>
+          <l>+ + + putrarūpeṇa <caesura/>ye tyajanti + + + + ||<note type="footnote">Cf. <l>rakkhasā puttarūpena <caesura/>te jahanti vayogataṃ: SN.</l>
+            </note>
+            <note type="reference">(2)</note>
+          </l>
+          <l>(a)śva iva nirbhogo <caesura/>ya[va] + + + + y[e]te |<note type="footnote">Cf. khādanā apanīyati: SN.</note>
+          </l>
+          <l>taruṇānāṃ<note type="variant">tarūṇānāṃ ms.</note>pitā vṛddha〈ḥ〉<caesura/>parā[g]ārā + + + ti<note type="footnote">Cf. parāgāresu bhikkhati: SN.</note>||<note type="reference">(3)</note>
+          </l>
+          <l>(a)yaṃ me daṇḍaka〈ḥ〉 śreyān<note type="variant">śreyāṃ: ms.</note>
+            <caesura/>na tu putrā nirāśravā〈ḥ〉 |</l>
+          <l>*(gāṃ vā)rayaty atisṛtavāṃ*<note type="footnote">*...* See K. T. SCHMIDT, Die Gebrauchsweisen des Mediums im Tocharischen (Dissertation, Universität Göttingen), Göttingen, 1974, pp. 499f.; cf. caṇḍam pi goṇaṃ vāreti: SN; Sanskrit-Wörterbuch der buddhistischen Texte aus den Turfan-Funden und der kanonischen Literatur der Sarvāstivāda-Schule, begonnen von E. WALDSCHMIDT, herausgegeben von H. BECHERT, Band 1, Göttingen, 1994, s.v. atisṛtavāṃ.</note>
+            <caesura/>m. + + + + + + + ||<note type="reference">4</note>
+          </l>
+          <l>puro 〈’〉ndhakāre bhavati<caesura/>durge g[ā](dh). + + + +<note type="footnote">Cf. gambhīre gādham edhati: SN.</note>|</l>
+          <l>daṇḍakasyānubhāvena <caesura/>tiṣṭhāmi<note type="variant">tiṣṭāmi: ms.</note>s. + + + + ||<note type="footnote">Cf. khalitvā paṭitiṭṭhati: SN.</note>
+            <note type="reference">5</note>
+          </l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

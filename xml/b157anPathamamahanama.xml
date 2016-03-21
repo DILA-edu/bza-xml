@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Paṭhamamahānāmasuttaṃ</head>
+        <p>From the VRI Chaṭṭa Saṅgāyana edition. PTS: AN, V, 328. This is part of the text-cluster of BZA (T.100) sutra 157.</p>
+      </div>
+    </front>
+    <body xml:lang="pi">
+      <anchor type="start" xml:id="pts.an.05.328"/>
+      <div type="parallel">
+        <p>Ekaṃ samayaṃ bhagavā <name type="place">sakkesu</name>viharati<name type="place">kapilavatthusmiṃ</name>
+          <name type="place">nigrodhārāme</name>. Tena kho pana samayena sambahulā bhikkhū bhagavato cīvarakammaṃ karonti– “niṭṭhitacīvaro bhagavā temāsaccayena cārikaṃ pakkamissatī”ti. Assosi kho<name type="person">mahānāmo sakko</name>– “sambahulā kira bhikkhū bhagavato cīvarakammaṃ karonti– ‘niṭṭhitacīvaro bhagavā temāsaccayena cārikaṃ pakkamissatī”’ti.</p>
+        <p>Atha kho mahānāmo sakko yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho mahānāmo sakko bhagavantaṃ etadavoca– “sutaṃ metaṃ, bhante– ‘sambahulā kira bhikkhū bhagavato cīvarakammaṃ karonti– niṭṭhitacīvaro bhagavā temāsaccayena cārikaṃ pakkamissatī’ti. Tesaṃ no, bhante, nānāvihārehi viharataṃ kenassa <note type="variant">[kena (syā. kaṃ.)]</note>vihārena vihātabban”ti?</p>
+        <p>“Sādhu sādhu, mahānāma! Etaṃ kho, mahānāma, tumhākaṃ patirūpaṃ kulaputtānaṃ, yaṃ tumhe tathāgataṃ upasaṅkamitvā puccheyyātha– ‘tesaṃ no, bhante, nānāvihārehi viharataṃ kenassa vihārena vihātabba”n’ti? Saddho kho, mahānāma, ārādhako hoti, no assaddho; āraddhavīriyo ārādhako hoti, no kusīto; upaṭṭhitassati ārādhako hoti no muṭṭhassati; samāhito ārādhako hoti, no asamāhito; paññavā ārādhako hoti, no duppañño. Imesu kho tvaṃ, mahānāma, pañcasu dhammesu patiṭṭhāya cha dhamme uttari <note type="variant">[uttariṃ (sī. syā. kaṃ. pī.)]</note>bhāveyyāsi.<note type="parallel">[A. ni. 6.10]</note>“idha tvaṃ, mahānāma, tathāgataṃ anussareyyāsi– ‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’ti. Yasmiṃ, mahānāma, samaye ariyasāvako tathāgataṃ anussarati, nevassa tasmiṃ samaye rāgapariyuṭṭhitaṃ cittaṃ hoti, na dosapariyuṭṭhitaṃ cittaṃ hoti, na mohapariyuṭṭhitaṃ cittaṃ hoti; ujugatamevassa tasmiṃ samaye cittaṃ hoti tathāgataṃ ārabbha. Ujugatacitto kho pana, mahānāma, ariyasāvako labhati atthavedaṃ, labhati dhammavedaṃ, labhati dhammūpasaṃhitaṃ pāmojjaṃ. Pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṃ vediyati, sukhino cittaṃ samādhiyati. Ayaṃ vuccati, mahānāma, ariyasāvako visamagatāya pajāya samappatto viharati, sabyāpajjāya pajāya abyāpajjo viharati, dhammasotasamāpanno buddhānussatiṃ bhāveti.</p>
+        <p>“Puna caparaṃ tvaṃ, mahānāma, dhammaṃ anussareyyāsi– ‘svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko <note type="variant">[opanayiko (sī. syā. kaṃ. pī.)]</note>paccattaṃ veditabbo viññūhī’ti. Yasmiṃ, mahānāma, samaye ariyasāvako dhammaṃ anussarati, nevassa tasmiṃ samaye rāgapariyuṭṭhitaṃ cittaṃ hoti, na dosapariyuṭṭhitaṃ cittaṃ hoti, na mohapariyuṭṭhitaṃ cittaṃ hoti; ujugatamevassa tasmiṃ samaye cittaṃ hoti dhammaṃ ārabbha. Ujugatacitto kho pana, mahānāma, ariyasāvako labhati atthavedaṃ, labhati dhammavedaṃ, labhati dhammūpasaṃhitaṃ pāmojjaṃ. Pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṃ vediyati, sukhino cittaṃ samādhiyati. Ayaṃ vuccati, mahānāma, ariyasāvako visamagatāya pajāya samappatto viharati, sabyāpajjāya pajāya abyāpajjo viharati, dhammasotasamāpanno dhammānussatiṃ bhāveti.</p>
+        <p>“Puna caparaṃ tvaṃ, mahānāma, saṅghaṃ anussareyyāsi– ‘suppaṭipanno bhagavato sāvakasaṅgho, ujuppaṭipanno bhagavato sāvakasaṅgho, ñāyappaṭipanno bhagavato sāvakasaṅgho, sāmīcippaṭipanno bhagavato sāvakasaṅgho, yadidaṃ cattāri purisayugāni aṭṭha purisapuggalā, esa bhagavato sāvakasaṅgho āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassā’ti. Yasmiṃ, mahānāma, samaye ariyasāvako saṅghaṃ anussarati, nevassa tasmiṃ samaye rāgapariyuṭṭhitaṃ cittaṃ hoti, na dosapariyuṭṭhitaṃ cittaṃ hoti, na mohapariyuṭṭhitaṃ cittaṃ hoti; ujugatamevassa tasmiṃ samaye cittaṃ hoti saṅghaṃ ārabbha. Ujugatacitto kho pana, mahānāma, ariyasāvako labhati atthavedaṃ, labhati dhammavedaṃ, labhati dhammūpasaṃhitaṃ pāmojjaṃ. Pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṃ vediyati, sukhino cittaṃ samādhiyati. Ayaṃ vuccati, mahānāma, ariyasāvako visamagatāya pajāya samappatto viharati, sabyāpajjāya pajāya abyāpajjo viharati, dhammasotasamāpanno saṅghānussatiṃ bhāveti.</p>
+        <p>“Puna caparaṃ tvaṃ, mahānāma, attano sīlāni anussareyyāsi akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni viññuppasatthāni aparāmaṭṭhāni samādhisaṃvattanikāni. Yasmiṃ, mahānāma, samaye ariyasāvako sīlaṃ anussarati, nevassa tasmiṃ samaye rāgapariyuṭṭhitaṃ cittaṃ hoti, na dosapariyuṭṭhitaṃ cittaṃ hoti, na mohapariyuṭṭhitaṃ cittaṃ hoti; ujugatamevassa tasmiṃ samaye cittaṃ hoti sīlaṃ ārabbha. Ujugatacitto kho pana, mahānāma, ariyasāvako labhati atthavedaṃ, labhati dhammavedaṃ, labhati dhammūpasaṃhitaṃ pāmojjaṃ. Pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṃ vediyati, sukhino cittaṃ samādhiyati. Ayaṃ vuccati, mahānāma, ariyasāvako visamagatāya pajāya samappatto viharati, sabyāpajjāya pajāya abyāpajjo viharati, dhammasotasamāpanno sīlānussatiṃ bhāveti.</p>
+        <p>“Puna caparaṃ tvaṃ, mahānāma, attano cāgaṃ anussareyyāsi– ‘lābhā vata me, suladdhaṃ vata me, yohaṃ maccheramalapariyuṭṭhitāya pajāya vigatamalamaccherena cetasā agāraṃ ajjhāvasāmi muttacāgo payatapāṇi vossaggarato yācayogo dānasaṃvibhāgarato’ti. Yasmiṃ, mahānāma samaye ariyasāvako cāgaṃ anussarati, nevassa tasmiṃ samaye rāgapariyuṭṭhitaṃ cittaṃ hoti, na dosapariyuṭṭhitaṃ cittaṃ hoti, na mohapariyuṭṭhitaṃ cittaṃ hoti; ujugatamevassa tasmiṃ samaye cittaṃ hoti cāgaṃ ārabbha. Ujugatacitto kho pana, mahānāma, ariyasāvako labhati atthavedaṃ, labhati dhammavedaṃ, labhati dhammūpasaṃhitaṃ pāmojjaṃ. Pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṃ vediyati, sukhino cittaṃ samādhiyati. Ayaṃ vuccati, mahānāma, ariyasāvako visamagatāya pajāya samappatto viharati, sabyāpajjāya pajāya abyāpajjo viharati, dhammasotasamāpanno cāgānussatiṃ bhāveti.</p>
+        <p>“Puna caparaṃ tvaṃ, mahānāma, devatā anussareyyāsi– ‘santi devā <name type="person">cātumahārājikā</name>, santi devā<name type="person">tāvatiṃsā</name>, santi devā<name type="person">yāmā</name>, santi devā<name type="person">tusitā</name>, santi devā<name type="person">nimmānaratino</name>, santi devā<name type="person">paranimmitavasavattino</name>, santi devā<name type="person">brahmakāyikā</name>, santi devā<name type="person">tatuttari</name>
+            . 
+                                   Yathārūpāya saddhāya samannāgatā tā devatā ito cutā tatthūpapannā mayhampi tathārūpā saddhā saṃvijjati. Yathārūpena sīlena samannāgatā tā devatā ito cutā tatthūpapannā, mayhampi tathārūpaṃ sīlaṃ saṃvijjati. Yathārūpena sutena samannāgatā tā devatā ito cutā tatthūpapannā, mayhampi tathārūpaṃ sutaṃ saṃvijjati. Yathārūpena cāgena samannāgatā tā devatā ito cutā tatthūpapannā, mayhampi tathārūpo cāgo saṃvijjati. Yathārūpāya paññāya samannāgatā tā devatā ito cutā tatthūpapannā, mayhampi tathārūpā paññā saṃvijjatī’ti.
+          </p>
+        <p>Yasmiṃ, mahānāma, samaye ariyasāvako attano ca tāsañca devatānaṃ saddhañca sīlañca sutañca cāgañca paññañca anussarati, nevassa tasmiṃ samaye rāgapariyuṭṭhitaṃ cittaṃ hoti, na dosapariyuṭṭhitaṃ cittaṃ hoti, na mohapariyuṭṭhitaṃ cittaṃ hoti; ujugatamevassa tasmiṃ samaye cittaṃ hoti devatā ārabbha. Ujugatacitto kho pana, mahānāma, ariyasāvako labhati atthavedaṃ, labhati dhammavedaṃ, labhati dhammūpasaṃhitaṃ pāmojjaṃ. Pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṃ vediyati, sukhino cittaṃ samādhiyati. Ayaṃ vuccati, mahānāma, ariyasāvako visamagatāya pajāya samappatto viharati, sabyāpajjāya pajāya abyāpajjo viharati, dhammasotasamāpanno devatānussatiṃ bhāvetī”ti.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

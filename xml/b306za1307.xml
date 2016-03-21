@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-1307">
+      <anchor type="start" xml:id="tp0359a10"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住<name type="place">舍衛國</name>
+          <name type="place">祇樹給孤獨園</name>。</p>
+      </div>
+      <div type="main">
+        <p>時有<anchor type="variant" n="fnT02p0359n02"/>
+          <name type="person">赤馬天子</name>，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面，其身光明遍照祇樹給孤獨園。</p>
+        <p>時彼赤馬天子白佛言：<q who="rohitassadevaputta">
+            <p>世尊！頗有能行過世界邊，至不生、不老、不死處不？</p>
+          </q>
+        </p>
+        <p>佛告赤馬：<q who="gotamo">
+            <p>無有能過世界邊，至不生、不老、不死處者。</p>
+          </q>
+        </p>
+        <p>赤馬天子白佛言：<q who="rohitassadevaputta">
+            <p>奇哉！世尊！善說斯義。如世尊說言：<q who="gotamo">無過世界邊，至不生、不老、不死處<anchor type="variant" n="fnT02p0359n03"/>者。</q>所以者何？世尊！我自憶宿命，名曰赤馬，作外道仙人，得神通，離諸愛欲。我時作是念：<q who="rohitassadevaputta">我有如是<choice>
+                  <sic>揵</sic>
+                  <corr resp="CBETA">捷</corr>
+                </choice>疾神足如健士夫，以利箭橫射過多羅樹影之頃，能登一須彌，至一須彌；足躡東海，<choice>
+                  <sic>越</sic>
+                  <corr resp="CBETA">超</corr>
+                </choice>至西海。</q>我時作是念：<q who="rohitassadevaputta">我今成就如是<choice>
+                  <sic>揵</sic>
+                  <corr resp="CBETA">捷</corr>
+                </choice>疾神力，今日寧可求世界邊。</q>作是念已，即便發行，唯除食息便利，減節睡眠，常行百歲，於彼命終，竟不能<anchor type="variant" n="fnT02p0359n04"/>得過世界邊，至不生、不老、不死之處。</p>
+          </q>
+        </p>
+        <p>佛告赤馬：<q who="gotamo">
+            <p>我今但以一尋之身，說於世界、世界集、世界滅、世界滅道跡。赤馬天子！何等為世間？謂五受陰。何等為<pb ed="T" n="0359b"/>五？色受陰、受受陰、想受陰、行受陰、識受陰，是名世間。何等為色集？謂當來有愛、貪、喜俱，彼彼染著，是名世間集。云何為世間滅？若彼當來有愛、貪、喜俱，彼彼染著，無餘斷、捨、離、盡、無欲、滅、息沒，是名世間滅。何等為世間滅道跡？謂八聖道——正見、正志、正語、正業、正命、正方便、正念、正定，是名世間滅道跡。</p>
+          </q>
+        </p>
+        <p>
+          <q who="gotamo">
+            <p>赤馬！了知世<anchor type="variant" n="fnT02p0359n05"/>間苦，斷世<anchor type="variant" n="fnT02p0359n05"/>間苦；了知世間集，斷世間集；了知世間滅，證世間滅；了知世間滅道跡，修彼<anchor type="variant" n="fnT02p0359n06"/>滅道跡。赤馬！若比丘於世間苦若知、若斷，世間集若知、若斷，世間滅若知、若證，世間滅道跡若知、若修。赤馬！是名得世界邊，度世間愛。</p>
+          </q>
+        </p>
+        <p>爾時世尊重說偈言：</p>
+        <q who="rohitassadevaputta">
+          <lg met="5" xml:id="cgtn0099-1307a">
+            <l>未曾遠遊行<caesura/>而得世界邊</l>
+            <l>無得世界邊<caesura/>終不盡苦邊</l>
+            <l>以是故牟尼<caesura/>能知世界邊</l>
+            <l>善解世界邊<caesura/>諸梵行已立</l>
+            <l>於彼世界邊<caesura/>平等覺知者</l>
+            <l>是名賢聖行<caesura/>
+              <anchor type="variant" n="fnT02p0359n07"/>度世間彼岸</l>
+          </lg>
+        </q>
+      </div>
+      <div type="closing">
+        <p>是時赤馬天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

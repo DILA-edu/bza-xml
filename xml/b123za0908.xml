@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-0908">
+      <anchor type="start" xml:id="tp0227b10"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住王舍城迦蘭陀竹園。</p>
+      </div>
+      <div type="main">
+        <p>爾時<anchor type="variant" n="fnT02p0227n07"/>戰鬪活聚落主來詣佛所，恭敬問訊。問訊已，退坐一面，白佛言：<q who="yodhajivagamani">
+            <p>瞿曇！我聞古昔戰鬪活耆年宿士作是言：『若──戰鬪活！──身被重鎧，手執利器，將士先鋒，堪能方便，摧伏怨敵。緣此業報，生<anchor type="variant" n="fnT02p0227n08"/>箭降伏天。』於瞿曇法中，其義云何？</p>
+          </q>
+        </p>
+        <p>佛告戰鬪活：<q who="gotamo">
+            <p>且止，莫問此義！</p>
+          </q>如是再三問，亦再三止之，猶問不已。</p>
+        <p>佛告聚落主：<q who="gotamo">
+            <p>我今問汝，隨汝意答。聚落主！於意云何？若──戰鬪活！──身被甲冑，為戰士先鋒，堪能方便摧伏怨敵。此人豈不先起傷害之心，欲攝縛枷鏁，斫刺殺害於彼耶？</p>
+          </q>
+        </p>
+        <p>聚落主白佛：<q who="yodhajivagamani">
+            <p>如是。世尊！</p>
+          </q>
+        </p>
+        <p>佛告聚落主：<q who="gotamo">
+            <p>為──戰鬪活！──有三種惡邪：若身、若口、若意。以此三種惡邪因緣，身壞命終，得生善趣箭降伏天者，無有是處！</p>
+          </q>
+        </p>
+        <p>佛告聚落主：<q who="gotamo">
+            <p>若古昔戰鬪活耆年宿士作如是見，作如是說：『若諸戰鬪活身被甲冑，手執利器，命敵先登，堪能方便摧伏怨敵，以是因緣生箭降伏天』者，是則邪見。邪見之人應生二處：若地獄趣，若畜生<pb ed="T" n="0227c"/>趣。</p>
+          </q>說是語時，彼聚落主悲泣流淚。</p>
+        <p>佛告聚落主：<q who="gotamo">
+            <p>以是義故，我先再三語汝：『且止，不為汝說！』</p>
+          </q>
+        </p>
+        <p>聚落主白佛言：<q who="yodhajivagamani">
+            <p>我不以瞿曇語故悲泣。我念古昔諸鬪戰活耆年宿士愚癡，不善，不<anchor type="variant" n="fnT02p0227n05"/>辨，長夜欺誑，作如是言：『若戰鬪活身被甲冑，手執利器，命敵先登，（……乃至）得生箭降伏天。』是故悲泣。我今定思諸戰鬪活惡業因緣，身壞命終，生箭降伏天者，無有是處！瞿曇！我從今日捨諸惡業，歸佛、歸法、歸比丘僧。</p>
+          </q>
+        </p>
+        <p>佛告聚落主：<q who="gotamo">
+            <p>此真實要。</p>
+          </q>
+        </p>
+      </div>
+      <div type="closing">
+        <p>時戰鬪活聚落主聞佛所說，歡喜隨喜。即從<anchor type="variant" n="fnT02p0013n06"/>坐起，作禮而去。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

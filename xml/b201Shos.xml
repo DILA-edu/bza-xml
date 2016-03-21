@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Hosoda 1989a: 194-196</head>
+        <p>From Noriaki Hosoda 細田典明: Bonbun Zōagongyō Busshosetsuhon Gedōsōō (1) [Sanskrit fragments from the Parivrājakasaṃyukta of the Saṃyuktāgama (1) 梵文《雑阿含経》仏所說品外道相応(Ⅰ)] In《藤田宏達博士還曆記念論集：インド哲学と仏教》[Indian Philosophy and Buddhism: Essays in honour of Professor Kotatsu Fujita on his sixtieth birthday] 185-206. Kyoto. This is part of the text-cluster of BZA (T.100) sutra 201.</p>
+      </div>
+    </front>
+    <body xml:lang="sa">
+      <anchor type="start" xml:id="hos1989a.194"/>
+      <div type="parallel">
+        <note type="reference">「倶迦那経」B1. 157 R 5-159 V 2: Kokanada（AN V, pp. 196-198 (Kokanudo) .）; 『雑含』第九六七経、『別訳』第二〇一経「倶迦那（経においては「倶迦那提」。）」</note>
+        <p>§1  ( || bhagavān rājagṛhe viharati veṇuvane kalandakani)vāpe﹙.﹚ athāyuṣmān ānanda(ḥ sa rātryā paścime yāme)<note type="footnote">Vgl. SHT V Kat.-Nr. 1129 B6: sa rātryā paścime yāme. この箇中は中阿含第三三『侍者経』「彼後夜時」（『大正蔵』一巻四七四頁上二）に対応し、同句の表現は Mahāvastu. Ⅱ, p. 133. 7 に知られる。Pischel は yena の前の欠損した文字を (ya?) と読んでおり、入手したコピーからこの文字は半分が欠損しており ṇ. とも読め、確定できない。「後夜」について Mvy では ”paścime yāme” (Nr. 8233) であり、当該箇所について “paścime yāme vyutthāya” と想定することも可能であり、なお検討の余地がある。</note>yena<note type="reference">B1. 158</note>nadī tapodā tenopajagā(ma. upetya nadyās tapodāyās tīre<note type="footnote">tīre......pariṣicya: vgl. SHT Ⅰ Kat.-Nr. 618 b R5 (=MPS 29. 4).</note>cīvarakāny upanikṣipya nadīṃ tapodām abhyavagāhya<note type="footnote">abhyavagāhya......pratyutthāya: vgl. MPS 29. 4.</note>gātrāṇi pariṣicya nadīṃ tapodāṃ pratyutthāya, e)<note type="reference">V 2</note>kacīvaraka asthād gātrāṇy ā[p](avayamānaḥ.)<note type="footnote">SHT V Kat.-Nr. 1332+1476 a R 3 に "(eka)cīvaraka asthād gātrāṇy āp(ū)payamānaḥ"（対応する漢訳は「拭體著衣」。中阿含第二〇四経『羅摩経』、『大正蔵』一巻、七七五頁下一三）とあり、āpūpayamānaḥ という推定が可能であるが、°pū° については、Pischel も (vā?) と読んでいる如く断簡の欠損部分はこの文字の上半部であり、ū を示す形跡がみられない。また、Kat.-Nr. 1332+1476 についても āp(ū)payamānaḥ と読み、ū については不確定である。</note>
+        </p>
+        <p>§2 (tena khalu samayena kokanadaḥ parivrājako yena nadī tapodā tenopajagāma. aśrauṣīd āyuṣmān ānandaḥ) <note type="reference">V 3</note>kokanadasya parivrājakasya [p](ariṣiñcanaśabdam. śrutvā ca punar āyuṣmatānandenotkāśanaśabdaḥ<note type="footnote">utkāśanaśabdaḥ......āha.: vgl. Divyāvadāna. p. 517. 25-26; SWTF 5. Lfg. s. v. utkāśanaśabda.</note>kṛtaḥ. aśrauṣīt kokanadaḥ parivrājako tasyotkāśa)<note type="reference">V 4</note>naśabdaṃ﹙.﹚ śrutvā ca punar evam āha﹙.﹚</p>
+        <p>§3 [k]<note type="footnote">Pāli, l. c., p. 196. 11-12: 'kvattha āvuso' ti? 'Amhāvuso bhikkhū' ti. 'Katamesaṃ āvuso bhikkhūnan' ti? 'Samaṇānaṃ āvuso Sakyaputtiyānan' ti.</note>(o 'sy āyuṣman. ahaṃ śramaṇo 'smi. katameṣāṃ śramaṇānām. śākyaputrīyānām. pṛccheyam aham āyuṣmāṃ kañcid eva pradeśa)<note type="reference">V 5</note>mi saced avakāśaṃ kuryāḫ praśnasya (vyākaraṇāya. pṛcchāyuṣman. śrutvā te vedayiṣyāmi.)</p>
+        <p>§4 (kin nv āyuṣman bhavati<note type="footnote">Vgl. Abhidh-k-bh(P) p. 294. 1-4; Abhidh-k-vy p. 467. 4-7.</note>tathāgataḥ paraṃ maraṇāt. avyākṛtaṃ bhagava)<note type="reference">R 1</note>tā bhavati tathāgataḥ paraṃ maraṇā(t. kin nv āyuṣman na bhavati bhavati ca na bhavati naiva bhavati naiva na bhavati tathāgataḥ paraṃ maraṇāt. avyākṛ)<note type="reference">R 2</note>taṃ bhagavatā na bhavati bhavati c(a na bhavati naiva bhavati naiva na bhavati tathāgataḥ paraṃ maraṇāt.)</p>
+        <p>§5 (kin nv āyuṣman bhavati tathāgataḥ paraṃ maraṇā)<note type="reference">R 3</note>d iti pṛṣṭa avyākṛtam iti vadasi﹙.﹚ (na bhavati bhavati ca na bhavati naiva bhavati naiva na bhavati tathāgataḥ paraṃ maraṇād iti pṛṣṭa avyākṛtam iti va)<note type="reference">R 4</note>dasi﹙.﹚ kin nv āyuṣman na jānā(s)[i] (na paśyasi. nāham<note type="footnote">Pāli, l. c., p. 197. 6-7: 'Na kho ahaṃ āvuso na jānāmi na passāmi, jānām' ahaṃ āvuso passāmī' ti.</note>āyuṣman na jānāmi na paśyāmi. jānāmy ahaṃ paśyāmi. kin nv āyuṣman jānāsi paśyasi.)</p>
+        <p>§6 ......<note type="reference">R 5</note>d[ṛ]ṣ[ṭ]ir d[ṛ]ṣṭisthānaṃ dṛṣṭisthā(na)......(tam ahaṃ jānāmi tam ahaṃ paśyāmi. evaṃ cāham āyuṣman jānāmy evaṃ paśyāmi. kin nv ahaṃ na jānāmi na pa)<note type="reference">B1. 159</note>śyāmi﹙.﹚</p>
+        <p>§7 ko<note type="footnote">Vgl. SHT Ⅱ Kat.-Nr. 163 b R 1. 中阿含第一〇経『七車経』（『大正蔵』一巻四三一頁中二四以下）参照。</note>nāmāyuṣmaṃ﹙.﹚ āna(nda iti. āścaryaṃ yāvan mahācāryasya śrāvakena sārdham antarākathāsamudāhāraḥ. saced<note type="footnote">Pāli, l. c., p. 198. 10-13: Sace hi mayaṃ sañjāneyyāma: āyusmā Ānando ti, ettakam pi no na ppaṭibhāseyya.</note>ahaṃ sañjānīyām āyuṣmān ānanda iti)<note type="reference">V 2</note>etāvat pratibhāsya na<note type="footnote">pratibhāsya は正しくは pratibhāṣya であるが、梵文の意味が不明確なため、今はピシェルの読みに従う。前掲の小断片では “(pra)tibhāsyataḥ sādhu” (SHT Ⅱ a. a. O. R 6) とあり、対応する漢訳の前後は、「若我知尊者舍梨子者。不能答一句。況復爾所深論。善哉善哉」（同、中二九ー下二）。</note>haṃta [bh]......(evam uktvā prakrāntaḥ. || )</p>
+      </div>
+    </body>
+  </text>
+</TEI>

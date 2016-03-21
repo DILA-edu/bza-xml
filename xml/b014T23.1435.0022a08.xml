@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 014. It is found in the 十誦律 Vinaya at T.23.1435.0022.</p>
+      </div>
+    </front>
+    <body xml:id="T23.1435.0022a08">
+      <anchor type="start" xml:id="t23.1435.0022a08"/>
+      <div type="parallel">
+        <p>佛在王舍城。</p>
+      </div>
+      <div type="not-parallel">
+        <p>爾時長老陀驃力士子。成就五法故。僧羯磨作知臥具人。不隨愛。不隨瞋。不隨怖。不隨癡。知得不得。是人隨所應與。若阿練兒阿練兒共。持律持律共。說法說法共。讀修妬路讀修妬路共。如是同事者共。是人作是念。我如是與者。若語若默安樂得住。是陀驃分布臥具時。不須燈燭。左手出光。右手持與。有比丘故待闇來。欲見陀驃神通之力。</p>
+      </div>
+      <div type="parallel">
+        <p>
+          <anchor type="variant" n="fnT23p0022n03"/>時佛故在王舍城。是力士子陀驃。成就五法故。眾僧教作差會人。是人差次會時。不隨愛瞋怖癡知次第不越次。爾時彌多羅浮摩比丘次會。值得麁食。如是再三食麁食。時作如是念。我深苦惱。是陀驃力士子。故以是麁食惱我。當以何報令彼得惱。復作是念。我當謗以無根波羅夷法。</p>
+        <p>是比丘有妹比丘尼。名彌多羅。時此比丘尼。到彌多羅浮摩比丘所。頭面禮足在一面立。時彌多羅浮摩比丘。不共語亦不看不教坐。是比丘尼作是念。我作何惡何所觸犯。使此兄不共我語。作是念已便言。我於兄<anchor type="variant" n="fnT23p0022n04"/>有何過故。不共我語不教我坐。是比丘言。陀驃比丘故以麁食惱我。乃至再三。汝不助我。比丘尼言。欲<pb ed="T" n="0022b"/>令我以何事相助。是比丘言。妹汝到佛所作如是言。世尊。云何有是法。陀驃比丘共我作婬。墮波羅夷事。比丘尼言。是清淨無罪比丘。云何謗以無根波羅夷法。是比丘言。妹汝不作是謗者。我不共汝語。不喚汝坐。是比丘尼敬愛兄故。即作是念。若我不隨語者。兄不共我語。不教我坐。如是念已。即語兄言。當隨<anchor type="variant" n="fnT23p0022n05"/>汝語。是比丘言。妹小住。我當先往佛所。汝隨後來。我當證之。即往佛所頭面禮足在一面立。是比丘尼便從後來。頭面禮足在一面立。白佛言。世尊。云何有是法。陀驃比丘共我作婬。墮波羅夷事。時彌多羅浮摩比丘即作是言。世尊。是事實爾。我亦先知。如<anchor type="variant" n="fnT23p0022n06"/>是比丘尼所說。</p>
+        <p>爾時陀驃在佛後<anchor type="variant" n="fnT23p0022n07"/>扇佛。佛顧視陀驃言。汝今云何。是彌多羅比丘尼在我前言。世尊。云何有是法。陀驃比丘共我作婬。墮波羅夷事。彌多羅浮摩比丘亦作是言。世尊。是事實爾。我先亦知。如是比丘尼所說。陀驃比丘白佛言。世尊。世尊知我。修伽陀知我。佛語陀驃。汝今不得作如是語。世尊知我。修伽陀知我。汝憶念者。便說憶念。若不憶念者。說不憶念。我不憶念世尊。不憶念修伽陀。</p>
+        <p>爾時長老羅睺羅亦在會中。偏袒右肩合掌白佛言。世尊。是陀驃比丘為何所說。是彌多羅比丘尼今在佛前作如是語。世尊。云何有是法。陀驃比丘共我作婬。墮波羅夷事。彌多羅浮摩比丘。亦作是言。世尊。是事實爾。我先亦知。如<anchor type="variant" n="fnT23p0022n06"/>是比丘尼所說。佛語羅睺羅。我今問汝。隨汝意答。於意云何。<pb ed="T" n="0022c"/>若是比丘尼來語我言。世尊。云何有是法。羅睺羅共我作婬。墮波羅夷事。彌多羅浮摩比丘亦作是說。是事實爾。我亦先知。如比丘尼所說。汝當云何。時羅睺羅言。世尊知我。修伽陀知我。佛言。癡人。汝尚能言。世尊知我。修伽陀知我。何況陀驃比丘。持戒清淨善修梵行。云何不言世尊知我修伽陀知我。</p>
+        <p>爾時佛語諸比丘。汝等當記。陀驃比丘說不憶念。是彌多羅比丘尼自說作罪故。應與滅羯磨。佛如是教已。起入禪室。時諸比丘審諦急問彌多羅浮摩比丘言。汝云何見。何處見。見犯何事。汝以何事故往見。是諸比丘審諦急問已。答言。陀驃比丘實梵行清淨。我以欲故瞋故怖故癡故。作是語謗。諸比丘言。云何陀驃比丘梵行清淨。以欲故瞋故怖故癡故。作是語謗。答言。陀驃比丘成就五法故。王舍城眾僧教作差會人。不隨愛瞋怖癡次第不越次。我時次會。值麁惡食。如是再三噉食。時心中苦惱。便作是念。陀驃比丘。故以麁食惱我。當以何報。復作是念。我當謗以無根波羅夷法。以是因緣故。我以欲瞋怖癡故。作是語謗。是中有比丘。少欲知足行頭陀。聞是事心不喜。呵責言。云何名比丘。以無根波羅夷法。謗清淨梵行比丘。</p>
+        <p>諸比丘種種因緣呵已。向佛廣說。佛時<anchor type="variant" n="fnT23p0022n08"/>即從禪室出。集比丘僧。知而故問彌多羅浮摩比丘。汝實作是事不。答言。實作世尊。佛以種種因緣呵責。云何名比丘。以無根波羅夷法。誹謗清淨梵行比丘。佛以<anchor type="variant" n="fnT23p0022n09"/>種種呵已。語諸比丘。有三種<pb ed="T" n="0023a"/>人<anchor type="variant" n="fnT23p0023n01"/>必墮地獄。何等三。若人以無根波羅夷法。謗清淨梵行比丘。是初人墮地獄。復有人如是邪見。便作是言。婬欲中無罪。以是故。是人深作放逸自恣五欲。是為第二人墮地獄。復有人犯戒惡法臭爛。非沙門自言沙門。非梵行自言梵行。是為第三人墮地獄。</p>
+      </div>
+      <div type="not-parallel">
+        <p>爾時世尊。欲明了此事。而說偈言。</p>
+        <lg met="5">
+          <l>妄語墮地獄<caesura/>作之言不作</l>
+          <l>是二俱相似<caesura/>後皆受罪報</l>
+          <l>夫人處世間<caesura/>斧在口中生</l>
+          <l>以是自斬身<caesura/>斯由作惡言</l>
+          <l>應呵而讚歎<caesura/>應讚而呵罵</l>
+          <l>口過故得衰<caesura/>衰故不受樂</l>
+          <l>如<anchor type="variant" n="fnT23p0023n02"/>奄失財利<caesura/>是衰為尠少</l>
+          <l>惡心向善人<caesura/>是衰<anchor type="variant" n="fnT23p0023n03"/>重於彼</l>
+          <l>尼羅浮地獄<caesura/>其數有十萬</l>
+          <l>阿浮陀地獄<caesura/>三<anchor type="variant" n="fnT23p0023n04"/>千六及五</l>
+          <l>惡心作惡口<caesura/>輕毀聖人故</l>
+          <l>壽終必當墮<caesura/>如是地獄中</l>
+        </lg>
+        <p>佛種種因緣呵已。語諸比丘。以十利故與諸比丘結戒。從今是戒應如是說。若比丘住惡瞋故。以無根波羅夷法。謗無波羅夷比丘。欲破彼梵行。是比丘後時。或問或不問。知是無根事。比丘住惡瞋故。作是語者。僧伽婆尸沙。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

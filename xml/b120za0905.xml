@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-905">
+      <anchor type="start" xml:id="tp0226a13"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住王舍城迦蘭陀竹園。</p>
+      </div>
+      <div type="main">
+        <p>爾時尊者<anchor type="variant" n="fnT02p0226n04"/>摩訶迦葉、尊者<anchor type="variant" n="fnT02p0226n05"/>舍利弗住耆闍崛山中。時有眾多外道出家，詣尊者舍利弗，與尊者面相問訊，慰勞已，退坐一面，語尊者舍利弗言：</p>
+        <q who="titthiya">
+          <p>云何──舍利弗！──<anchor type="variant" n="fnT02p0226n06"/>如來有後生死耶？</p>
+        </q>
+        <p>舍利弗言：</p>
+        <q who="sariputto">
+          <p>諸外道！世尊說言：『此是<anchor type="variant" n="fnT02p0226n07"/>無記。』</p>
+        </q>
+        <p>又問：</p>
+        <q who="titthiya">
+          <p>云何──舍利弗！──如來無後生死耶？</p>
+        </q>
+        <p>舍利弗答言：</p>
+        <q who="sariputto">
+          <p>諸外道！世尊說言：『此是無記。』</p>
+        </q>
+        <p>又問：</p>
+        <q who="titthiya">
+          <p>舍利弗！如來有後生死，無後生死耶？</p>
+        </q>
+        <p>舍利弗答言：</p>
+        <q who="sariputto">
+          <p>世尊說言：『此是無記。』</p>
+        </q>
+        <p>又問舍利弗：</p>
+        <q who="titthiya">
+          <p>如來非有後生死，非無後生死耶？</p>
+        </q>
+        <p>舍利弗答言：</p>
+        <q who="sariputto">
+          <p>諸外道！世尊說言：『此是無記。』</p>
+        </q>
+        <p>諸外道出家又問尊者舍利弗：</p>
+        <q who="titthiya">
+          <p>云何所問：『如來有後生死，無後生死，有後無後，非有後非無後？』一切答言：「世尊<anchor type="variant" n="fnT02p0226n08"/>說：『此是無記。』？云何為上座如愚如癡，不善不辯，如嬰兒無自性智！</p>
+        </q>
+        <p>作此語已，從坐起去。</p>
+        <p>爾時尊者摩訶<pb ed="T" n="0226b"/>迦葉、尊者舍利弗相去不遠，各坐樹下，晝日禪思。尊者舍利弗知諸外道出家去已，詣尊者摩訶迦葉所，共相問訊，慰勞已，退坐一面，以向與諸外道出家所論說事具白尊者摩訶迦葉：</p>
+        <q who="sariputto">
+          <p>尊者摩訶迦葉！何因何緣世尊不記說後有生死，後無生死，後有後無，非有非無生死耶？</p>
+        </q>
+        <p>尊者摩訶迦葉語舍利弗言：</p>
+        <q who="kassapo">
+          <p>若說如來後有生死者，是則為色。若說如來無後生死，是則為色。若說如來有後生死、無後生死，是則為色。若說如來非有後、非無後生死，是則為色。如來者，色已盡，心善解脫。言有後生死者，此則不然。無後生死、有後無後、非有後非無後生死，此亦不然。如來者，色已盡，心善解脫，甚深廣大，無量無數，寂滅涅槃。舍利弗！若說如來有後生死者，是則為受、為想、為行、為識、為動、為慮、為虛誑、為有為、為愛、……（乃至）非有非無後有亦如是說。如來者，愛已盡，心善解脫，是故說後有者不然。後無、後有無、後非有非無者不然。<anchor type="variant" n="fnT02p0226n09"/>如來者，愛已盡，心善解脫，甚深廣大，無量無數，寂滅涅槃。舍利弗！如是因，如是緣故，有問世尊：如來若有、若無、若有無、若非有非無後生死，不可記說。</p>
+        </q>
+      </div>
+      <div type="closing">
+        <p>時二正士共論議已，各還本處。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

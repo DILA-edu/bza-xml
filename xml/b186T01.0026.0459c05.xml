@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 166. It is found in the 中阿含經 Sutra 028 at T.01.0026.0459.</p>
+      </div>
+    </front>
+    <body xml:id="T01.0026.0459c05">
+      <anchor type="start" xml:id="t01.0026.0459c05"/>
+      <div type="parallel">
+        <p>於是。長者病即得差。平復如故。從臥起坐。歎尊者舍梨子曰。善哉。善哉。為病說法。甚奇。甚特。尊者舍梨子。我聞教化病法。苦痛即滅。生極快樂。尊者舍梨子。我今病差。平復如故。尊者舍梨子。我往昔時。少有所為。至王舍城寄宿一長者家。時。彼長者明當飯佛及比丘眾。時。彼長者過夜向曉。教<g>[束*力]</g>兒孫．奴使．眷屬。汝等早起。當共嚴辦。彼各受教。共設廚宰。供辦餚饌．種種腆美。長者躬自敷置高座。無量嚴飾。</p>
+        <p>尊者舍梨子。我既見已。便作是念。今此長者為婚姻事。為迎婦節會。為請國王。為呼大臣。為作齋會施設大施耶。尊者舍梨子。我既念已。便問長者。汝為婚姻事。為迎婦節會。為請國王。為呼大臣。為作齋會施設大施耶。時。彼長者而答我曰。吾無婚姻事。亦不迎婦。不為節會。不請國王及呼大臣。但為齋會施設大施。明當飯佛及比丘眾。</p>
+        <p>尊者舍梨子。我未曾聞佛名。聞已舉身毛<g>[豎-豆+立]</g>。即復問曰。長者說佛。何名為佛。時。彼長者而答我曰。君不聞乎。有釋種子捨釋宗族。剃除鬚髮。著袈<choice>
+            <sic>娑</sic>
+            <corr resp="CBETA">裟</corr>
+          </choice>衣。至信．捨家．無家．學道。得無上等正覺。是名為佛。我復問曰。長者說眾。何名為眾。時。彼長者復答我曰。有若干姓異名<choice>
+            <sic/>
+            <corr resp="CBETA">異</corr>
+          </choice>族。剃除鬚髮。著袈<choice>
+            <sic>娑</sic>
+            <corr resp="CBETA">裟</corr>
+          </choice>衣。至信．捨家．無家。從佛學道。是<pb ed="T" n="0460a"/>名為眾。此佛及眾。吾之所請。尊者舍梨子。我即復問彼長者曰。世尊於今為在何處。我欲往見。時。彼長者復答我曰。世尊今在此王舍城竹林<anchor type="variant" n="fnT01p0460n01"/>加蘭哆園。欲往隨意。</p>
+        <p>尊者舍梨子。我作是念。若速曉者。疾往見佛。尊者舍梨子。我時至心欲往見佛。即於其夜生晝明想。便從長者家出。往至城息門。是時。城息門中有二直士。一直初夜。外客使入。不令有礙。一直後夜。若客使出。亦不作礙。尊者舍梨子。我復作是念。夜尚未曉。所以者何。城息門中有二直士。一直初夜。外客使入。不令有礙。一直後夜。若客使出。亦不作礙。尊者舍梨子。出城息門。出外不久。明滅還<anchor type="variant" n="fnT01p0460n02"/>暗。尊者舍梨子。我便恐怖。舉身毛<g>[豎-豆+立]</g>。莫令人．非人來觸嬈我。</p>
+        <p>時。城息門而有一天。從王舍城至竹林<anchor type="variant" n="fnT01p0460n01"/>加蘭哆園。光明普照。來語我言。長者莫怖。長者莫怖。所以者何。我本前世是汝朋友。名<anchor type="variant" n="fnT01p0460n03"/>密器。年少極相愛念。長者。我本昔時往詣尊者大目<anchor type="variant" n="fnT01p0460n04"/>乾連所。稽首禮足。<g>[去*ㄗ]</g>坐一面。尊者大目<anchor type="variant" n="fnT01p0460n04"/>乾連為我說法。勸發渴仰。成就歡喜。無量方便為我說法。勸發渴仰。成就歡喜已。賜三自歸。見授五戒。長者。我因三歸。受持五戒。身壞命終。生四<anchor type="variant" n="fnT01p0460n05"/>天王天住此城息門中。長者速去。長者速去。去實勝住。彼天勸我而說頌曰。</p>
+        <lg met="5">
+          <l>得馬百臣女<caesura/>車百滿珍寶</l>
+          <l>往詣佛一步<caesura/>不當十六分</l>
+          <l>白象百最上<caesura/>金銀鞍勒被</l>
+          <l>往詣佛一步<caesura/>不當十六分</l>
+          <pb ed="T" n="0460b"/>
+          <l>女百色端正<caesura/>瓔珞花嚴身</l>
+          <l>往詣佛一步<caesura/>不當十六分</l>
+          <l>轉輪王所敬<caesura/>
+            <anchor type="variant" n="fnT01p0460n06"/>玉女寶第一</l>
+          <l>往詣佛一步<caesura/>不當十六分</l>
+        </lg>
+        <p>天說頌已。而復勸曰。長者速去。長者速去。去實勝住。尊者舍梨子。我復作是念。佛尊祐德。法及比丘眾亦尊祐德。所以者何。乃至於天。亦欲使見。尊者舍梨子。我因此光明往至竹林加蘭哆園。爾時。世尊夜其向旦。從禪室出。露地經行而待於我。尊者舍梨子。我遙見佛端正姝好。猶星中月。光<anchor type="variant" n="fnT01p0460n07"/>耀暐曄。晃若金山。相好具足。威神巍巍。諸根寂定。無有蔽礙。成就調御。息心靜默。見已歡喜。前詣佛所。接足作禮。隨佛經行。以長者法說頌問訊。</p>
+        <lg met="5">
+          <l>世尊寐安隱<caesura/>至竟眠快耶</l>
+          <l>如梵志滅度<caesura/>以不染於欲</l>
+          <l>捨離一切願<caesura/>逮得至安隱</l>
+          <l>心除無煩熱<caesura/>自樂歡喜眠</l>
+        </lg>
+        <p>於是。世尊即便往至經行道頭。敷尼師<anchor type="variant" n="fnT01p0460n08"/>檀。結<anchor type="variant" n="fnT01p0460n09"/>加趺坐。尊者舍梨子。我禮佛足。<g>[去*ㄗ]</g>坐一面。世尊為我說法。勸發渴仰。成就歡喜。無量方便為我說法。勸發渴仰。成就歡喜已。如諸佛法。先說端正法。聞者歡悅。謂。說施．說戒．說生天法。毀呰欲為災患。生死為穢。稱歎無欲為妙道品白淨。世尊為我說如是法已。佛知我有歡喜心．具足心．柔軟心．堪耐心．昇上心．一向心．無疑心．無蓋心。有能有力。堪受正法。謂如諸佛所說正要。世尊即為我說苦．<anchor type="variant" n="fnT01p0460n10"/>習．滅．道。尊者舍梨子。我即<pb ed="T" n="0460c"/>於坐中見四聖諦苦．<anchor type="variant" n="fnT01p0460n10"/>習．滅．道。猶如白素易染為色。我亦如是。即於坐中見四聖諦苦．<anchor type="variant" n="fnT01p0460n10"/>習．滅．道。</p>
+        <p>尊者舍梨子。我已見法得法。覺白淨法。斷疑度惑。更無餘尊。不復從他。無有猶豫。已住果證。於世尊法得無所畏。即從<anchor type="variant" n="fnT01p0459n01"/>坐起。為佛作禮。世尊。我今自歸於佛．法及比丘眾。唯願世尊受我為優婆塞。從今日始。終身自歸。乃至命盡。尊者舍梨子。我即叉手白曰。世尊。願受我請。於舍衛國而受夏坐及比丘眾。時。佛問我。汝名何等。舍衛國人呼汝云何。我即答曰。我名<anchor type="variant" n="fnT01p0460n11"/>須達哆。以我供給諸孤獨者。是故舍衛國人呼我為給孤獨。爾時。世尊復問我曰。舍衛國中有房舍未。我復答曰。舍衛國中無有房舍。爾時。世尊而告我曰。長者當知。若有房舍。比丘可得往來。可得住止。我復白曰。唯然。世尊。我當如是為起房舍。比丘可得往來。於舍衛國可得住止。唯願世尊差一<anchor type="variant" n="fnT01p0460n12"/>佐助。爾時。世尊即差尊者舍梨子。遣尊者舍梨子令見佐助。</p>
+        <p>我於爾時聞佛所說。善受善持。即從坐起。為佛作禮。繞三匝而去。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

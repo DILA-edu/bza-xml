@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum
+                              Buddhist College 法鼓佛教研修學院.
+        </title>
+        <funder>
+          Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會
+        </funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist
+                              College 法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>
+            Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉,
+                                    Chueh Hui-chen 闕慧貞
+          </name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>
+          This is the default header for all files in the database. Files which contain
+                              gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.
+        </p>
+        <p>
+          The project was conducted 2005-2008. Some minor revisions and additions were done
+                              in 2009.
+        </p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                    Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                    text lies with the Vipassana Research Institute. Copyright for the Sanskrit
+                                    text lies with Fumio Enomoto. Copyright for the English text lies with
+                                    Marcus Bingenheimer. The Tibetan and Manchu texts are in the public realm.
+                                    The digital edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                    (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                    (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                    comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding
+                                    to the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                    literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly
+                                publications (as referenced). English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the
+                              Bieyi za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies
+                              中華佛學研究所 and the Dharma Drum Buddhist College 法鼓佛教研修學院. The project is funded by
+                              the Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會. The aim of the project is to produce a comparative digital edition
+                              and partial translation of the 364 sutras of the BZA and their parallels. The
+                              texts are kept in single files in an eXist database and are realized via XQuery
+                              and XSLT as HTML for the online user. The project lasts from 2005-2008. For any
+                              changes after 2008 see the revision description.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                              attribute on the containing elements
+        </p>
+        <p>
+          BZA: New Punctuation. Markup of person and place names. Verse and prose.
+                              References to the print edition (Taishō). Corrected characters (according to
+                              CBETA).
+        </p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō).</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA. Verse and
+                              Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan: Parallel and not-parallel divisions regarding the BZA.
+                              Verse and Prose. Variant readings.
+        </p>
+      </editorialDecl>
+      <charDesc>
+        <glyph xml:id="g058">
+          <glyphName>Non Unicode Character</glyphName>
+          <charProp>
+            <localName>pronunciation</localName>
+            <value> </value>
+          </charProp>
+          <mapping type="cbeta">[邱-丘+(卯/亞)]</mapping>
+          <mapping type="cbetaNo">CB02706</mapping>
+          <mapping type="UTF-8">Non Unicode Character</mapping>
+          <mapping type="unicode">Non Unicode Character</mapping>
+          <graphic url="gaiji/g058.gif"/>
+          <note>appears in bza330</note>
+        </glyph>
+      </charDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="bza330">
+      <anchor type="start" xml:id="Tp0485c05"/>
+      <div type="opening" xml:id="obza330">
+        <p n="bza330.01">爾時世尊在<name type="place">毘舍離</name>
+          <name type="place">獼猴陂岸大講堂</name>中。</p>
+      </div>
+      <div type="main" xml:id="mbza330">
+        <p n="bza330.02">時有四十波利蛇迦比丘，皆阿練若，著糞掃衣，盡行乞食，悉在學地，未離欲法，咸至佛所，頂禮佛足，在一面坐。爾時世尊作是念：</p>
+        <q who="gotamo">
+          <p n="bza330.03">此諸比丘皆阿練若，著糞掃衣，盡行乞食，悉是學人，未斷<app n="fnT02p0485n12">
+              <lem wit="【大】">諸</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">欲</rdg>
+            </app>諸結。吾當為彼如應說法，令諸比丘不起于坐，心得解悟，盡諸結漏。</p>
+        </q>
+        <p n="bza330.04">佛告之曰：</p>
+        <q who="gotamo">
+          <p n="bza330.05">比丘當知：生死長遠，無有邊際，無有能知其根<app n="fnT02p0485n13">
+              <lem wit="【大】">源</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">原</rdg>
+            </app>源者。一切眾生皆為無明之所覆蓋，愛結所使，纏繫其頸。生死長途，流轉無窮。過去億苦無能知者，譬如恒河，流入四海。我今問汝：汝處生死，所出血多，為恒河多？</p>
+        </q>
+        <p n="bza330.06">時諸比丘白佛言：</p>
+        <q who="bhikkhavo">
+          <p n="bza330.07">世尊！如我解佛所說義者，我處生死，身所出血，多彼恒河四大海水。</p>
+        </q>
+        <p n="bza330.08">佛告諸比丘：</p>
+        <q who="gotamo">
+          <p n="bza330.09">善哉！善哉！汝從往世所受象身，為他截鼻、截耳，或時截足，鐵鉤<app n="fnT02p0485n14">
+              <lem wit="【大】">
+                <g ref="#CB02706"/>
+              </lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">斵</rdg>
+            </app>
+            <g ref="g058">[邱-丘+(卯/亞)]</g>頭及以斬項，所出之血無量無邊。又受牛、馬、騾、驢、駱駝、猪、雞、犬、豕，種種禽獸。如受雞形，截其羽翼及其項足，身所出血，是諸禽獸各被割截，所出之血不可計量。</p>
+        </q>
+        <p n="bza330.10">復告諸比丘：</p>
+        <q who="gotamo">
+          <p n="bza330.11">色為是常，是無常乎？</p>
+        </q>
+        <p n="bza330.12">諸比丘白佛言：</p>
+        <q who="bhikkhavo">
+          <p n="bza330.13">世尊！色是無常。</p>
+        </q>
+        <p n="bza330.14">佛復問言：</p>
+        <q who="gotamo">
+          <p n="bza330.15">色若無常，為當是苦，為非苦乎？</p>
+        </q>
+        <p n="bza330.16">比丘對曰：</p>
+        <q who="bhikkhavo">
+          <p n="bza330.17">無常故苦。</p>
+        </q>
+        <p n="bza330.18">佛復告言：</p>
+        <q who="gotamo">
+          <p n="bza330.19">若無常、苦，是敗壞法，於此法中賢聖弟子計有我及我所不？</p>
+        </q>
+        <p n="bza330.20">比丘對曰：</p>
+        <q who="bhikkhavo">
+          <p n="bza330.21">不也，世尊！</p>
+        </q>
+        <p n="bza330.22">佛復告曰：</p>
+        <q who="gotamo">
+          <p n="bza330.23">受、想、行、識為是常耶，為無常乎？</p>
+        </q>
+        <p n="bza330.24">比丘對曰：</p>
+        <q who="bhikkhavo">
+          <p n="bza330.25">斯皆無常。</p>
+        </q>
+        <p n="bza330.26">佛復問言：</p>
+        <q who="gotamo">
+          <p n="bza330.27">若是無常，為是苦耶，為非苦耶？</p>
+        </q>
+        <p n="bza330.28">比丘對曰：</p>
+        <q who="bhikkhavo">
+          <p n="bza330.29">無常故苦。</p>
+        </q>
+        <p n="bza330.30">佛又問言：</p>
+        <q who="gotamo">
+          <p n="bza330.31">若無常、苦，是敗壞法，賢聖弟子寧計是中我、我所不？</p>
+        </q>
+        <p n="bza330.32">比丘對曰：</p>
+        <q who="bhikkhavo">
+          <p n="bza330.33">不也，世尊！</p>
+        </q>
+        <p n="bza330.34">佛告比丘：</p>
+        <q who="gotamo">
+          <p n="bza330.35">善哉！善哉！色是無常，無常故即無我。若無有我，則無我所。如是知實，正慧觀察。受、想、行、識，亦復如是。是故──比丘！──若有是色，乃至少時：過去、未來、現在；若內若外、若近若遠，此盡無我及以我所。如是稱實，正見所見。若受、想、若行、若識、若多若少、若內若外、若近若遠、過去、未來、現在，都無有我，亦無我所。如實知見，賢聖弟子見是事已，即名多聞。於色厭惡，受、想、行、識，亦生厭惡。以厭惡故，<app n="fnT02p0486n01">
+              <lem wit="【大】">得</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">則得</rdg>
+            </app>得離欲。得離欲故，<app n="fnT02p0486n02">
+              <lem wit="【大】">則</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">則得</rdg>
+            </app>則解脫。得解脫故，則解脫知見。若得解脫知見，即知我生已盡，梵行已立，所作已辦，更不受有。</p>
+        </q>
+      </div>
+      <pb ed="T" xml:id="T02.0100.0486a" n="0486a"/>
+      <div type="closing" xml:id="cbza330">
+        <p n="bza330.36">佛說是時，四十波利蛇迦比丘不受後有，心得解脫。時諸比丘聞佛所說，歡喜奉行。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

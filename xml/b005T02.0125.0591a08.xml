@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 005. It is found in the 增壹阿含經 Sutra at T.02.0125.0591.</p>
+      </div>
+    </front>
+    <body xml:id="T02.0125.0591a08">
+      <anchor type="start" xml:id="t02.0125.0591a08"/>
+      <div type="parallel">
+        <p>聞如是。一時。佛在舍衛國祇樹給孤獨園。</p>
+        <p>爾時。尊者難陀著極妙之衣。色曜人目。著金廁履屣。復<anchor type="variant" n="fnT02p0591n06"/>抆飾兩目。手執鉢器。欲入舍衛城。爾時。<anchor type="variant" n="fnT02p0591n07"/>眾多比丘遙見尊者難陀著極妙之衣。入舍衛城乞食。爾時。眾多比丘便往至世尊所。頭面禮足。在<anchor type="variant" n="fnT02p0591n08"/>於一面坐。須臾退坐。白世尊曰。向者。難陀比丘著極妙<anchor type="variant" n="fnT02p0590n33"/>之衣。色曜人目。入舍衛城乞食。</p>
+        <p>爾時。世尊告一比丘。汝速往至難陀比丘所。如來呼卿。對曰。如是。世尊。</p>
+        <p>時。彼比丘受世尊教。頭面禮足而去。往至難陀比丘所。到已。語難陀曰。世尊呼卿。</p>
+        <p>是時。難陀聞比丘語。即來至世尊所。到已。頭面禮足。在一面坐。是時。世尊告難陀曰。汝今何故著此極妙之衣。又<anchor type="variant" n="fnT02p0591n09"/>則著履屣。入舍衛城乞食。</p>
+        <p>時。尊者難陀默然不語。世尊復重告曰。云何。難陀。汝豈不以信牢固出家學道乎。難陀對曰。如是。世尊。</p>
+        <p>世尊告曰。汝今族姓子不應律行。以信<anchor type="variant" n="fnT02p0591n10"/>牢固出家學道。何由復著極妙之衣。摩治形服。欲入舍衛城乞食。與彼白衣有何差別。</p>
+        <p>爾時。世尊便說此偈。</p>
+        <lg met="5">
+          <l>何日見難陀<caesura/>能<anchor type="variant" n="fnT02p0591n11"/>治阿練行</l>
+          <l>
+            <pb ed="T" n="0283c"/>心樂沙門法<caesura/>頭陀度無極</l>
+        </lg>
+        <p>汝今。難陀。更莫造此如是之行。</p>
+        <p>爾時。尊者難陀及四部眾聞佛所說。歡喜奉行。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

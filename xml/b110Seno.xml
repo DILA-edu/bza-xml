@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Enomoto 1994, no.1197</head>
+        <p>From Fumio Enomoto, "A comprehensive study of the Chinese Samyuktagama : Indic texts corresponding to the Chinese Samyuktagama as found in the Sarvastivada-Mulasarvastivada literature", Kyoto : Kacho Junior College, 1994. This is part of the text-cluster of BZA (T.100) sutra 110.</p>
+      </div>
+    </front>
+    <body xml:lang="sa">
+      <anchor type="start" xml:id="eno.1197"/>
+      <div type="parallel">
+        <note type="reference">Avś 2, pp. 197--200; MPS 32.4--10, 44.1--11, 49.23f.; Uv 1.3; SHT 1, nos. 184, 684, 694; Ans 14; YL p. 171; Abhidh-k-bh p. 94; Abhidh-k-vy 1, p. 182; Ybhūś 15; Ybhūn 2.1.2.</note>
+        <p>bhagavān . . . kuśinagaryāṃ viharati mallānām upavartane yamakaśālavane || <note type="reference">(Avś 2, p. 197; MPS 32.4)</note>
+        </p>
+        <p> atha bhagavāṃs tadaiva parinirvāṇakālasamaya āyuṣmantam ānandam āmantrayate sma | <note type="reference">(Avś p. 197; MPS 32.5; SHT no. 184)</note>
+        </p>
+        <p>prajñāpayānanda tathāgatasyāntareṇa yamakaśālayor uttarāśirasaṃ mañcam adya tathāgatasya rātryā madhyame yāme nirupadhiśeṣe nirvāṇadhātau parinirvāṇaṃ bhaviṣyatīti | <note type="reference">(Avś p. 197; MPS 32.6; SHT no. 184)</note>
+        </p>
+        <p>evaṃ bhadantety āyuṣmān ānando bhagavataḥ pratiśrutyāntareṇa yamakaśālayor uttarāśirasaṃ mañcam prajñapya yena bhagavāṃs tenopasaṃkrāntaḥ | <note type="reference">(Avś p. 197; MPS 32.7; SHT no. 184)</note>
+        </p>
+        <p>upasaṃkramya bhagavataḥ pādau śirasā vanditvaikānte 'sthāt | <note type="reference">(Avś p. 197; MPS 32.8; SHT no. 184)</note>ekāntasthita āyuṣmān ānando bhagavantam idam avocat | prajñapto bhadanta tathāgatasyāntareṇa yamakaśālayor uttarāśirasaṃ mañcaḥ |<note type="reference">(Avś p. 197; MPS 32.9; SHT no. 184)</note>
+        </p>
+        <p>atha bhagavān yena mañcas tenopasaṃkrāntaḥ | upasaṃkramya dakṣiṇena pārśvena śayyāṃ kalpayati pādaṃ pādenopadhāyālokasaṃjñī smṛtaḥ saṃprajānan nirvāṇasaṃjñām eva manasi kurvann iti | <note type="reference">(Avś p. 197; MPS 32.10; SHT no. 184)</note>
+        </p>
+        <p>tatra bhagavān rātryā madhyame yāme 'nupadhiśeṣe nirvāṇadhātau parinirvṛtaḥ | <note type="reference">(Avś p. 198)</note>
+        </p>
+        <p>samanantaraparinirvṛte buddhe bhagavaty ubhau 1yamakaśālavanasya drumottamau tathāgatasya siṃhaśayyāṃ1<note type="variant">(1 ... 1) yamakaśālāv avanamya tathāgataṃ SHT ~ SĀc..</note>śālapuṣpair avākiratām |<note type="reference">(Avś p. 198; MPS 44.1; SHT no. 694)</note>
+        </p>
+        <p>2samanantaraparinirvṛte bhagavaty anyataro2<note type="variant">(2 ... 2) athānyataro MPS = SĀc..</note>bhikṣus tasyāṃ velāyāṃ gāthāṃ bhāṣate |<note type="reference">(Avś p. 198; MPS 44.2)</note>
+        </p>
+        <lg>
+          <l>sundarau khalv imau śālavanasyāsya drumottamau |</l>
+          <l>yāv3<note type="variant">3 yad Avś, MPS (from conjecture).</note>avākiratāṃ puṣpaiḥ<caesura/>śāstāraṃ parinirvṛtam ||<note type="reference">(Avś p. 198; MPS 44.3; SHT no. 694)</note>
+          </l>
+        </lg>
+        <p>samanantaraparinirvṛte buddhe bhagavati śakro devendro 4<note type="variant">4 t(asyāṃ velāyāṃ) add. MPS.</note>gāthāṃ bhāṣate |<note type="reference">(Avś p. 198; MPS 44.4)</note>
+        </p>
+        <lg>
+          <l>anityā bata saṃskārā<caesura/>utpādavyayadharmiṇaḥ |</l>
+          <l>utpadya hi nirudhyante<caesura/>tesāṃ vyupaśamas sukham || iti |<note type="reference">(Avś p. 198; MPS 44.5; Uv 1.3; SHT no. 694; Ans; YL; Abhidh-k-vy; Ybhūś)</note>
+          </l>
+        </lg>
+        <p>samanantaraparinirvṛte buddhe bhagavati brahmā sahāṃpatir gāthāṃ bhāṣate |<note type="reference">(Avś p. 198; MPS 44.6)</note>
+        </p>
+        <lg>
+          <l>sarvabhūtāni loke 'smin<caesura/>nikṣepsyanti samucchrayam |</l>
+          <l>evaṃvidho yatra śāstā<caesura/>lokeṣv apratipudgalaḥ |</l>
+          <l>tathāgatabalaprāptaḥ<caesura/>cakṣumān parinirvṛtaḥ ||<note type="reference">(Avś pp. 198f.; MPS 44.7)</note>
+          </l>
+        </lg>
+        <p>samanantaraparinirvṛte buddhe bhagavaty āyuṣmān aniruddho 4<note type="variant">4 t(asyāṃ velāyāṃ) add. MPS.</note>gāthā bhāṣate |<note type="reference">(Avś p. 199; MPS 44.8)</note>
+        </p>
+        <lg>
+          <l>sthitā āśvāsapraśvāsā<caesura/>sthiracittasya tāyinaḥ |</l>
+          <l>āniñjyāṃ śāntim āgamya<caesura/>cakṣumān parinirvṛtaḥ ||<note type="reference">(Avś p. 199; MPS 44.9)</note>
+          </l>
+          <l>tadābhavad bhīṣaṇakaṃ<caesura/>tadābhūd romaharṣaṇam |</l>
+          <l>sarvākārabalopetaḥ<caesura/>śāstā kālaṃ yadākarot ||<note type="reference">(Avś p. 199; MPS 44.10)</note>
+          </l>
+          <l>asaṃlīnena cittena<caesura/>vedanā adhivāsayan |</l>
+          <l>pradyotasyeva nirvāṇaṃ<caesura/>vimokṣas tasya cetasaḥ || iti |<note type="reference">(Avś p. 199; MPS 44.11; ābhidh-k-bh; Ybhūn)</note>
+          </l>
+        </lg>
+        <p>saptāhaparinirvṛte buddhe bhagavaty āyuṣmān ānando bhagavataś citāṃ pradakṣiṇīkurvan gāthāṃ bhāṣate <note type="reference">(Avś p. 199)</note>
+        </p>
+        <lg>
+          <l>yena kāyaratnena nāyako<caesura/>brahmalokam agaman maharddhikaḥ |</l>
+          <l>dīpyate svatanujena tejasā<caesura/>pañcabhir yugaśataiḥ sa veṣṭitaḥ ||<note type="reference">(MPS 49.23; Avś pp. 199f.)</note>
+          </l>
+          <l>sahasramātreṇa hi cīvarāṇāṃ<caesura/>buddhasya kāyaḥ pariveṣṭito 'bhūt |</l>
+          <l>dve cīvare tatra tu naiva dagdhe<caesura/>abhyantaraṃ bāhyam atha dvitīyam ||<note type="reference">(Avś p. 200; MPS 49.24; SHT no. 684)</note>
+          </l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

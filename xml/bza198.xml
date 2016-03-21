@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum
+                              Buddhist College 法鼓佛教研修學院.
+        </title>
+        <funder>
+          Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會
+        </funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist
+                              College 法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>
+            Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉,
+                                    Chueh Hui-chen 闕慧貞
+          </name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>
+          This is the default header for all files in the database. Files which contain
+                              gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.
+        </p>
+        <p>
+          The project was conducted 2005-2008. Some minor revisions and additions were done
+                              in 2009.
+        </p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                    Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                    text lies with the Vipassana Research Institute. Copyright for the Sanskrit
+                                    text lies with Fumio Enomoto. Copyright for the English text lies with
+                                    Marcus Bingenheimer. The Tibetan and Manchu texts are in the public realm.
+                                    The digital edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                    (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                    (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                    comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding
+                                    to the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                    literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly
+                                publications (as referenced). English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the
+                              Bieyi za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies
+                              中華佛學研究所 and the Dharma Drum Buddhist College 法鼓佛教研修學院. The project is funded by
+                              the Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會. The aim of the project is to produce a comparative digital edition
+                              and partial translation of the 364 sutras of the BZA and their parallels. The
+                              texts are kept in single files in an eXist database and are realized via XQuery
+                              and XSLT as HTML for the online user. The project lasts from 2005-2008. For any
+                              changes after 2008 see the revision description.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                              attribute on the containing elements
+        </p>
+        <p>
+          BZA: New Punctuation. Markup of person and place names. Verse and prose.
+                              References to the print edition (Taishō). Corrected characters (according to
+                              CBETA).
+        </p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō).</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA. Verse and
+                              Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan: Parallel and not-parallel divisions regarding the BZA.
+                              Verse and Prose. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="bza198">
+      <anchor type="start" xml:id="Tp0446a11"/>
+      <div type="opening" xml:id="obza198">
+        <p n="bza198.01">如是我聞：一時佛在<name type="place">王舍城</name>。</p>
+      </div>
+      <div type="main" xml:id="mbza198">
+        <p n="bza198.02">爾時<name type="person">犢子梵志</name>往詣佛所，問訊佛已，在一面坐，白佛言：</p>
+        <q who="vacchagotta">
+          <p n="bza198.03">瞿曇！我有少疑。若蒙聽察，乃敢發問！</p>
+        </q>
+        <p n="bza198.04">佛默然不答。第二、第三亦如是問，第二、第三佛亦默然。犢子言：</p>
+        <q who="vacchagotta">
+          <p n="bza198.05">瞿曇！我於長夜與汝親厚。我有少問，唯願答我！</p>
+        </q>
+        <p n="bza198.06">佛作是念：</p>
+        <q who="gotamo">
+          <p n="bza198.07">犢子梵志長夜已來稟性質直，無有諂偽。諸有所問，皆求解故，不為惱亂，吾當聽之。若阿毘曇、毘尼隨其所問。</p>
+        </q>
+        <p n="bza198.08">佛告犢子：</p>
+        <q who="gotamo">
+          <p n="bza198.09">恣汝所問。諸有所疑，無得疑難。</p>
+        </q>
+        <p n="bza198.10">犢子白佛言：</p>
+        <q who="vacchagotta">
+          <p n="bza198.11">瞿曇！一切世間有不善不？</p>
+        </q>
+        <p n="bza198.12">佛答言：</p>
+        <q who="gotamo">
+          <p n="bza198.13">有。</p>
+        </q>
+        <p n="bza198.14">又問：</p>
+        <q who="vacchagotta">
+          <p n="bza198.15">頗有善不？</p>
+        </q>
+        <p n="bza198.16">佛答言：</p>
+        <q who="gotamo">
+          <p n="bza198.17">有。</p>
+        </q>
+        <p n="bza198.18">犢子言：</p>
+        <q who="vacchagotta">
+          <p n="bza198.19">瞿曇！願為我說善、不善法，令我解了！</p>
+        </q>
+        <p n="bza198.20">佛告犢子：</p>
+        <q who="gotamo">
+          <p n="bza198.21">吾能多種說善、不善。今當為汝略說其要。</p>
+        </q>
+        <p n="bza198.22">
+          <app n="fnT02p0446n03">
+            <lem wit="【大】">佛</lem>
+            <rdg resp="Taisho" wit="【宋】【元】【明】"/>
+          </app>佛復告犢子：</p>
+        <q who="gotamo">
+          <p n="bza198.23">欲為不善，離欲為善。瞋恚、愚癡是名不善，離瞋恚、癡是名為善。殺生不善，離殺為善。偷盜、邪婬、妄語、惡口、<app n="fnT02p0446n04">
+              <lem wit="【大】">兩舌</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">兩舌綺語</rdg>
+            </app>兩舌、貪、恚、邪見是名不善，離如是等，正見為善。吾為汝說三種不善，三種善；十種不善，十種善。</p>
+        </q>
+        <p n="bza198.24">復告犢子：</p>
+        <q who="gotamo">
+          <p n="bza198.25">若我弟子解此三種善、不善及十種善、<pb ed="T" xml:id="T02.0100.0446b" n="0446b"/>不善，如實能知，便能盡欲。瞋恚、愚癡亦能永盡。貪欲諸惡，都滅無餘。能盡貪欲、愚癡故，諸欲漏都盡。以盡漏故，成就無漏、心得解脫、慧得解脫。於<app n="fnT02p0446n05">
+              <lem wit="【大】">見</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">現</rdg>
+            </app>見法中自身解了，證知得法，自知生盡，梵行已立，所作已辦，更不受有。</p>
+        </q>
+        <p n="bza198.26">犢子白佛：</p>
+        <q who="vacchagotta">
+          <p n="bza198.27">頗有一比丘，於佛教法成就無漏、心得解脫、慧得解脫？於<app n="fnT02p0446n05">
+              <lem wit="【大】">見</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">現</rdg>
+            </app>見法中自身解了，證知得法，自知生盡，梵行已立，所作已辦，更不受有。為有是不？</p>
+        </q>
+        <p n="bza198.28">佛告犢子：</p>
+        <q who="gotamo">
+          <p n="bza198.29">得是法者，不但一、二及以三、四，乃至五百。多有比丘，心得解脫、慧得解脫，於現法中自身取證。</p>
+        </q>
+        <p n="bza198.30">犢子復問：</p>
+        <q who="vacchagotta">
+          <p n="bza198.31">佛教法中頗有一比丘尼，心得解脫、慧得解脫不？</p>
+        </q>
+        <p n="bza198.32">佛告犢子：</p>
+        <q who="gotamo">
+          <p n="bza198.33">我教法中比丘尼等得斯法者，非一、二、三，乃至五百。其數眾多。</p>
+        </q>
+        <p n="bza198.34">犢子又問：</p>
+        <q who="vacchagotta">
+          <p n="bza198.35">除彼比丘及比丘尼，頗有一優婆塞，度疑彼岸以不？</p>
+        </q>
+        <p n="bza198.36">佛告犢子：</p>
+        <q who="gotamo">
+          <p n="bza198.37">我佛法中諸優婆塞度疑彼岸，非一、二、三，乃至五百。其數眾多。斷五下分結，成阿那含，不還欲界。</p>
+        </q>
+        <p n="bza198.38">犢子又問：</p>
+        <q who="vacchagotta">
+          <p n="bza198.39">除比丘、比丘尼修梵行者，除優婆塞，頗有一優婆夷，除於疑悔，度疑彼岸不？</p>
+        </q>
+        <p n="bza198.40">佛告犢子：</p>
+        <q who="gotamo">
+          <p n="bza198.41">我佛法中得斯法者，非一、二、三，乃至五百。其數眾多。斷五下分結，成阿那含，不還欲界。</p>
+        </q>
+        <p n="bza198.42">犢子梵志復白佛言：</p>
+        <q who="vacchagotta">
+          <p n="bza198.43">置比丘、比丘尼并優婆塞、優婆夷修梵行者，是佛法中頗有優婆塞，獨在居家，受五欲樂，度疑彼岸不？</p>
+        </q>
+        <p n="bza198.44">佛告犢子：</p>
+        <q who="gotamo">
+          <p n="bza198.45">是佛法中非一、二、三，乃至五百。其數眾多。如斯等人乃與男女群居，逼迮共住，香華瓔珞，著細繒衣，用好旃檀，眾妙雜香以塗其身，受畜金銀，種種珍寶，奴婢僮僕，其數眾多，處斯憒閙，逼隘之<pb ed="T" xml:id="T02.0100.0446c" n="0446c"/>中，能斷三結，得須陀洹。決定必至於三菩提，盡諸苦際。極鈍根者，任運七生，不<app n="fnT02p0446n06">
+              <lem wit="【大】">至</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">生</rdg>
+            </app>至三惡，人天流轉，自然得盡諸苦邊際。</p>
+        </q>
+        <p n="bza198.46">犢子又問：</p>
+        <q who="vacchagotta">
+          <p n="bza198.47">且置比丘、比丘尼、優婆塞、優婆夷修梵行者，又置優婆塞，在欲得須陀洹。頗有女人，在佛教法作優婆夷，在於欲中度疑彼岸者不？</p>
+        </q>
+        <p n="bza198.48">佛告犢子：</p>
+        <q who="gotamo">
+          <p n="bza198.49">我佛法中諸優婆夷在欲度疑，非一、二、三，乃至五百。其數眾多。諸優婆夷雖處居家，如優婆塞，斷於三結，得須陀洹。</p>
+        </q>
+        <p n="bza198.50">犢子言：</p>
+        <q who="vacchagotta">
+          <p n="bza198.51">瞿曇！汝於菩提已得正覺。設當修梵行，比丘、比丘尼、優婆塞、優婆夷、處欲優婆塞、處欲優婆夷，若如是等不具道行，便為支不滿足。</p>
+        </q>
+        <p n="bza198.52">犢子言：</p>
+        <q who="vacchagotta">
+          <p n="bza198.53">瞿曇！汝今既得成等正覺，得果比丘、比丘尼修梵行，優婆塞、優婆夷、處欲優婆塞、處欲優婆夷，悉獲果證。於佛教法是名具足。</p>
+        </q>
+        <p n="bza198.54">犢子復言：</p>
+        <q who="vacchagotta">
+          <p n="bza198.55">瞿曇！我今樂說譬喻。願聽我說！</p>
+        </q>
+        <p n="bza198.56">佛告之曰：</p>
+        <q who="gotamo">
+          <p n="bza198.57">隨汝意說。</p>
+        </q>
+        <q who="vacchagotta">
+          <p n="bza198.58">譬如天降大雨，隨下水流，注于大海。汝之教法，亦復如是。男女長幼及以衰老蒙佛法雨，於長夜中盡趣涅槃。善哉，瞿曇！善哉，妙法！善哉，能入佛教法者！</p>
+        </q>
+        <p n="bza198.59">犢子言：</p>
+        <q who="vacchagotta">
+          <p n="bza198.60">我今相問：設得出家修梵行者，為久近成？</p>
+        </q>
+        <p n="bza198.61">佛告犢子：</p>
+        <q who="gotamo">
+          <p n="bza198.62">若有外道異學，於佛法中求出家者，先剃其鬚髮，滿足四月，於眾僧中心意調濡，然後受戒。不必盡爾，亦隨人心。</p>
+        </q>
+        <p n="bza198.63">犢子梵志聞佛語已，心生喜樂：</p>
+        <q who="vacchagotta">
+          <p n="bza198.64">若蒙出家，得受戒者，假<app n="fnT02p0446n07">
+              <lem wit="【大】">設</lem>
+              <rdg resp="Taisho" wit="【明】">說</rdg>
+            </app>設四年，我尚為之，況四月也。</p>
+        </q>
+        <p n="bza198.65">佛告犢子：</p>
+        <q who="gotamo">
+          <p n="bza198.66">吾先為汝說二種人，不必一切悉皆如是。</p>
+        </q>
+        <p n="bza198.67">犢子言：</p>
+        <q who="vacchagotta">
+          <p n="bza198.68">瞿曇！先者實作是說。</p>
+        </q>
+        <p n="bza198.69">佛告比丘：</p>
+        <q who="gotamo">
+          <p n="bza198.70">汝等今者與彼犢子剃髮、受戒。</p>
+        </q>
+        <p n="bza198.71">爾時比丘受佛勅已，即剃其<pb ed="T" xml:id="T02.0100.0447a" n="0447a"/>髮并與受戒。如比丘法，尊者犢子精勤修道，於半月中具於學地，知法到法，見法覺法。既得學果，知已解已，得<app n="fnT02p0447n01">
+            <lem wit="【大】">證</lem>
+            <rdg resp="Taisho" wit="【明】">正</rdg>
+          </app>證法已。尊者犢子作是念：</p>
+        <q who="vacchagotta">
+          <p n="bza198.72">我今應詣佛所。</p>
+        </q>
+        <p n="bza198.73">作是念已，即往佛所，頂禮佛足，在一面立，白佛言：</p>
+        <q who="vacchagotta">
+          <p n="bza198.74">世尊！我於學地都證知已。唯願世尊重為我說，令我聞法，心得解脫！</p>
+        </q>
+        <p n="bza198.75">佛告犢子：</p>
+        <q who="gotamo">
+          <p n="bza198.76">汝若速求心得解脫，應修二法，當學二法，增廣二法，言二法者，所謂智、定。若能如是修習增廣，是則名為知種種界，通達諸界，知無數界。</p>
+        </q>
+        <p n="bza198.77">佛告犢子比丘：</p>
+        <q who="vacchagotta">
+          <p n="bza198.78">若欲離欲，惡不善者，有覺有觀，入於初禪，如是比丘應修二法──定及智慧，乃至四禪、慈、悲、喜、捨、空處、識處、不用處、非想非非想處，亦復如是。犢子！欲得須陀洹、斯陀含、阿那含者，悉皆應學如是二法。欲學身通，欲知他心智，欲知宿命，欲得天眼、耳，欲得漏盡智，應修二法，增廣二法，知種種界，通達諸界，知無數界。</p>
+        </q>
+        <p n="bza198.79">尊者犢子聞佛所說，歡喜頂禮而去。大悲如來種種因緣教導，犢子受佛教已，於閑靜處獨坐精懃，心不放逸，常處禪定。所以族姓子剃除鬚髮，正欲為<app n="fnT02p0447n02">
+            <lem wit="【大】">修</lem>
+            <rdg resp="Taisho" wit="【宋】【元】">脩</rdg>
+          </app>修無上梵行故，於現法中自身取證，我生已盡，梵行已立，所作已辦，更不受有。時眾多比丘往至佛所。爾時尊者犢子見諸比丘，即問之言：</p>
+        <q who="vacchagotta">
+          <p n="bza198.80">汝等欲何所至？</p>
+        </q>
+        <p n="bza198.81">比丘答言：</p>
+        <q who="bhikkhavo">
+          <p n="bza198.82">我等將詣佛所，親近供養。</p>
+        </q>
+        <p n="bza198.83">犢子比丘語諸比丘言：</p>
+        <q who="vacchagotta">
+          <p n="bza198.84">汝等今者往至佛所，因以我語問訊世尊：『起居輕利，少病少惱』，并可為我白世尊言：『犢子比丘已報佛恩，為法供養，順佛所行。』</p>
+        </q>
+        <p n="bza198.85">時眾多比丘往至佛所，禮佛足已，在<pb ed="T" xml:id="T02.0100.0447b" n="0447b"/>一面坐，白佛言：</p>
+        <q who="bhikkhavo">
+          <p n="bza198.86">世尊！尊者犢子比丘稽首世尊足下，問訊世尊：『起居輕利，少病少惱。』犢子比丘又作是言：『為我白佛：我已修行，隨順佛說。世尊所行，我已具得。』</p>
+        </q>
+        <p n="bza198.87">佛告比丘：</p>
+        <q who="gotamo">
+          <p n="bza198.88">先汝有天來至我所言：『犢子比丘已得羅漢。』我已先知，天在後<app n="fnT02p0447n03">
+              <lem wit="【大】">導</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">道</rdg>
+            </app>導。汝等今者復在天後。</p>
+        </q>
+        <p n="bza198.89">爾時世尊記彼犢子已成羅漢。</p>
+      </div>
+      <div type="closing" xml:id="cbza198">
+        <p n="bza198.90">佛說是已，諸比丘聞佛所說，歡喜奉行。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

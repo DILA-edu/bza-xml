@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 149. It is found in the 佛說馬有八態譬人經 Sutra at T.02.0115.0507.</p>
+      </div>
+    </front>
+    <body xml:id="T02.0115.0507a10">
+      <anchor type="start" xml:id="t02.0115.0507a10"/>
+      <div type="parallel">
+        <p>聞如是。一時佛在舍衛國行在祇樹給孤獨園。多比丘僧俱。</p>
+        <p>佛告諸比丘。</p>
+        <p>馬有弊惡態八。何等八。一態者解<g>[襾/(革*奇)]</g>韁時便掣車欲走。二態者駕車跳<anchor type="variant" n="fnT02p0507n03"/>
+          <g>[跳-兆+梁]</g>欲嚙人。三態者便舉前兩<g>[腳-谷+去]</g>掣車走。四態者便<g>[跳-兆+翕]</g>車軨。五態者便人立持軛摩<g>[打-丁+沙]</g>車<g>[去*ㄗ]</g>行。六態者便傍行邪走。七態者便掣車馳走。得濁泥抵止住不復行。八態者懸<anchor type="variant" n="fnT02p0507n04"/>
+          <g>[笐-〦+(兜-儿)]</g>餒之熟視不肯食。其主牽去欲駕之。遽<anchor type="variant" n="fnT02p0507n05"/>唅<g>[口*翕]</g>噬欲食不能得食。</p>
+        <p>佛言。</p>
+        <p>人亦有弊惡態八。何等為八。一態者聞說經便走不欲聽。如馬解<g>[襾/(革*奇)]</g>韁掣車走時。二態者聞說經意不解不知語所趣向。便瞋跳<anchor type="variant" n="fnT02p0507n03"/>
+          <g>[跳-兆+梁]</g>不欲聞。如馬駕車時跳<anchor type="variant" n="fnT02p0507n03"/>
+          <g>[跳-兆+梁]</g>欲嚙人時。三態者聞說經便逆不受。如馬舉前兩<g>[腳-谷+去]</g>掣車走時四態者聞說經便罵。如馬<g>[跳-兆+翕]</g>車軨時五態者聞說經。便起去如馬人。立持軛摩<g>[打-丁+沙]</g>車<g>[去*ㄗ]</g>行時。六態者聞說經不肯聽<g>[卑*頁]</g>頭邪視耳語。如馬傍行邪走時。七態者聞說經便欲窮難。問之不能相應答。便死抵妄語。如馬得濁泥便止不復行時。八態者聞說經不肯聽。反念<anchor type="variant" n="fnT02p0507n06"/>婬泆多求不欲聽受。<pb ed="T" n="0507b"/>死<anchor type="variant" n="fnT02p0507n07"/>入惡道時。乃遽欲學問行道。亦不能復得行道。如馬懸<anchor type="variant" n="fnT02p0507n04"/>
+          <g>[笐-〦+(兜-儿)]</g>餧之熟視不肯食。其主牽去欲駕之。乃遽唅<g>[口*翕]</g>噬亦不得食。</p>
+        <p>佛言。我說馬八態。惡人亦有八惡態如是。</p>
+        <p>諸比丘聞經歡喜。作禮而去。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

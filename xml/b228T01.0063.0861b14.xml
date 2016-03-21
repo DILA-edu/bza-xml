@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 228. It is found in the 佛說解夏經 Sutra at T.01.0063.0861.</p>
+      </div>
+    </front>
+    <body xml:id="T01.0063.0861b14">
+      <anchor type="start" xml:id="t01.0063.0861b14"/>
+      <div type="parallel">
+        <p>如是我聞。一時佛在王舍城迦蘭陀竹林精舍。與五百苾芻眾俱。皆是阿羅漢。諸漏已盡所作已辦。除諸重擔逮得己利。盡諸有結心善解脫。唯一苾芻現居學位。世尊已為授記。見法得法當證滿果。</p>
+        <p>爾時世尊安居既滿。當解夏時。於十五日與苾芻眾敷座而坐。會眾坐已。是時佛告苾芻眾言。我今已得梵行寂靜。是最後身。以無上樂斷除諸病。我之弟子了知諸法皆已通達。是故我今說解夏法。諸苾芻眾。我於夏中所有身口意業。汝等可忍。</p>
+        <p>是時尊者舍利弗聞佛語已。從座而起偏袒右肩。右膝著地合掌向佛。而白佛言。世尊。如佛所說。我今已得梵行寂靜。乃至身口意業可忍者。我等知。佛身口意業無諸過失。我等苾芻今無可忍。於意云何。我佛世尊難調者<pb ed="T" n="0861c"/>能調。無止息者善為止息。無安隱者而善安慰。未寂靜者令得寂靜。如來善了正道。善說正道。開示正道。乃至我等樂聲聞菩提者。佛為善說。令聲聞等如理修行而證聖果。是故我等於佛世尊身口意法而無可忍。</p>
+        <p>爾時尊者舍利弗白佛言。世尊。我今對佛身口意業所有不善求佛可忍。佛告舍利弗。汝今所有身口意業我當忍可。於意云何。汝舍利弗。具戒多聞少欲知足。斷諸煩惱。發大精進。安住正念。具等引<anchor type="variant" n="fnT01p0861n08"/>慧。聞<anchor type="variant" n="fnT01p0861n08"/>慧。捷<anchor type="variant" n="fnT01p0861n08"/>慧。利<anchor type="variant" n="fnT01p0861n08"/>慧。出離<anchor type="variant" n="fnT01p0861n08"/>慧。了達<anchor type="variant" n="fnT01p0861n08"/>慧。廣大清淨<anchor type="variant" n="fnT01p0861n08"/>慧。甚深<anchor type="variant" n="fnT01p0861n08"/>慧。無等<anchor type="variant" n="fnT01p0861n08"/>慧。具大<anchor type="variant" n="fnT01p0861n08"/>慧寶。未見者令見。未調伏者。令得調伏。未聞法者而為說法。具瞋恚者而令歡喜能為四眾說法無倦。譬如金輪王子。而受灌頂繼紹王位依法而治。汝舍利弗。亦復如是。為我之子。受灌頂法紹法王位。如我所轉無上法輪。如我漏盡證得解脫。是故汝舍利弗。所有三業我今忍可。時舍利弗聞佛忍可。投誠禮謝。復白佛言。世尊。如佛為我忍可三業。於此會中五百苾芻。身口意業所有不善。唯願世尊。亦如是忍。佛告舍利弗。五百苾芻所有三業我亦可忍。於意云何。此五百苾芻皆是阿羅漢。諸漏已盡所作已辦。除諸重擔逮得己利。盡諸有結心善解脫。唯一苾芻現居學位。而此苾芻我已授記。見法得法當證滿果。舍利弗。是故我於五百苾芻所有三業皆悉可忍。</p>
+        <p>爾時舍利弗重白佛言。世尊。我與五百苾芻眾等。所有三業佛已可忍。我今有疑。當復啟<pb ed="T" n="0862a"/>請。願佛世尊。為我分別世尊。此五百苾芻中幾苾芻得三明法。復幾苾芻得俱解脫。復幾苾芻得<anchor type="variant" n="fnT01p0861n08"/>慧解脫。</p>
+        <p>佛告舍利弗。此五百苾芻中。九十苾芻得三明法。九十苾芻得俱解脫。餘者苾芻得<anchor type="variant" n="fnT01p0861n08"/>慧解脫。舍利弗。如是苾芻盡諸煩惱皆住真實。爾時會中有一尊者。名<g>[口*縛]</g>儗舍。作如是念。我今對佛苾芻眾前。以解夏伽陀伸於讚歎。是時尊者<g>[口*縛]</g>儗舍。作是念已。從座而起。偏袒右肩右膝著地。合掌恭肅。說伽陀曰。</p>
+        <lg met="7">
+          <l>解夏十五日<caesura/>清淨行律儀</l>
+          <l>五百苾芻眾<caesura/>悉斷煩惱縛</l>
+          <l>皆盡諸漏法<caesura/>而證聖果位</l>
+          <l>內寂外善調<caesura/>解脫而離有</l>
+          <l>盡生死邊際<caesura/>所作皆已辦</l>
+          <l>無明我慢結<caesura/>斷盡無有餘</l>
+          <l>我佛最上尊<caesura/>斷諸邪念法</l>
+          <l>及斷有漏法<caesura/>善除愛病苦</l>
+          <l>愛滅不復生<caesura/>離取大師子</l>
+          <l>盡諸有怖畏<caesura/>唯我佛世尊</l>
+          <l>譬如金輪王<caesura/>千子常圍繞</l>
+          <l>善治四天下<caesura/>調伏四海邊</l>
+          <l>又如戰得勝<caesura/>為最上調御</l>
+          <l>聲聞得三明<caesura/>離死法亦然</l>
+          <l>佛子皆如是<caesura/>證滅不復生</l>
+          <l>我今禮法<anchor type="variant" n="fnT01p0862n01"/>王<caesura/>無上大日尊</l>
+        </lg>
+        <p>是時<g>[口*縛]</g>
+            儗舍苾芻。說此伽陀已復還本座。
+                                爾時尊者舍利弗與諸苾芻。聞佛宣說解夏之法。心生快利踊躍
+          <choice>
+            <sic>歎</sic>
+            <corr resp="CBETA">歡</corr>
+          </choice>喜。信受奉行。
+                </p>
+      </div>
+    </body>
+  </text>
+</TEI>

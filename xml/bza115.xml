@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum
+                              Buddhist College 法鼓佛教研修學院.
+        </title>
+        <funder>
+          Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會
+        </funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist
+                              College 法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>
+            Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉,
+                                    Chueh Hui-chen 闕慧貞
+          </name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>
+          This is the default header for all files in the database. Files which contain
+                              gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.
+        </p>
+        <p>
+          The project was conducted 2005-2008. Some minor revisions and additions were done
+                              in 2009.
+        </p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                    Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                    text lies with the Vipassana Research Institute. Copyright for the Sanskrit
+                                    text lies with Fumio Enomoto. Copyright for the English text lies with
+                                    Marcus Bingenheimer. The Tibetan and Manchu texts are in the public realm.
+                                    The digital edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                    (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                    (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                    comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding
+                                    to the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                    literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly
+                                publications (as referenced). English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the
+                              Bieyi za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies
+                              中華佛學研究所 and the Dharma Drum Buddhist College 法鼓佛教研修學院. The project is funded by
+                              the Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會. The aim of the project is to produce a comparative digital edition
+                              and partial translation of the 364 sutras of the BZA and their parallels. The
+                              texts are kept in single files in an eXist database and are realized via XQuery
+                              and XSLT as HTML for the online user. The project lasts from 2005-2008. For any
+                              changes after 2008 see the revision description.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                              attribute on the containing elements
+        </p>
+        <p>
+          BZA: New Punctuation. Markup of person and place names. Verse and prose.
+                              References to the print edition (Taishō). Corrected characters (according to
+                              CBETA).
+        </p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō).</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA. Verse and
+                              Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan: Parallel and not-parallel divisions regarding the BZA.
+                              Verse and Prose. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="bza115">
+      <anchor type="start" xml:id="Tp0415c18"/>
+      <div type="opening" xml:id="obza115">
+        <p n="bza115.01">如是我聞：一時佛在<name type="place">舍衛國</name>
+          <name type="place">祇樹給孤獨園</name>。</p>
+      </div>
+      <div type="main" xml:id="mbza115">
+        <p n="bza115.02">爾時尊者<name type="person">摩訶迦葉</name>住舊園林<name type="place">毘舍佉講堂</name>。時尊者迦葉於日沒時從禪定起，往詣佛所，頂禮佛足，在一面坐。佛告迦葉：</p>
+        <q who="gotamo">
+          <p n="bza115.03"> 汝可教授諸比丘等，為其說法。所以者何？我常教授，汝亦應爾。我<app n="fnT02p0415n13">
+              <lem wit="【大】">常</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">恒</rdg>
+            </app>常為彼而說法要，汝亦應爾。</p>
+        </q>
+        <p n="bza115.04">迦葉白佛言：</p>
+        <q who="kassapo">
+          <p n="bza115.05">世尊！是諸比丘不能受語，難可教授！</p>
+        </q>
+        <p n="bza115.06">佛告迦葉：</p>
+        <q who="gotamo">
+          <p n="bza115.07">汝<app n="fnT02p0415n14">
+              <lem wit="【大】">何以</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">以何</rdg>
+            </app>何以故而不教授，為其說法？</p>
+        </q>
+        <p n="bza115.08">迦葉對曰：</p>
+        <q who="kassapo">
+          <p n="bza115.09">世尊是法根本，是法之導，法所依憑。善哉世尊願為敷演！我聞語已，至心受持！</p>
+        </q>
+        <p n="bza115.10">佛告迦葉：</p>
+        <q who="gotamo">
+          <p n="bza115.11">汝今善聽，受持憶念！吾當為汝分別解說。</p>
+        </q>
+        <p n="bza115.12">迦葉白佛：</p>
+        <q who="kassapo">
+          <p n="bza115.13">
+            <app n="fnT02p0415n05">
+              <lem wit="【大】">爾止</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">止爾</rdg>
+            </app>唯然，世尊！願樂欲聞！</p>
+        </q>
+        <p n="bza115.14">
+          <pb ed="T" xml:id="T02.0100.0416a" n="0416a"/>佛告迦葉：</p>
+        <q who="gotamo">
+          <p n="bza115.15">昔有比丘，自修阿練若行，讚嘆修阿練若行者；自行乞食，著糞掃衣，讚嘆乞食，著糞掃衣者；少欲知足，常樂空閑寂靜之處，勤修精進，心不馳散，恒樂禪定；自盡諸漏，讚盡漏者。以是之故，一切比丘咸來親近，而問訊之。而此比丘語諸來者：<q who="bhikkhu">善來，比丘！可就此座。汝名為何？是誰弟子？履行賢良，應沙門法。夫出家者，宜應如汝作於沙門。若見汝者，學汝所為，不久必當獲於己利！</q>新學比丘覩斯事已，而作是念：<q who="bhikkhu">彼有比丘，共相恭敬。我今亦當習學其行，自修阿練若行，讚嘆修阿練若行者；自行乞食，著糞掃衣，讚嘆乞食，著糞掃衣者；少欲知足，常樂空閑寂靜之處，勤修精進，心不馳散，恒樂禪定；自盡諸漏，讚盡漏者。以是之故，一切比丘咸來親近，安慰問訊。而此比丘語諸來者：<q who="bhikkhu">善來，比丘！可就此坐。汝名為何？是誰弟子？履行賢良，應沙門法。出家之人宜應如汝，作於沙門。若見汝者，學汝所為，不久必當獲己義利！</q>
+            </q>諸新學者若生是念，長夜利益，得義得樂，名自濟拔，能令正法得久住世。是人進趣，終不退沒。</p>
+        </q>
+        <p n="bza115.16">佛告迦葉：</p>
+        <q who="gotamo">
+          <p n="bza115.17">若有比丘，生則有福。初始出家，多得利養──衣服、湯藥、床敷<choice>
+              <sic>敷</sic>
+              <corr resp="T100"/>
+            </choice>臥具，四事豐饒。復有比丘，見是比丘，親近談語，安慰問訊。時此比丘語彼比丘：<q who="bhikkhu">汝名何等？是誰弟子？生則有福，多得利養──衣服、湯藥、床敷臥具，四事豐饒。若有比丘，親近汝者，四事不乏。</q>若有新學比丘，覩斯事已，應作是念：<q who="bhikkhu">彼有生福，比丘共相恭敬。我今亦當<pb ed="T" xml:id="T02.0100.0416b" n="0416b"/>修如是行，衣服、臥具、飲食、湯藥，四事供養，亦常豐饒。</q>若新學比丘作如是意，學如是事已，是名長夜衰耗，都無利益及以利樂，非沙門法，受諸苦惱，名自輕毀。梵行不立，沒于淤泥，為惡所欺，具於結使，數受諸有，名生熱惱。獲得苦報，必當受於生、老、病、死。</p>
+        </q>
+      </div>
+      <div type="closing" xml:id="cbza115">
+        <p n="bza115.18">時大迦葉及諸比丘聞佛所說，歡喜奉行。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

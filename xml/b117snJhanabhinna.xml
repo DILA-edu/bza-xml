@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Jhānābhiññasuttaṃ</head>
+        <p>From the VRI Chaṭṭa Saṅgāyana edition. PTS: SN, II, 210. This is part of the text-cluster of BZA (T.100) sutra 117.</p>
+      </div>
+    </front>
+    <body xml:lang="pi">
+      <anchor type="start" xml:id="pts.sn.02.210"/>
+      <div type="parallel">
+        <p>
+          <name type="place">Sāvatthiyaṃ</name>viharati</p>
+        <p>…pe… “ahaṃ, bhikkhave, yāvadeva ākaṅkhāmi vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharāmi. <name type="person">Kassapopi</name>bhikkhave, yāvadeva ākaṅkhati vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati”.</p>
+        <p>“Ahaṃ bhikkhave, yāvadeva ākaṅkhāmi vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharāmi. Kassapopi, bhikkhave, yāvadeva ākaṅkhati vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ upasampajja viharati.</p>
+        <p>“Ahaṃ, bhikkhave, yāvadeva ākaṅkhāmi pītiyā ca virāgā upekkhako ca viharāmi sato ca sampajāno sukhañca kāyena paṭisaṃvedemi, yaṃ taṃ ariyā ācikkhanti– ‘upekkhako satimā sukhavihārī’ti tatiyaṃ jhānaṃ upasampajja viharāmi. Kassapopi, bhikkhave, yāvadeva ākaṅkhati pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno, sukhañca kāyena paṭisaṃvedeti, yaṃ taṃ ariyā ācikkhanti– ‘upekkhako satimā sukhavihārī’ti tatiyaṃ jhānaṃ upasampajja viharati.</p>
+        <p>“Ahaṃ, bhikkhave, yāvadeva ākaṅkhāmi sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṃ atthaṅgamā adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharāmi. Kassapopi, bhikkhave, yāvadeva ākaṅkhati sukhassa ca pahānā …pe… catutthaṃ jhānaṃ upasampajja viharati.</p>
+        <p>“Ahaṃ, bhikkhave, yāvadeva ākaṅkhāmi sabbaso rūpasaññānaṃ samatikkamā paṭighasaññānaṃ atthaṅgamā nānattasaññānaṃ amanasikārā ananto ākāsoti ākāsānañcāyatanaṃ upasampajja viharāmi. Kassapopi bhikkhave, yāvadeva ākaṅkhati sabbaso rūpasaññānaṃ samatikkamā…pe… ākāsānañcāyatanaṃ upasampajja viharati.</p>
+        <p>“Ahaṃ, bhikkhave, yāvadeva ākaṅkhāmi sabbaso ākāsānañcāyatanaṃ samatikkamma anantaṃ viññāṇanti viññāṇañcāyatanaṃ upasampajja viharāmi. Kassapopi bhikkhave, yāvadeva ākaṅkhati sabbaso ākāsānañcāyatanaṃ samatikkamma anantaṃ viññāṇanti viññāṇañcāyatanaṃ upasampajja viharati.</p>
+        <p>
+          “Ahaṃ, bhikkhave, yāvadeva ākaṅkhāmi sabbaso viññāṇañcāyatanaṃ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanaṃ upasampajja viharāmi. Kassapopi, bhikkhave, yāvadeva ākaṅkhati…pe… ākiñcaññāyatanaṃ upasampajja viharati.
+                              “Ahaṃ, bhikkhave, yāvadeva ākaṅkhāmi sabbaso ākiñcaññāyatanaṃ samatikkamma nevasaññānāsaññāyatanaṃ upasampajja viharāmi. Kassapopi, bhikkhave, yāvadeva ākaṅkhati…pe… nevasaññānāsaññāyatanaṃ upasampajja viharati.
+        </p>
+        <p>“Ahaṃ, bhikkhave, yāvadeva ākaṅkhāmi sabbaso nevasaññānāsaññāyatanaṃ samatikkamma saññāvedayitanirodhaṃ upasampajja viharāmi. Kassapopi, bhikkhave…pe… saññāvedayitanirodhaṃ upasampajja viharati.</p>
+        <p>“Ahaṃ bhikkhave, yāvadeva ākaṅkhāmi anekavihitaṃ iddhividhaṃ paccanubhomi ekopi hutvā bahudhā homi, bahudhāpi hutvā eko homi; āvibhāvaṃ, tirobhāvaṃ, tirokuṭṭaṃ, tiropākāraṃ, tiropabbataṃ, asajjamāno gacchāmi, seyyathāpi ākāse; pathaviyāpi ummujjanimujjaṃ karomi, seyyathāpi udake; udakepi abhijjamāne gacchāmi, seyyathāpi pathaviyaṃ; ākāsepi pallaṅkena kamāmi, seyyathāpi pakkhī sakuṇo; imepi candimasūriye evaṃmahiddhike evaṃmahānubhāve pāṇinā parimasāmi parimajjāmi; yāva brahmalokāpi kāyena vasaṃ vattemi. Kassapopi, bhikkhave, yāvadeva ākaṅkhati anekavihitaṃ iddhividhaṃ paccanubhoti…pe… yāva brahmalokāpi kāyena vasaṃ vatteti.</p>
+        <p>“Ahaṃ, bhikkhave, yāvadeva ākaṅkhāmi dibbāya sotadhātuyā visuddhāya atikkantamānusikāya ubho sadde suṇāmi, dibbe ca mānuse ca, ye dūre santike ca. Kassapopi, bhikkhave, yāvadeva ākaṅkhati dibbāya sotadhātuyā…pe… dūre santike ca.</p>
+        <p>“Ahaṃ bhikkhave, yāvadeva ākaṅkhāmi parasattānaṃ parapuggalānaṃ cetasā ceto paricca pajānāmi<seg type="not-parallel">– sarāgaṃ vā cittaṃ sarāgaṃ cittanti pajānāmi, vītarāgaṃ vā cittaṃ vītarāgaṃ cittanti pajānāmi, sadosaṃ vā cittaṃ…pe… vītadosaṃ vā cittaṃ… samohaṃ vā cittaṃ… vītamohaṃ vā cittaṃ… saṃkhittaṃ vā cittaṃ… vikkhittaṃ vā cittaṃ… mahaggataṃ vā cittaṃ… amahaggataṃ vā cittaṃ… sa-uttaraṃ vā cittaṃ… anuttaraṃ vā cittaṃ… samāhitaṃ vā cittaṃ… asamāhitaṃ vā cittaṃ… vimuttaṃ vā cittaṃ… avimuttaṃ vā cittaṃ avimuttaṃ cittanti pajānāmi.</seg>Kassapopi, bhikkhave, yāvadeva ākaṅkhati parasattānaṃ parapuggalānaṃ cetasā ceto paricca pajānāti<seg type="noy-parallel">– sarāgaṃ vā cittaṃ sarāgaṃ cittanti pajānāti…pe… avimuttaṃ vā cittaṃ avimuttaṃ cittanti pajānāti</seg>.</p>
+        <p>“Ahaṃ, bhikkhave, yāvadeva ākaṅkhāmi anekavihitaṃ pubbenivāsaṃ anussarāmi, <seg type="not-parallel">seyyathidaṃ– ekampi jātiṃ dvepi jātiyo tissopi jātiyo catassopi jātiyo pañcapi jātiyo dasapi jātiyo vīsampi jātiyo tiṃsampi jātiyo cattālīsampi jātiyo paññāsampi jātiyo jātisatampi jātisahassampi jātisatasahassampi, anekepi saṃvaṭṭakappe anekepi vivaṭṭakappe anekepi saṃvaṭṭavivaṭṭakappe– ‘amutrāsiṃ evaṃnāmo evaṃgotto evaṃvaṇṇo evamāhāro evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto so tato cuto amutra udapādiṃ; tatrāpāsiṃ evaṃnāmo evaṃgotto evaṃvaṇṇo evamāhāro evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto idhūpapanno’ti. Iti sākāraṃ sa-uddesaṃ anekavihitaṃ pubbenivāsaṃ anussarāmi.</seg>Kassapopi, bhikkhave, yāvadeva ākaṅkhati anekavihitaṃ pubbenivāsaṃ anussarati,<seg type="not-parallel">seyyathidaṃ– ekampi jātiṃ…pe… iti sākāraṃ sa-uddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati</seg>.</p>
+        <p>“Ahaṃ, bhikkhave, yāvadeva ākaṅkhāmi dibbena cakkhunā visuddhena atikkantamānusakena satte passāmi <seg type="not-parallel">cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe, sugate duggate yathākammūpage satte pajānāmi– ‘ime vata, bhonto, sattā kāyaduccaritena samannāgatā vacīduccaritena samannāgatā manoduccaritena samannāgatā ariyānaṃ upavādakā micchādiṭṭhikā micchādiṭṭhikammasamādānā; te kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapannā, ime vā pana, bhonto, sattā kāyasucaritena samannāgatā vacīsucaritena samannāgatā manosucaritena samannāgatā ariyānaṃ anupavādakā sammādiṭṭhikā sammādiṭṭhikammasamādānā; te kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapannā’ti.</seg>Iti dibbena cakkhunā visuddhena atikkantamānusakena satte passāmi<seg type="not-parallel">cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe, sugate duggate yathākammūpage satte pajānāmi</seg>. Kassapopi, bhikkhave, yāvadeva ākaṅkhati dibbena cakkhunā visuddhena atikkantamānusakena satte passati<seg type="not-parallel">cavamāne…pe… yathākammūpage satte pajānāti.</seg>
+        </p>
+        <p>“Ahaṃ, bhikkhave, āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharāmi. Kassapopi, bhikkhave, āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharatī”ti.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

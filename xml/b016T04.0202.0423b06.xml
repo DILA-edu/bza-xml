@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 016. It is found in the 賢愚經•無惱指鬘品 Sutra at T.04.0202.0423.</p>
+      </div>
+    </front>
+    <body xml:id="T04.0202.0423b06">
+      <anchor type="start" xml:id="t04.0202.0423b06"/>
+      <div type="parallel">
+        <p>如是我聞。一時佛在舍衛國祇樹給孤獨園。</p>
+      </div>
+      <div type="not-parallel">
+        <p>於時國王名波斯匿王。有輔相。聰明巨富。其婦懷妊。生一男兒。形貌端正。容體殊絕。於時輔相。見兒歡喜。即召相師。令占相之。相師看見。懷喜而言。是兒福相。人中挺特。聰明智辯。有踰人之德。父聞遂喜。勅為作字。相師問言。兒受胎來。有何異事。輔相答言。其母素性。不能良善。懷妊<anchor type="variant" n="fnT04p0423n12"/>已來。倍更異常。心性恭順。樂宣人德。慈矜苦厄。不喜說過。相師言曰。此是兒志。當為立字。號阿舋賊奇。<anchor type="variant" n="fnT04p0423n13"/>晉言無惱。兒漸長大。雄壯絕倫。有力士之力。一人敵千。騰接飛鳥。走疾奔馬。其父輔相。甚愛念之。</p>
+        <p>於<anchor type="variant" n="fnT04p0423n14"/>是國中。有一婆羅門。聰明博達。多聞廣識。有五百弟子。追逐隨學。爾時輔相。即將其<anchor type="variant" n="fnT04p0423n15"/>子。往<anchor type="variant" n="fnT04p0423n16"/>囑及之。令其學問。婆羅門可之。受持教<anchor type="variant" n="fnT04p0423n17"/>授。阿舋賊奇。夙夜勤業。一日諮受。勝<anchor type="variant" n="fnT04p0423n18"/>餘<anchor type="variant" n="fnT04p0423n19"/>終年。學未經久。普悉通達。婆羅門師。異常待遇。行來進止。每與<anchor type="variant" n="fnT04p0423n20"/>是俱。及諸同學。傾意瞻敬。</p>
+        <p>爾時婆羅門師婦。見其端正才姿挺<anchor type="variant" n="fnT04p0423n21"/>邈過踰人表。懷情色著。愛不去意。然諸弟子。與共<anchor type="variant" n="fnT04p0423n22"/>周<anchor type="variant" n="fnT04p0423n23"/>迴。行止不獨。無緣與語。有心不遂。常以歎悒。會有檀越。來請其師及諸弟子。三月一時。婆羅門師。內與婦議。我今<pb ed="T" n="0423c"/>當行受請三月。當留一人經<anchor type="variant" n="fnT04p0423n24"/>紀於後。時婦內喜。密自懷計。白婆羅門。是事應爾。後家理重。宜須才能。可留無惱<anchor type="variant" n="fnT04p0423n16"/>囑以後事。時婆羅門。即勅無惱。我今赴彼檀越之請。後事總多。須人料理。卿<anchor type="variant" n="fnT04p0423n25"/>著才能。為吾營後。無惱受教。即住不行。師及徒眾。引<anchor type="variant" n="fnT04p0423n26"/>導而去。其婦怡悅欣喜無量。極自莊飾。多作姿媚。與共談語。嬈動其意。無惱志固。無心相從。欲心轉盛。實意語之。我相欽愛。由來有素。但<anchor type="variant" n="fnT04p0423n27"/>逼眾人。有懷未發。汝師臨去。吾故相留。今既獨靜。當從我意。無惱曉謝語言。我梵志法。不婬師婦。若當違犯非婆羅門。寧交取死。終不為此。於時師婦。望重違心。慚愧瞋憤。復作密計。候師垂至。挽裂衣裳。<anchor type="variant" n="fnT04p0423n28"/>爴破其面。塵土坌身。憔悴臥地。無所言<anchor type="variant" n="fnT04p0423n29"/>語。時婆羅門師徒俱到。師即入內。見婦色狀。即問其故。何緣乃爾。婦垂泣言。不足問也。時婆羅門。重更問之。汝有何事。當相告語。云何不說。婦啼而言。汝所欽<anchor type="variant" n="fnT04p0423n30"/>美。阿舋賊奇。自汝去後。常見侵凌。我適不從。抴裂我衣。壞我身首。汝畜弟子。云何乃爾。婆羅門聞。甚懷恚忿。語其婦言。此無惱者。力敵千人。輔相之子。種族強盛。雖欲治之。宜當以漸。</p>
+        <p>
+          <anchor type="variant" n="fnT04p0423n31"/>詮謀是已。往見無惱。隨宜方便。而慰<anchor type="variant" n="fnT04p0423n32"/>喻<anchor type="variant" n="fnT04p0423n33"/>言。我去之後。苦汝營勞。又汝前後。奉事盡忠。常感汝意。思欲相酬。有一秘法。由來未說。若能成辦。直生梵天。無惱長跪。問是何事。答言。若持七日之中。斬千人首。而取一指。凡得千指。以為鬘飾。爾時梵天。<pb ed="T" n="0424a"/>便自來下。命終之後。定生梵天。無惱聞此情懷猶豫。復白師言。此事不應。殺害眾生。<anchor type="variant" n="fnT04p0424n01"/>便生梵天。師又告言。汝我弟子。豈不信我至要之言。<anchor type="variant" n="fnT04p0424n02"/>若汝不信則為義絕。隨爾道徑莫復此住。又更作呪。竪刀在地。說呪已訖惡心轉生。師知其意。即授與刀。受刀走外。得人便殺。取指為鬘。人見便號鴦仇魔羅。<anchor type="variant" n="fnT04p0424n03"/>晉言指鬘</p>
+        <p>周行斬害到七日。頭方得九百九十九指。唯少一指。殘殺一人。指數便滿。人皆藏竄。無敢行者。遍行求覓。更不能得。七日之中。不得飲食。其母憐愍。遣人為致。悉各懷懼。無敢往者。其母持食。躬自致往。兒遙見母。走趣欲殺。母時語言。咄不孝物。云何懷逆。欲危害我。兒便語言。我受師教。要七日中。滿得千指。便當得願生於梵天。日數已滿。更不能得。事不獲已。當殺於母。母又語言。事苟當爾。但取我指。莫見傷殺。</p>
+      </div>
+      <div type="parallel">
+        <p>於時世尊具遙<anchor type="variant" n="fnT04p0424n04"/>覩見。知其可度。化作比丘。行於彼邊。鴦仇<anchor type="variant" n="fnT04p0424n05"/>摩羅。已見比丘。捨母騰躍。走趣規殺。佛見其來。徐行捨去。指鬘極力走不能及。便遙喚言。比丘小住。佛遙答言。我常自住。但汝不住。指鬘復問。云何汝住。我不住耶。佛即答言。我諸根寂定。而得自在。汝從惡師。稟受邪倒。變易汝心。不得定住。<anchor type="variant" n="fnT04p0424n06"/>晝夜殺害。造無邊罪。指鬘聞此意欻開悟。投刀遠棄。遙禮自歸。</p>
+      </div>
+      <div type="not-parallel">
+        <p>於時如來爾乃待之。還現佛身。光明朗日。三十二相。昺著奇妙。指鬘見佛光相威儀。</p>
+      </div>
+      <div type="parallel">
+        <p>以身投地。悔過自責。佛粗說法。得法眼淨。心遂純<pb ed="T" n="0424b"/>信。求索出家。佛即可之。善來比丘。鬚髮自落。法衣著身。隨彼所應。重為說法。心垢都盡。得羅漢道。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

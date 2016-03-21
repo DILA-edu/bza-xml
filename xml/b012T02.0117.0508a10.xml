@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 012. It is found in the 佛說戒香經 Sutra at T.02.0117.0508.</p>
+      </div>
+    </front>
+    <body xml:id="T02.0117.0508a10">
+      <anchor type="start" xml:id="t02.0117.0508a10"/>
+      <div type="parallel">
+        <p>如是我聞。一時佛在舍衛國祇樹給孤獨園。與大比丘眾俱。</p>
+        <p>爾時尊者阿難來詣佛所。到已頭而禮足。合掌恭敬而白佛言。世尊。我有少疑欲當啟問。唯願世尊為我解說。我見世間有三種香。所謂根香花香子香。此三種香遍一切處。有風而聞。無風亦聞。其香云何。</p>
+        <p>爾時世尊告尊者阿難。勿作是言。謂此三種之香。遍一切處有風而聞無風亦聞。此三種香有風無風遍一切處而非得聞。阿難。汝今欲聞普遍香者。應當諦聽。為汝宣說。</p>
+        <p>阿難白佛言。世尊。我今樂聞。唯願宣說。</p>
+        <p>佛告阿難。有風無風香遍十方者。世間若有近事男近事女。持佛淨戒行諸善法。謂不殺不盜不婬不妄及不飲酒。是近事男近事女。如是戒香遍聞十方。而彼十方咸皆稱讚。而作是言。於某城中有如是近事男女。持佛淨戒行諸善法。謂不殺不盜不婬不妄及不飲酒等。具此戒法。是人獲如是之香。有風無風遍聞十方。咸皆稱讚而得愛敬。</p>
+        <p>
+          <pb ed="T" n="0508b"/>爾時世尊。而說頌曰。</p>
+        <lg met="7">
+          <l>世間所有諸花果<caesura/>乃至沈檀龍麝香</l>
+          <l>如是等香非遍聞<caesura/>唯聞戒香遍一切</l>
+          <l>
+            <anchor type="variant" n="fnT02p0508n02"/>旃檀欝金與蘇合<caesura/>優鉢羅并摩隷花</l>
+          <l>如是諸妙花香中<caesura/>唯有戒香而最上</l>
+          <l>所有世間沈檀等<caesura/>其香微少非遍聞</l>
+          <l>若人持佛淨戒香<caesura/>諸天普聞皆愛敬</l>
+          <l>如是具足清淨戒<caesura/>乃至常行諸善法</l>
+          <l>是人能解世間縛<caesura/>所有諸魔常遠離</l>
+        </lg>
+        <p>爾時尊者阿難及比丘眾。聞佛語已。歡喜信受。禮佛而退。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

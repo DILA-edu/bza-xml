@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 031. It is found in the 過去現在因果經 Sutra at T.03.0189.0639.</p>
+      </div>
+    </front>
+    <body xml:id="T03.0189.0639c28">
+      <anchor type="start" xml:id="t03.0189.0639c28"/>
+      <div type="parallel">
+        <p> 魔<anchor type="variant" n="fnT03p0639n14"/>有三女。形容儀貌。極為端<anchor type="variant" n="fnT03p0636n07"/>正。妖冶巧媚。<pb ed="T" n="0640a"/>善能惑人。於天女中。最為第一。熏以名香。佩好瓔珞。一名染欲。二名能悅人。三名可愛樂。三女俱前白其父言。不審今者何故憂愁。父即寫心。語諸女言。世間今有沙門瞿曇。身被法鎧。執自在弓。鏃智慧箭。欲伏眾生壞我境界。我若不如。眾生信彼。皆悉歸依。我土則空。是故愁耳。及<anchor type="variant" n="fnT03p0640n01"/>未成道。欲往摧挫壞其橋梁。</p>
+        <p>
+          <seg type="not-parallel">於是魔王。手執強弓。又持五箭。男女眷屬。俱時往彼畢波羅樹下。見於牟尼。寂然不動。欲度生死三有之海。爾時魔王。左手執弓。右手調箭。語菩薩言。汝剎利種。死甚可畏。何不速起。宜應修汝轉輪王業。捨出家法。習於施會。得生天樂。此道第一<anchor type="variant" n="fnT03p0640n02"/>勝先所行。汝是剎利轉輪王種。而為乞士。此非所應。今若不起。但好安坐。勿捨本誓。我試射汝。一放利箭。苦行仙人。聞我箭聲。莫不驚怖。惛迷失性。況汝瞿曇。能堪此毒。汝若速起。可得安全。魔說<anchor type="variant" n="fnT03p0640n03"/>此語。以怖菩薩。菩薩怡然。不驚不動。魔王即便挽弓放箭。并進天女。菩薩爾時。眼不視箭。箭停空中。其鏃<anchor type="variant" n="fnT03p0640n04"/>下向。變成蓮花</seg>
+        </p>
+        <p>時三天女。白菩薩言。仁者至德。<anchor type="variant" n="fnT03p0640n05"/>天人所敬。應有供侍。我等今者年在盛時。天女端<anchor type="variant" n="fnT03p0636n07"/>正。無踰我者天今遣我。以相供給。晨昏寢臥。願<anchor type="variant" n="fnT03p0640n06"/>侍左右。<seg type="not-parallel">菩薩答言。汝<anchor type="variant" n="fnT03p0640n07"/>植小善。得為天身。不念無常。而作妖媚。形體雖美。而心不端。<anchor type="variant" n="fnT03p0640n08"/>淫<anchor type="variant" n="fnT03p0640n09"/>惑不善。死必當墮三惡道中。受鳥獸身。免之甚難汝等今者欲亂定意。非清淨心。今便可去。吾不相須。時三天女。變<pb ed="T" n="0640b"/>成老姥。頭白面皺。齒落垂涎。肉消骨立。腹大如鼓。<anchor type="variant" n="fnT03p0640n10"/>柱杖羸步。不能自復。</seg>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

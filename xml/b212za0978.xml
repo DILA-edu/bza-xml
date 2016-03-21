@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-0978">
+      <anchor type="start" xml:id="tp0253a26"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住那羅聚落好衣庵羅園中。</p>
+      </div>
+      <div type="main">
+        <p>爾時那羅聚落有商主外道出家，百二十歲，年耆根熟，為那羅聚落諸沙門、婆羅門、長者、居士尊重供養，如阿羅漢。</p>
+        <p>彼商主<pb ed="T" n="0253b"/>外道出家先有宗親一人，命終生天，於彼天上見商主外道出家已，作是念：</p>
+        <q who="商主外道出家宗親">
+          <p>我欲往教彼商主外道出家詣世尊所，修行梵行，恐其不隨我<anchor type="variant" n="fnT02p0253n09"/>語，我今當往彼，以意論令問。</p>
+        </q>
+        <p>即下那羅聚落，詣彼商主外道出家所，說偈而問：</p>
+        <q who="商主外道出家宗親">
+          <lg met="5" xml:id="cgtn0099-0978a">
+            <l>云何惡知識<caesura/>現善知識相</l>
+            <l>云何善知識<caesura/>如己同一體</l>
+            <l>何故求於斷<caesura/>云何離熾然</l>
+          </lg>
+        </q>
+        <p>
+          <q who="商主外道出家宗親">
+            <p>若汝<anchor type="variant" n="fnT02p0253n10"/>仙人持此意論而問於彼，有能分<anchor type="variant" n="fnT02p0253n11"/>明解說其義而答汝<anchor type="variant" n="fnT02p0253n12"/>者，便可從彼出家，修行梵行。</p>
+          </q>
+        </p>
+        <p>時商主外道出家受天所<anchor type="variant" n="fnT02p0253n13"/>問，持詣富蘭那迦葉所，以此意論偈問富蘭那迦葉。彼富蘭那迦葉尚自不解，況復能答？彼時商主外道出家復至末迦梨瞿舍利子所、<anchor type="variant" n="fnT02p0253n14"/>刪闍耶毘羅坻子所、阿<anchor type="variant" n="fnT02p0253n15"/>耆多枳舍欽婆羅所、迦羅拘陀迦<anchor type="variant" n="fnT02p0251n07"/>栴延所、尼乾陀若提子所，皆以此意論偈而問，悉不能答。</p>
+        <p>時商主外道出家作是念：<q who="商主外道出家">
+            <p>我以此意論問諸出家師，悉不能答，我今復欲求出家；為我今自有財寶，不如還家，服習五欲。</p>
+          </q>
+        </p>
+        <p>復作是念：<q who="商主外道出家">
+            <p>我今可往詣沙門瞿曇，然彼耆舊、諸師、沙門、婆羅門、富蘭那迦葉等，悉不能答，而沙門瞿曇年少出家，詎復能了？然我聞先宿所說「莫輕新學年少出家」，或有沙門年少出家，有大德力，今且當詣沙門瞿曇。</p>
+          </q>
+        </p>
+        <p>詣已，以彼意論心念而問，如偈所說。</p>
+        <p>爾時世尊知彼商主心之所念，即說偈言：</p>
+        <q who="gotamo">
+          <lg met="5" xml:id="cgtn0099-0978b">
+            <l>云何惡知識<caesura/>現善友相者</l>
+            <l>
+              <pb ed="T" n="0253c"/>內心實恥厭<caesura/>口說我同心</l>
+            <l>造事不樂同<caesura/>故知非善友</l>
+            <l>口說恩愛語<caesura/>心不實相應</l>
+            <l>所作而不同<caesura/>慧者應覺知</l>
+            <l>
+              <anchor type="variant" n="fnT02p0253n16"/>是名惡知識<caesura/>現善知識相</l>
+            <l>與己同一體<caesura/>云何善知識</l>
+            <l>與己同體者<caesura/>非彼善知識</l>
+            <l>放逸而不制<caesura/>沮壞懷疑惑</l>
+            <l>伺求其端緒<caesura/>安於善知識</l>
+            <l>如子臥父懷<caesura/>不為傍人<anchor type="variant" n="fnT02p0253n17"/>聞</l>
+            <l>當知善知識<caesura/>何故求於斷</l>
+            <l>生歡喜之處<caesura/>清涼稱讚歎</l>
+            <l>修習福利果<caesura/>清涼永息滅</l>
+            <l>是故求於斷<caesura/>云何離熾然</l>
+            <l>寂靜止息味<caesura/>知彼遠離味</l>
+            <l>遠離熾然惡<caesura/>飲以法喜味</l>
+            <l>寂滅離欲火<caesura/>是名離熾然</l>
+          </lg>
+        </q>
+        <p>爾時商主外道出家作是念：<q who="商主外道出家">
+            <p>沙門瞿曇知我心念。</p>
+          </q>
+        </p>
+        <p>而白佛言：<q who="商主外道出家">
+            <p>我今得入沙門瞿曇正法、律中修行梵行，出家、受具足，成比丘分不？</p>
+          </q>
+        </p>
+        <p>佛告商主外道出家：<q who="gotamo">
+            <p>汝今可得於<anchor type="variant" n="fnT02p0253n18"/>正法、律修行梵行，出家、受具足，成比丘分。</p>
+          </q>
+        </p>
+      </div>
+      <div type="closing">
+        <p>如是出家已，思惟……乃至心善解脫，得阿羅漢。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

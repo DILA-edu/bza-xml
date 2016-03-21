@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                              法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                    Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                    text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                    lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                    Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                    edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                    (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                    (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                    comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                    the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                    literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                                English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                              za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                              the Dharma Drum Buddhist College 法鼓佛教研修學院. The project is funded by the Chiang
+                              Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                              the project is to produce a comparative digital edition and partial translation of
+                              the 364 sutras of the BZA and their parallels. The texts are kept in single files in
+                              an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                              The project lasts from 2005-2008. For any changes after 2008 see the revision
+                              description.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                              attribute on the containing elements
+        </p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō).</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA. Verse and
+                              Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan: Parallel and not-parallel divisions regarding the BZA. Verse
+                              and Prose. Variant readings.
+        </p>
+      </editorialDecl>
+      <charDesc>
+        <glyph xml:id="g047">
+          <glyphName>CJK IDEOGRAPH 14865</glyphName>
+          <charProp>
+            <localName>pronunciation</localName>
+            <value>zong1</value>
+          </charProp>
+          <mapping type="cbeta">[打-丁+(稯-禾)]</mapping>
+          <mapping type="cbetaNo">CB00235</mapping>
+          <mapping type="UTF-8">E3 A8 91</mapping>
+          <mapping type="unicode">14865</mapping>
+          <graphic url="gaiji/g047.gif"/>
+          <note>appears in bza187; bza188; bza257</note>
+        </glyph>
+      </charDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="bza188">
+      <anchor type="start" xml:id="Tp0442a18"/>
+      <div type="opening" xml:id="obza188">
+        <p n="bza188.01">如是我聞：一時佛在<name type="place">曠野<app n="fnT02p0442n03">
+              <lem wit="【大】">園</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】【聖】">國</rdg>
+            </app>園</name>
+          <name type="place">第一林中</name>。</p>
+      </div>
+      <div type="main" xml:id="mbza188">
+        <p n="bza188.02">時首長者身遇困疾。爾時世尊聞其患已，後日晨朝著衣持鉢，往詣其家。時首長者遙見佛來，動身欲起。佛告長者：</p>
+        <q who="gotamo">
+          <p n="bza188.03">不須汝起。</p>
+        </q>
+        <p n="bza188.04">佛即慰問：</p>
+        <q who="gotamo">
+          <p n="bza188.05">汝<app n="fnT02p0442n04">
+              <lem wit="【大】">所</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">其</rdg>
+            </app>所患苦，為可忍不？醫療有降，不至增耶？</p>
+        </q>
+        <p n="bza188.06">長者白佛：</p>
+        <q who="hatthaka">
+          <p n="bza188.07">今我患苦，極為難忍！所受痛劇，遂漸增長。苦痛逼切，甚可厭患。譬如有力之人，以手<app n="fnT02p0442n05">
+              <lem wit="【大】">㨑</lem>
+              <rdg resp="Taisho" wit="【元】【明】【聖】">總</rdg>
+            </app>
+            <g ref="g047">[打-丁+(稯-禾)]</g>
+            <app n="fnT02p0441n05">
+              <lem wit="【大】">搣</lem>
+              <rdg resp="Taisho" wit="【宋】【聖】">滅</rdg>
+            </app>搣無力者頭，揉捺牽掣。我患頭痛，亦復如是。譬如屠者，以彼利刀撓攪牛腹，腸胃寸絕。我患腹痛，亦復如是。譬如二大力人，捉一羸病，向火<app n="fnT02p0441n06">
+              <lem wit="【大】">燺</lem>
+              <rdg resp="Taisho" wit="【宋】【明】【聖】">拷</rdg>
+              <rdg resp="Taisho" wit="【元】">烤</rdg>
+            </app>燺炙。身體焦爛，患體熱痛，亦復如是。</p>
+        </q>
+        <p n="bza188.08">佛告長者：</p>
+        <q who="gotamo">
+          <p n="bza188.09">汝今應於佛所生<pb ed="T" xml:id="T02.0100.0442b" n="0442b"/>不壞信。法、僧及戒，亦當如是。</p>
+        </q>
+        <p n="bza188.10">長者白佛：</p>
+        <q who="hatthaka">
+          <p n="bza188.11">如佛所說，四不壞信，我已具得。</p>
+        </q>
+        <p n="bza188.12">佛告長者：</p>
+        <q who="gotamo">
+          <p n="bza188.13">依於如是四不壞信，應修六念。</p>
+        </q>
+        <p n="bza188.14">長者白佛：</p>
+        <q who="hatthaka">
+          <p n="bza188.15">如此六念，我已具修。</p>
+        </q>
+        <p n="bza188.16">時首長者即白佛言：</p>
+        <q who="hatthaka">
+          <p n="bza188.17">唯願世尊在此中食！</p>
+        </q>
+        <p n="bza188.18">佛默然受請。日時已到，彼首長者為於如來設眾餚饍，種種備具，清淨香潔。設是供已，尋便奉施，合掌向佛，而作是言：</p>
+        <q who="hatthaka">
+          <p n="bza188.19">世尊出世，難可值遇！</p>
+        </q>
+        <p n="bza188.20">佛為長者種種說法，示、教、利、喜，從座而去。時首長者如來去後，尋於其夜身壞命終，生無熱天。既生天已，即作此念：</p>
+        <q who="hatthaka">
+          <p n="bza188.21">我於今者應往佛所。</p>
+        </q>
+        <p n="bza188.22">作是念已，尋來佛所──光色倍常，照于祇洹，悉皆大明──，頂禮佛已，却坐一面。身<app n="fnT02p0442n06">
+            <lem wit="【大】">滲</lem>
+            <rdg resp="Taisho" wit="【宋】【元】【明】【聖】">淋</rdg>
+          </app>滲入地，譬如<app n="fnT02p0442n07">
+            <lem wit="【大】">蘇</lem>
+            <rdg resp="Taisho" wit="【元】【明】">酥</rdg>
+          </app>蘇油。佛告天子：</p>
+        <q who="gotamo">
+          <p n="bza188.23">汝可化為麁身，當作住想。</p>
+        </q>
+        <p n="bza188.24">時首天子受佛勅已，即便化作欲界麁形，不復<app n="fnT02p0442n06">
+            <lem wit="【大】">滲</lem>
+            <rdg resp="Taisho" wit="【宋】【元】【明】【聖】">淋</rdg>
+          </app>滲沒。佛告首天子言：</p>
+        <q who="gotamo">
+          <p n="bza188.25">汝行幾法，不生厭足，身壞命終，生無熱天？</p>
+        </q>
+        <p n="bza188.26">首天白佛：</p>
+        <q who="hatthaka">
+          <p n="bza188.27">我行三法，心無厭足，故得生天。見佛聽法，供養眾僧，無厭足故，命終得生無熱天上。</p>
+        </q>
+        <p n="bza188.28">時首天子即說偈言：</p>
+        <q who="hatthaka">
+          <lg n="bza188.29" met="6" xml:id="cg188a">
+            <l>我樂常見佛<caesura/>不捨於聽法</l>
+            <l>供養比丘僧<caesura/>受持賢聖法</l>
+            <l>調伏貪嫉心<caesura/>得生無熱天</l>
+          </lg>
+        </q>
+      </div>
+      <div type="closing" xml:id="cbza188">
+        <p n="bza188.30">時首天子說是偈已，歡喜頂禮，即從座沒，還於天宮。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

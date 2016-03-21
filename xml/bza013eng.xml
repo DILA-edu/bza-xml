@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Uruvela Kassapa performs miracles</head>
+        <p>Translation of BZA 013. First version published in <emph>Buddhist Studies Review</emph>vol. 23-1 (2006).</p>
+      </div>
+    </front>
+    <body xml:id="bza013en" xml:lang="en">
+      <div>
+        <p>Thus have I heard, once, the Buddha was wandering in Magadha accompanied by a thousand monks, that had formerly been virtuous elders among the brāhmaṇas , who have attained Arahatship, stopped all defilements, ended all bonds of becoming [that lead to rebirth], done what was to be done, cast off the heavy burden, reaped their reward. The Tathāgata went to the Suppatiṭṭha deva-shrine  in the Laṭṭhivana forest.</p>
+        <p>When king Bimbisāra heard the Buddha was staying in the Laṭṭhivana he immediately set forth with 18,000 cavalry, 12,000 chariots and carriages, surrounded on all sides by a huge number of brāhmaṇas and lay-men. When he arrived, he left the elephants, horses and chariots behind and took off his jewelry. On approaching the Buddha, he kneeled and with folded hands addressed the Buddha: ‘World-honored One! I am Bimbisāra, king of Magadha!’. Three times he said this. The Buddha replied: ‘Very well, Bimbisāra, king of Magadha’. Bimbisāra paid homage to Buddha’s feet and sat to one side and the brāhmaṇas and elders of Magadha [too] paid homage to the Buddha’s feet and one by one came before him and sat down. Sitting down, some raised their hands [in greeting], some sat down in silence.</p>
+        <p>At that time Uruvela-Kassapa was present and the people of Magadha started wondering: ‘Is the Buddha the teacher here, or Uruvela-Kassapa?’. The Buddha knew what the people of Magadha were thinking deep inside and he asked Kassapa with a verse:</p>
+        <lg>
+          <l>At Uruvela you have / for a long time practised fire sacrifice; //</l>
+          <l>for what reason now / have you stopped them, given up these actions? //</l>
+        </lg>
+        <p>And Uruvela-Kassapa answered with a verse:</p>
+        <lg>
+          <l>I once practised fire sacrifice / desiring a taste of beauty //</l>
+          <l>and the objects of the five sensual pleasures / however these are all impure, //</l>
+          <l>therefore I have given up / on fire sacrifices the way of offerings to fire. //</l>
+        </lg>
+        <p>There the Buddha spoke another verse:</p>
+        <lg>
+          <l>We know you do not find happiness / in the five sensual pleasures, [their] form and taste; //</l>
+          <l>what you do treasure now / make it known to men and gods. //</l>
+        </lg>
+        <p>And the venerable Uruvela-Kassapa spoke another verse:</p>
+        <lg>
+          <l>Once I was ignorant / did not know the most true Dhamma, //</l>
+          <l>made fire offerings practised asceticism / and held this to be the cause of liberation. //</l>
+          <l>I was like someone born blind / not seeing the path to liberation. //</l>
+          <l>Now I have met the great dragon among men / who has taught me the correct view of the Dhamma. //</l>
+          <l>These days I have started to perceive / the traces of the truly Unconditioned. //</l>
+          <l>For the benefit of all / to train us and lead us to liberation //</l>
+          <l>has the Buddha appeared in the world / teaching the absolute truth, //</l>
+          <l>he leads all kinds of sentient beings / let them all perceive the light of wisdom. //</l>
+        </lg>
+        <p>There the Buddha spoke another verse:</p>
+        <lg>
+          <l>Now you have well arrived / have obtained what you longed for, //</l>
+          <l>you have the power of good thought / and can discern the supreme Dhamma. //</l>
+          <l>Now you should consider / the mind of these people here //</l>
+          <l>and display some miracles / to engender deep respect  in them. //</l>
+        </lg>
+        <p>At this the venerable Uruvela-Kassapa at once entered concentration and using his magical powers, rose up into the air, [in various postures] sitting, then lying, then walking about. Appearing in the East, walking, standing, sitting, lying, in all four postures, he let water rush out of his upper body and fire from his lower body; [then] he let water rush out from his lower body and fire from his upper body, [then] he entered the fire-blaze samādhi and emitted rays in various colors. Having displayed his magical powers in the East, he did the same in the South, the West and the North. When he was finished, he went before the Buddha, payed homage to his feet and said with folded hands: ‘The great sage, the World-honored One is my teacher, from now on I am a student of the Buddha’. The Buddha said: ‘Very well, you shall learn from me, be my student’. And he ordered him: ‘Return to your seat now’.</p>
+        <p>At that time Magadha’s King Bimbisāra, having heard what Buddha had said, was happy and practised accordingly.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

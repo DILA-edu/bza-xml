@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum
+                              Buddhist College 法鼓佛教研修學院.
+        </title>
+        <funder>
+          Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會
+        </funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist
+                              College 法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>
+            Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉,
+                                    Chueh Hui-chen 闕慧貞
+          </name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>
+          This is the default header for all files in the database. Files which contain
+                              gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.
+        </p>
+        <p>
+          The project was conducted 2005-2008. Some minor revisions and additions were done
+                              in 2009.
+        </p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                    Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                    text lies with the Vipassana Research Institute. Copyright for the Sanskrit
+                                    text lies with Fumio Enomoto. Copyright for the English text lies with
+                                    Marcus Bingenheimer. The Tibetan and Manchu texts are in the public realm.
+                                    The digital edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                    (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                    (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                    comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding
+                                    to the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                    literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly
+                                publications (as referenced). English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the
+                              Bieyi za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies
+                              中華佛學研究所 and the Dharma Drum Buddhist College 法鼓佛教研修學院. The project is funded by
+                              the Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會. The aim of the project is to produce a comparative digital edition
+                              and partial translation of the 364 sutras of the BZA and their parallels. The
+                              texts are kept in single files in an eXist database and are realized via XQuery
+                              and XSLT as HTML for the online user. The project lasts from 2005-2008. For any
+                              changes after 2008 see the revision description.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                              attribute on the containing elements
+        </p>
+        <p>
+          BZA: New Punctuation. Markup of person and place names. Verse and prose.
+                              References to the print edition (Taishō). Corrected characters (according to
+                              CBETA).
+        </p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō).</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA. Verse and
+                              Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan: Parallel and not-parallel divisions regarding the BZA.
+                              Verse and Prose. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="bza125">
+      <anchor type="start" xml:id="Tp0421a11"/>
+      <div type="opening" xml:id="obza125">
+        <p n="bza125.01">如是我聞：一時佛在<name type="place">王舍城</name>
+          <name type="place">迦蘭陀竹林</name>。</p>
+      </div>
+      <div type="main" xml:id="mbza125">
+        <p n="bza125.02">時聚落主名曰<name type="person">惡性</name>，往詣佛所，頂禮佛足，在一面坐，即白佛言：</p>
+        <q who="candagamani">
+          <p n="bza125.03">世尊！如世有人，無所修<app n="fnT02p0421n03">
+              <lem wit="【大】">集</lem>
+              <rdg resp="Taisho" wit="【元】【明】">習</rdg>
+            </app>集，惱觸於他，作惱觸語，是故諸人咸稱其人，名為『極惡』。</p>
+        </q>
+        <p n="bza125.04">佛告聚落主：</p>
+        <q who=" gotamo">
+          <p n="bza125.05">設有一人，惱觸於彼，作惱害語，出惱語故，<app n="fnT02p0421n04">
+              <lem wit="【大】">令</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">設令</rdg>
+            </app>令他瞋<app n="fnT02p0421n05">
+              <lem wit="【大】">忿</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】"/>
+            </app>忿，以是之故，名為『惡性』。不修正見、正業、正語、正命、正念、正方便、正志、正定。不修正定故，惱觸於彼。以惱觸故，極生瞋忿。以瞋忿故，出瞋忿語。出瞋語故，名為『惡性』。</p>
+        </q>
+        <p n="bza125.06">時村主言：</p>
+        <q who="candagamani">
+          <p n="bza125.07">希有，瞿曇！實如所言：以惱觸故，實名『惡性』。我以不修正見故，為彼觸惱。以惱觸故，稱我『惡性』。一切世人咸皆稱我以為『惡性』。從是已來，名為『惡性』。</p>
+        </q>
+        <p n="bza125.08">村主復言：</p>
+        <q who="candagamani">
+          <p n="bza125.09">瞿曇！云何得不惱觸？</p>
+        </q>
+        <q who="gotamo">
+          <p n="bza125.10">無惱觸故，得無惱<app n="fnT02p0421n06">
+              <lem wit="【大】">語</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">語佛告聚落主</rdg>
+            </app>語。雖復為彼之所惱觸，不惱於他。雖復為彼之所惱語，而不惱語以惱<app n="fnT02p0421n07">
+              <lem wit="【大】">於</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">于</rdg>
+            </app>於彼。雖為他惱，不生心惱。以不惱故，世人咸稱『能忍善』者，亦復於彼生忍善想。若如是者，能修正見。修正見故，正業、正語、正命、正志、正方<pb ed="T" xml:id="T02.0100.0421b" n="0421b"/>便、正定、正念。修正定故，為他所觸，而不生惱。不生惱故，名為『忍善』。</p>
+        </q>
+        <p n="bza125.11">村主言：</p>
+        <q who="gotamo">
+          <p n="bza125.12">希有，瞿曇！所說甚善！實如所言：我以不修正見故，為他所惱。為他惱故，出惱觸言。是以世人稱我『惡性』，皆生惡想，故名『惡性』。不修八正道故，為他所觸，出惱觸語，遂至瞋忿。有是想故，世人稱我以為『惡性』。</p>
+        </q>
+        <p n="bza125.13">村主言：</p>
+        <q who="candagamani">
+          <p n="bza125.14">瞿曇！我從今<app n="fnT02p0421n01">
+              <lem wit="【大】">已</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】"/>
+            </app>已後如是惡性、卒暴、我慢、凶險，我當捨棄。</p>
+        </q>
+        <p n="bza125.15">佛讚之曰：</p>
+        <q who="gotamo">
+          <p n="bza125.16">汝若如是，實為甚善。</p>
+        </q>
+      </div>
+      <div type="closing" xml:id="cbza125">
+        <p n="bza125.17">時彼村主聞佛所說，歡喜頂禮而去。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

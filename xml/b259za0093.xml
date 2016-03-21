@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-0093">
+      <anchor type="start" xml:id="tp0024b13"/>
+      <div type="opening">
+        <p>如是我聞：一時佛在<name type="place">拘薩羅</name>人間遊行，至<name type="place">舍衛國</name>
+          <name type="place">祇樹給孤獨園</name>。</p>
+      </div>
+      <pb ed="T" n="0024c"/>
+      <div type="main">
+        <p>時有<anchor type="variant" n="fnT02p0024n05"/>
+          <name type="person">長身婆羅門</name>，作如是邪盛大會：以七百特牛行列繫柱，特、牸、水牛及諸羊犢、種種小蟲悉皆繫縛，辦諸飲食、廣行布施，種種外道從諸國國皆悉來集邪盛會所。</p>
+        <p>時長身婆羅門聞沙門瞿曇從拘薩羅人間遊行，至舍衛國祇樹給孤獨園，作是念：</p>
+        <q who="uggatasarira">
+          <p>我今辦邪盛大會，所以七百特牛行列繫柱，……乃至小小諸蟲皆悉繫縛。為邪盛大會故，種種異道從諸國國來至會所。我今當往沙門瞿曇所問邪盛法，莫令我作邪盛大會。分數中有所短少。</p>
+        </q>
+        <p>作是念已，乘白馬車，諸年少婆羅門前後導從，持金柄傘蓋，執金澡瓶，出舍衛城，詣世尊所，恭敬承事。至精舍門，下車步進，至於佛前，面相問訊慰勞已，退坐一面，白佛言：</p>
+        <q who="uggatasarira">
+          <p>瞿曇！我今欲作邪盛大會，以七百特牛行列繫柱，……乃至小小諸蟲皆悉繫縛。為邪盛大會故，種種異道從諸國國皆悉來至邪盛會所。又聞瞿曇從拘薩羅人間遊行，至舍衛國祇樹給孤獨園，我今故來請問瞿曇邪盛大會法諸物分數，莫令我所作邪盛大會諸分數之中有所短少。</p>
+        </q>
+        <p>佛告婆羅門：<q who="gotamo">
+            <p>或有一邪盛大會主行施作福而生於罪，為三刀劍之所刻削，得不善果報。何等三？謂身刀劍、口刀劍、意刀劍。</p>
+          </q>
+        </p>
+        <q who="gotamo">
+          <p>何等為意刀劍生諸苦報？如一會主造作大會，作是思惟：我作邪盛大會，當殺爾所少壯特牛，爾所水特、水牸，爾所羊犢及種種諸蟲。是名意刀劍生諸苦報。如是施主雖念作種種布施、種種供養，實生於罪！</p>
+        </q>
+        <q who="gotamo">
+          <p>云何為口刀劍生諸苦報？有一會主造作大會，作如是教：我今作邪盛大會，汝等當殺爾所少壯特牛，……乃至殺害爾所微細蟲。是名口刀劍生諸苦報。大會主雖作是布施、供養，實生於罪！</p>
+        </q>
+        <q who="gotamo">
+          <p>云何為身刀劍生諸苦報？謂有一大會主造作大會，自手傷殺爾所特牛，……乃至殺害種種細蟲，是名身刀劍生諸苦報。彼大會主雖作是念種種布施、種種供養，實生於罪！</p>
+        </q>
+        <q who="gotamo">
+          <p>然婆羅門當勤供養三火，隨時恭敬，禮拜奉事，施其安樂。何等為三？一者根本，二者居家，三者福田。</p>
+        </q>
+        <q who="gotamo">
+          <p>何者為根本<anchor type="variant" n="fnT02p0024n06"/>火，隨時恭敬，奉事供養，施其安樂？謂善男子方便得財，手足勤苦，如法所得，供養父母，令得安樂，是名根本火。何故名為根本？若善男子從彼而生，所謂父母，故名根本。善男子以崇本故，隨時恭敬，奉事供養，施以安樂。</p>
+        </q>
+        <q who="gotamo">
+          <p>何等為居家火，善男子隨時育<anchor type="variant" n="fnT02p0025n01"/>養，施以安樂？謂善男子方便得財，手足勤苦，如法所得，供給妻子、宗親、眷屬、僕使、傭客，隨時給與，恭敬施安，是名家火。何故名<anchor type="variant" n="fnT02p0025n02"/>家？其善男子處於居家，樂則同樂，苦則同苦，在所為作皆相順從，故名為<anchor type="variant" n="fnT02p0025n03"/>家。是故善男子隨時供給，施與安樂。</p>
+        </q>
+        <q who="gotamo">
+          <p>何等名福田火，善男子隨時恭敬，尊重供養，施其安樂？謂善男子方便得財，手足勤勞，如法所得，奉事供養諸沙門、婆羅門——善能調伏貪、恚、癡者，如是等沙門、婆羅門，建立福田，崇向增進，樂分樂報，未來生天，是名福田火。何故名田？為世福田，謂為應供，是故名田。是善男子隨時恭敬，奉事供養，施其安樂。</p>
+        </q>
+        <p>爾時世尊復說偈言：</p>
+        <q who="gotamo">
+          <lg met="5" xml:id="cgtn0099-0093a">
+            <l>根本及居家<caesura/>應供福田火</l>
+            <l>是火增供養<caesura/>充足安隱樂</l>
+            <l>無罪樂世間<caesura/>慧者往生彼</l>
+            <l>如法財復會<caesura/>供養所應養</l>
+            <l>供養應養故<caesura/>生天得名稱</l>
+          </lg>
+        </q>
+        <q who="gotamo">
+          <p>然，婆羅門！今善男子<anchor type="variant" n="fnT02p0025n04"/>先所供養三火應斷令滅。何等為三？謂貪欲火、瞋恚火、愚癡火。所以者何？若貪火不斷不滅者，自害害他，自他俱害，現法得罪，後世得罪，現法後世得罪，緣彼而生心法憂苦；恚火、癡火亦復如是。婆羅門！若善男子事積薪火，隨時辛苦，隨時然，隨時滅火因緣受苦。</p>
+        </q>
+        <p>爾時長身婆羅門默然而住。時有婆羅門子名<name type="person">鬱多羅</name>，於會中坐。長身婆羅門須臾默然，思惟已，告鬱多羅：</p>
+        <q who="uggatasarira">
+          <p>汝能往至邪盛會所，放彼繫柱特牛及諸眾生受繫縛者，悉<anchor type="variant" n="fnT02p0025n05"/>皆放不？而告之言：<q who="欝多羅">長身婆羅門語汝：<q who="uggatasarira">隨意自在，山澤曠野，食不斷草，飲淨流水，四方風中受諸快樂。</q>
+            </q>
+          </p>
+        </q>
+        <p>鬱多羅白言：<q who="欝多羅">
+            <p>隨大師教！</p>
+          </q>
+        </p>
+        <p>既往彼邪盛會所放諸眾生，而告之言：<q who="欝多羅">
+            <p>長身婆羅門語汝：<q who="uggatasarira">隨其所樂，山澤曠野，飲水食草，四風自適。</q>
+            </p>
+          </q>
+        </p>
+        <p>爾時世尊知鬱多羅。知已，為長身婆羅門種種說法，示教照喜。如律，世尊說法先後，說戒、說施及生天功德，愛、欲、味、患，出要清淨，煩惱清淨，開示顯<anchor type="variant" n="fnT02p0025n06"/>現，譬如鮮淨白</p>
+        <p>時長身婆羅門見法、得法、知法、入法，度諸疑惑，不由他度，於正法中得無所畏。既從座起，<anchor type="variant" n="fnT02p0025n07"/>整衣服，偏袒右肩，合掌白佛：<q who="uggatasarira">
+            <p>已度，世尊！我從今日盡其壽命。歸佛、歸法、歸比丘僧，為優婆塞，證知我！<anchor type="variant" n="fnT02p0025n08"/>唯願世尊與諸大眾受我飯食！</p>
+          </q>
+        </p>
+        <p>爾時世尊默然而許。時長身婆羅門知佛受請已，為佛作禮，右繞三匝而去。長身婆羅門還邪盛處，<anchor type="variant" n="fnT02p0025n09"/>所諸供辦淨美好者，布置床座，遣使請佛，白言：<q who="uggatasarira">
+            <p>時到，惟聖知時！</p>
+          </q>
+        </p>
+        <p>
+          爾時世尊著衣持缽，大眾圍繞，往到長身婆羅門會所，大眾前坐。
+                           時長身婆羅門知世尊坐定已，手自供養種種飲食。食已，澡漱洗缽畢，別敷卑床，於大眾前端坐聽法。
+        </p>
+      </div>
+      <div type="closing">
+        <p>爾時世尊為長身婆羅門說種種法，示教照喜已，從座起而去。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

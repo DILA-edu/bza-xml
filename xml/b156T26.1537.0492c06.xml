@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 156. It is found in the 阿毘達磨法蘊足論（覺支品十五之一） Abhidharma at T.26.1537.0492.</p>
+      </div>
+    </front>
+    <body xml:id="T26.1537.0492c06">
+      <anchor type="start" xml:id="t26.1537.0492c06"/>
+      <div type="parallel">
+        <p>
+          <seg type="not-parallel">云何喜覺支。謂世尊說。</seg>
+        </p>
+        <p>大名當知。若聖弟子。以如是相隨念諸佛。謂此世尊。是如來阿羅漢正等覺明行圓滿善逝世間解無上丈夫調御士天人師佛薄伽梵。彼聖弟子。以如是相隨念佛時。貪不纏心。瞋不纏心。癡不纏心。於如來所。其心正直。心正直故。得義威勢。得法威勢。於如來所。能引起欣。欣故生喜心。喜故身安。身安故受樂。樂故心定。心定故於不平等諸有情類。得住平等。於有惱害諸有情類。住無惱害。得預<anchor type="variant" n="fnT26p0492n03"/>法流於諸佛所脩隨念故。乃至能證究竟涅槃。</p>
+        <p>復次大名。若聖弟子。以如是相隨念正法。謂佛正法。善說現見。無熱應時。引導<anchor type="variant" n="fnT26p0492n04"/>近觀。智者內證。彼聖弟子。以<anchor type="variant" n="fnT26p0492n05"/>如是相隨念法時。貪不纏心。瞋不纏心。癡不纏心。於正法所。其心正直。心正直故。得義威勢。得法威勢。於正法所。能引起欣欣故生喜心。喜故身安。身安故受樂。樂故心定。心定故於不平等諸有情類。得住平等。於有惱害諸有情類。住無惱害。得預法流。於正法所。脩隨念故。乃至能證究竟涅槃。</p>
+        <p>復次大名。若聖弟子。以<anchor type="variant" n="fnT26p0492n05"/>如是相隨念僧伽。謂佛弟子。具足妙行。質直行。如理行。法隨法行。和敬行。隨法行。又佛弟子。有預流向。有預流果。有一來向。有一來果。有不還向。有不<pb ed="T" n="0493a"/>還果。有阿羅漢向。有阿羅漢果。如是總有四雙八隻補特伽羅。如是僧伽。戒具足。定具足。慧具足。解脫具足。解脫<anchor type="variant" n="fnT26p0493n01"/>智見具足。應請應屈。應恭敬無上福田。世所應供。彼聖弟子。以如是相隨念僧時。貪不纏心。瞋不纏心。癡不纏心。於僧伽所。其心正直。心正直故。得義威勢。得法威勢。於僧伽所。能引起欣。欣故生喜。心喜故身安。身安故受樂。樂故心定。心定故於不平等諸有情類。得住平等。於有惱害諸有情類。住無惱害。得預法流。於僧伽所。脩隨念故。乃至能證究竟涅槃。</p>
+        <p>復次大名。若聖弟子。以如是相隨念自戒謂我淨戒。不缺不穿。不雜不穢。堪受供養無隱昧。善究竟。善受持。智者稱讚。常無譏毀。彼聖弟子。以如是相隨念自戒時。貪不纏心。瞋不纏心。癡不纏心。於自戒所。其心正直。心正直故。得義威勢。得法威勢。於自戒所。能引起欣。欣故生喜。心喜故身安身安故受樂。樂故心定。心定故於不平等諸有情類。得住平等。於有惱害諸有情類。住無惱害。得預法流。於自戒所。脩隨念故。乃至能證究竟涅槃。</p>
+        <p>復次大名。若聖弟子。以如是相隨念自施。謂我今者善得勝利。雖居無量慳垢所纏眾生<anchor type="variant" n="fnT26p0493n02"/>眾中。而心遠離一切慳垢。能行惠施。雖處居家。而能不著一切財寶。舒手布施。作大祠祀。供養福田。惠捨具足。樂等分布。彼聖弟子。以如是相隨念自施時。貪不纏心。瞋不纏心。癡不纏心。於自施所。其心正直。心正直故。得義威勢。得法威勢。於自施所。能引起欣。欣故生喜。心喜故<pb ed="T" n="0493b"/>身安。身安故受樂。樂故心定。心定故於不平等諸有情類。得住平等。於有惱害諸有情類。住無惱害。得預法流。於自施所。脩隨念故。乃至能證究竟涅槃。</p>
+        <p>復次大名。若聖弟子。以如是相隨念諸天。謂有四大王眾天。三十三天。夜摩天。覩史多天。樂變化天。<anchor type="variant" n="fnT26p0493n03"/>他化自在天。如是諸天。成就信故戒故聞故捨故慧故。從此處沒。生彼天中。受諸快樂。我亦有信。戒聞捨慧。亦當生彼。與諸天眾。同受快樂。彼聖弟子。以如是相隨念天時。貪不纏心。瞋不纏心。癡不纏心。於諸天所。其心正直。心正直故。得義威勢。得法威勢。於諸天所。能引起欣。欣故生喜。心喜故身安。身安故受樂。樂故心定。心定故於不平等諸有情類。得住平等。於有惱害諸有情類。住無惱害。得預法流。於諸天所。脩隨念故。乃至能證究竟涅槃。彼脩如是六隨念時。所有無漏作意相應。心欣極欣。現前極欣。欣性欣類。適意<anchor type="variant" n="fnT26p0493n04"/>悅意。喜性喜類。樂和合不別離。歡欣悅預。有堪任性。踊躍<anchor type="variant" n="fnT26p0493n05"/>踊躍性。歡喜歡喜性。總名為喜。亦名喜覺支。是聖出世無漏無取道隨行道俱有道隨轉。能<anchor type="variant" n="fnT26p0493n06"/>正盡苦。<anchor type="variant" n="fnT26p0493n07"/>住苦邊際。諸有學者如所見諸行。思惟觀察。令至究竟。於諸行中深見過患。於永涅槃深見功德。若阿羅漢。如解脫心。思惟觀察。令至究竟。所有無漏作意相應。心欣極欣。乃至歡喜歡喜性。<seg type="not-parallel">是名喜覺支。</seg>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

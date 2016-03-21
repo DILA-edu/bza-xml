@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                      法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                            Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                            text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                            lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                            Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                            edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+            (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+            (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                            comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                            the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                            literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                        English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project is funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project is to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. The texts are kept in single files in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasts from 2005-2008. For any changes after 2008 see the revision
+                          description.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō).</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="bza043">
+      <anchor type="start" xml:id="Tp0387c21"/>
+      <div type="opening" xml:id="obza043">
+        <p n="bza043.01">如是我聞：一時佛在<name type="place">舍衛國</name>
+          <name type="place">祇樹給孤獨園</name>。</p>
+      </div>
+      <div type="main" xml:id="mbza043">
+        <p n="bza043.02">爾時世尊告諸比丘：</p>
+        <q who="gotamo">
+          <p n="bza043.03">昔阿修羅集諸四兵：象、馬、車、步，悉皆嚴備鬪戰之具，欲詣<name type="place">忉利天宮</name>，與諸天共鬪。爾時<name type="person">帝釋</name>聞阿修羅莊嚴四兵，即告<name type="person">須毘羅</name>天子：<q who="sakko">我聞阿脩羅莊嚴四兵。汝亦莊嚴四兵，往與共鬪！</q>須毘羅白言：<q who="suviro">此事最善！</q>作是語已，縱逸著樂，不憶此事。帝釋聞阿脩羅已來出城，復召須毘羅言：<q who="sakko">阿脩羅今已出城。汝可莊嚴四兵，往彼共鬪！</q>須毘<pb ed="T" xml:id="T02.0100.0388a" n="0388a"/>羅白言：<q who="suviro">
+              <name type="person">憍尸迦</name>！此是善事！</q>須毘羅仍爾著樂，不修戰備。阿脩羅莊嚴四兵，已至須彌山上，漸欲近來。帝釋復言：<q who="sakko">我聞阿修羅漸來逼近。汝將四兵，可往擊之！</q>須毘羅即說偈言：<q who="suviro">
+              <lg n="bza043.04" met="7" xml:id="cg043a">
+                <l>若有清閑無事處<caesura/>唯願與我如此處</l>
+              </lg>
+            </q>                    　　　
+                    帝釋即說偈答言：<q who="sakko">
+              <lg n="bza043.05" met="7" xml:id="cg043b">
+                <l>若有如此閑樂處<caesura/>汝當將我共至彼</l>
+              </lg>
+            </q>
+                    須毘羅復說偈言：<q who="suviro">
+              <lg n="bza043.06" met="7" xml:id="cg043c">
+                <l>我今懈怠不欲起<caesura/>雖具聞知不莊嚴</l>
+                <l>天女五欲光四塞<caesura/>唯願帝釋與此願</l>
+              </lg>
+            </q>                                     　　　
+                    帝釋以偈答言：<q who="sakko">
+              <lg n="bza043.07" met="7" xml:id="cg043d">
+                <l>若有如此懈墮處<caesura/>百千天女而圍遶</l>
+                <l>五欲自恣受快樂<caesura/>汝若往彼與我俱</l>
+              </lg>
+            </q>
+                    須毘羅復說偈言：<q who="suviro">
+              <lg n="bza043.08" met="7" xml:id="cg043e">
+                <l>天王若無事役處<caesura/>與我無苦受斯樂</l>
+              </lg>
+            </q>
+                    帝釋以偈答言：<q who="sakko">
+              <lg n="bza043.09" met="7" xml:id="cg043f">
+                <l>汝須毘羅有如是<caesura/>我當與汝同是樂</l>
+                <l>頗曾見聞無事業<caesura/>而得生活受樂者</l>
+                <l>汝今若有如是處<caesura/>可疾速往可隨汝</l>
+                <l>汝當畏事好閑處<caesura/>應當速疾向涅槃</l>
+              </lg>
+            </q>
+                    聞是語已，須毘羅即集四兵，出與阿脩羅戰。時諸天得勝，阿脩羅退壞。阿脩羅已種種莊嚴而來還宮。</p>
+        </q>
+        <p n="bza043.10">佛告諸比丘：</p>
+        <q who="gotamo">
+          <p n="bza043.11">
+            <name type="person">釋提桓因</name>處天王位，得大自在，猶自精勤，讚嘆精進，況復汝等信心出家，被服法衣，而當不勤精進，讚嘆精進。若能精進，讚嘆精進，如是為應出家之法。</p>
+        </q>
+      </div>
+      <div type="closing" xml:id="cbza043">
+        <p n="bza043.12">佛說是已，<app n="fnT02p0388n01">
+            <lem wit="【大】">諸</lem>
+            <rdg resp="Taisho" wit="【宋】【元】【明】"/>
+          </app>諸比丘聞佛所說，歡喜奉行。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

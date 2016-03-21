@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Hosoda 1991: 140-153</head>
+        <p>From Noriaki Hosoda 細田典明: Bonbun Zōagongyō Busshosetsuhon Gedōsōō (2) [Sanskrit fragments from the Parivrājakasaṃyukta of the Saṃyuktāgama (2) 梵文《雑阿含経》仏所說品外道相応(Ⅱ)]. Hokkaido Journal of Indological and Buddhist Studies《印度哲学仏教学》4: 140-153. This is part of the text-cluster of BZA (T.100) sutra 203.</p>
+      </div>
+    </front>
+    <body xml:lang="sa">
+      <anchor type="start" xml:id="hos1989b.144"/>
+      <div type="parallel">
+        <note type="reference">「長爪経」B1. 162 V2-166 R5: Dīrghanakha（MN I, pp. 497-501 (Dīghanakha) .）; 『雑含』第九六九経、『別訳』第二〇三経「長爪」</note>
+        <p>§1 <note type="reference">(V2)</note>|| bhagavāṃ rājagṛhe vihara(ti veṇuvane kalandakanivāpe. atha dīrghanakhaḥ parivrājako yena bhagavāṃs tenopajagāma. upetya bhagavatā sārdhaṃ saṃmu)<note type="reference">(V3)</note>khaṃ saṃmodanīṃ saṃraṃjanīṃ kathāṃ vivi(dhām upasaṃhṛtya, ekānte nyaṣīdad. ekāntaniṣaṇṇo dīrghanakhaḥ parivrājako bhagavantam idam avocat.)</p>
+        <p>§2 (sarvaṃ me) <note type="reference">(V4)</note>bho gautama na kṣamati﹙.﹚ eṣāpi (te, agnivaiśyāyana dṛṣṭir na kṣamati yeyaṃ dṛṣṭiḥ sarvaṃ me na kṣamati, eṣāpi me dṛṣṭir na kṣamati, yeyaṃ me dṛṣṭiḥ)<note type="reference">(V5)</note>sarvaṃ me na kṣamati﹙.﹚</p>
+        <p>§3 api nu [te] (agnivaiśyāyana, evaṃ jānata evaṃ paśyato 'syāś ca dṛṣṭeḥ prahāṇaṃ bhaviṣyati pratiniḥsargo vyantibhāvaḥ, anyasyāś ca dṛṣṭer apra) <note type="reference">(R1)</note>tisandhir anupādānam a[prā](durbhāvaḥ. api me bho gautama, evaṃ jānata evaṃ paśyato 'syāś ca dṛṣṭeḥ prahāṇaṃ bhaviṣyati pratiniḥsargo vyantibhāvaḥ, anyasyāś ca dṛ)<note type="reference">(R2)</note>ṣṭer apratisandhir anupā[dā]na(m aprādurbhāvaḥ.)</p>
+        <p>§4 (bahujanena te, agnivaiśyāyana<note type="footnote">Avś では写本にない na をここに揷入するが、蔵訳にも否定辞はなく、本経においても漢訳の通り不要である。</note>saṃsyadiṣyati, bahujano<note type="footnote">Avś では “bahujana …… nopādante.” まで欠落。東大写本(No. 28)も同様。蔵訳より補う。</note>'pi evaṃdṛṣṭirbhavati, evaṃvādī. tva)<note type="reference">(R3)</note>m api syāt tādṛśa eva ye ke ci[d] (agnivaiśyāyana śramaṇā vā brāhmaṇā vā imāṃ ca dṛṣṭiṃ pratiniḥsṛjanty anyāṃ ca dṛṣṭiṃ nopādante. ima)<note type="reference">(R4)</note>ucyante śramaṇā vā brāh(maṇā vā tanubhyas tanutarā loke.)<note type="footnote">Avś では loke を trayaḥ 以下に続けるが、蔵訳及び本漢訳により改める。</note>
+        </p>
+        <p>§5 (traya ime, agnivaiśyāyana dṛṣṭisaṃniśrayāḥ. katame trayaḥ. ihāgnivaiśyāyana, eka evaṃdṛṣṭi)<note type="reference">(R5)</note>r bhavati﹙.﹚ evaṃvādī﹙.﹚ (sarvaṃ me kṣamati. punar aparam ihaika evaṃdṛṣṭir bhavati, evaṃvādī. sarvaṃ me na kṣamati. punar aparam ihaika evaṃdṛṣṭir bhavati, evaṃ)<note type="reference">(B1. 163)</note>vādī﹙.﹚ ekatyaṃ me kṣamat[i﹙.﹚ e] ka(tyaṃ me na kṣamati.)</p>
+        <p>§6 (tatrāgnivaiśyāyana yeyaṃ dṛṣṭiḥ sarvaṃ me kṣamati. iyaṃ dṛṣṭiḥ saṃrāgāya saṃvarttate nāsaṃrāgāya saṃdve)<note type="reference">(V2)</note>ṣāya nāsaṃdveṣāya saṃmohāya (nāsaṃmohāya saṃyogāya nāsaṃyogāya saṃkleṣāy na vyavadānāya saṃcayāya nāpacayāya, abhinandanāyopādānāya,)<note type="reference">(V3)</note>adhyavasānāya saṃvarttate﹙.﹚</p>
+        <p>§7 yeyaṃ (dṛṣṭiḥ<note type="footnote">以下の復原梵文は二〇シラブル程不足しているが、漢訳にも Avś にも補うべき文はない。</note>sarvaṃ me na kṣamati. iyaṃ dṛṣṭir asaṃrāgāya saṃ)<note type="reference">(V4)</note>varttate na saṃrāgāya﹙.﹚ asaṃdveṣāya (na saṃdveṣāya, asaṃmohāya na saṃmohāya, asaṃyogāya<note type="footnote">Avś: visaṃyogāya.</note>na saṃyogāya, vyavadānāya na saṃkleṣāya, asaṃcayāya na saṃcayā)<note type="reference">(V5)</note>ya﹙.﹚ anabhinandanāyānupād(ānāya, anadhyavasānāya saṃvarttate.)</p>
+        <p>§8 (tatrāgnivaiśyāyana yeyaṃ dṛṣṭir ekatyaṃ me kṣa)<note type="reference">(R1)</note>mati﹙.﹚ ekatyaṃ me na kṣamati ya(t tāvad asya kṣamati tat saṃrāgāya saṃvarttate nāsaṃrāgāya pūrvavad yāvad adhyavasānāya saṃvarttate yad a)<note type="reference">(R2)</note>sya na kṣamati tad asaṃrāgāya saṃ(varttate na saṃrāgāya pūrvavad yāvad anadhyavasānāya saṃvarttate.)</p>
+        <p>§9 (tatra śrutavān āryaśrāvaka i)<note type="reference">(R3)</note>taḥ pratisaṃśikṣati﹙.﹚ ahaṃ ced e(vaṃdṛṣṭiḥ syām evaṃvādī sarvaṃ me kṣamati, dvābhyāṃ me sārdhaṃ syād vigrahaḥ syād vivādaḥ. yaś caivaṃdṛṣṭir evaṃvādī sarvaṃ)<note type="reference">(R4)</note>me na kṣamati﹙.﹚ yaś caivaṃdṛṣṭir evaṃ(vādī, ekatyaṃ me kṣamati, ekatyaṃ na me kṣamati, vigrahe sati vivādo vivāde sati vihiṃsā. iti sa vi)<note type="reference">(R5)</note>grahaṃ ca vivādaṃ ca [v]i[h]i(ṃ)sā[ṃ] (ca samanupaśyann imāṃ ca dṛṣṭiṃ pratinisṛjaty anyāṃ ca dṛṣṭiṃ nopādatte. evam asyāś ca dṛṣṭer prahāṇaṃ bhavati)<note type="reference">(B1. 164)</note>pratiniḥsargo vyantibhāva a(nyasyāś ca dṛṣṭer apratisandhir anupādānam aprādurbhāvaḥ.)</p>
+        <p>§10 (tatra śrutavān āryaśrāvaka itaḥ pratisaṃśikṣati, ahaṃ ced evaṃ) <note type="reference">(V2)</note>dṛṣṭiḥ syām evaṃvādī sarvaṃ me na (kṣamati. dvābhyāṃ me sārdhaṃ syād vigrahaḥ syād vivādaḥ. yaś cairvaṃdṛṣṭir evaṃvādī sarvaṃ me kṣamati, yaś caivaṃdṛṣṭir e)<note type="reference">(V3)</note>vaṃvādī﹙.﹚ ekatyaṃ me kṣamati﹙.﹚ ekatyaṃ (me na kṣamati. vigrahe sati vivādo vivāde sati vihiṃsā pūrvavad yāvad apratisandhir anupādānam aprādurbhāvaḥ.)</p>
+        <p>§11 (ta)<note type="reference">(V4)</note>tra śrutavān āryaśrāvaka itaḥ (pratisaṃśikṣati, ahaṃ ced evaṃdṛṣṭiḥ syām evaṃvādī, edatyaṃ me kṣamati, ekatyaṃ me na kṣamati. dvābhyāṃ me sā)<note type="reference">(V5)</note>rdhaṃ syāt* vigrahaḥ syād vivādo [y](aś caivaṃdṛṣṭir evaṃvādī sarvaṃ me kṣamati yaś caivaṃdṛṣṭir evaṃvādī sarvaṃ me na kṣamati vigrahe sati vivādaḥ pūrva)<note type="reference">(R1)</note>vad yāvad apratisandhir anupadā(naṃ aprādurbhāvaḥ.)</p>
+        <p>§12 (ayaṃ khalv agnivaiśyāyana kāyo rūpī audārikaś cātrumahābhūtika<note type="footnote">Speijer は、ここに iti を補う。See p. 191, n. 5.</note>āryaśrāvakeṇa, abhīkṣaṇam anityā)<note type="reference">(R2)</note>nupaśyinā viharttavyaṃttavy vyayā(nupaśyinā virāgānupaśyinā nirodhānupaśyinā pratiniḥsargānupaśyinā viharttavyam. yatrāryaśrāvaka)<note type="reference">(R3)</note>syānityānupaśyino viharato (vyayānupaśyino virāgānupaśyino nirodhānupaśyinaḥ<note type="footnote">Avś にはないが、「觀滅盡」に対応すべく補う。Vgl. NidSa 1, 10; 2, 10.</note>pratiniḥsargānupaśyino viharato yo 'sya bha)<note type="reference">(R4)</note>vati kāye kāyacchandaḥ k(āyasnehaḥ kāyapremā kāyālayaḥ<note type="footnote">漢訳は「身欲身念身愛身染身著」の五種で、この語が対応しない。しかし、蔵訳でも六種を立て、シラブル数の上からも数が不足するため削除しない。</note>kāyaviṣaktiḥ kāyādhyavasānaṃ tac cāsya cittaṃ na paryādā)<note type="reference">(R5)</note>ya tiṣṭhati﹙.﹚</p>
+        <p>§13 tisra (i)mā (agnivaiśyāyana vedanāḥ. katamās tisraḥ. sukhā vedanā duḥkhā vedanā, aduḥkhāsukhā vedanā ca. i)<note type="reference">(B1. 165)</note>tīmās tisro vedanāḥ kiṃnid(ānāḥ kiṃsamudayāḥ kiṃjātīyāḥ kiṃprabhavāḥ. itīmā vedanā sparśanidānāḥ sparśasamudayāḥ sparśajātīyāḥ)<note type="reference">(V2)</note>sparśaprabhavās tasya tasya s[p](arśasya samudayāt tās tā vedanāḥ samudayanti. tasya tasya sparśasya nirodhāt<note type="footnote">Vgl. NidSa 10. 10; 8. 3.</note>tās tā vedanā nirudhyante vyupa)<note type="reference">(V3)</note>śamanti śītībhavaṃti astaṅgacchaṃti﹙.﹚</p>
+        <p>§14 (sa yāṃ kāñcid vedanāṃ vedayati sukhāṃ vā duḥkhāṃ vā, aduḥkhāsukhāṃ vā tāsāṃ vedanānāṃ samudayaṃ cā)<note type="reference">(V4)</note>staṃgamaṃ cāsvādaṃ cādīnavaṃ ca niḥ(saraṇaṃ ca<note type="footnote">Vgl. SHT Ⅲ, Kat.-Nr. 865 V1, 2, 3, 7, R4; Ⅳ, Kat.-Nr. 30 b V6; Poussin, JRAS 1903, Kha Ⅱ ld, 10c, 12a.</note>yathābhūtaṃ prajānāmīti. tasya vedanānāṃ samudayaṃ cāstaṃgamaṃ cāsvādaṃ cādīnavaṃ ca niḥ)<note type="reference">(V5)</note>saraṇaṃ ca yathābhūtaṃ prajā(nata utpannāsu vedanāsv anityānupaśyī viharati vyayānupaśyī virāgānupaśyī nirodhānupaśyī pratiniḥsargānu)<note type="reference">(R1)</note>paśyī viharati﹙.﹚</p>
+        <p>§15 sa kāy(aparyantikāṃ vedanāṃ vedayānaḥ kāyaparyantikāṃ vedanāṃ vedayāmīti yathābhūtaṃ prajānāti. jīvitaparyantikāṃ vedanāṃ veda<note type="reference">(R2)</note>)yāno jīvitaparyantikāṃ veda[nāṃ] (vedayāmīti yathābhūtaṃ prajānāti. bhedāc ca kāyasyordhvaṃ jīvitaparyādānād ihaivāsya sarvāṇi)<note type="reference">(R3)</note>vedayitāni apariśeṣaṃ niru(dhyante. apariśeṣam adhyastaṃ parikṣayaṃ paryādānaṃ gacchanti.)</p>
+        <p>§16 (tasyaivaṃ bhavati sukhām api vedanāṃ vedayāno) <note type="reference">(R4)</note>bhedāt kāyasya bhaviṣya(ti, eṣa evānto duḥkhasya. duḥkhām apy aduḥkhāsukhām api vedanāṃ vedayāno bhedāt kāyasya bhaviṣyati, e)<note type="reference">(R5)</note>ṣaivānto duḥkhasya﹙.﹚ (sa sukhām api vedanāṃ vedayati visaṃyukto vedayati na saṃyuktaḥ. duḥkhām apy aduḥkhāsukhām api vedanāṃ vedayati visaṃyukto)<note type="reference">(B1. 166)</note>vedayati na saṃyukt(aḥ. kena visaṃyuktaḥ. visaṃyukto rāgeṇa dveṣeṇa mohena visaṃyukto jātijarāvyādhimaraṇaśokaparidevaduḥkhadaurmanasyopā)<note type="reference">(V2)</note>yāsebhyo visaṃyukto duḥkh(ād iti vadāmi.)</p>
+        <p>§17 (tena khalu samayenāyuṣmāñ chāriputro 'rdhamāsopasaṃpanno bhagavataḥ pṛṣṭhataḥ sthito 'bhū)<note type="reference">(V3)</note>d vyajanaṃ gṛhītvā bhagavantaṃ vīja(yan. athāyuṣmataḥ śāriputrasyaitad abhavat. bhagavāṃs teṣāṃ dharmāṇāṃ prahāṇam eva varṇayati vi)<note type="reference">(V4)</note>rāgam eva nirodham eva pratiniḥ(sargam eva varṇayati. athāyuṣmataḥ śāriputrasyaiṣāṃ dharmāṇām anityatānupaśyinaḥ viharato vyayā)<note type="reference">(V5)</note>nupaśyino virāgānupaśyino (nirodhānupaśyinaḥ pratiniḥsargānupaśyino viharataḥ. anupādāyāsravebhaś cittaṃ vimuktam.)</p>
+        <p>§18 (dīrghanakhasya ca parivrāja)<note type="reference">(R1)</note>kasya virajo vigatamalaṃ<note type="footnote">以下の定形句は一行分オーバー。しかし漢訳には省略すべき部分はない。</note>(dharmeṣu dharmacakṣur utpannam. atha dīrghanakhaḥ parivrājako dṛṣṭadharmā prāptadharmā viditadharmā paryavagāḍhadharmā tīṇakāṅkṣas tīrṇavicikitso 'parapratyayo 'nanyaneyaḥ śāstuḥ śāsane dharmeṣu vaiśāradyaprāpta utthāyāsanād ekāṃsam uttarāsaṅgaṃ kṛtvā yena bhagavāṃs tenāñjaliṃ pra)<note type="reference">(R2)</note>ṇamya bhagavantam idam avoca(t.)</p>
+        <p>§19 (labheyāhaṃ bhadanta svākhyāte dharmavinaye pravrajyām upasaṃpadaṃ bhikṣubhāvam. careyam ahaṃ bhagavato 'nti)<note type="reference">(R3)</note>ke brahmacaryaṃ﹙.﹚ labdhavāṃ dīrgha(nakhaḥ parivrājakaḥ svākhyāte dharmavinaye pravrajyām upasaṃpadaṃ bhikṣubhāvam. evaṃ pravrajitaḥ sa āyu)<note type="reference">(R4)</note>ṣmāṃ yasyārthe kulaputrā(ḥ keśaśmasrūṇy avatārya kāṣāyāṇi vastrāṇy ācchādya samyag eva śraddhayāgārād anagārikāṃ pravrajanti. pūrvavad yāvad<note type="footnote">このあたりで次行に改行される筈であるが、次行の梵文断片の意味が不明なため未解決である。</note>arhan babhūva suvimuktacittah.)</p>
+        <lg>
+          <l>......... (a)<note type="reference">(R5)</note>pi nu tava jānato<note type="footnote">この行と次の行の梵文の意味不明。Cf. §3 “api nu te agnivaiśyañyana, evaṃ jānata … ”漢訳では、ここで第三十四卷が終了するため、uddāna等の一部とも考えられる。</note>.........</l>
+          <l>......... <note type="reference">(B1. 167)</note>yoyaḥ śāriputreṇa .........</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

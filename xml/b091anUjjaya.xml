@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Ujjayasuttaṃ</head>
+        <p>From the VRI Chaṭṭa Saṅgāyana edition. PTS: AN, IV, 285. This is part of the text-cluster of BZA (T.100) sutra 091.</p>
+      </div>
+    </front>
+    <body xml:lang="pi">
+      <anchor type="start" xml:id="pts.an.04.285"/>
+      <div type="parallel">
+        <p>Atha kho <name type="person">ujjayo</name>brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho ujjayo brāhmaṇo bhagavantaṃ etadavoca– “<seg type="not-parallel">mayaṃ, bho gotama, pavāsaṃ gantukāmā. Tesaṃ no bhavaṃ <name type="person">gotamo</name>amhākaṃ tathā dhammaṃ desetu– ye amhākaṃ assu dhammā diṭṭhadhammahitāya, diṭṭhadhammasukhāya, samparāyahitāya, samparāyasukhāyā”</seg>ti.</p>
+        <p>“Cattārome, brāhmaṇa, dhammā kulaputtassa diṭṭhadhammahitāya saṃvattanti, diṭṭhadhammasukhāya. Katame cattāro? Uṭṭhānasampadā ārakkhasampadā, kalyāṇamittatā, samajīvitā.</p>
+        <p>Katamā ca, brāhmaṇa, uṭṭhānasampadā? Idha, brāhmaṇa, kulaputto yena kammaṭṭhānena jīvikaṃ kappeti– yadi kasiyā, yadi vaṇijjāya, yadi gorakkhena, yadi issattena, yadi rājaporisena, yadi sippaññatarena– tattha dakkho hoti analaso, tatrupāyāya vīmaṃsāya samannāgato, alaṃ kātuṃ alaṃ saṃvidhātuṃ. Ayaṃ vuccati, brāhmaṇa, uṭṭhānasampadā.</p>
+        <p>“Katamā ca, brāhmaṇa, ārakkhasampadā? Idha, brāhmaṇa, kulaputtassa bhogā honti uṭṭhānavīriyādhigatā, bāhābalaparicitā, sedāvakkhittā, dhammikā dhammaladdhā. Te ārakkhena guttiyā sampādeti– ‘kinti me ime bhoge neva rājāno hareyyuṃ, na corā hareyyuṃ, na aggi ḍaheyya, na udakaṃ vaheyya, na appiyā dāyādā hareyyun’ti. Ayaṃ vuccati, brāhmaṇa, ārakkhasampadā.</p>
+        <p> “Katamā ca, brāhmaṇa, kalyāṇamittatā? Idha, brāhmaṇa, <seg type="not-parallel">kulaputto yasmiṃ gāme vā nigame vā paṭivasati tatra ye te honti– gahapatī vā gahapatiputtā vā daharā vā vuddhasīlino, vuddhā vā vuddhasīlino, saddhāsampannā, sīlasampannā, cāgasampannā, paññāsampannā– tehi saddhiṃ santiṭṭhati sallapati sākacchaṃ samāpajjati; yathārūpānaṃ saddhāsampannānaṃ saddhāsampadaṃ anusikkhati, yathārūpānaṃ sīlasampannānaṃ sīlasampadaṃ anusikkhati, yathārūpānaṃ cāgasampannānaṃ cāgasampadaṃ anusikkhati, yathārūpānaṃ paññāsampannānaṃ paññāsampadaṃ anusikkhati.</seg>Ayaṃ vuccati, brāhmaṇa, kalyāṇamittatā.</p>
+        <p>“Katamā ca, brāhmaṇa, samajīvitā? Idha, brāhmaṇa, kulaputto āyañca bhogānaṃ viditvā vayañca bhogānaṃ viditvā samaṃ jīvikaṃ kappeti nāccogāḷhaṃ nātihīnaṃ– ‘evaṃ me āyo vayaṃ pariyādāya ṭhassati, na ca me vayo āyaṃ pariyādāya ṭhassatī’ti. <seg type="not-parallel">Seyyathāpi, brāhmaṇa, tulādhāro vā tulādhārantevāsī vā tulaṃ paggahetvā jānāti– ‘ettakena vā onataṃ, ettakena vā unnatan’ti;</seg>evamevaṃ kho, brāhmaṇa, kulaputto āyañca bhogānaṃ viditvā vayañca bhogānaṃ viditvā samaṃ jīvikaṃ kappeti nāccogāḷhaṃ nātihīnaṃ– ‘evaṃ me āyo vayaṃ pariyādāya ṭhassati, na ca me vayo āyaṃ pariyādāya ṭhassatī’ti. Sacāyaṃ, brāhmaṇa, kulaputto appāyo samāno uḷāraṃ jīvikaṃ kappeti, tassa bhavanti vattāro– ‘udumbarakhādīvāyaṃ kulaputto bhoge khādatī’ti. Sace panāyaṃ, brāhmaṇa, kulaputto mahāyo samāno kasiraṃ jīvikaṃ kappeti, tassa bhavanti vattāro– ‘ajeṭṭhamaraṇaṃvāyaṃ kulaputto marissatī’ti. Yato ca khoyaṃ, brāhmaṇa, kulaputto āyañca bhogānaṃ viditvā vayañca bhogānaṃ viditvā samaṃ jīvikaṃ kappeti nāccogāḷhaṃ nātihīnaṃ– ‘evaṃ me āyo vayaṃ pariyādāya ṭhassati, na ca me vayo āyaṃ pariyādāya ṭhassatī’ti, ayaṃ vuccati, brāhmaṇa, samajīvitā.</p>
+      </div>
+      <div type="not-parallel">
+        <p>“Evaṃ samuppannānaṃ, brāhmaṇa, bhogānaṃ cattāri apāyamukhāni honti– itthidhutto, surādhutto, akkhadhutto, pāpamitto pāpasahāyo pāpasampavaṅko. Seyyathāpi, brāhmaṇa, mahato taḷākassa cattāri ceva āyamukhāni, cattāri ca apāyamukhāni. Tassa puriso yāni ceva āyamukhāni tāni pidaheyya, yāni ca apāyamukhāni tāni vivareyya; devo ca na sammā dhāraṃ anuppaveccheyya. Evañhi tassa brāhmaṇa mahato taḷākassa parihāniyeva pāṭikaṅkhā, no vuddhi evamevaṃ kho, brāhmaṇa, evaṃ samuppannānaṃ bhogānaṃ cattāri apāyamukhāni honti– itthidhutto, surādhutto, akkhadhutto, pāpamitto pāpasahāyo pāpasampavaṅko.</p>
+        <p>“Evaṃ samuppannānaṃ, brāhmaṇa, bhogānaṃ cattāri āyamukhāni honti– na itthidhutto, na surādhutto, na akkhadhutto, kalyāṇamitto kalyāṇasahāyo kalyāṇasampavaṅko. Seyyathāpi, brāhmaṇa, mahato taḷākassa cattāri ceva āyamukhāni cattāri ca apāyamukhāni. Tassa puriso yāni ceva āyamukhāni tāni vivareyya, yāni ca apāyamukhāni tāni pidaheyya; devo ca sammā dhāraṃ anuppaveccheyya. Evañhi tassa, brāhmaṇa, mahato taḷākassa vuddhiyeva pāṭikaṅkhā, no parihāni; evamevaṃ kho, brāhmaṇa, evaṃ samuppannānaṃ bhogānaṃ cattāri āyamukhāni honti– na itthidhutto…pe… kalyāṇasampavaṅko. Ime kho, brāhmaṇa, cattāro dhammā kulaputtassa diṭṭhadhammahitāya saṃvattanti diṭṭhadhammasukhāya.</p>
+      </div>
+      <div type="parallel">
+        <p>“Cattārome, brāhmaṇa, kulaputtassa dhammā samparāyahitāya saṃvattanti samparāyasukhāya. Katame cattāro? Saddhāsampadā, sīlasampadā, cāgasampadā, paññāsampadā.<seg type="not-parallel">Katamā ca, brāhmaṇa, saddhāsampadā? Idha, brāhmaṇa, kulaputto saddho hoti, saddahati tathāgatassa bodhiṃ– ‘itipi so bhagavā…pe… satthā devamanussānaṃ buddho bhagavā’ti. Ayaṃ vuccati, brāhmaṇa, saddhāsampadā.</seg>
+        </p>
+        <p>“Katamā ca, brāhmaṇa, sīlasampadā? Idha, brāhmaṇa, kulaputto pāṇātipātā paṭivirato hoti…pe… surāmerayamajjapamādaṭṭhānā paṭivirato hoti. Ayaṃ vuccati, brāhmaṇa, sīlasampadā.</p>
+        <p>“Katamā ca, brāhmaṇa, cāgasampadā? Idha brāhmaṇa, kulaputto vigatamalamaccherena cetasā agāraṃ ajjhāvasati muttacāgo payatapāṇi vossaggarato yācayogo dānasaṃvibhāgarato. Ayaṃ vuccati, brāhmaṇa, cāgasampadā.</p>
+        <p>“Katamā ca, brāhmaṇa, paññāsampadā? Idha, brāhmaṇa, kulaputto paññavā hoti…pe… sammā dukkhakkhayagāminiyā. Ayaṃ vuccati, brāhmaṇa, paññāsampadā. Ime kho, brāhmaṇa, cattāro dhammā kulaputtassa samparāyahitāya saṃvattanti samparāyasukhāyā”ti.</p>
+        <lg>
+          <l>“Uṭṭhātā kammadheyyesu, appamatto vidhānavā;</l>
+          <l>samaṃ kappeti jīvikaṃ, sambhataṃ anurakkhati.</l>
+        </lg>
+        <lg>
+          <l>“Saddho sīlena sampanno, vadaññū vītamaccharo;</l>
+          <l>niccaṃ maggaṃ visodheti, sotthānaṃ samparāyikaṃ.</l>
+        </lg>
+        <lg>
+          <l>“Iccete aṭṭha dhammā ca, saddhassa gharamesino;</l>
+          <l>akkhātā saccanāmena, ubhayattha sukhāvahā.</l>
+        </lg>
+        <lg>
+          <l>“Diṭṭhadhammahitatthāya, samparāyasukhāya ca;</l>
+          <l>evametaṃ gahaṭṭhānaṃ, cāgo puññaṃ pavaḍḍhatī”ti.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

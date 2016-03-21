@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-0914">
+      <anchor type="start" xml:id="tp0230b03"/>
+      <div type="opening">
+        <p>如是我聞：一時佛在摩竭提國人間遊行，與千二百五十比丘、千優婆塞、五百乞殘食人，從城至城，從聚落至聚落，人間遊行，至<anchor type="variant" n="fnT02p0230n05"/>那羅聚落好衣菴羅園中。</p>
+      </div>
+      <div type="main">
+        <p>時有<anchor type="variant" n="fnT02p0230n06"/>刀師氏聚落主是尼揵弟子，詣<anchor type="variant" n="fnT02p0230n07"/>
+            尼揵所，禮尼揵足，退坐一面。
+                             爾時尼揵語刀師氏聚落主：
+          <q who="niganthanataputta">
+            <p>汝能共沙門瞿曇作蒺<anchor type="variant" n="fnT02p0230n08"/>藜論，令沙門瞿曇不得語、不得不語耶？</p>
+          </q>
+        </p>
+        <p>聚落主言：<q who="asibandhakaputta">
+            <p>阿梨！我立何等論為蒺<anchor type="variant" n="fnT02p0230n08"/>蔾論，令沙門瞿曇不得語、不得不語？</p>
+          </q>
+        </p>
+        <p>尼揵語聚落主言：<q who="niganthanataputta">
+            <p>汝往詣沙門瞿曇所，作是問：<q who="asibandhakaputta">瞿曇！常願欲令諸家福利具足增長，作如是願、如是說不？</q>若答汝言『不』者，汝當問言：<q who="asibandhakaputta">沙門瞿曇！與凡愚夫有何等異？</q>若言『有願有說』者，當復問言：<q who="asibandhakaputta">沙門瞿曇！若有如是願、如是說者，今云何於飢饉世，遊行人間，將諸大眾千二百五十比丘、千優婆塞、五百乞殘食人，從城至城，從村至村，<choice>
+                  <sic>捐</sic>
+                  <corr resp="CBETA">損</corr>
+                </choice>費世間，如大雨雹，雨已，乃是減損，非增益也。瞿曇所說，殊不相應，不類不似，前後相違。</q>如是，聚落主！是名蒺蔾論，令彼沙門瞿曇不得語、不得不語。</p>
+          </q>
+        </p>
+        <p>爾時刀師氏聚落主受尼揵勸教已，詣佛所恭敬問訊，恭敬問訊已，退坐一面，白佛：<q who="asibandhakaputta">
+            <p>瞿曇！常欲願令諸家福利增長不？</p>
+          </q>
+        </p>
+        <p>佛告聚落主：<q who="gotamo">
+            <p>如來長夜欲令諸家福利增長，亦常作是說。</p>
+          </q>
+        </p>
+        <p>聚落主言：<q who="asibandhakaputta">
+            <p>若如是者，云何，瞿曇！於飢饉世人間乞食，將諸大眾……乃至不似不類，前後相<pb ed="T" n="0230c"/>違？</p>
+          </q>
+        </p>
+        <p>佛告聚落主：<q who="gotamo">
+            <p>我憶九十一劫以來，不見一人施一比丘，有盡有減。聚落主！汝觀今日有人家大富，多錢財、多眷屬、多僕從，當知其家長夜好施，真實寂止，故致斯福利。聚落主！有八因緣，令人損減福利不增。何等為八？王所逼、賊所劫、火所焚、水所漂、藏自消減、抵債不還、怨憎殘破、惡子費用。有是八種為錢財難聚。<anchor type="variant" n="fnT02p0230n09"/>聚落主！我說無常為第九句。如是，聚落主！汝捨九因九緣，而言『沙門瞿曇破壞他家』，不捨惡言、不捨惡見，如鐵槍投水，身壞命終，<anchor type="variant" n="fnT02p0230n10"/>生地獄中。</p>
+          </q>
+        </p>
+        <p>時刀師氏聚落主心生恐怖，身毛皆豎，白佛言：<q who="asibandhakaputta">
+            <p>世尊！我今悔過！如愚如癡，不善不辯，於瞿曇所不實斯誑，虛說妄語。</p>
+          </q>
+        </p>
+      </div>
+      <div type="closing">
+        <p>聞佛所說，歡喜隨喜，從座起去。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

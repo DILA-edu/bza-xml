@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Sarabhasuttaṃ</head>
+        <p>From the VRI Chaṭṭa Saṅgāyana edition. PTS: AN, I, 185. This is part of the text-cluster of BZA (T.100) sutra 204.</p>
+      </div>
+    </front>
+    <body xml:lang="pi">
+      <anchor type="start" xml:id="pts.an.01.185"/>
+      <div type="parallel">
+        <p>Evaṃ me sutaṃ– ekaṃ samayaṃ bhagavā  <name type="place">rājagahe</name>viharati<name type="place">gijjhakūṭe pabbate</name>. Tena kho pana samayena<name type="person">sarabho</name>nāma<seg type="not-parallel">paribbājako acirapakkanto hoti imasmā dhammavinayā.</seg>So rājagahe parisati<note type="variant">[parisatiṃ (sī. pī.)]</note>evaṃ vācaṃ bhāsati–<seg type="not-parallel">“aññāto mayā samaṇānaṃ sakyaputtikānaṃ dhammo. Aññāya ca panāhaṃ samaṇānaṃ sakyaputtikānaṃ dhammaṃ evāhaṃ tasmā dhammavinayā apakkanto”</seg>ti. Atha kho sambahulā bhikkhū pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya rājagahaṃ piṇḍāya pavisiṃsu. Assosuṃ kho te bhikkhū sarabhassa paribbājakassa rājagahe parisati evaṃ vācaṃ bhāsamānassa “aññāto mayā samaṇānaṃ sakyaputtikānaṃ dhammo. Aññāya ca panāhaṃ samaṇānaṃ sakyaputtikānaṃ dhammaṃ evāhaṃ tasmā dhammavinayā apakkanto”ti.</p>
+        <p>Atha kho te bhikkhū rājagahe piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkantā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ– “sarabho nāma, bhante, paribbājako acirapakkanto imasmā dhammavinayā. So rājagahe parisati evaṃ vācaṃ bhāsati– ‘aññāto mayā samaṇānaṃ sakyaputtikānaṃ dhammo. Aññāya ca panāhaṃ samaṇānaṃ sakyaputtikānaṃ dhammaṃ evāhaṃ tasmā dhammavinayā apakkanto’ti. Sādhu bhante, bhagavā yena <name type="place">sippinikātīraṃ</name>
+          <note type="variant">[sappinikātīraṃ (sī. pī.), sappiniyā tīraṃ (syā. kaṃ.)]</note>
+          <name type="place">paribbājakārāmo</name>yena sarabho paribbājako tenupasaṅkamatu anukampaṃ upādāyā”ti. Adhivāsesi bhagavā tuṇhībhāvena.</p>
+        <p>Atha kho bhagavā sāyanhasamayaṃ paṭisallānā vuṭṭhito yena sippinikātīraṃ paribbājakārāmo yena sarabho paribbājako tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi Nisajja kho bhagavā sarabhaṃ paribbājakaṃ etadavoca– “saccaṃ kira tvaṃ, sarabha, evaṃ vadesi– ‘aññāto mayā samaṇānaṃ sakyaputtikānaṃ dhammo. Aññāya ca panāhaṃ samaṇānaṃ sakyaputtikānaṃ dhammaṃ evāhaṃ tasmā dhammavinayā apakkanto”’ti? Evaṃ vutte sarabho paribbājako tuṇhī ahosi.</p>
+        <p>Dutiyampi kho, bhagavā sarabhaṃ paribbājakaṃ etadavoca– “vadehi, sarabha, kinti te aññāto samaṇānaṃ sakyaputtikānaṃ dhammo? Sace te aparipūraṃ bhavissati, ahaṃ paripūressāmi. Sace pana te paripūraṃ bhavissati, ahaṃ anumodissāmī”ti. Dutiyampi kho sarabho paribbājako tuṇhī ahosi.</p>
+        <p>Tatiyampi kho bhagavā sarabhaṃ paribbājakaṃ etadavoca– (“yo <note type="variant">[mayā (syā. kaṃ. pī.)]</note>kho sarabha paññāyati samaṇānaṃ sakyaputtikānaṃ dhammo)<note type="variant">[( ) sī. potthake natthi]</note>“vadehi, sarabha, kinti te aññāto samaṇānaṃ sakyaputtikānaṃ dhammo? Sace te aparipūraṃ bhavissati, ahaṃ paripūressāmi. Sace pana te paripūraṃ bhavissati, ahaṃ anumodissāmī”ti. Tatiyampi kho sarabho paribbājako tuṇhī ahosi.</p>
+        <p>Atha kho te paribbājakā sarabhaṃ paribbājakaṃ etadavocuṃ– “yadeva kho tvaṃ, āvuso sarabha, samaṇaṃ <name type="person">gotamaṃ</name>yāceyyāsi tadeva te samaṇo gotamo pavāreti. Vadehāvuso sarabha, kinti te aññāto samaṇānaṃ sakyaputtikānaṃ dhammo? Sace te aparipūraṃ bhavissati, samaṇo gotamo paripūressati. Sace pana te paripūraṃ bhavissati, samaṇo gotamo anumodissatī”ti. Evaṃ vutte sarabho paribbājako tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdi.</p>
+        <p>Atha kho bhagavā sarabhaṃ paribbājakaṃ tuṇhībhūtaṃ maṅkubhūtaṃ pattakkhandhaṃ adhomukhaṃ pajjhāyantaṃ appaṭibhānaṃ viditvā te paribbājake etadavoca–</p>
+        <p>“Yo kho maṃ, paribbājakā <note type="variant">[paribbājako (pī. ka.)]</note>, evaṃ vadeyya– ‘sammāsambuddhassa te paṭijānato ime dhammā anabhisambuddhā’ti, tamahaṃ tattha sādhukaṃ samanuyuñjeyyaṃ samanugāheyyaṃ samanubhāseyyaṃ. So vata mayā sādhukaṃ samanuyuñjiyamāno samanugāhiyamāno samanubhāsiyamāno aṭṭhānametaṃ anavakāso yaṃ so tiṇṇaṃ ṭhānānaṃ nāññataraṃ<note type="variant">[aññataraṃ (ka.)]</note>ṭhānaṃ nigaccheyya, aññena vā aññaṃ paṭicarissati, bahiddhā kathaṃ apanāmessati, kopañca dosañca appaccayañca pātukarissati, tuṇhībhūto maṅkubhūto<note type="variant">[tuṇhībhūto vā maṅkubhūto (sī. syā. kaṃ.), tuṇhībhūto vā maṅkubhūto vā (pī.)]</note>pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdissati, seyyathāpi sarabho paribbājako.</p>
+        <p>“Yo kho maṃ, paribbājakā, evaṃ vadeyya– ‘khīṇāsavassa te paṭijānato ime āsavā aparikkhīṇā’ti, tamahaṃ tattha sādhukaṃ samanuyuñjeyyaṃ samanugāheyyaṃ samanubhāseyyaṃ. So vata mayā sādhukaṃ samanuyuñjiyamāno samanugāhiyamāno samanubhāsiyamāno aṭṭhānametaṃ anavakāso yaṃ so tiṇṇaṃ ṭhānānaṃ nāññataraṃ ṭhānaṃ nigaccheyya, aññena vā aññaṃ paṭicarissati, bahiddhā kathaṃ apanāmessati, kopañca dosañca appaccayañca pātukarissati, tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdissati, seyyathāpi sarabho paribbājako.</p>
+        <p>“Yo kho maṃ, paribbājakā, evaṃ vadeyya– ‘yassa kho pana te atthāya dhammo desito, so na niyyāti takkarassa sammā dukkhakkhayāyā’ti, tamahaṃ tattha sādhukaṃ samanuyuñjeyyaṃ samanugāheyyaṃ samanubhāseyyaṃ. So vata mayā sādhukaṃ samanuyuñjiyamāno samanugāhiyamāno samanubhāsiyamāno aṭṭhānametaṃ anavakāso yaṃ so tiṇṇaṃ ṭhānānaṃ nāññataraṃ ṭhānaṃ nigaccheyya, aññena vā aññaṃ paṭicarissati, bahiddhā kathaṃ apanāmessati, kopañca dosañca appaccayañca pātukarissati, tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdissati, seyyathāpi sarabho paribbājako”ti. Atha kho bhagavā sippinikātīre paribbājakārāme tikkhattuṃ sīhanādaṃ naditvā vehāsaṃ pakkāmi.</p>
+        <p>Atha kho te paribbājakā acirapakkantassa bhagavato sarabhaṃ paribbājakaṃ samantato vācāyasannitodakena <note type="variant">[vācāsattitodakena (sī.)]</note>sañjambharimakaṃsu<note type="variant">[sañcumbharimakaṃsu (pī., dī. ni. 1.421) saṃ. ni. 2.243 uparipāṭho viya]</note>– “seyyathāpi, āvuso sarabha, brahāraññe jarasiṅgālo ‘sīhanādaṃ nadissāmī’ti siṅgālakaṃyeva<note type="variant">[segālakaṃyeva (sī. syā. kaṃ. pī.)]</note>nadati, bheraṇḍakaṃyeva nadati<note type="variant">[bhedaṇḍakaṃ (ka.)]</note>; evamevaṃ kho tvaṃ, āvuso sarabha, aññatreva samaṇena gotamena ‘sīhanādaṃ nadissāmī’ti siṅgālakaṃyeva nadasi bheraṇḍakaṃyeva nadasi. Seyyathāpi, āvuso sarabha, ambukasañcarī<note type="variant">[ambakamaddarī (sī.)]</note>‘purisakaravitaṃ<note type="variant">[phussakaravitaṃ (sī.), pussakaravitaṃ (syā. kaṃ. pī.)]</note>ravissāmī’ti ambukasañcariravitaṃyeva ravati; evamevaṃ kho tvaṃ, āvuso sarabha, aññatreva samaṇena gotamena ‘purisakaravitaṃ ravissāmī’ti, ambukasañcariravitaṃyeva ravasi. Seyyathāpi, āvuso sarabha, usabho suññāya gosālāya gambhīraṃ naditabbaṃ maññati; evamevaṃ kho tvaṃ, āvuso sarabha, aññatreva samaṇena gotamena gambhīraṃ naditabbaṃ maññasī”ti. Atha kho te paribbājakā sarabhaṃ paribbājakaṃ samantato vācāyasannitodakena sañjambharimakaṃsūti.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

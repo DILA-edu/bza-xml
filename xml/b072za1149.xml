@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-1149">
+      <anchor type="start" xml:id="tp0306a21"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住舍衛國祇樹給孤獨園。</p>
+      </div>
+      <div type="main">
+        <p>時波斯匿王為首，并七國王及諸大臣悉共集會，作如是論議：</p>
+        <q who="rajano">
+          <p>五欲之中，何者第一？</p>
+        </q>
+        <p>有一人言：</p>
+        <q who="ekacca">
+          <p>色最第一。</p>
+        </q>
+        <p>又復有稱聲、香、味、觸為第一者。中有人言：</p>
+        <q who="ekacca">
+          <p>我等人人各說第一，<anchor type="variant" n="fnT02p0306n09"/>竟無定<anchor type="variant" n="fnT02p0306n10"/>判。當詣世尊，問<anchor type="variant" n="fnT02p0306n11"/>如此義。如世尊說，當共憶持。</p>
+        </q>
+        <p>爾時波斯匿王為首，與七國王、大臣、眷屬來詣佛所，稽首佛足，退坐一面，白佛言：</p>
+        <q who="rajano">
+          <p>世尊！我等七王與諸大<pb ed="T" n="0306b"/>臣如是論議：<q who="rajano">五欲功德，何者為勝？</q>其中有言：<q who="ekacca">色勝</q>；有言：<q who="ekacca">聲勝</q>；有言：<q who="ekacca">香勝</q>；有言：<q who="ekacca">味勝</q>；有言：<q who="ekacca">觸勝</q>，竟無決定。來問世尊，竟何者勝？</p>
+        </q>
+        <p>佛告諸王：</p>
+        <q who="gotamo">
+          <p>各隨意適，我悉有餘說。以是因緣，我說五欲功德。然自有人於色適意，<anchor type="variant" n="fnT02p0306n12"/>止愛一色，滿其志願，<anchor type="variant" n="fnT02p0306n13"/>正使過上有諸勝色，非其所愛，不觸不<anchor type="variant" n="fnT02p0306n14"/>視，言：<q who="gotamo">
+              <anchor type="variant" n="fnT02p0306n15"/>己所愛最為第一，無過其上。</q>如愛色者，聲、香、味、觸，亦皆如是。當其所愛，輒言最勝，歡喜樂著。雖更有勝過其上者，非其所欲，不觸不視：<q who="gotamo">唯我愛者，最勝最妙，無比無上。</q>
+          </p>
+        </q>
+        <p>爾時座中有一優婆塞，名曰<anchor type="variant" n="fnT02p0306n16"/>栴檀，從座起，整衣服，偏袒右肩，合掌白佛：</p>
+        <q who="candano">
+          <p>善說，世尊！善說，善逝！</p>
+        </q>
+        <p>佛告優婆塞：</p>
+        <q who="gotamo">
+          <p>善說，栴檀！快說，栴檀！</p>
+        </q>
+        <p>時栴檀優婆塞即說偈言：</p>
+        <q who="candano">
+          <lg met="5" xml:id="cgtn0099-1149a">
+            <l>央伽族姓王<caesura/>服<anchor type="variant" n="fnT02p0306n17"/>珠瓔珞鎧</l>
+            <l>摩<anchor type="variant" n="fnT02p0306n18"/>竭眾慶集<caesura/>如來出其國</l>
+            <l>名聞普流布<caesura/>猶如雪山王</l>
+            <l>如淨<choice>
+                <sic>永</sic>
+                <corr resp="CBETA">水</corr>
+              </choice>蓮華<caesura/>清淨無瑕穢</l>
+            <l>隨日光開敷<caesura/>芬香熏其國</l>
+            <l>
+              <anchor type="variant" n="fnT02p0306n19"/>央耆國明顯<caesura/>猶如空中日</l>
+            <l>觀如來慧力<caesura/>如夜然炬火</l>
+            <l>為眼為大明<caesura/>來者為決疑</l>
+          </lg>
+        </q>
+        <p>時諸國王歎言：</p>
+        <q who="rajano">
+          <p>善說，栴檀優婆塞！</p>
+        </q>
+        <p>爾時七王脫七寶上衣，奉優婆塞。時彼七王聞佛所說，歡喜隨喜，從座起去。爾時栴檀優婆塞知諸王去已，從座起，<anchor type="variant" n="fnT02p0306n20"/>整衣服，偏袒右肩，合掌白佛：</p>
+        <q who="candano">
+          <p>今七國王遺我七領上衣。唯願世尊受此七衣，以哀愍故！</p>
+        </q>
+        <p>爾時世尊為哀愍故，受其七衣。</p>
+      </div>
+      <div type="closing">
+        <p>栴檀優<pb ed="T" n="0306c"/>婆塞歡喜隨喜，作禮而去。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

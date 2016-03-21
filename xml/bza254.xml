@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                      法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                            Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                            text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                            lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                            Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                            edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+            (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+            (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                            comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                            the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                            literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                        English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project is funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project is to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. The texts are kept in single files in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasts from 2005-2008. For any changes after 2008 see the revision
+                          description.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō).</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="bza254">
+      <anchor type="start" xml:id="Tp0462c09"/>
+      <div type="opening" xml:id="obza254">
+        <p n="bza254.01">如是我聞：一時佛在<name type="place">舍衛國</name>
+          <name type="place">祇樹給孤獨園</name>。</p>
+      </div>
+      <div type="main" xml:id="mbza254">
+        <p n="bza254.02">爾時佛告諸比丘：</p>
+        <q who="gotamo">
+          <p n="bza254.03">世有良醫，能治四病，應為王師。何謂為四？一、善能知病，二、能知病所從起，三者、病生已，善知治愈，四者、已差之<app n="fnT02p0462n18">
+              <lem wit="【大】">病</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】【聖】">患</rdg>
+            </app>病，令更不生。能如是者，名世良醫。佛亦成就四種之法。如來．至真．等正覺．無上良醫亦拔眾生四種毒箭。云何為四？所謂是苦，是苦<app n="fnT02p0462n19">
+              <lem wit="【大】">習</lem>
+              <rdg resp="Taisho" wit="【元】【明】">集</rdg>
+            </app>習，是苦滅，是苦滅道。</p>
+        </q>
+        <p n="bza254.04">佛告比丘：</p>
+        <q who="gotamo">
+          <p n="bza254.05">生、老、病、死、憂、悲、苦、惱，如此毒箭，非是世間醫所能知生苦因緣及能斷生苦，亦不知老、病、死、憂、悲、苦、惱因緣及能斷除。唯有如來．至真．等正覺無上良醫知生苦因緣及以斷苦，乃至知老、病、死、憂、悲、苦、惱，知其因緣及以斷除。是以如來善能拔出四種毒箭，故得稱為無上良醫。</p>
+        </q>
+        <p n="bza254.06">爾時尊者<name type="person">婆耆奢</name>在彼會坐，作是念言：</p>
+        <q who="vangisa">
+          <p n="bza254.07">我今當讚如來所說拔四毒箭喻法！</p>
+        </q>
+        <p n="bza254.08">即從座起，合掌向佛，而說偈言：</p>
+        <q who="vangisa">
+          <lg n="bza254.09" met="5" xml:id="cg254a">
+            <l>我今歸命佛<caesura/>愍於群生類</l>
+            <l>最上第一尊<caesura/>能拔出毒箭</l>
+            <l>世有四種醫<caesura/>能治四種病</l>
+            <l>所謂療身疾<caesura/>
+              <app n="fnT02p0462n20">
+                <lem wit="【大】">孾</lem>
+                <rdg resp="Taisho" wit="【宋】【元】【明】">嬰</rdg>
+              </app>孾兒眼毒箭</l>
+            <pb ed="T" xml:id="T02.0100.0463a" n="0463a"/>
+            <l> 如來治眼<app n="fnT02p0463n01">
+                <lem wit="【大】">病</lem>
+                <rdg resp="Taisho" wit="【宋】【元】【明】【聖】">疾</rdg>
+              </app>病<caesura/>過於彼世醫</l>
+            <l>能以智慧<app n="fnT02p0463n02">
+                <lem wit="【大】">錍</lem>
+                <rdg resp="Taisho" wit="【聖】">裨</rdg>
+              </app>錍<caesura/>
+              <app n="fnT02p0463n03">
+                <lem wit="【大】">決</lem>
+                <rdg resp="Taisho" wit="【明】">抉</rdg>
+              </app>決無明眼膜</l>
+            <l>如來治身患<caesura/>過於彼世醫</l>
+            <l>世醫所療者<caesura/>唯能治四大</l>
+            <anchor type="variant" n="fnT02p0463n04"/>
+            <l>如來善分別<caesura/>六界十八界</l>
+            <l>以此法能治<caesura/>三毒身重病</l>
+            <l>能治<app n="fnT02p0462n20">
+                <lem wit="【大】">孾</lem>
+                <rdg resp="Taisho" wit="【宋】【元】【明】">嬰</rdg>
+              </app>孾愚病<caesura/>最勝無<app n="fnT02p0463n05">
+                <lem wit="【大】">有上</lem>
+                <rdg resp="Taisho" wit="【宋】【元】【明】【聖】">上尊</rdg>
+              </app>有上</l>
+            <l>故我今敬禮<caesura/>瞿曇之大師</l>
+            <l>醫王名迦留<caesura/>多施人湯藥</l>
+            <l>復有一明醫<caesura/>名為<name type="person">婆<app n="fnT02p0463n06">
+                  <lem wit="【大】">呼</lem>
+                  <rdg resp="Taisho" wit="【宋】【元】【明】【聖】">吁</rdg>
+                </app>呼盧</name>
+            </l>
+            <l>瞻毘及耆婆<caesura/>如是醫王等</l>
+            <l>皆能療眾病<caesura/>是等四種師</l>
+            <l>治者必得差<caesura/>雖差病還發</l>
+            <l>亦復不免死<caesura/>如來無上醫</l>
+            <l>所可療治者<caesura/>拔毒盡苦際</l>
+            <l>畢竟離生死<caesura/>終更不受苦</l>
+            <l>無量億那由<caesura/>阿僧祇眾生</l>
+            <l>佛治令盡苦<caesura/>畢竟不還發</l>
+            <l>我今白大眾<caesura/>諸賢在會者</l>
+            <l>甘露不死藥<caesura/>咸當至心服</l>
+            <l>諸人應受信<caesura/>最上治目者</l>
+            <l>療身拔毒箭<caesura/>諸醫無與等</l>
+            <l>是故宜至心<caesura/>歸命瞿曇<app n="fnT02p0463n07">
+                <lem wit="【大】">尊</lem>
+                <rdg resp="Taisho" wit="【明】">等</rdg>
+              </app>尊</l>
+          </lg>
+        </q>
+      </div>
+    </body>
+  </text>
+</TEI>

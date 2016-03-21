@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-0956">
+      <anchor type="start" xml:id="tp0243b13"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住<name type="place">王舍城</name>
+          <name type="place">毘富羅山</name>側。</p>
+      </div>
+      <pb ed="T" n="0243c"/>
+      <div type="main">
+        <p>爾時世尊告諸比丘：<q who="gotamo">
+            <p>一切行無常，一切行不恒、不安、變易之法。諸比丘！於一切行當生厭離、不樂、解脫。</p>
+          </q>
+        </p>
+        <p>
+          <q who="gotamo">
+            <p>諸比丘！過去世時此<anchor type="variant" n="fnT02p0243n09"/>毘富羅山名<anchor type="variant" n="fnT02p0243n10"/>
+              <name type="place">長竹山</name>，有諸人民圍遶山居，名<anchor type="variant" n="fnT02p0243n11"/>
+              <name type="place">低彌羅邑</name>
+              <anchor type="variant" n="fnT02p0243n12"/>
+              <name type="person">迦羅迦孫提</name>
+            </p>
+          </q>
+        </p>
+        <p>
+          <q who="gotamo">
+            <p>諸比丘！過去世時此毘富羅山名曰<anchor type="variant" n="fnT02p0243n13"/>
+              <name type="place">朋迦</name>。時有人民遶山而居，名<name type="place">阿毘迦邑</name>。彼時人民壽三萬歲，阿毘迦人上此山<pb ed="T" n="0243c"/>頂，經三日中乃得往反。時世有佛，名<anchor type="variant" n="fnT02p0243n14"/>
+              <name type="person">拘那含牟尼</name>如來、應、等正覺、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛、世尊出興於世，演說經法，初、中、後善，善義善味，純一滿淨，梵行清白，開發顯示。諸比丘！彼朋迦山名字久滅，阿毘迦邑人亦久亡沒，彼佛世尊亦般涅槃。如是，比丘！一切諸行皆悉無常、不恒、不安、變易之法，汝等比丘當修厭離、<anchor type="variant" n="fnT02p0243n08"/>求樂、解脫。</p>
+          </q>
+        </p>
+        <p>
+          <q who="gotamo">
+            <p>諸比丘！過去世時此毘富羅山名<anchor type="variant" n="fnT02p0243n15"/>
+              <name type="place">宿波羅首</name>，有諸人民遶山居止，名<anchor type="variant" n="fnT02p0243n16"/>
+              <name type="place">赤馬</name>。人壽二萬歲，彼諸人民上此山頂，經二日<anchor type="variant" n="fnT02p0243n17"/>中乃得往反。爾時有佛名曰<anchor type="variant" n="fnT02p0243n18"/>
+              <name type="person">迦葉</name>
+            </p>
+          </q>
+        </p>
+        <p>
+          <q who="gotamo">
+            <p>諸比丘！今日此山名毘富羅，有諸人民遶山而居，名<anchor type="variant" n="fnT02p0243n19"/>
+              <name type="place">摩竭提國</name>。此諸人民壽命百歲，善自消息，得滿百歲。摩竭提人上此山頂，須臾往反。我今於此得成如來、應、等正覺……乃至佛、世尊、演說正法，教化令得寂滅涅槃、正道、善逝、覺知。比丘！當知此毘富羅山名亦當<anchor type="variant" n="fnT02p0243n20"/>磨滅，摩竭提人亦當亡沒，如來不久當般涅槃。如是，比丘！一切諸行悉皆無常、不恒、不安、變易之法，是故，比丘！當修厭離、離欲、解脫。</p>
+          </q>
+        </p>
+        <p>爾時世尊即說偈言：</p>
+        <q who="gotamo">
+          <lg met="5" xml:id="cgtn0099-0956a">
+            <l>古昔長竹山<caesura/>低彌羅<anchor type="variant" n="fnT02p0243n21"/>村邑</l>
+            <l>
+              <pb ed="T" n="0244a"/>次名朋迦山<caesura/>阿毘迦聚落</l>
+            <l>宿波羅首山<caesura/>聚落名赤馬</l>
+            <l>今毘富羅山<caesura/>國<anchor type="variant" n="fnT02p0244n01"/>名摩竭陀</l>
+            <l>名山悉磨滅<caesura/>其人悉<anchor type="variant" n="fnT02p0244n02"/>沒亡</l>
+            <l>諸佛般涅槃<caesura/>有者無不盡</l>
+            <l>一切行無常<caesura/>悉皆生滅法</l>
+            <l>有生無不盡<caesura/>唯寂滅為樂</l>
+          </lg>
+        </q>
+      </div>
+      <div type="closing">
+        <p>佛說此經已，諸比丘聞佛所說，歡喜奉行！</p>
+      </div>
+    </body>
+  </text>
+</TEI>

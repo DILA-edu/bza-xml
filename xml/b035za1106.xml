@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-1106">
+      <anchor type="start" xml:id="tp0290c20"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住鞞舍離國獼猴池側重閣講堂。</p>
+      </div>
+      <div type="main">
+        <p>時有異比丘，來詣佛所，稽首佛足，退住一面，白佛言：</p>
+        <q who="bhikkhu">
+          <p>世尊！何因何緣，釋提桓因名<q who="bhikkhu">釋提桓因</q>？</p>
+        </q>
+        <p>佛告比丘：</p>
+        <q who="gotamo">
+          <p>釋提桓因本為人時，行於頓施。沙門、婆羅門、貧窮困苦求生行路乞，施以飲食、錢財、穀、帛、華香、嚴具、床臥、燈明。 以堪能故，名<q who="gotamo">釋提桓因</q>。</p>
+        </q>
+        <p>比丘復白佛言：</p>
+        <q who="bhikkhu">
+          <p>世尊！何因何緣故，釋提桓因復名<q who="bhikkhu">
+              <anchor type="variant" n="fnT02p0290n18"/>富蘭陀羅</q>？</p>
+        </q>
+        <p>佛告比丘：</p>
+        <q who="gotamo">
+          <p>彼釋提桓因本為人時，數數行施衣被、飲食（乃至）燈明。以<pb ed="T" n="0291a"/>是因緣，故名<q who="gotamo">富蘭陀<anchor type="variant" n="fnT02p0291n01"/>羅</q>。</p>
+        </q>
+        <p>比丘復白佛言：</p>
+        <q who="bhikkhu">
+          <p>何因何緣故，復名<q who="bhikkhu">
+              <anchor type="variant" n="fnT02p0291n02"/>摩伽婆</q>？</p>
+        </q>
+        <p>佛告比丘：</p>
+        <q who="gotamo">
+          <p>彼釋提桓因本為人時，名摩伽婆，故釋提桓因即以本名，名<q who="gotamo">摩伽婆</q>。</p>
+        </q>
+        <p>比丘復白佛言：</p>
+        <q who="bhikkhu">
+          <p>何因何緣，復名<q who="bhikkhu">
+              <anchor type="variant" n="fnT02p0291n03"/>娑婆婆</q>？</p>
+        </q>
+        <p>佛告比丘：</p>
+        <q who="gotamo">
+          <p>彼釋提桓因本為人時，數以<anchor type="variant" n="fnT02p0291n04"/>婆詵私衣布施供養。以是因緣故，釋提桓因名<q who="gotamo">娑婆婆</q>。</p>
+        </q>
+        <p>比丘復白佛言：</p>
+        <q who="bhikkhu">
+          <p>世尊！何因何緣，釋提桓因復名<q who="bhikkhu">憍尸迦</q>？</p>
+        </q>
+        <p>佛告比丘：</p>
+        <q who="gotamo">
+          <p>彼釋提桓因本為人時，為憍尸族姓人。以是因緣故，彼釋提桓因復名<q who="gotamo">憍尸迦</q>。</p>
+        </q>
+        <p>比丘問佛言：</p>
+        <q who="bhikkhu">
+          <p>世尊！何因何緣，彼釋提桓因名<q who="bhikkhu">舍脂鉢低</q>？</p>
+        </q>
+        <p>佛告比丘：</p>
+        <q who="gotamo">
+          <p>彼阿修羅女，名曰舍脂，為天帝釋第一天后。是故帝釋名<q who="gotamo">
+              <anchor type="variant" n="fnT02p0291n05"/>舍脂鉢低</q>。</p>
+        </q>
+        <p>比丘白佛言：</p>
+        <q who="bhikkhu">
+          <p>世尊！何因何緣，釋提桓因復名<q who="bhikkhu">千眼</q>？</p>
+        </q>
+        <p>佛告比丘：</p>
+        <q who="gotamo">
+          <p>彼釋提桓因本為人時，聰明智慧。於一坐間思千種義，觀察稱量。以是因緣，彼天帝釋復名<q who="gotamo">千眼</q>。</p>
+        </q>
+        <p>比丘白佛：</p>
+        <q who="bhikkhu">
+          <p>何因何緣，彼釋提桓因復名<q who="bhikkhu">因提利</q>？</p>
+        </q>
+        <p>佛告比丘：</p>
+        <q who="gotamo">
+          <p>彼天帝釋於諸三十三天為王、為主。以是因緣故，彼天帝釋名<q who="gotamo">因提利</q>。</p>
+        </q>
+        <p>佛告比丘：</p>
+        <q who="gotamo">
+          <p>然彼釋提桓因本為人時，受持七種受。以是因緣，得天帝釋。何等為七？釋提桓因本為人時，供養父母，……（乃至）等行惠施，是為七種受。以是因緣，為天帝釋。</p>
+        </q>
+        <p>爾時世尊即說偈言：……（如上廣說）。</p>
+      </div>
+      <div type="closing">
+        <p>佛說此經已，諸比丘聞佛所說，歡喜奉行。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-0965">
+      <anchor type="start" xml:id="tp0247c14"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住<name type="place">王舍城</name>
+          <name type="place">迦蘭陀竹園</name>。</p>
+      </div>
+      <pb ed="T" n="0157b"/>
+      <div type="main">
+        <p>時有外道出家名曰<name type="person">
+            <anchor type="variant" n="fnT02p0247n11"/>鬱低迦</name>，來詣佛所，與世尊面相問訊慰勞已，退坐一面，白佛言：<q who="uttiya">
+            <p>瞿曇！云何，瞿曇！世有邊耶？</p>
+          </q>
+        </p>
+        <p>佛告鬱低迦：<q who="gotamo">
+            <p>此是無記。</p>
+          </q>
+        </p>
+        <p>鬱低迦白佛：<q who="uttiya">
+            <p>云何，瞿曇！世無邊耶？有邊無邊耶？非有邊非無邊耶？</p>
+          </q>
+        </p>
+        <p>佛告鬱低迦：<q who="gotamo">
+            <p>此是無記。</p>
+          </q>
+        </p>
+        <p>鬱低迦白佛：<q who="uttiya">
+            <p>云何，瞿曇！世有邊耶？答言：<q who="gotamo">無記。</q>世無邊耶？世有邊無邊耶？世非有邊非無邊耶？答言：<q who="gotamo">無記。</q>瞿曇！於何等法而可記說？</p>
+          </q>
+        </p>
+        <p>佛告鬱低迦：<q who="gotamo">
+            <p>知者，智者，我為諸弟子而記說道，令正盡苦，究竟苦邊！</p>
+          </q>
+        </p>
+        <p>鬱低迦白佛：<q who="uttiya">
+            <p>云何，瞿曇！為諸弟子說道，令正盡苦，究竟苦邊？為一切世間從此道出，為少分耶？</p>
+          </q>
+        </p>
+        <p>爾時世尊默然不答。第二、第三問，佛亦第二、第三默然不答。
+                 爾時尊者<name type="person">阿難</name>住於佛後，執扇扇佛。尊者阿難語鬱低迦外道出家：<q who="anado">
+            <p>汝初已問此義，今復以異說而問，是故，世尊不為記說。鬱低迦！今當為汝說譬，夫智者因譬得解。</p>
+          </q>
+        </p>
+        <p>
+          <q who="anado">
+            <p>譬如國王，有邊境城，四周堅固，巷陌平正，唯有一門。立守門者聰明黠慧，善能籌量，外有人來，應入者聽入，不應入者不聽。周匝遶城，求第二門，都不可得，都無貓狸出入之處，況第二門？彼守門者都不覺悟入者、出者，然彼士夫知一切人唯從此門若出若入，更無餘處。如是，世尊雖不用心覺悟眾生，一切世間從此道出，及以少分，然知眾生正盡苦，究竟苦邊者，一切皆悉眾此道出。</p>
+          </q>
+        </p>
+      </div>
+      <div type="closing">
+        <p>時鬱低迦外道出家聞佛所說，歡喜隨喜，從座起而去。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

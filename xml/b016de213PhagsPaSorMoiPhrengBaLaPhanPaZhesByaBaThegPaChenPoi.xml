@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head xml:lang="sa">ārya angulimālīya nāma mahāyāna sūtra</head>
+        <head xml:lang="bo">
+          'phags pa sor mo'i phreng ba la phan pa zhes bya ba theg pa chen
+                              po'i mdo
+        </head>
+        <p>
+          From the Derge edition. Derge 213. This is part of the text-cluster of BZA
+                              (T.100) sutra 016.
+        </p>
+      </div>
+    </front>
+    <body xml:lang="bo">
+      <anchor type="start" xml:id="der.213.Tsha.126a1_f251.1"/>
+      <div type="parallel">
+        <p>sangs rgyas dang byang chub sems dpa' thams cad la phag 'tshal lo/ 'di skad bdag gis thos pa dus gcig na/ bcom ldan 'das mnyan yod na rgyal bu rgyal byed kyi tshal mgon med zas sbyin gyi kun dga' ra ba na bzhugs te/</p>
+        <anchor type="gap" n="der.213.Tsha.126a2(f251.2)"/>
+        <gap resp="t.100" reason="longNonParallel"/>
+        <anchor type="continued" n="der.213.Tsha.127b3(f254.3)"/>
+        <p>de nas de'i tshe bcom ldan 'das kyis yul dang dus mkhyen nas mnyan du yod pa nas gnag pa'i dgongs su 'dom bzhi bcus mtshang ba'i bar du shing a sho ka'i drung na thams cad mkhan pa'i ye shes thams cad dang ldan pa de ngang pa'i rgyal po bzhin du mdun na bzhugs par gyur to/ de nas sor mo'i phreng bas bcom ldan 'das mthong nas 'o na dge sbyong gau ta ma gsad do snyam ste/ ral gri thogs nas mgyogs pa mgyogs par 'ongs so/ de nas bcom ldan 'das ye shes thams cas dang ldan pas bdag nyid gshegs ba lta bur bstan pa dang/ sor mo'i phreng bas ma la mdun gyis bltas te/ gnyis kyi bar du tshigs su bcad pa 'di dag smras so/</p>
+        <lg>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ zas gtsang sras po bzhugs su gsol/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ tshon gos mnabs pa bzhugs su gsol/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gom bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ mkhas pa'i gtso bo bzhugs su gsol/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ lhung bzed thogs pa bzhugs su gsol/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ seng ge'i rtsal mnga' bzhugs su gsol/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ stag gi rtsal mnga' bzhugs su gsol/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ ngang stabs legs bzhud bzhugs su gsol/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ lh yi glang po stabs mdzes bzhugs/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ nyi rtse mchog gzi brtson pa bzhugs/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ zla ba nya zhal spyan bzangs bzhugs/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ gser gyi ri 'dra bzhugs su gsol/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ pad mo 'dab stong spyan bzhugs shig/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ shangs kyi shugs drang bzhugs su gsol/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ ku mu da 'dra tshems mchogs bzhugs/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ gsung mchog ljags mnga' bzhugs su gsol/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ mdzod spu'i thig le mchog mnga' bzhugs/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ dbu skra mthon snum mchog mnga' bzhugs/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ snyan dang phyag ring mchog mnga' bzhugs/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ phyag mchog glang po'i sna 'dra bzhugs/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ gsang ba sbubs su spas pa bzhugs/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ pus mo bzang po mnga' ba bzhugs/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ zangs kyi sen mo mchog mnga' bzhugs/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ 'gro ba mchog gis spos byugs bzhugs/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ ka la ping ka'i sgra dbyangs bzhugs/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ khu byug sgra dbyangs snyan sgrogs bzhugs/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ gnyi 'od bye ba brgya 'das bzhugs/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ dus rab bstabs la phyag mtshal bstod/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ de ltar dul 'grogs rab mgyogs bzhugs/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ stobs bcu'i stobs mnga' bzhugs su gsol/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ bden bzhi mchog mnga' bzhugs su gsol/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ phan mdzad lam brgyad ston pa bzhugs/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ mtshan mchog sum cu gnyis mnga' bzhugs/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ dpe bzang brgyad cu mnga' ba bzhugs/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ na chung mchog la 'dod spangs bzhugs/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ ji srid bdag ma khros par bzhugs/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod ni bzhugs su gsol/ lha min dbang dang srin po rgyags bcas bcom/</l>
+          <l>bdag ni 'di 'dra'i ngo mtshar yong ma mthong/ shin tu mgyogs pa'i shugs ldan khyod su zhig/</l>
+          <l>ral gris ma btab bar du dge sbyong bzhugs/ bdag gi ming yang khyod gyis ma gsan tam/</l>
+          <l>bdag ni sor mo'i phreng ba ste/ sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod ni bzhugs su gsol/ bdag ming gang gis thos pa tsam gyis 'gum 'gyur na/</l>
+          <l>mngon sum bdag mthong gson par gyur pa ni/ shin tu mthu ldan sems can dag lta ga la mchis/</l>
+          <l>bzhugs shig dge sbyong khyod ni bzhugs su gsol/ bdag nyid mngon sum du ni mchis gyur kyang/</l>
+          <l>rta yi bang ltar shin tu mgyogs bzhud pa/ lha 'am phyod su myur du gsungs/</l>
+          <l>lha 'am klu 'am khyod su myur du gsungs/</l>
+          <l>bzhugs shig dge sbyong khyod bzhugs shig/ da ni bdag kyang mthu dang mi ldan gyur/</l>
+          <l>brtan pa khyod ni slebs par mi nus so/ bdag ni sor mo'i phreng ba ste/</l>
+          <l>sor mo'i sho gam bdag stsol cig/</l>
+          <l>bzhugs shig dge sbyong khyod ni bzhugs su gsol/ dge sbyong brtul zhugs khrims 'dzin na/</l>
+          <l>sho gam gnas las ma 'da' zhig/ bdag ni sor mo'i phreng ba ste/</l>
+          <l>sor mo'i sho gam bdag stsol cig/</l>
+        </lg>
+        <p>de nas bcom ldan 'das ngang pa'i rgyal po bzhin du gom pa bdun gshegs te/ seng ge'i lta bas kun du gzigs nas sor mo'i phreng mo'i phreng ba la tshigs su bcad pa 'di dag gsungs so/</p>
+        <p>yang dag nyid kyi mtha' la nag gnas te/ de yang sor phreng khyod kyis mi rig go/</p>
+        <lg>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung/</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam spyin bar bya/</l>
+          <l>ma byas yang dag mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung/</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>zhi ba ma skyes mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>'dus ma byas kyi mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>rga ba med pa'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nad med pa yi mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>mcha ba med pa'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>kun nas nyon mongs med pa'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>zag pa med pa'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>gnod med pa yi mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nga ni bden pa'i mtha' la gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nga ni chos kyi mtha' la rab gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nga ni shes pa'i mtha' la gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nga ni bden pa'i mtha' la gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>mya ngan med pa'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>mya ngan bral ba'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>rdul med pa yi mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>rdul dang bral ba'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>shag shig med pa'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>yams kyi nad med mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>gtse ba med pa'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nad 'go med pa'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>ci yang med pa'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>dpag tu med pa'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>tshad med pa yi mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>gtso bo mchog gi mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nga ni rab kyi mtha' la gnas ste/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nga ni dam pa'i chos la gnas pa ste/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>bla na med pa'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nga ni thir zug mtha' la nga gnas ste/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>gzhom du med pa'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>'jigs med chos kyi mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>mtha' yas chos kyi mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>bstan med chos kyi mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>zab mo'i chos kyi mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>blta dka'i chos kyi mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>phra ba'i chos kyi mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>mkhas pa'i chos kyi mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>mthong bar dka' ba'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>kun bzhi med pa'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>tha ba med pa'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nyon mongs med pa'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nga ni dag pa'i mtha' la gnas pa te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>rnam par grol ba'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nga ni zhi ba'i mtha' la gnas pa ste/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nga ni zhi gnas mtha' la gnas pa ste/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nye bar zhi ba'i mtha' la nga gnas ste/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nye bar chad pa'i mtha' la nga gnas ste/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nye bar zhi ba'i mtha' la nga gnas ste/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nga ni gya nom mtha' la gnas pa ste/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>spros pa med pa'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nga ni gnas med mtha' la gnas pa ste/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nga rgyal 'dul ba'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>sgyu ma 'dul ba'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>ma rig 'dul ba'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>rnam par btang ba'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nges par spangs ba'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>chos kyi dbyings kyi mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nga ni skye mched mtha' la gnas pa ste/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nga ni dge ba'i mtha' la gnas pa ste/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>'jig rten 'das pa'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>mi g.yo ba yi mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>gnas dang bang pa'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>'gyod pa med pa'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>rab tu sbyangs pa'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nga ni mthar gtugs mtha' la gnas pa ste/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>khro glen 'dod spangs mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nyon mongs spangs pa'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>phung po spangs pa'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>khro glen 'dod zad mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nga ni 'gog pa'i mtha' la gnas pa ste/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nga ni rten gyi mtha' la gnas pa ste/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nga ni mgon gyi mtha' la gnas pa ste/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nga ni skyabs kyi mtha' la gnas pa ste/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nga ni dpung gnyen mtha' la gnas pa ste/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nga ni gling gi mtha' la gnas pa ste/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>go skabs rig pa'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>ser sna phrag dog 'dul mthar nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>skom pa 'dul ba'i mthar nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nga dang nga med mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>phung po nges spangs mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>zhi gnas kun gyi mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>lam gcod pa yi mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>stong chen sgo yi mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>nyon mongs kun spangs byang mthar nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>sred pa zad pa'i mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>'dod chags bral 'gog mtha' la nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>bde mchog mya ngan 'das mthar nga gnas te/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ khyod la mtshon rnon sho gam sbyin bar bya</l>
+          <l>rtag brtan mchog shis rab bsil mthar nga gnas/ de yang sor phreng khyod kyis mi rig go/</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam sbyin gyis chos khu zhim po 'thung</l>
+          <l>'dug cig sor mo'i phreng ba khyod 'dug cig/ tshul khrims brtul zhugs yon tan rdzogs la 'dug</l>
+          <l>nga ni yang dag rdzogs pa'i sangs rgyas te/ sho gam mtshon rnon khyod la sbyin par bya/</l>
+          <l>shin tu rno ba'i mthon 'di myur 'or la/ rig pa'i ye shes skyabs su myur du shog/</l>
+          <l>tshur shog slob dpon ngan 'gro'i dbang song bas/ chos ma yin pa'i phung po chos su sems/</l>
+          <l>de nas bdag nyid khong su chud par 'gyur/ kun kyang chad pas rab 'jigs shing/</l>
+          <l>thams cad la ni sog phangs te/ bdag nyid kho na dper byas la/</l>
+          <l>mi bsad gsod du mi gzugs go/</l>
+          <l>pha rol ji ltar de bzhin bdag/ bdag nyid ji lta de bzhin gzhan/</l>
+          <l>bdag rang nyid ni dper byas la/ mi bsad gsod du mi gzug go/</l>
+          <l>srin po'i byad gzugs de ltar ma byed cig/ yan lag lus la shin tu khrag chags shing/</l>
+          <l>bsad pa'i mtshon cha rnon po khrag byugs pa/ khyod kyis phrag la thogs pa mi mdzes so/</l>
+          <l>sor mo'i phreng ba mgo las myur 'or/ kye ma bram ze'i bu'i las 'di 'dra zhing/</l>
+          <l>chos 'dod bram ze'i bu yang 'di 'dra na/ srin po ma rungs pa dag ji 'dra ge/</l>
+          <l>phyugs rnams la yang ma ni mchod yin na/ kye ma brtse med sdig grogs dbang song mi/</l>
+          <l>shin tu rno ba'i mtshon cha gdangs brtsams te/ rang gi ma yi drung du nye bar 'ong</l>
+          <l>gang yang sor mo'i phreng ba khyod lta bu/ sdig byed mi yi nang na gcan gzan yin/</l>
+          <l>srin po'i nang na shin tu sdig can te/ lha min nang na 'ang ma rungs las byed pa/</l>
+          <l>sor phreng khyod ni shin tu cher dkris shing/ sdig pa sems pa mi yis spangs ste/</l>
+          <l>ma ni 'jig rten dag na dka' mchog byed/ nyon mongs des ni zla bcu rum na bsrel/</l>
+          <l>de nas phyis ni btsas par gyur nas kyang/ bshang gci mang reg sdug bsngal myong bas gsos/</l>
+          <l>lhos shig sor phreng khyod kyi gtso mo ni/ mig ni khrag gi mchi mas rab tu gang/</l>
+          <l>bud med bu la byams shing sdug pa yis/ mngar gyi bum pa phrag la thogs te 'ongs/</l>
+          <l>rgan mo nyon mongs rlung gis skra yang bshig/ gos ngan ral po rlung gis bskyod cing 'brul/</l>
+          <l>lus la rdul gos rkang pa ser ka byung/ rgan mo nyon mongs sdug bsngal chen po myong/</l>
+          <l>lus skams yun ring rlung dang ltags pas nyen/ sdug bsngal mang pos shin tu gdungs par gyur/</l>
+          <l>bud med de ni rnam par snying myos te/ bsam yas sdug bsngal ldan zhing kyi hud 'bod/</l>
+        </lg>
+        <anchor type="gap" n="der.213.Tsha.139a6(f277.6)"/>
+        <gap resp="t.100" reason="longNonParallel"/>
+        <anchor type="continued" n="der.213.Tsha.140b1(f280.1)"/>
+        <p>bcom ldan 'das kyi zhabs mgol bzhag ste/ tshig 'di skad ces smras so/</p>
+        <lg>
+          <l>kye ma sangs rgyas byams pa'i mchog mang' zhing/ skyes 'dul kha sgyur bdag gi slad gshes pas/</l>
+          <l>gti mug chos kyi rlabs chen mi shes chu/ rgya mtsho tshe las bdag deng nges par bsgral/</l>
+          <l>kye ma sangs rgyas thugs rje mchog mnga' zhing/ skyes 'dul kha sgyur bdag gi slad gshegs pas/</l>
+          <l>shing rtsa 'bras bu lo ma mang ba yi/ dgon pa las ni deng bdag nges par bsgral</l>
+          <l>kye ma sangs rgyas dga' ba mchog mnga' zhing/ skyes 'dul kha sgyur bdag gi slad gshegs pas/</l>
+          <l>lta ba sna tshogs ri mor bris pa yis/ stag gi lag nas bdag deng nges par bsgral/</l>
+          <l>kye ma sangs rgyas btang snyoms mchog mnga' lang dag gzigs/ skyes 'dul kha lo sgyur ba bdag gi slad gshegs pas</l>
+          <l>'o dod 'bod dang cher 'bod mnar med pa'i/ sems can dmyal chen gting nas deng bdag bsgral</l>
+          <l>'di ni skyabs med pa yi skyabs lags te/ rtsa lag med pa rnams kyi rtsa lag go</l>
+          <l>bdag gis yang tsha ba'i las bgyis na/ bdag ni 'di 'drar gyur la skyabs mdzad gsol/</l>
+        </lg>
+        <anchor type="gap" n="der.213.Tsha.140b5(f280.5)"/>
+        <gap resp="t.100" reason="longNonParallel"/>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum
+                              Buddhist College 法鼓佛教研修學院.
+        </title>
+        <funder>
+          Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會
+        </funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist
+                              College 法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>
+            Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉,
+                                    Chueh Hui-chen 闕慧貞
+          </name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>
+          This is the default header for all files in the database. Files which contain
+                              gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.
+        </p>
+        <p>
+          The project was conducted 2005-2008. Some minor revisions and additions were done
+                              in 2009.
+        </p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                    Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                    text lies with the Vipassana Research Institute. Copyright for the Sanskrit
+                                    text lies with Fumio Enomoto. Copyright for the English text lies with
+                                    Marcus Bingenheimer. The Tibetan and Manchu texts are in the public realm.
+                                    The digital edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                    (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                    (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                    comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding
+                                    to the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                    literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly
+                                publications (as referenced). English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the
+                              Bieyi za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies
+                              中華佛學研究所 and the Dharma Drum Buddhist College 法鼓佛教研修學院. The project is funded by
+                              the Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會. The aim of the project is to produce a comparative digital edition
+                              and partial translation of the 364 sutras of the BZA and their parallels. The
+                              texts are kept in single files in an eXist database and are realized via XQuery
+                              and XSLT as HTML for the online user. The project lasts from 2005-2008. For any
+                              changes after 2008 see the revision description.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                              attribute on the containing elements
+        </p>
+        <p>
+          BZA: New Punctuation. Markup of person and place names. Verse and prose.
+                              References to the print edition (Taishō). Corrected characters (according to
+                              CBETA).
+        </p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō).</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA. Verse and
+                              Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan: Parallel and not-parallel divisions regarding the BZA.
+                              Verse and Prose. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="bza069">
+      <anchor type="start" xml:id="Tp0398a01"/>
+      <pb ed="T" xml:id="T02.0100.0398a" n="0398a"/>
+      <div type="opening" xml:id="obza069">
+        <p n="bza069.01">如是我聞：一時佛在<name type="place">舍衛國</name>
+          <name type="place">祇樹給孤獨園</name>。</p>
+      </div>
+      <div type="main" xml:id="mbza069">
+        <p n="bza069.02">爾時<name type="person">波斯匿</name>王往詣佛所，頂禮佛足，在一面坐，白佛言：</p>
+        <q who="pasenadi">
+          <p n="bza069.03">世尊！婆羅門種，常生婆羅門家；剎利種，常生剎利家不？</p>
+        </q>
+        <p n="bza069.04">佛<app n="fnT02p0398n02">
+            <lem wit="【大】">告</lem>
+            <rdg resp="Taisho" wit="【宋】【元】【明】">答</rdg>
+          </app>告王曰：</p>
+        <q who="gotamo">
+          <p n="bza069.05">
+                            汝今不應作如是語。何以故？有四種人：一者、從明入明，二者、從明入冥，三者、從冥入明，四者、從冥入冥。何謂從冥入冥？若有眾生，生於下賤貧窮之者，或生魁膾、<app n="fnT02p0395n05">
+              <lem wit="【大】">伎</lem>
+              <rdg resp="Taisho" wit="【元】【明】">技</rdg>
+            </app>技巧之家，或身羸瘦，其形極黑，聾、盲、瘖瘂，諸根不具，為他作使，不得自在。如此之人，或身行惡業，或口作惡業，或心念不善，身壞命終，墮於地獄，是名從冥入冥。如<app n="fnT02p0398n03">
+              <lem wit="【大】">從</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】【聖】">前</rdg>
+            </app>從廁出，復入一廁。我說此人，從冥入冥。若如此人，生於下賤及魁膾、<app n="fnT02p0395n05">
+              <lem wit="【大】">伎</lem>
+              <rdg resp="Taisho" wit="【元】【明】">技</rdg>
+            </app>技巧，或身羸瘦，其形極黑，聾、盲、瘖瘂，諸根不具，為他走使，不得自在，是名為冥。若如此人，能身行善，能口行善，能意行善，身壞命終，得生天上。如此人。從地而起，得昇於床；從床而起，得乘於車；從車而起，得乘於馬；從馬而起，得乘於象；從象而起，得昇宮殿。以是緣故，我說從冥入明。何謂從明入冥？若有人，生於剎利家，或復生於婆羅門家，或生大長者家，多饒財寶，巨富無量，庫藏盈溢，多諸僕從，輔相大臣、親友眷屬，亦甚眾多，身形端正，有大威力。如是之人，是名為明。若此之人，身行惡業，口行惡業，意行惡業，身壞命終，墮於地獄。如人從宮殿下，墮於象上；從象上下，而乘於馬；從馬上下，而乘於車；從車上下，而坐於床；從床<app n="fnT02p0398n04">
+              <lem wit="【大】">而</lem>
+              <rdg resp="Taisho" wit="【聖】">上</rdg>
+            </app>而下，墮落於地；從地而墮，墜於糞坑。我說此人，從明入冥。何謂從明入明？若有人，<pb ed="T" xml:id="T02.0100.0398b" n="0398b"/>生於<app n="fnT02p0398n05">
+              <lem wit="【大】">剎利</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">剎利家</rdg>
+            </app>剎利、大婆羅門家，或生長者，多饒財寶，巨富無量，庫藏盈溢，多諸僕從，輔相大臣、親友眷屬，亦甚眾多，身形端正，有大威力。此名為明。如此之人，身行善業，口行善業，意行善業，身壞命終，得生天上。如似從一宮殿，至於宮殿；從象至象；從馬至馬；從車至車；從床至床。如此之人，我說從明入明。</p>
+        </q>
+        <p n="bza069.06">爾時世尊即說偈言：</p>
+        <q who="gotamo">
+          <lg n="bza069.07" met="5" xml:id="cg069a">
+            <l>大王汝當知<caesura/>貧窮不信者</l>
+            <l>瞋恚懷嫉妬<caesura/>恒起惡覺觀</l>
+            <l>邪見無恭敬<caesura/>沙門婆羅門</l>
+            <l>持戒及多聞<caesura/>見則加罵辱</l>
+            <l>設有少財物<caesura/>無有奉施心</l>
+            <l>毀罵施與者<caesura/>如此之業緣</l>
+            <l>必墮於地獄<caesura/>是業墮地獄</l>
+            <l>名從闇入闇<caesura/>大王今當知</l>
+            <l>貧窮好施者<caesura/>有信無瞋恚</l>
+            <l>慚愧而好施<caesura/>沙門婆羅門</l>
+            <l>持戒及多聞<caesura/>起敬禮問訊</l>
+            <l>常行正善行<caesura/>自施讚施者</l>
+            <l>受者亦讚嘆<caesura/>如是至後世</l>
+            <l>生三十三天<caesura/>此名從此闇</l>
+            <l>將入於明處<caesura/>大王又當知</l>
+            <l>大富而不信<caesura/>心常懷瞋恚</l>
+            <l>常起貪嫉妬<caesura/>邪見不恭敬</l>
+            <l>沙門婆羅門<caesura/>持戒及多聞</l>
+            <l>見則加罵辱<caesura/>無有奉施心</l>
+            <l>從此而命終<caesura/>墮於惡地獄</l>
+            <l>名從明入闇<caesura/>大王又當知</l>
+            <l>大富信無<app n="fnT02p0398n06">
+                <lem wit="【大】">瞋</lem>
+                <rdg resp="Taisho" wit="【聖】">明</rdg>
+              </app>瞋<caesura/>慚愧得具足</l>
+            <l>能捨大慳心<caesura/>沙門婆羅門</l>
+            <l>持戒及多聞<caesura/>起敬而問訊</l>
+            <l>常行於正善<caesura/>自施讚施者</l>
+            <l>受者所歎譽<caesura/>捨此身命已</l>
+            <l>以是果報故<caesura/>生三十三天</l>
+            <l>此名從於明<caesura/>而入於明處</l>
+          </lg>
+        </q>
+      </div>
+      <div type="closing" xml:id="cbza069">
+        <p n="bza069.08">佛說是已，諸比丘聞佛所說，歡喜奉行。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

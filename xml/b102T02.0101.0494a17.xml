@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 102. It is found in the 雜阿含經 Sutra 004 at T.02.0101.0494. The new punctuation for T.101 was in part done with the help of Shi Zizhou 釋自拙.</p>
+      </div>
+    </front>
+    <body xml:id="tn0101-0004">
+      <anchor type="start" xml:id="t02.0101.0494a17"/>
+      <div type="opening">
+        <p>聞如是：一時佛在舍衛國祇樹給孤獨園。佛告比丘：</p>
+      </div>
+      <div type="main">
+        <q who="gotamo">
+          <p>一時佛在優<anchor type="variant" n="fnT02p0494n05"/>墮羅國，河名<anchor type="variant" n="fnT02p0494n06"/>屈然，在邊尼拘類樹。適得道時自念：<q who="gotamo">人行道一挈，令行者從憂、懣、苦、不可意，能得度滅，亦致正法。何等為正法？為四意止。何等為四意止？若比丘身身觀止，行自意知，從世間癡、不可意能離。外身身身相觀止，內身、外身身身相觀止，行自意知，從世間癡、不可意能離。痛、意、法亦如是。若行者從四意離，便從行法離。已從行法離，便從行道離。已從行道離，便離甘露。離甘露已，便不得度生、老、死、憂惱，亦不得離苦，亦不得要。若行者有四意止能度，便能受得道者行。已能受得道者行，便能<pb ed="T" n="0494b"/>得道。已得道，便能滅老、病、死、憂惱，便能得度苦，亦得要。</q>
+                梵便知我所念，譬如健人<anchor type="variant" n="fnT02p0494n07"/>申臂屈復<anchor type="variant" n="fnT02p0494n07"/>申，梵如是從天上止我前。已止，便說：<q who="brahma">我如是如佛念，如佛言：<q who="gotamo">道一挈令得清淨，令得離憂、懣、苦、不可意，能得度滅，能致正法，能致四意止。身身觀止，行自意知，從世間癡、不可意離。外身身身相觀止，內身、外身身身相觀止，行自意知，從世間癡、不可意能離。痛、意、法亦如是。
+                若行者從四意離，便從法行離。已從法行離，便從行道離。已從行道離，便離甘露。已離甘露，便不得離生、老、死、憂<anchor type="variant" n="fnT02p0494n08"/>惱，亦不得離苦，亦不得苦要。</q>是為知，是行方便。
+                    
+                    <lg met="irreg" xml:id="cgtn0101-0494a">
+                <l>鴈足在水中一挈<caesura/>令<anchor type="variant" n="fnT02p0494n09"/>自佛說我正行</l>
+                <l>但受是言當為使自計<caesura/>為一挈生死憂要<caesura/>出道教為哀故</l>
+                <l>已上頭得度世亦從是<caesura/>今度後度亦從是</l>
+                <l>是本清淨無為<caesura/>亦從是生老死盡</l>
+                <l>從若干法受依行<caesura/>是道眼者說</l>
+              </lg>
+            </q>
+          </p>
+        </q>
+      </div>
+      <div type="closing">
+        <p>佛說如是。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

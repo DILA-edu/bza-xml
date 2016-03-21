@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Two monks argue. The Buddha reminds them of how Sakka deals with anger</head>
+        <p>Translation of BZA 037. First version published in <emph>
+            Buddhist Studies
+                                Review
+          </emph>vol. 23-1 (2006).</p>
+      </div>
+    </front>
+    <body xml:id="bza037en" xml:lang="en">
+      <div>
+        <p>
+          Thus have I heard, once, the Buddha was staying at Sāvatthī at the Jeta Grove in
+                              the Anāthapiṇḍika Park.
+        </p>
+        <p>
+          At that time one early morning the World-honored One took his robes and the
+                              begging bowl and entered the town to beg for food. Having eaten he washed his
+                              feet, gathered his seat [for meditation] and went to the Andhavana forest [to
+                              meditate]. Having looked around probing [for a good spot], he sat down
+                              cross-legged beneath a tree in a secluded place, and abided in meditation.
+        </p>
+        <p>
+          At that time in the Jeta Vihāra there were two monks who got into an argument
+                              during a meeting. One endured in silence, the other was incensed with anger.
+                              When the one who had become incensed, saw that he had transgressed, he went to
+                              the monk who had stayed silent and wanted to confess. The monk who had endured
+                              in silence [however] did not accept the confession. When this transpired there
+                              ensued a noisy discussion among the monks. The Tathāgata was at that time
+                              abiding in meditation, and heard [the clamor] clearly with his deva-like
+                              hearing, which surpasses human hearing and can discern sounds from far away. He
+                              rose from his seat, and went among the monk, took place on the seat prepared in
+                              front of them. The Buddha said to the monks: “This morning I took my robes and
+                              begging bowl and entered the town to beg for food. (…etc…) went into the forest,
+                              and sitting silently, I heard the monks shouting and clamoring. What is the
+                              matter?”
+        </p>
+        <p>
+          There the monks told the Buddha: “World-honored One, in the Jeta Vihāra there are
+                              two monks, who got into an argument during a meeting. One monk endured?? in
+                              silence, the other monk was incensed and said a lot. The incensed monk knew that
+                              he had transgressed and went [to offer a] honest confession. The monk that had
+                              endured silently did not accept the others confession, so it became a public
+                              issue and everybody started shouting.”
+        </p>
+        <p>
+          The Buddha told the monks: “Why be so stupid and not accept someone’s confession?
+                              Oh monks, know that [once] in ancient days Sakka the ruler of the gods was among
+                              the gods in the Sudhammā Hall and spoke this verse:
+        </p>
+        <lg>
+          <l>
+            If for instance one uses a cup of dried gourd // fills it with butter to have
+                                    a lamp
+          </l>
+          <l>The fire burning, consuming // will burn the gourd as well</l>
+          <l>The angry mind is like this // it turns on itself and burns one’s good roots</l>
+          <l>I am never furious // if anger arises I quickly disperse it</l>
+          <l>No more like drawn into a maelstrom // endlessly circling around</l>
+          <l>
+            Though there is anger I do not speak harshly // do not mention what others
+                                    do not want to speak about
+          </l>
+          <l>
+            deeply respect what others do not want to speak about // I am always without
+                                    violence
+          </l>
+          <l>Taking control over my body // has been of great advantage to me</l>
+          <l>Those without anger, without violence // those are nobles</l>
+          <l>And the disciples of nobles // those one always should befriend</l>
+          <l>Those with anger and hatred // face an obstacle heavy as a mountain</l>
+          <l>If one at a time of anger and hate // can control oneself even a little</l>
+          <l>This I call well-done // like the taming of a wicked horse</l>
+        </lg>
+        <p>
+          Buddha said to the monks: “Sakka the ruler of the gods, reigns over the gods. At
+                              ease among them, still he can practice patience and praise those with patience.
+                              How could you, oh monk, who went forth, disfigured [by cutting of your hair] ,
+                              not be patient and praise patience.”
+        </p>
+        <p>
+          When the Buddha had finished, the monks, having listened to what he had said,
+                              were happy and practised accordingly.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

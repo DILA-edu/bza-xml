@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 013. It is found in the 佛說初分說經 Sutra at T.14.0498.0766.</p>
+      </div>
+    </front>
+    <body xml:id="T14.0498.0766c25">
+      <anchor type="start" xml:id="t14.0498.0766c25"/>
+      <div type="parallel">
+        <p>爾時世尊謂苾芻眾言。我今欲入王舍大城。</p>
+        <p>時頻婆娑羅王。初聞有如來應供正等正覺明行足善逝世間解無上士調御丈夫天人師佛世尊。十號具足。出興於世。於諸天人梵魔沙門婆羅門大眾中。以自智力。而成正覺。<pb ed="T" n="0767a"/>宣說諸法。初善中善後善。文義深遠。純一無雜。圓滿清白。梵行之相。彼佛會中。有優樓頻螺迦葉。那提迦葉。伽<anchor type="variant" n="fnT14p0766n01"/>耶迦葉。并諸眷屬。歸佛出家。修持梵行。是佛世尊今日欲入王舍大城。</p>
+        <p>
+          <seg type="not-parallel">其王即勅修治王城內外。街巷道陌。悉令清淨。燒眾名香。散諸妙華。張設珠瓔。樹立幢蓋。如是普遍處處嚴麗。乃至城中。一切人民。發歡喜聲。互相得聞。</seg>
+        </p>
+        <p>時頻婆娑羅王。被新妙衣。著眾寶履。嚴整四兵。與無數眷屬。前後導從。出王舍城。迎候世尊。其王與諸眷屬。出城向遠。漸近世尊。王乃下車。徒步而進。爾時世尊。與諸苾芻。前後圍遶。<anchor type="variant" n="fnT14p0767n01"/>諸王舍城。王及眷屬。見佛遠至。肅恭前迎。從佛入城。</p>
+      </div>
+      <div type="not-parallel">
+        <p>佛入城時。城中人民。異口同音。說伽陀曰。</p>
+        <lg met="7">
+          <l>世尊入此王舍城<caesura/>出現師子光明相</l>
+          <l>解脫耆年清淨眾<caesura/>彼彼恭敬而圍遶</l>
+        </lg>
+      </div>
+      <div type="parallel">
+        <p>爾時頻婆娑羅王前導。世尊往迦蘭陀竹林園中。到已世尊周遍觀察。王乃為佛敷設其座。佛處座已諸苾芻眾。各居佛後。是時王及眷屬眾中。有禮佛足者。有但合掌頂禮者。有發歡喜心者。有隨發歡喜心即生愛樂者。如是各各伸敬已。退坐一面。王乃復從座起偏袒右肩。右手執持上妙金瓶。出妙香水。灌世尊手。灌已白言。我此園林。奉上世尊并四方僧。安止受用此。是最初園林布施。惟願世尊。為我納受。佛即為受。王禮佛足已。向尊者優樓頻螺迦葉前。歡喜合掌。作如是言。</p>
+        <p>迦葉此摩伽陀國中。一切人民。宗敬於<pb ed="T" n="0767b"/>汝。我亦常所尊重供養。汝今何所見聞。歸佛出家。修持梵行。迦葉答言。大王當知。今佛世尊。具大神通。有大威力。能作種種神變等事。以是緣故。我發淨信。歸佛出家。</p>
+        <p>時眾會中。有生疑念。此優樓頻螺迦葉。今在大沙門邊。修持梵行。何所求<anchor type="variant" n="fnT14p0767n02"/>耶。此能歸心。佛能攝受。互見何相。致如是<anchor type="variant" n="fnT14p0767n02"/>耶。又復眾中。有作是言。此優樓頻螺迦葉。今在大沙門邊。修持梵行。不復能得頻婆娑羅王恭敬供養。</p>
+        <p>爾時世尊知眾疑已。即告尊者優樓頻螺迦葉言。迦葉。汝今知時。宜現神通。是時迦葉受佛勅已。隨其所應。即入三摩地。猶如鵝王。起現空中。以神通力。身上出火。身下出水。身下出火。身上出水。右邊出火。左邊出水。左邊出火。右邊出水。於其四方。現行坐臥相。現是神通已。從空而下。還住佛前。偏袒右肩。右膝著地。合掌恭敬。頂禮世尊。作是白言。佛是我師。我是聲聞弟子。若我所知。若我不知。佛悉能知。如佛所了知。是為最上知。</p>
+        <p>佛言。迦葉。汝先所作事火之法。汝見何義。為於其中得寂靜<anchor type="variant" n="fnT14p0767n02"/>耶。能<anchor type="variant" n="fnT14p0767n03"/>作染<anchor type="variant" n="fnT14p0767n02"/>耶。如汝所作。皆不解脫。今問此義。汝隨應答。迦葉白佛言。我無智故。先所不知。世尊大龍。善為救度。令我今時見無上句。世尊。我先所作。以飲食供設。然火祀天。實不解脫。而飲食者。設使美味種種具足。終不能離三欲之數。今蒙佛開導。我如是見。</p>
+        <p>佛言。迦葉。又如汝所作事火等法。於天人世間。不可愛樂。迦葉白佛言。我今於佛正法。見最上句。住寂靜<pb ed="T" n="0767c"/>意。畢竟不復墮於欲有。別異教中更不修習。是故棄捨事火等法。</p>
+      </div>
+      <div type="not-parallel">
+        <p>爾時尊者那提迦葉白尊者優樓頻螺迦葉言。佛世尊者。證涅槃法。離過無染。最上清淨。出世說法。廣大利益。而汝迦葉。亦能善說。</p>
+        <p>爾時尊者伽耶迦葉為頻婆娑羅王說伽陀曰。</p>
+        <lg met="7">
+          <l>善來大王聽我說<caesura/>我<anchor type="variant" n="fnT14p0767n04"/>大居止伽耶山</l>
+          <l>正等正覺出世間<caesura/>說涅槃句我得利</l>
+          <l>佛最勝者大象龍<caesura/>無上調伏最上尊</l>
+          <l>無畏善御諸眾生<caesura/>三摩呬多心寂靜</l>
+          <l>我昔長夜心染污<caesura/>起諸邪見不解脫</l>
+          <l>佛今破我邪見心<caesura/>一切纏結皆消散</l>
+        </lg>
+        <p>是時眾會疑念皆息。乃知尊者優樓頻螺迦葉。并諸眷屬。歸佛出家。修持梵行。甚為希有。</p>
+        <p>爾時世尊知彼眾會已息疑心。乃為頻婆娑羅王等。宣說法要。如先佛世尊所說法式。謂施論戒論生天之論。欲為染污。生諸過失。愛若不生心即離障。時王并諸眷屬。聞是法已。咸發淨信。歸依佛法僧。受持學句。即於世尊。起安樂心。柔軟心。最上心。離障心。無著心。善順心。是時世尊知王及眾心開意解。如先佛世尊所說法式。以無數方便。復為宣說苦集滅道四諦法門。時王并眾不起于座。悉能了知苦集滅道四聖諦理。見法知法。得白淨法。平等法。堅固法。安住法。無恚法。無壞法。無墮法。猶如白衣易受染色。王等獲利。亦復如是。</p>
+        <p>時王并諸眷屬。蒙佛宣說法要。示利喜已。從座而起。頂禮佛足。是時有守空神。守種子神。守國界神。守事業神。守草神。<pb ed="T" n="0768a"/>守木神。守畜類神。守樹林神。守道路神。如是諸神。咸作人言。互相謂曰。世尊具大神通。有大威力。能作種種神變等事。即說伽陀曰。</p>
+        <lg met="7">
+          <l>今日頻婆娑羅王<caesura/>并諸眷屬歸依佛</l>
+          <l>聞法獲利竹林中<caesura/>我等諸神亦歸佛</l>
+        </lg>
+        <p>
+          <seg type="parallel">爾時頻婆娑羅王。並諸眷屬。右遶世尊。出離眾會。</seg>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

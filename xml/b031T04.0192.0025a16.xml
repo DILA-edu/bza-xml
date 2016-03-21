@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 031. It is found in the 佛所行讚 Sutra at T.04.0192.0025.</p>
+      </div>
+    </front>
+    <body xml:id="T04.0192.0025a16">
+      <anchor type="start" xml:id="t04.0192.0025a16"/>
+      <div type="not-parallel">
+        <lg met="5">
+          <l>仙王族大仙<caesura/>於菩提樹下</l>
+          <l>建立堅固誓<caesura/>要成解脫道</l>
+          <l>鬼龍諸天眾<caesura/>悉皆大歡喜</l>
+        </lg>
+      </div>
+      <div type="parallel">
+        <lg met="5">
+          <l>法怨魔天王<caesura/>獨憂而不悅</l>
+        </lg>
+      </div>
+      <div type="not-parallel">
+        <lg met="5">
+          <l>
+            <anchor type="variant" n="fnT04p0025n05"/>五欲自在王<caesura/>具諸戰鬪藝</l>
+          <l>憎嫉解脫者<caesura/>故名為波旬</l>
+        </lg>
+      </div>
+      <div type="parallel">
+        <lg met="5">
+          <l>魔王有三女<caesura/>美貌善儀容</l>
+          <l>種種惑人術<caesura/>天女中第一</l>
+          <l>
+            <anchor type="variant" n="fnT04p0025n06"/>第一名欲染<caesura/>次名能悅人</l>
+          <l>三名可愛樂<caesura/>三女俱時進</l>
+          <l>白父波旬言<caesura/>不審何憂慼</l>
+          <l>父具以其事<caesura/>寫情告諸女</l>
+          <l>世有大牟尼<caesura/>身被大誓鎧</l>
+          <l>執持大<anchor type="variant" n="fnT04p0025n07"/>我弓<caesura/>智慧剛利箭</l>
+          <l>欲戰伏眾生<caesura/>破壞我境界</l>
+          <l>我一旦不如<caesura/>眾生信於彼</l>
+          <l>悉歸解脫道<caesura/>我土則空虛</l>
+        </lg>
+      </div>
+      <div type="not-parallel">
+        <lg met="5">
+          <l>譬如人犯戒<caesura/>其身則空虛</l>
+          <l>及慧眼未開<caesura/>我國猶得安</l>
+          <l>當往壞其志<caesura/>斷截其橋梁</l>
+          <l>執弓持五箭<caesura/>男女眷屬俱</l>
+          <l>詣彼吉安林<caesura/>願眾生不安</l>
+          <l>見牟尼靜默<caesura/>欲度三有海</l>
+          <l>左手執強弓<caesura/>右手彈利箭</l>
+          <l>而告菩薩言<caesura/>汝剎利速起</l>
+          <l>死甚可怖畏<caesura/>當修汝自法</l>
+          <l>捨離解脫法<caesura/>習戰施福會</l>
+          <l>調伏諸世間<caesura/>終得生天樂</l>
+          <l>此道善名稱<caesura/>先勝之所行</l>
+          <l>仙王高宗胄<caesura/>乞士非所應</l>
+          <l>今若不起者<caesura/>且當安汝意</l>
+          <l>慎莫捨<anchor type="variant" n="fnT04p0025n08"/>要誓<caesura/>試我一放箭</l>
+          <l>
+            <anchor type="variant" n="fnT04p0025n09"/>罣羅月光孫<caesura/>亦由我此箭</l>
+          <l>小觸如風吹<caesura/>其心發狂亂</l>
+          <l>寂靜苦行仙<caesura/>聞我此箭聲</l>
+          <l>心即大恐怖<caesura/>惛迷失本性</l>
+          <l>況汝<anchor type="variant" n="fnT04p0025n10"/>末世中<caesura/>望脫我此箭</l>
+          <l>汝今速起者<caesura/>幸可得安全</l>
+          <l>此箭毒<anchor type="variant" n="fnT04p0025n11"/>熾盛<caesura/>
+            <anchor type="variant" n="fnT04p0025n12"/>慷慨而戰掉</l>
+          <l>計力堪箭者<caesura/>自安猶尚難</l>
+          <l>況汝不堪箭<caesura/>云何能不驚</l>
+          <l>魔說<anchor type="variant" n="fnT04p0025n13"/>如斯事<caesura/>迫<anchor type="variant" n="fnT04p0025n14"/>脅於菩薩</l>
+        </lg>
+      </div>
+      <div type="parallel">
+        <lg met="5">
+          <l>菩薩心怡然<caesura/>不疑亦不怖</l>
+          <l>魔王即放箭<caesura/>兼進三玉女</l>
+          <l>菩薩不視箭<caesura/>亦不顧三女</l>
+          <l>魔王惕然疑<caesura/>心口自相語</l>
+        </lg>
+      </div>
+      <div type="not-parallel">
+        <lg met="5">
+          <l>曾為<anchor type="variant" n="fnT04p0025n15"/>雪山女<caesura/>射<anchor type="variant" n="fnT04p0025n16"/>魔醯首羅</l>
+          <l part="I">能令其心變</l>
+        </lg>
+      </div>
+      <div type="parallel">
+        <lg met="5">
+          <l part="F">而不動菩薩</l>
+          <l>非復以此箭<caesura/>及天三玉女</l>
+          <l>所能移其心<caesura/>令起於愛恚</l>
+        </lg>
+      </div>
+      <div type="not-parallel">
+        <lg met="5">
+          <l>當更合軍眾<caesura/>以力強逼迫</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

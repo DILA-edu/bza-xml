@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Vakkalisuttaṃ</head>
+        <p>From the VRI Chaṭṭa Saṅgāyana edition. PTS: SN, III, 119. This is part of the text-cluster of BZA (T.100) sutra 030.</p>
+      </div>
+    </front>
+    <body xml:lang="pi">
+      <anchor type="start" xml:id="pts.sn.03.119"/>
+      <div type="not-parallel">
+        <p>
+          <seg type="parallel">Ekaṃ samayaṃ bhagavā <name type="place">rājagahe</name>viharati</seg>
+          <name type="place">veḷuvane</name>
+          <name type="place">kalandakanivāpe</name>. Tena kho pana samayena āyasmā<name type="person">vakkali</name>
+          <name type="place">kumbhakāranivesane</name>viharati ābādhiko dukkhito bāḷhagilāno. Atha kho āyasmā vakkali upaṭṭhāke āmantesi– “etha tumhe, āvuso, yena bhagavā tenupasaṅkamatha; upasaṅkamitvā mama vacanena bhagavato pāde sirasā vandatha– ‘vakkali, bhante, bhikkhu ābādhiko dukkhito bāḷhagilāno, so bhagavato pāde sirasā vandatī’ti. Evañca vadetha– ‘sādhu kira, bhante, bhagavā yena vakkali bhikkhu tenupasaṅkamatu; anukampaṃ upādāyā”’ti. “Evamāvuso”ti kho te bhikkhū āyasmato vakkalissa paṭissutvā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ– “vakkali, bhante, bhikkhu ābādhiko dukkhito bāḷhagilāno, so bhagavato pāde sirasā vandati; evañca pana vadeti– ‘sādhu kira, bhante, bhagavā yena vakkali bhikkhu tenupasaṅkamatu; anukampaṃ upādāyā”’ti. Adhivāsesi bhagavā tuṇhībhāvena.</p>
+        <p>Atha kho bhagavā nivāsetvā pattacīvaramādāya yenāyasmā vakkali tenupasaṅkami. Addasā kho āyasmā vakkali bhagavantaṃ dūratova āgacchantaṃ. Disvāna mañcake samadhosi <note type="variant">[samañcosi (sī.), samañcopi (syā. kaṃ.) saṃ + dhū + ī = samadhosi]</note>. Atha kho bhagavā āyasmantaṃ vakkaliṃ etadavoca– “alaṃ, vakkali, mā tvaṃ mañcake samadhosi. Santimāni āsanāni paññattāni; tatthāhaṃ nisīdissāmī”ti. Nisīdi bhagavā paññatte āsane. Nisajja kho bhagavā āyasmantaṃ vakkaliṃ etadavoca– “kacci te, vakkali, khamanīyaṃ, kacci yāpanīyaṃ, kacci dukkhā vedanā paṭikkamanti, no abhikkamanti; paṭikkamosānaṃ paññāyati, no abhikkamo”ti? “Na me, bhante, khamanīyaṃ, na yāpanīyaṃ; bāḷhā me dukkhā vedanā abhikkamanti, no paṭikkamanti; abhikkamosānaṃ paññāyati, no paṭikkamo”ti. “Kacci te, vakkali, na kiñci kukkuccaṃ, na koci vippaṭisāro”ti? “Taggha me, bhante, anappakaṃ kukkuccaṃ, anappako vippaṭisāro”ti. “Kacci pana taṃ, vakkali, attā sīlato na upavadatī”ti? “Na kho maṃ, bhante, attā sīlato upavadatī”ti. “No ce kira taṃ, vakkali, attā sīlato upavadati; atha kiñca te kukkuccaṃ ko ca vippaṭisāro”ti? “Cirapaṭikāhaṃ, bhante, bhagavantaṃ dassanāya upasaṅkamitukāmo, natthi ca me kāyasmiṃ tāvatikā balamattā, yāvatāhaṃ<note type="variant">[yāhaṃ (sī.), yāyāhaṃ (pī.)]</note>bhagavantaṃ dassanāya upasaṅkameyyan”ti.</p>
+        <p>“Alaṃ vakkali, kiṃ te iminā pūtikāyena diṭṭhena? Yo kho, vakkali, dhammaṃ passati so maṃ passati; yo maṃ passati so dhammaṃ passati. Dhammañhi, vakkali, passanto maṃ passati; maṃ passanto dhammaṃ passati.</p>
+        <p>“Taṃ kiṃ maññasi, vakkali, rūpaṃ niccaṃ vā aniccaṃ vā”ti? “Aniccaṃ bhante”. “Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti? “Dukkhaṃ, bhante”. “Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ– ‘etaṃ mama, esohamasmi, eso me attā”’ti? “No hetaṃ, bhante”. “Vedanā… saññā… saṅkhārā… viññāṇaṃ niccaṃ vā aniccaṃ vā”ti? “Aniccaṃ, bhante”…pe… eso me attāti? “No hetaṃ, bhante”. “Tasmātiha…pe… evaṃ passaṃ…pe… nāparaṃ itthattāyāti pajānātī”ti.</p>
+        <p>Atha kho bhagavā āyasmantaṃ vakkaliṃ iminā ovādena ovaditvā uṭṭhāyāsanā yena <name type="place">gijjhakūṭo pabbato</name>tena pakkāmi. Atha kho āyasmā vakkali acirapakkantassa bhagavato upaṭṭhāke āmantesi–<seg type="parallel">“etha maṃ, āvuso, mañcakaṃ āropetvā yena <name type="place">isigilipassaṃ kāḷasilā</name>
+              tenupasaṅkamatha. Kathañhi nāma mādiso antaraghare kālaṃ kattabbaṃ maññeyyā”ti? “Evamāvuso”ti kho te bhikkhū āyasmato vakkalissa paṭissutvā āyasmantaṃ vakkaliṃ mañcakaṃ āropetvā yena isigilipassaṃ kāḷasilā tenupasaṅkamiṃsu. Atha kho bhagavā tañca rattiṃ tañca divāvasesaṃ gijjhakūṭe pabbate vihāsi. Atha kho dve devatāyo abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ gijjhakūṭaṃ obhāsetvā yena bhagavā tenupasaṅkamiṃsu…pe… ekamantaṃ aṭṭhaṃsu. Ekamantaṃ ṭhitā kho ekā devatā bhagavantaṃ etadavoca– “vakkali, bhante, bhikkhu vimokkhāya cetetī”ti. Aparā devatā bhagavantaṃ etadavoca “so hi nūna, bhante, suvimutto vimuccissatī”ti. Idamavocuṃ tā devatāyo. Idaṃ vatvā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyiṃsu.
+                                      Atha kho bhagavā tassā rattiyā accayena bhikkhū āmantesi– “etha tumhe, bhikkhave, yena vakkali bhikkhu tenupasaṅkamatha;
+            </seg> upasaṅkamitvā vakkaliṃ bhikkhuṃ evaṃ vadetha–</p>
+        <p>“‘Suṇāvuso tvaṃ, vakkali, bhagavato vacanaṃ dvinnañca devatānaṃ. Imaṃ, āvuso, rattiṃ dve devatāyo abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ gijjhakūṭaṃ obhāsetvā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhaṃsu. Ekamantaṃ ṭhitā kho, āvuso, ekā devatā bhagavantaṃ etadavoca– vakkali, bhante, bhikkhu vimokkhāya cetetīti. Aparā devatā bhagavantaṃ etadavoca– so hi nūna, bhante, suvimutto vimuccissatīti. Bhagavā ca taṃ, āvuso vakkali, evamāha– mā bhāyi, vakkali; mā bhāyi, vakkali! Apāpakaṃ te maraṇaṃ bhavissati, apāpikā kālakiriyā”’ti. “Evaṃ, bhante”ti kho te bhikkhū bhagavato paṭissutvā yenāyasmā vakkali tenupasaṅkamiṃsu; upasaṅkamitvā āyasmantaṃ vakkaliṃ etadavocuṃ– “suṇāvuso vakkali, bhagavato vacanaṃ dvinnañca devatānan”ti.</p>
+        <p>Atha kho āyasmā vakkali upaṭṭhāke āmantesi– “etha maṃ, āvuso, mañcakā oropetha. Kathañhi nāma mādiso ucce āsane nisīditvā tassa bhagavato sāsanaṃ sotabbaṃ maññeyyā”ti! “Evamāvuso”ti kho te bhikkhū āyasmato vakkalissa paṭissutvā āyasmantaṃ vakkaliṃ mañcakā oropesuṃ. “Imaṃ, āvuso, rattiṃ dve devatāyo abhikkantāya rattiyā…pe… ekamantaṃ aṭṭhaṃsu. Ekamantaṃ ṭhitā kho, āvuso, ekā devatā bhagavantaṃ etadavoca– ‘vakkali, bhante, bhikkhu vimokkhāya cetetī’ti. Aparā devatā bhagavantaṃ etadavoca– ‘so hi nūna, bhante, suvimutto vimuccissatī’ti. Bhagavā ca taṃ, āvuso vakkali, evamāha– ‘mā bhāyi, vakkali; mā bhāyi, vakkali! Apāpakaṃ te maraṇaṃ bhavissati, apāpikā kālakiriyā”’ti. “Tena hāvuso, mama vacanena bhagavato pāde sirasā vandatha– ‘vakkali, bhante, bhikkhu ābādhiko dukkhito bāḷhagilāno. So bhagavato pāde sirasā vandatī’ti. Evañca vadetha– ‘rūpaṃ aniccaṃ. Tāhaṃ, bhante, na kaṅkhāmi. Yadaniccaṃ taṃ dukkhanti na vicikicchāmi. Yadaniccaṃ dukkhaṃ vipariṇāmadhammaṃ, natthi me tattha chando vā rāgo vā pemaṃ vāti na vicikicchāmi. Vedanā aniccā. Tāhaṃ, bhante, na kaṅkhāmi Yadaniccaṃ taṃ dukkhanti na vicikicchāmi. Yadaniccaṃ dukkhaṃ vipariṇāmadhammaṃ, natthi me tattha chando vā rāgo vā pemaṃ vāti na vicikicchāmi. Saññā… saṅkhārā aniccā. Tāhaṃ, bhante, na kaṅkhāmi. Yadaniccaṃ taṃ dukkhanti na vicikicchāmi. Yadaniccaṃ dukkhaṃ vipariṇāmadhammaṃ, natthi me tattha chando vā rāgo vā pemaṃ vāti na vicikicchāmi. Viññāṇaṃ aniccaṃ. Tāhaṃ, bhante, na kaṅkhāmi. Yadaniccaṃ taṃ dukkhanti na vicikicchāmi. Yadaniccaṃ dukkhaṃ vipariṇāmadhammaṃ, natthi me tattha chando vā rāgo vā pemaṃ vāti na vicikicchāmī”’ti. “Evamāvuso”ti kho te bhikkhū āyasmato vakkalissa paṭissutvā pakkamiṃsu.</p>
+      </div>
+      <div type="parallel">
+        <p>Atha kho āyasmā vakkali acirapakkantesu tesu bhikkhūsu satthaṃ āharesi.</p>
+        <p>Atha kho te bhikkhū yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ– “vakkali, bhante, bhikkhu ābādhiko dukkhito bāḷhagilāno; so bhagavato pāde sirasā vandati; evañca vadeti– ‘rūpaṃ aniccaṃ. Tāhaṃ, bhante, na kaṅkhāmi. Yadaniccaṃ taṃ dukkhanti na vicikicchāmi. Yadaniccaṃ dukkhaṃ vipariṇāmadhammaṃ, natthi me tattha chando vā rāgo vā pemaṃ vāti na vicikicchāmi. Vedanā… saññā… saṅkhārā viññāṇaṃ aniccaṃ. Tāhaṃ, bhante, na kaṅkhāmi. Yadaniccaṃ taṃ dukkhanti na vicikicchāmi. Yadaniccaṃ dukkhaṃ vipariṇāmadhammaṃ, natthi me tattha chando vā rāgo vā pemaṃ vāti na vicikicchāmī”’ti.</p>
+        <p>Atha kho bhagavā bhikkhū āmantesi– “āyāma, bhikkhave, yena isigilipassaṃ kāḷasilā tenupasaṅkamissāma; yattha vakkalinā kulaputtena satthamāharitan”ti. “Evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ. Atha kho bhagavā sambahulehi bhikkhūhi saddhiṃ yena isigilipassaṃ kāḷasilā tenupasaṅkami. Addasā kho bhagavā āyasmantaṃ vakkaliṃ dūratova mañcake vivattakkhandhaṃ semānaṃ.</p>
+        <p>Tena kho pana samayena dhūmāyitattaṃ timirāyitattaṃ gacchateva purimaṃ disaṃ, gacchati pacchimaṃ disaṃ, gacchati uttaraṃ disaṃ, gacchati dakkhiṇaṃ disaṃ, gacchati uddhaṃ disaṃ, gacchati adho disaṃ, gacchati anudisaṃ. Atha kho bhagavā bhikkhū āmantesi– “passatha no tumhe, bhikkhave, etaṃ dhūmāyitattaṃ timirāyitattaṃ gacchateva purimaṃ disaṃ…pe… gacchati anudisan”ti. “Evaṃ, bhante”. “Eso kho, bhikkhave, <name type="person">māro pāpimā</name>vakkalissa kulaputtassa viññāṇaṃ samanvesati<note type="variant">[samannesati (ka. sī. pī.)]</note>– ‘kattha vakkalissa kulaputtassa viññāṇaṃ patiṭṭhitan’ti? Appatiṭṭhitena ca, bhikkhave, viññāṇena vakkali kulaputto parinibbuto”ti.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

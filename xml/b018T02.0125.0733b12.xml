@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 018. It is found in the 增壹阿含經 Sutra at T.02.0125.0733.</p>
+      </div>
+    </front>
+    <body xml:id="T02.0125.0733b12">
+      <anchor type="start" xml:id="t02.0125.0733b12"/>
+      <div type="parallel">
+        <p>聞如是。一時。尊者童真迦葉在舍衛國晝闇園中。</p>
+        <p>是時。迦葉夜半而經行。爾時。有天來至迦葉所。在虛空中語迦葉言。比丘當知。此舍夜便有烟。晝日火然。婆羅門語智者曰。汝今<anchor type="variant" n="fnT02p0733n13"/>持刀鑿山。<anchor type="variant" n="fnT02p0733n14"/>當鑿山時。必當見有負物。當拔濟之。汝<anchor type="variant" n="fnT02p0733n15"/>當鑿山。當鑿山時。必當見山。汝今當捨山。汝今當鑿山。當鑿山時。<anchor type="variant" n="fnT02p0733n16"/>必見蝦蟇。<anchor type="variant" n="fnT02p0733n17"/>今當捨蝦蟇。汝今當鑿山。當鑿山時。當見肉聚。已見肉聚。當捨離之。汝今當鑿山。當鑿山時。當見枷。已見枷。便捨離之。汝今當鑿山。<anchor type="variant" n="fnT02p0729n13"/>已鑿山。當見二道。已見二道。當捨離之。汝今當鑿山。<anchor type="variant" n="fnT02p0729n13"/>已鑿山。當見樹枝。已見樹枝。當捨離之。汝今當鑿山。已鑿山。<anchor type="variant" n="fnT02p0733n18"/>見龍。已見龍。<anchor type="variant" n="fnT02p0733n19"/>勿共語。當自歸命。<anchor type="variant" n="fnT02p0733n20"/>慕令得所。比丘。當善思念此義。設不解者。便往至舍衛城。到世尊所。而問此義。若如來有所說。善念行之。所以然者。我今亦不見有人‧沙門‧婆羅門‧<pb ed="T" n="0733c"/>魔‧若魔天能解此義者。除如來及如來弟子。若從我聞。是時。迦葉報天曰。此事甚佳。</p>
+        <p>爾時。迦葉清旦至世尊所。到已。頭面禮足。在一面坐。以此因緣。具白世尊。爾時。迦葉問世尊曰。今當問如來義。天之所說。何所趣向。何以故<anchor type="variant" n="fnT02p0733n21"/>舍夜有烟。晝便火然。何以故名為婆羅門。何以故名為智者。又言鑿山者。其義何所趣向。言刀者。亦所不解。何以故名為負物。又言山者。其義云何。何以故復言蝦蟇。何以故復言肉聚。何以故復言枷。何以故<anchor type="variant" n="fnT02p0733n22"/>復言二道。樹枝義其義云何。何以<anchor type="variant" n="fnT02p0733n23"/>故名龍。</p>
+        <p>世尊告曰。舍者。即是形體也。四大色所造。受父母血脈漸漸長大。恒當養食。不令有乏。是分散<anchor type="variant" n="fnT02p0733n24"/>法。夜有烟者。眾生之類心之所念<anchor type="variant" n="fnT02p0733n25"/>是。晝日火然者。身‧口‧意所造行是也。婆羅門者。是阿羅漢也。智者。是學人也。鑿山者。精進之心是也。刀者。智慧是也。負物者。是五結也。山者。是憍慢也。蝦蟇者。瞋恚心是也。肉聚者。貪欲是也。枷者。五欲是也。二道者。疑是也。樹枝者。是無明也。龍者。<anchor type="variant" n="fnT02p0733n26"/>是如來‧至真‧等正<anchor type="variant" n="fnT02p0609n02"/>覺是。彼天所說。其義如是。</p>
+      </div>
+      <div type="not-parallel">
+        <p>汝今當熟思惟。不久當盡有漏。</p>
+        <p>爾時。迦葉受如來<anchor type="variant" n="fnT02p0733n27"/>如是之教。在閑靜<anchor type="variant" n="fnT02p0733n02"/>之處。而自修行。所以族姓子。<anchor type="variant" n="fnT02p0733n28"/>剃除鬚髮。出家學道者。欲修梵行。生死已盡。梵行已立。所作已辦。更不復受胎。<anchor type="variant" n="fnT02p0733n29"/>如實知之。爾時。迦葉便成<choice>
+            <sic>陀</sic>
+            <corr resp="CBETA">阿</corr>
+          </choice>羅漢。</p>
+      </div>
+      <div type="parallel">
+        <p>爾時。迦葉聞佛所說。歡喜奉行。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

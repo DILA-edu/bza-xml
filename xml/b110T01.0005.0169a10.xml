@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 110. It is found in the 佛般泥洹經 Sutra at T.01.0005.0169.</p>
+      </div>
+    </front>
+    <body xml:id="T01.0005.0169a10">
+      <anchor type="start" xml:id="t01.0005.0169a10"/>
+      <div type="parallel">
+        <p>佛告阿難疾去為佛於鹽呵<anchor type="variant" n="fnT01p0169n01"/>沙。施牀使北首。今日夜半。佛當般泥洹。阿難奉命。之彼<anchor type="variant" n="fnT01p0169n02"/>施牀牀頭北首畢。還白言。施牀已竟。佛起至鹽呵<anchor type="variant" n="fnT01p0169n03"/>沙。得牀<anchor type="variant" n="fnT01p0169n04"/>猗右脇臥。</p>
+      </div>
+      <anchor type="gap" n="t01.0005.0169a14"/>
+      <gap resp="t.100" reason="longNonParallel"/>
+      <anchor type="continued" n="t01.0005.0171c08"/>
+      <div type="parallel">
+        <p>國有耆年。字曰須<anchor type="variant" n="fnT01p0171n23"/>拔。年百二十。時在城中。夜臥覺寤。見佛光明。照一城中。家無一人即出城。疾到佛所。向阿難曰。以吾啟聞。吾有疑心於世尊。阿難曰。夜以且半。佛當善逝。且莫煩擾。須<anchor type="variant" n="fnT01p0171n23"/>拔對曰。不可以聞<anchor type="variant" n="fnT01p0171n24"/>乎。吾聞無數世乃有一佛耳。今詣質疑。而不以聞吾之所疑。唯佛而釋。餘莫能也。阿難曰。且止不須問矣。佛知須<anchor type="variant" n="fnT01p0171n23"/>拔在外欲質所疑。呼阿難問。何以不啟須拔疑事。阿難對曰。見夜且半。佛當滅度。懼其來入語言煩擾佛。今當棄三有欲界就無為道佛言。將須<anchor type="variant" n="fnT01p0171n23"/>拔入有疑當問。阿難即將須<anchor type="variant" n="fnT01p0171n23"/>拔入。須<anchor type="variant" n="fnT01p0171n23"/>拔聞當入。其心喜踊。身皆為動。前以頭面<g ref="g037">[(禾*尤)/上/日]</g>首佛足。</p>
+        <p>
+          <seg type="not-parallel">佛見須<anchor type="variant" n="fnT01p0171n23"/>拔年老息微。賜机使坐。佛問須<anchor type="variant" n="fnT01p0171n23"/>拔。爾有何疑。對曰。佛為三界天中之天。神聖無量。至尊難雙。開化導引四十九年。仙聖梵釋。靡不<g ref="g037">[(禾*尤)/上/日]</g>首。吾有同志八人。</seg>
+          <anchor type="variant" n="fnT01p0171n25"/>有故龜氏。有無先氏。有志行氏。有白鷺子氏。有延壽氏。有計金樊氏。有多積願氏。有尼揵子。<seg type="not-parallel">彼八人<anchor type="variant" n="fnT01p0171n26"/>智。無螢燭之明。善無<anchor type="variant" n="fnT01p0171n27"/>沛生絲髮之潤。內懷三毒。外為欲走。坐作虛論。妄書非真不詣稟化將有緣乎。佛告須<anchor type="variant" n="fnT01p0171n23"/>拔。子曹經意。與佛<pb ed="T" n="0172a"/>經違。為生死之路。求富貴之耶。吾道之志<anchor type="variant" n="fnT01p0172n01"/>斷求念空。不願世榮淡泊無為。以斯為樂。須<anchor type="variant" n="fnT01p0171n23"/>拔曰。何謂無為之道乎。佛言。滅有歸本。不復生死。謂之無為也。若曹志趣。皆有八惡。何謂為八。祠祀鬼神。卜問<anchor type="variant" n="fnT01p0172n02"/>虛殺。是為一。處家貪餮。不奉孝道。貪<anchor type="variant" n="fnT01p0172n03"/>愛萬邪。欲無舍止。是為二。兩舌惡罵妄言綺語。未<anchor type="variant" n="fnT01p0172n04"/>常陳善令愚去惡。是為三。殺盜婬泆。是為四。常懷怒心。不孝二親。輕慢兄弟妻子九族。心邪行穢。無善勸導。常自憍大。欲人畏敬。是為五。晝夜懷邪。不畏法律。輕慢賢者。尊貴穢濁。遠避真正。交隨惡人。是為六。聞有賢智明經沙門梵志。豫懷憎嫉。虛偽作謗。是為七。不敬先祖盡孝于親。<anchor type="variant" n="fnT01p0172n05"/>弃賢明而<anchor type="variant" n="fnT01p0172n06"/>反賊。毀仁正。不覺流俗穢濁可耻。斯謂八惡若自陳云。世尊說經。四十九載。有八人不詣稟化。子曹皆懷斯<anchor type="variant" n="fnT01p0172n07"/>八惡。豈樂清化乎。正使來者。佛亦不受。須<anchor type="variant" n="fnT01p0171n23"/>拔若心有斯八惡。慎無問佛。</seg>執斯八戒可得溝港頻來不還應真。行斯八戒。當正爾心。乃為佛弟子。其有凡人。擅作師導教化之首。違斯八戒。皆是妖蠱。當遠棄避。慎無聽受。</p>
+        <p>世尊曰。吾今於三界中。獨言獨步。莫有等雙。爾之所疑。便問無嫌。須<anchor type="variant" n="fnT01p0171n23"/>拔<g ref="g037">[(禾*尤)/上/日]</g>首。長跪而曰。誠如佛言。幾亡吾身。又墮狂愚。世尊又曰。若解八戒未乎。對曰已解。重<g ref="g037">[(禾*尤)/上/日]</g>首曰。吾欲捐下賤之操。執沙門清淨之行。世尊又曰。<anchor type="variant" n="fnT01p0172n08"/>爾誠不。對曰。願佛加哀。受我為沙門。須<anchor type="variant" n="fnT01p0171n23"/>拔髮自然墮地。袈裟著體。精心思教。霍然無想。一心清淨。喻明月珠。即得應<pb ed="T" n="0172b"/>真道。重自思念。吾不能使吾師於前泥洹也。即時先佛。取泥洹道。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

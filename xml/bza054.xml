@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum
+                              Buddhist College 法鼓佛教研修學院.
+        </title>
+        <funder>
+          Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會
+        </funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist
+                              College 法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>
+            Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉,
+                                    Chueh Hui-chen 闕慧貞
+          </name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>
+          This is the default header for all files in the database. Files which contain
+                              gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.
+        </p>
+        <p>
+          The project was conducted 2005-2008. Some minor revisions and additions were done
+                              in 2009.
+        </p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                    Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                    text lies with the Vipassana Research Institute. Copyright for the Sanskrit
+                                    text lies with Fumio Enomoto. Copyright for the English text lies with
+                                    Marcus Bingenheimer. The Tibetan and Manchu texts are in the public realm.
+                                    The digital edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                    (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                    (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                    comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding
+                                    to the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                    literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly
+                                publications (as referenced). English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the
+                              Bieyi za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies
+                              中華佛學研究所 and the Dharma Drum Buddhist College 法鼓佛教研修學院. The project is funded by
+                              the Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會. The aim of the project is to produce a comparative digital edition
+                              and partial translation of the 364 sutras of the BZA and their parallels. The
+                              texts are kept in single files in an eXist database and are realized via XQuery
+                              and XSLT as HTML for the online user. The project lasts from 2005-2008. For any
+                              changes after 2008 see the revision description.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                              attribute on the containing elements
+        </p>
+        <p>
+          BZA: New Punctuation. Markup of person and place names. Verse and prose.
+                              References to the print edition (Taishō). Corrected characters (according to
+                              CBETA).
+        </p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō).</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA. Verse and
+                              Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan: Parallel and not-parallel divisions regarding the BZA.
+                              Verse and Prose. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="bza054">
+      <anchor type="start" xml:id="Tp0392a26"/>
+      <div type="opening" xml:id="obza054">
+        <p n="bza054.01">如是我聞：一時佛在<name type="place">舍衛國</name>
+          <name type="place">祇樹給孤獨園</name>。</p>
+      </div>
+      <div type="main" xml:id="mbza054">
+        <p n="bza054.02">爾時<name type="person">波斯匿</name>王稟性仁孝，母初崩背，哀號戀慕，不自堪勝，燒葬母已，便自沐浴，衣髮故濕，於日中時往詣佛所，禮佛足已，在<pb ed="T" xml:id="T02.0100.0392b" n="0392b"/>一面坐。佛告王曰：</p>
+        <q who="gotamo">
+          <p n="bza054.03">王從何來？衣髮故濕。</p>
+        </q>
+        <p n="bza054.04">波斯匿王白佛言：</p>
+        <q who="pasenadi">
+          <p n="bza054.05">世尊！我之慈母，情特尊敬。一旦崩背，我送母喪，遠至曠野，殯葬已訖，新<app n="fnT02p0392n05">
+              <lem wit="【大】">浴洗</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">洗浴</rdg>
+            </app>浴洗故，衣髮猶濕。</p>
+        </q>
+        <p n="bza054.06">佛告大王：</p>
+        <q who="gotamo">
+          <p n="bza054.07">汝於母所極愛敬不？</p>
+        </q>
+        <p n="bza054.08">王即答言：</p>
+        <q who="pasenadi">
+          <p n="bza054.09">實為愛敬！設令有人能使我母<app n="fnT02p0392n06">
+              <lem wit="【大】">還</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">復</rdg>
+            </app>還得活者，我以象軍、車軍、馬軍、步軍悉以與之。<app n="fnT02p0392n07">
+              <lem wit="【大】">續</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">贖</rdg>
+            </app>續我母命，心無悔恨。設以半國賞之，亦不生恨。</p>
+        </q>
+        <p n="bza054.10">王復言曰：</p>
+        <q who="pasenadi">
+          <p n="bza054.11">佛語誠實。一切生者會必歸死。</p>
+        </q>
+        <p n="bza054.12">佛言：</p>
+        <q who="gotamo">
+          <p n="bza054.13"> 實爾，實爾，生必有死。五趣四生，無不終者。王者、臣民、婆羅門眾會歸當死。灌頂人王，威力自在，統領國土，會歸終<app n="fnT02p0392n08">
+              <lem wit="【大】">沒</lem>
+              <rdg resp="Taisho" wit="【明】">歿</rdg>
+            </app>沒。轉輪聖王，王四天下，七寶具足，亦會當死。五通神仙在於山藪飲水食果，亦歸於死。三十三天極受快樂，光色熾盛，處天宮殿，壽命延長，亦歸終<app n="fnT02p0392n09">
+              <lem wit="【大】">沒</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">歿</rdg>
+            </app>沒。諸羅漢等捨於重擔，逮得己利，盡諸有結，心得自在，正智解脫，後邊之身，亦歸散滅。諸辟支佛獨一無侶，常在閑靜，亦當散滅。諸佛正覺具於十力，有四無畏，得四無礙，能師子吼，身亦無常，會歸散滅。</p>
+        </q>
+        <p n="bza054.14">佛言：</p>
+        <q who="gotamo">
+          <p n="bza054.15">大王！我為大王種種分別，生必有死，略而言之，無生不終。</p>
+        </q>
+        <p n="bza054.16">佛即說偈言：</p>
+        <q who="gotamo">
+          <lg n="bza054.17" met="5" xml:id="cg054a">
+            <l>一切生皆死<caesura/>壽命必歸終</l>
+            <l>隨業受緣報<caesura/>善惡各獲果</l>
+            <l>修福上昇天<caesura/>為惡入地獄</l>
+            <l>修道斷生死<caesura/>永入於涅槃</l>
+            <l>非空非海中<caesura/>非入山石間</l>
+            <l>無有地方所<caesura/>脫之不受死</l>
+            <l>諸佛與緣覺<caesura/>菩薩及聲聞</l>
+            <l>猶捨無常身<caesura/>何況諸凡夫</l>
+          </lg>
+        </q>
+        <pb ed="T" xml:id="T02.0100.0392c" n="0392c"/>
+        <p n="bza054.18">時波斯匿王聞佛所說，心開意解，更不憂愁，歡喜而去。</p>
+      </div>
+      <div type="closing" xml:id="cbza054">
+        <p n="bza054.19">佛說是已，諸比丘聞佛所說，歡喜奉行。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

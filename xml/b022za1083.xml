@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-1083">
+      <anchor type="start" xml:id="tp0284a05"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住毘舍離國獼猴池側重閣講堂。</p>
+      </div>
+      <div type="main">
+        <p>時有眾多比丘，晨朝著衣持缽，入毘舍離乞食。時有年少比丘，出家未久，不閑法、律，當乞食時，不知先後次第。餘比丘見已，而告之言：</p>
+        <q who="bhikkhavo">
+          <p>汝是年少，出家未久，未知法、律，莫<anchor type="variant" n="fnT02p0284n03"/>越、莫重，前後失次而行乞食，長夜當得不饒益苦。</p>
+        </q>
+        <p>年少比丘言：</p>
+        <q who="bhikkhu">
+          <p>諸上座亦復越次，不隨前後，非獨我也。</p>
+        </q>
+        <p>如是再三，不能令止。眾多比丘乞食已，還精舍，舉衣缽，洗足已，詣佛所，稽首禮足，退坐一面，白佛言：</p>
+        <q who="bhikkhavo">
+          <p>世尊！我等晨朝著衣持缽，入毘舍離乞食。有一年少比丘，於此法、律出家未久，行乞食時，不以次第，前後復重。諸比丘等再三諫，不受，而作是言：<q who="bhikkhu">諸上座亦不次第，何故呵我？</q>我等諸比丘三呵，不受，故來白世尊。唯願世尊為除非法，哀愍故！</p>
+        </q>
+        <p>佛告諸比丘：</p>
+        <q who="gotamo">
+          <p>如空澤中有大湖水。有大龍象，而居其中，拔諸藕根，洗去泥土，然後食之。食已，身體肥悅，多力多樂。以是因緣，常喜樂住。有異種族象，形體羸小，<anchor type="variant" n="fnT02p0284n04"/>效彼龍象，拔其藕根，洗不能淨，合泥土食。食<anchor type="variant" n="fnT02p0284n05"/>之不消，體不肥悅，轉轉羸弱，緣斯致死，或同死苦。如是宿德比丘學道日久，不樂嬉戲，久修梵行，大師所歎。諸餘明智修梵行者，亦復加歎。是等比丘依止城邑、聚落，晨朝著衣持<pb ed="T" n="0284b"/>缽，入城乞食，善護身、口，善攝諸根，專心繫念，能令彼人不信者信，信者不異。若得財利──衣被、飲食、床臥、湯藥，不染、不著、不貪、不嗜、不迷、不逐，見其過患，見其出離，然復食之。食已，身心悅澤，得色得力。以是因緣，常得安樂。彼年少比丘出家未久，未閑法、律，依諸長老，依止聚落，著衣持缽，入村乞食，不善護身，不守根<anchor type="variant" n="fnT02p0284n06"/>門，不專繫念，不能令彼不信者信，信者不變。若得財利──衣被、飲食、臥具、湯藥，染著貪逐，不見過患，不見出離，以嗜欲心食，不能令身悅澤，安隱快樂。緣斯食故，轉向於死，或同死苦。所言『死』者，謂捨戒還俗，失正法、正律。『同死苦』者，謂犯正法、律，不識罪相，不知除罪。</p>
+        </q>
+        <p>爾時世尊即說偈言：</p>
+        <q who="gotamo">
+          <lg met="5" xml:id="cgtn0099-1083a">
+            <l>龍象拔藕根<caesura/>水洗而食之</l>
+            <l>異族象<anchor type="variant" n="fnT02p0284n07"/>效彼<caesura/>合泥而取食</l>
+            <l>
+              <anchor type="variant" n="fnT02p0284n08"/>因雜泥食故<caesura/>羸病遂至死</l>
+          </lg>
+        </q>
+      </div>
+      <div type="closing">
+        <p>佛說此經已，諸比丘聞佛所說，歡喜奉行。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

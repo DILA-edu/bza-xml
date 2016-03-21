@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 203. It is found in the 大智度論 Abhidharma at T.25.1509.0061.</p>
+      </div>
+    </front>
+    <body xml:id="T25.1509.0061b18">
+      <anchor type="start" xml:id="t25.1509.0061b18"/>
+      <div type="parallel">
+        <p>
+          <seg type="not-parallel">復次欲令長<anchor type="variant" n="fnT25p0061n45"/>爪梵志等大論議師。於佛法中生信故。說是摩訶般若波羅蜜經。</seg>有梵志<anchor type="variant" n="fnT25p0061n46"/>號名長<anchor type="variant" n="fnT25p0061n45"/>爪。<seg type="not-parallel">更有名先尼婆蹉衢多羅。更有名薩遮<anchor type="variant" n="fnT25p0061n47"/>迦摩揵提等。是<anchor type="variant" n="fnT25p0061n48"/>等閻浮提大論議師輩</seg>言。一切論可破。一切語可壞。一切執可轉。故無有實法可信可恭敬者。<seg type="not-parallel">如舍利弗本末經中說。舍利弗舅摩訶俱絺羅。與姊舍利論議不如。俱絺羅思惟念言。非姊力也。必懷智人寄言母口。未生乃爾。及生長大當如之何。思<anchor type="variant" n="fnT25p0061n49"/>惟已生憍慢心。為廣論議故出家作梵志。入南天竺國始讀經書。諸人問言。汝志何求。學習何<pb ed="T" n="0060c"/>經。長<anchor type="variant" n="fnT25p0061n45"/>爪答<anchor type="variant" n="fnT25p0061n50"/>言。十八種大經盡欲讀之。諸人語言。盡汝壽命猶不能知一。何況能盡。長爪自念。昔作憍慢為姊所勝。今此諸人復見輕辱。為<anchor type="variant" n="fnT25p0061n51"/>是二事故。自作誓言我不剪爪。要讀十八種經<anchor type="variant" n="fnT25p0061n52"/>書盡。人見爪長因號<anchor type="variant" n="fnT25p0061n53"/>為長爪梵志。是人以種種經書智慧力。種種譏刺是法是非法是應是不應是實是不實是有是無。破他論議。譬如大力狂象<anchor type="variant" n="fnT25p0061n54"/>搪<g>[打-丁+突]</g>蹴踏無能制者。如是長爪梵志以論議力。摧伏諸論師已。還至摩伽陀國王舍城那羅聚落。至本生處問人言。我姊生子今在何處。有人語言。汝姊子者適生八歲。讀一切經書盡。至年十六論議勝一切人。有釋種道人姓<anchor type="variant" n="fnT25p0061n55"/>瞿曇。與作弟子。長爪聞之即起憍慢。生不信心而作是言。如我姊子聰明如是。彼以何術誘誑剃頭作弟子。</seg>說是語已直向佛所。爾時舍利弗初受戒半月。佛邊侍立以扇扇佛。長爪梵志見佛問訊訖。<seg type="not-parallel">一面坐作是念。一切論可破一切語可壞。一切執可轉。是中何者是諸法實相。何者是第一義。何者性。何者相。不顛倒。如是思惟。譬如大海水<anchor type="variant" n="fnT25p0061n56"/>中欲盡其<anchor type="variant" n="fnT25p0061n57"/>涯底。求之<pb ed="T" n="0061a"/>既久不得一法實可以入心者。彼以何論議道。而得我姊子。作是思惟已<anchor type="variant" n="fnT25p0062n01"/>
+          </seg>而語佛言。<anchor type="variant" n="fnT25p0061n55"/>瞿曇。我一切法不<anchor type="variant" n="fnT25p0062n02"/>受。佛問長爪。汝一切法不<anchor type="variant" n="fnT25p0062n02"/>受。是見<anchor type="variant" n="fnT25p0062n02"/>受不。佛<anchor type="variant" n="fnT25p0062n03"/>所質義。汝已飲邪見毒。<anchor type="variant" n="fnT25p0062n04"/>今出是毒氣。言一切法不<anchor type="variant" n="fnT25p0062n02"/>受。是<anchor type="variant" n="fnT25p0062n05"/>見汝<anchor type="variant" n="fnT25p0062n02"/>受不。爾時長爪梵志如好馬見鞭影<anchor type="variant" n="fnT25p0062n06"/>即覺便著正道。長爪梵志亦如是。得佛語鞭影入心。即棄捐貢高慚愧低頭。如是思惟。佛置我著<anchor type="variant" n="fnT25p0062n07"/>二處負門中。若我說是見我<anchor type="variant" n="fnT25p0062n02"/>受。是負處門<g>[色-巴+鹿]</g>。故<anchor type="variant" n="fnT25p0062n08"/>多人知。云何自言一切法不<anchor type="variant" n="fnT25p0062n02"/>受。今<anchor type="variant" n="fnT25p0062n09"/>受是見。<anchor type="variant" n="fnT25p0062n10"/>此是現前妄語。是<g>[色-巴+鹿]</g>負處門<anchor type="variant" n="fnT25p0062n08"/>多人所知。第二負處門細。<anchor type="variant" n="fnT25p0062n11"/>我<anchor type="variant" n="fnT25p0062n12"/>欲受之。以<anchor type="variant" n="fnT25p0062n13"/>不多人知故。作是念已。答佛言。<anchor type="variant" n="fnT25p0061n55"/>瞿曇。一切法不<anchor type="variant" n="fnT25p0062n14"/>受。是見亦不<anchor type="variant" n="fnT25p0062n14"/>受。佛語梵志。汝不<anchor type="variant" n="fnT25p0062n14"/>受一切法。是見亦不<anchor type="variant" n="fnT25p0062n14"/>受。則無所<anchor type="variant" n="fnT25p0062n15"/>受。與眾人無異。何用<anchor type="variant" n="fnT25p0062n16"/>自高而生憍慢如是。長爪梵志不能得答。自知墮負處。即於佛一切智中起恭敬生信心。自思惟。我墮負處。<seg type="not-parallel">世尊不<anchor type="variant" n="fnT25p0062n17"/>彰我負。不言是非。不以為意。佛心柔<anchor type="variant" n="fnT25p0062n18"/>濡。<anchor type="variant" n="fnT25p0062n19"/>第一清<anchor type="variant" n="fnT25p0062n20"/>淨。一切語論<anchor type="variant" n="fnT25p0062n21"/>處滅。得<anchor type="variant" n="fnT25p0062n22"/>大甚深法。<anchor type="variant" n="fnT25p0062n23"/>是可恭敬處。心淨第<anchor type="variant" n="fnT25p0062n24"/>一。佛說法斷其邪見故。</seg>即於坐處得遠塵離垢。<anchor type="variant" n="fnT25p0062n25"/>諸法中得法眼淨。<anchor type="variant" n="fnT25p0062n26"/>時舍利弗<anchor type="variant" n="fnT25p0062n27"/>聞是語得阿羅漢。是長爪梵<anchor type="variant" n="fnT25p0062n28"/>志出家作沙門。得大力阿羅漢。<anchor type="variant" n="fnT25p0062n29"/>
+          <seg type="not-parallel">若長爪梵志。不聞般若波羅蜜氣分離四句第一義相應法。小信尚不得。何況得出家道果。<anchor type="variant" n="fnT25p0062n30"/>佛欲導<anchor type="variant" n="fnT25p0062n31"/>引如是等大論議師利根人故。<anchor type="variant" n="fnT25p0062n32"/>說是般若波羅蜜經。</seg>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

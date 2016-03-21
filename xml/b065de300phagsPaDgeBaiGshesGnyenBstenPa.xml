@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head xml:lang="sa">ā rya klyā ṇa mi tra se ba ni sū tra</head>
+        <head xml:lang="bo">'phags pa dge ba'i bshegs gnyen bsten pa'i mdo</head>
+        <p>From the Derge edition. Derge 300. This is part of the text-cluster of BZA (T.100) sutra 065.</p>
+      </div>
+    </front>
+    <body xml:lang="bo">
+      <anchor type="start" xml:id="der.71.sha.304b3"/>
+      <div type="parallel">
+        <p>sangs rgyas dang/ byang chub sems dpa' thams cad la phyag 'tshal lo/ 'di skad bdag gis thos pa dus bcig na/ bcom ldan 'das grong khyer ku sha na gyad ki nyen 'khor shing sā la drung gi tshal na/ nyan thos kyi dge 'dun dang bcas par bzhugs te/ de nas bcom ldan 'das yongs su mya ngan las 'da' ba kho na'i dus kyi tshe dge slong rnams la bka' stsal pa/</p>
+        <p>dge slong dag khyed kyis 'di ltar bsla par bya ste/ dge ba'i bshes gnyen dang/ dge ba'i grogs  po dang/ dge ba'i sten dang gnas par bya'i/ sdig pa'i bshes gnyen dang/ sdig pa'i grogs po dang/ sdig pa'i sten dang gnas par mi bya'o  zhes dge slong dag khyed kyis de ltar bslab par bya'o/</p>
+        <p>de nas bcom ldan 'das la tshe dang ldan pa kun dka' bos 'di skad ces gsol to/ btsun pa 'dir bdag gcig pu dben pa rmchis nas nang du yang dag 'jog la zhugs pa na sems la 'di lta bu'i sems kyi yongs su rtog pa byung ste/ 'di lta ste/ dge ba'i bshes gnyen dang/ dge ba'i grogs po dang/ dge ba'i sten 'di ni tshangs par spyod pa'i phyed lags kyi/ sdig pa'i bshes gnyen dang/ sdig pa'i grogs po dang/ sdig pa'i sten ni de lta ma lags so snyam bgyid do/</p>
+        <p>bcom ldan 'das kyis bka' stsal pa/ kun dga' bo khyod 'di lta ste/ dge ba'i bshes gnyen dang/ dge ba'i grogs po dang/ dge ba'i sten 'di ni tshangs par spyod pa'i phyed yin gyi/ sdig pa'i bshes gnyen dang/ sdig pa'i grogs po dang/ sdig pa'i sten ni de lta ma yin no zhes ma zer cig/ de ci'i phyir zhe na/ kun dga' bo 'di lta ste/ dge ba'i bshes gnyen dang/ dge ba'i grogs po dang/ dge ba'i sten 'di ni tshangs par spyod pa'i ril po dang/ ma 'dres pa dang/ yongs su rdzogs pa dang/ yongs su dag pa dang/ yongs su byang ba yin gyi/ sdig pa'i bshes gnyen dang/ sdig pa'i grogs po dang/ sdig pa'i sten 'di ni de lta ma yin no/ de ci'i phyir zhe na/ kun dka' bo bshes gnyen dang/ nga la brten nas sems can skye ba'i chos can rnams skye ba'i chos can las yongs su grol bar 'gyur ba dang/ sems can rga ba dang/ na ba dang/ 'chi ba dang/ mya ngan dang/ smra sngags 'don pa dang/ sdug bsngal ba dang/ yid mi bde ba dang/ 'khrug pa'i chos can rnams rga ba dang/ na ba dang/ 'chi ba dang/ mya ngan dang/ smre sngags 'don pa dang/ sdug bsngal ba dang/ yid mi bde ba dang/ 'khrug pa'i chos can las yongs su grol bar 'gyur ba'i phyir ro/ kun dga' bo de bas na rnam grangs kho nas khyod kyis 'di ltar rig par bya ste/ 'di lta ste/ dge ba'i bshes gnyen dang/ dge ba'i grogs po dang/ dge ba'i sten 'di ni tshangs par sbyod pa'i ril po dang/ ma 'dres pa dang/ yongs su rdzogs pa dang/ yongs su dag pa dang/ yongs su byang pa yin gyi/ sdig pa'i bshes gnyen dang/ sdig pa'i grogs po dang/ sdig pa'i sten 'di ni de lta ma yin no/ zhes kun dga' bo khyod kyis de ltar bslab par bya'o/</p>
+        <p>bcom ldan 'das kyis de skad ces bka' stsal nas/ dge slong de dag yi rangs te/ bcom ldan 'das kyis gsungs pa la mngon par bstod do/</p>
+      </div>
+    </body>
+  </text>
+</TEI>

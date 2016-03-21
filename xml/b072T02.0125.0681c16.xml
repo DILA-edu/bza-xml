@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 072. It is found in the 增壹阿含經 Sutra at T.02.0125.0681.</p>
+      </div>
+    </front>
+    <body xml:id="T02.0125.0681c16">
+      <anchor type="start" xml:id="t02.0125.0681c16"/>
+      <div type="parallel">
+        <p>聞如是。一時。佛在舍衛國祇樹給孤獨園。</p>
+        <p>爾時。五大國王<anchor type="variant" n="fnT02p0681n25"/>波斯匿為首。集在園觀之中。各作此論。<seg type="not-parallel">云何為五王。所謂波斯匿王‧毘沙王‧優填王‧惡生王‧優陀延王。</seg>
+            爾時。五王集在一處。各作此論。諸賢當知。如來說此五欲。云何為五。若眼見色甚愛敬念。世人所希望。若耳聞聲‧鼻嗅香‧舌知味‧身知細滑。如來說此五欲。此五欲中何者最妙。為眼見色妙耶。為耳聞聲妙耶。為鼻嗅香妙耶。為舌知味妙耶。為身知細滑妙耶。此五事何者為最妙。
+                                其中或有國王而作是說。色最為妙。或有作是論。聲最為妙。或有作是論。香最為
+          <anchor type="variant" n="fnT02p0681n26"/>勝。或有作是論。味最為妙。或有作<anchor type="variant" n="fnT02p0681n27"/>是論。細滑<anchor type="variant" n="fnT02p0681n28"/>為最勝。<seg type="not-parallel">是<pb ed="T" n="0682a"/>時。言色妙者。優陀延王之所說也。言聲妙者。優填王之所論也。言香妙者。惡生王之所論也。言味妙者。波斯匿王之所論也。言細滑妙者。毘沙王之所<anchor type="variant" n="fnT02p0682n01"/>論也。</seg>
+        </p>
+        <p>是時。五王各相謂言。我等<anchor type="variant" n="fnT02p0682n02"/>
+            共論此五欲。然復不知何者為妙。
+                            是時。波斯匿王語四王曰。今如來近在舍衛國祇樹給孤獨園。我等盡共至世尊所。問斯義。若世尊有所教勅。當共奉行。
+                                是時。諸王聞波斯匿王語已。便共相將至世尊所。頭面禮足。在一面坐。是時。波斯匿王
+          <anchor type="variant" n="fnT02p0682n03"/>以所共論五欲者。具白如來。</p>
+        <p>爾時。世尊告諸五王曰。諸王所論各隨時宜。所以然者。夫人性行<anchor type="variant" n="fnT02p0682n04"/>深著色者。覩無厭足。此人於色最妙‧最上。無復過者。爾時。彼人不著聲‧香‧味‧細滑之法。五欲之中色為最妙。</p>
+        <p>若復有人性行著聲。彼聞聲已。極懷歡喜而無厭足。此人於聲最妙‧最上。五欲之中聲最為妙。</p>
+        <p>若復有人性行著香。彼聞香已。極懷歡喜而無厭足。此人於香最妙‧最上。五欲之中香最為妙。</p>
+        <p>若復有人性行著味。彼知味已。極懷歡喜而無厭足。此人於味最妙‧最上。五欲之中味最為妙。</p>
+        <p>若復有人性行著細滑。彼得細滑已。極懷歡喜而無厭足。此人於細滑最<anchor type="variant" n="fnT02p0682n05"/>上‧最妙。五欲之中細滑最為妙。</p>
+        <p>若復彼人心以著色。爾時<anchor type="variant" n="fnT02p0682n06"/>彼人不著聲‧香‧味‧細滑之法。若復彼人性行著聲。爾時彼人不著色‧香‧味‧細滑之法。<anchor type="variant" n="fnT02p0682n07"/>若復彼人性行著香。爾時彼人不著色‧<anchor type="variant" n="fnT02p0682n08"/>聲‧味‧細滑之法。若復彼人性行著味。爾時<anchor type="variant" n="fnT02p0682n09"/>彼人不著色‧聲‧<anchor type="variant" n="fnT02p0682n10"/>香‧細滑<pb ed="T" n="0682b"/>之法。若復彼人性行著細滑。爾時<anchor type="variant" n="fnT02p0682n11"/>彼人不著色‧聲‧香‧味之法。</p>
+      </div>
+      <div type="not-parallel">
+        <p>是時。世尊便說此偈。</p>
+        <lg met="5">
+          <l>欲意熾盛時<caesura/>所欲必可<anchor type="variant" n="fnT02p0682n12"/>克</l>
+          <l>得已倍歡喜<caesura/>所願無有疑</l>
+          <l>彼<anchor type="variant" n="fnT02p0682n13"/>以得此欲<caesura/>貪欲意不解</l>
+          <l>以此為歡喜<caesura/>緣之最為妙</l>
+          <l>若<anchor type="variant" n="fnT02p0682n14"/>復聽聲時<caesura/>所欲必可<anchor type="variant" n="fnT02p0682n12"/>克</l>
+          <l>聞已倍歡喜<caesura/>所願無有疑</l>
+          <l>彼<anchor type="variant" n="fnT02p0682n13"/>以得此聲<caesura/>貪之意不解</l>
+          <l>以此為歡喜<caesura/>從之<anchor type="variant" n="fnT02p0682n15"/>最為妙</l>
+          <l>若復嗅香時<caesura/>所欲必可<anchor type="variant" n="fnT02p0682n12"/>克</l>
+          <l>嗅已倍歡喜<caesura/>所<anchor type="variant" n="fnT02p0682n16"/>欲無有疑</l>
+          <l>彼以得此香<caesura/>貪之意不解</l>
+          <l>以此為歡喜<caesura/>從之最為妙</l>
+          <l>若復得味時<caesura/>所欲必可<anchor type="variant" n="fnT02p0682n12"/>克</l>
+          <l>得已倍歡喜<caesura/>所欲無有疑</l>
+          <l>彼<anchor type="variant" n="fnT02p0682n13"/>以得此味<caesura/>貪之意不解</l>
+          <l>以此為歡喜<caesura/>從之最為妙</l>
+          <l>若得細滑時<caesura/>所欲必可<anchor type="variant" n="fnT02p0682n12"/>克</l>
+          <l>得已倍歡喜<caesura/>所欲無疑難</l>
+          <l>
+            <anchor type="variant" n="fnT02p0682n17"/>彼以得細滑<caesura/>貪之意不解</l>
+          <l>以此為歡喜<caesura/>從之最為妙</l>
+        </lg>
+        <p>是故。大王。若言色妙者。當平等論之。所以然者。於色有氣<anchor type="variant" n="fnT02p0682n18"/>味。若色無味者。眾生終不染著。以其有味故。五欲之中色為最妙。然色有過失。若當色無過失。眾生則<anchor type="variant" n="fnT02p0682n19"/>無厭患。以其有過失故。眾生厭患之。然色有出要。若當色無出要者。此眾生類不得出生死之海。以其出要故。眾生得至無畏涅槃<pb ed="T" n="0682c"/>城中。五欲之中色為最妙。</p>
+        <p>然復。大王。若言聲妙者。當平等論之。所以然者。於聲有氣味故。若聲無味者。眾生終不染著。以其有味故。五欲之中聲為最妙。然聲有過失。若當聲無過失。眾生則<anchor type="variant" n="fnT02p0682n19"/>無厭患。以其有過失故。眾生厭患之。然聲有出要。若當聲無出要者。此眾生類不得出生死之海。以其出要故。眾生得至無畏涅槃城中。五欲之中聲為最妙。</p>
+        <p>大王當知。若言香妙者。當平等論之。所以然者。於香有氣味故。若香無氣味者。眾生之類終不染著。以其有味故。五欲之中香為最妙。然香有過失。若香無過失者。眾生則不厭患。以其有過失故。眾生厭患之。然香有出要。若當香無出要者。此眾生類不得出生死之海。以其出要故。眾生得至無畏涅槃城中。五欲之中香為最妙。</p>
+        <p>然復。大王。若言味妙者。當平等論之。所以然者。於味有氣味故。若味無氣味者。眾生之類終不染著。以其有氣味故。五欲之中味為最妙。然味有過失。若當味無過失者。眾生則不厭患。以其有過失故。眾生厭患之。然味有出要。若當味無出要者。此眾生類不得出生死之海。以其出要故。眾生得至無畏涅槃城<anchor type="variant" n="fnT02p0682n20"/>中。味為最妙。</p>
+        <p>然復。大王當知。<anchor type="variant" n="fnT02p0682n21"/>言細滑妙者。當平等論之。所以然者。於細<anchor type="variant" n="fnT02p0682n22"/>滑無氣味者。眾<anchor type="variant" n="fnT02p0682n23"/>生終不染著。以其有味故。五欲之中細滑為最妙。然細滑有過失。若細滑無過失者。眾生之類則不厭患之。以其有過失故。眾生厭患之。<pb ed="T" n="0683a"/>然細滑有出要。若當細滑無出要者。此眾生類不得出生死之海。以其出要故。眾生得至無畏涅槃城中。五欲之中細滑<anchor type="variant" n="fnT02p0682n01"/>為最妙。是故。大王。所樂之處。心即染著。如是。大王。當作是知。</p>
+        <p>
+          <seg type="parallel">爾時。五王聞佛所說。歡喜奉行。</seg>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum
+                              Buddhist College 法鼓佛教研修學院.
+        </title>
+        <funder>
+          Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會
+        </funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist
+                              College 法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>
+            Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉,
+                                    Chueh Hui-chen 闕慧貞
+          </name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>
+          This is the default header for all files in the database. Files which contain
+                              gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.
+        </p>
+        <p>
+          The project was conducted 2005-2008. Some minor revisions and additions were done
+                              in 2009.
+        </p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                    Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                    text lies with the Vipassana Research Institute. Copyright for the Sanskrit
+                                    text lies with Fumio Enomoto. Copyright for the English text lies with
+                                    Marcus Bingenheimer. The Tibetan and Manchu texts are in the public realm.
+                                    The digital edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                    (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                    (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                    comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding
+                                    to the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                    literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly
+                                publications (as referenced). English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the
+                              Bieyi za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies
+                              中華佛學研究所 and the Dharma Drum Buddhist College 法鼓佛教研修學院. The project is funded by
+                              the Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會. The aim of the project is to produce a comparative digital edition
+                              and partial translation of the 364 sutras of the BZA and their parallels. The
+                              texts are kept in single files in an eXist database and are realized via XQuery
+                              and XSLT as HTML for the online user. The project lasts from 2005-2008. For any
+                              changes after 2008 see the revision description.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                              attribute on the containing elements
+        </p>
+        <p>
+          BZA: New Punctuation. Markup of person and place names. Verse and prose.
+                              References to the print edition (Taishō). Corrected characters (according to
+                              CBETA).
+        </p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō).</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA. Verse and
+                              Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan: Parallel and not-parallel divisions regarding the BZA.
+                              Verse and Prose. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="bza260">
+      <anchor type="start" xml:id="Tp0465b06"/>
+      <div type="opening" xml:id="obza260">
+        <p n="bza260.01">如是我聞：一時佛在<name type="place">舍衛國</name>
+          <name type="place">祇樹給孤獨園</name>。</p>
+      </div>
+      <div type="main" xml:id="mbza260">
+        <p n="bza260.02">爾時有摩納，名 <name type="person">僧伽羅</name>，往詣佛所，問訊佛已，在一面坐，即白佛言：</p>
+        <q who="sihala">
+          <p n="bza260.03">世尊！云何觀察不善丈夫？</p>
+        </q>
+        <p n="bza260.04">佛言：</p>
+        <q who="gotamo">
+          <p n="bza260.05">譬如觀月。</p>
+        </q>
+        <p n="bza260.06">又問：</p>
+        <q who="sihala">
+          <p n="bza260.07">云何觀察善勝丈夫？</p>
+        </q>
+        <p n="bza260.08">佛復答曰：</p>
+        <q who="gotamo">
+          <p n="bza260.09">亦如觀月。</p>
+        </q>
+        <p n="bza260.10">爾時摩納復白佛言：</p>
+        <q who="sihala">
+          <p n="bza260.11">云何不善丈夫觀之如月？</p>
+        </q>
+        <p n="bza260.12">佛言：</p>
+        <q who="gotamo">
+          <p n="bza260.13">不善丈夫如十六日，月光漸減，圓滿轉虧，乃至於盡，損減不現。如佛法中不能信心受持禁戒，少所讀誦，若修少施，於其後時懈怠不勤，漸失信心，毀犯禁戒。復不布施，親近惡友，不至僧坊諮受於法。不聽法故，身、口、意業造於不善。以造惡故，身壞命終，墮於惡道。是故當知惡丈夫者，猶如彼月，漸漸損減，乃至滅盡。</p>
+        </q>
+        <p n="bza260.14">又問：</p>
+        <q who="sihala">
+          <p n="bza260.15">云何善勝丈夫亦復如月？</p>
+        </q>
+        <p n="bza260.16">佛言：</p>
+        <q who="gotamo">
+          <p n="bza260.17">譬如初月，光明熾然，漸漸增長，至十五日，圓滿具足。如佛法中能有信心修行禁戒，習於多聞，修於布施，却除邪見，修於正見。於佛法中得純信心，堅持禁戒，善修多聞，能施不慳，具於正見。信心、持戒、多聞、惠施以漸增長，是善丈夫身、口、意行親近善友，具修諸善，身壞命終，得生天上。是故當知善丈夫者亦復如月。</p>
+        </q>
+        <p n="bza260.18">爾時世尊即說偈言：</p>
+        <q who="gotamo">
+          <lg n="bza260.19" met="5" xml:id="cg260a">
+            <l>譬如盛滿月<caesura/>處於虛空中</l>
+            <l>圓光甚暉曜<caesura/>映蔽於諸星</l>
+            <l>亦如具信人<caesura/>戒聞捨貪嫉</l>
+            <l>於諸嫉妬者<caesura/>如月蔽眾星</l>
+          </lg>
+        </q>
+      </div>
+      <div type="closing" xml:id="cbza260">
+        <p n="bza260.20"> 時僧伽羅摩納聞佛所說，<choice>
+            <sic>誦</sic>
+            <corr resp="CBETA">踊</corr>
+          </choice>躍而去。諸比丘聞佛所說，歡喜奉行。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum
+                              Buddhist College 法鼓佛教研修學院.
+        </title>
+        <funder>
+          Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會
+        </funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist
+                              College 法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>
+            Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉,
+                                    Chueh Hui-chen 闕慧貞
+          </name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>
+          This is the default header for all files in the database. Files which contain
+                              gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.
+        </p>
+        <p>
+          The project was conducted 2005-2008. Some minor revisions and additions were done
+                              in 2009.
+        </p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                    Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                    text lies with the Vipassana Research Institute. Copyright for the Sanskrit
+                                    text lies with Fumio Enomoto. Copyright for the English text lies with
+                                    Marcus Bingenheimer. The Tibetan and Manchu texts are in the public realm.
+                                    The digital edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                    (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                    (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                    comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding
+                                    to the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                    literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly
+                                publications (as referenced). English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the
+                              Bieyi za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies
+                              中華佛學研究所 and the Dharma Drum Buddhist College 法鼓佛教研修學院. The project is funded by
+                              the Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會. The aim of the project is to produce a comparative digital edition
+                              and partial translation of the 364 sutras of the BZA and their parallels. The
+                              texts are kept in single files in an eXist database and are realized via XQuery
+                              and XSLT as HTML for the online user. The project lasts from 2005-2008. For any
+                              changes after 2008 see the revision description.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                              attribute on the containing elements
+        </p>
+        <p>
+          BZA: New Punctuation. Markup of person and place names. Verse and prose.
+                              References to the print edition (Taishō). Corrected characters (according to
+                              CBETA).
+        </p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō).</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA. Verse and
+                              Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan: Parallel and not-parallel divisions regarding the BZA.
+                              Verse and Prose. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="bza072">
+      <anchor type="start" xml:id="Tp0399b28"/>
+      <div type="opening" xml:id="obza072">
+        <p n="bza072.01">如是我聞：一時佛在<name type="place">舍衛國</name>
+          <name type="place">祇樹給孤獨園</name>。</p>
+      </div>
+      <div type="main" xml:id="mbza072">
+        <p n="bza072.02">爾時有五國王，共集一處，各相謂言：</p>
+        <q who="rajano">
+          <p n="bza072.03">五<pb ed="T" xml:id="T02.0100.0399c" n="0399c"/>欲之中，何者最妙？</p>
+        </q>
+        <p n="bza072.04">一王說曰：</p>
+        <q who="ekacca">
+          <p n="bza072.05">色為第一。</p>
+        </q>
+        <p n="bza072.06">次王說言：</p>
+        <q who="ekacca">
+          <p n="bza072.07">聲為第一。</p>
+        </q>
+        <p n="bza072.08">次王說言：</p>
+        <q who="ekacca">
+          <p n="bza072.09">味為第一。</p>
+        </q>
+        <p n="bza072.10">第四王言：</p>
+        <q who="ekacca">
+          <p n="bza072.11">香為第一。</p>
+        </q>
+        <p n="bza072.12">第五王言：</p>
+        <q who="ekacca">
+          <p n="bza072.13">細滑第一。</p>
+        </q>
+        <p n="bza072.14">諸王心意，人各不同，各見第一，乃相謂言：</p>
+        <q who="rajano">
+          <p n="bza072.15">我等心意，所美不同，各競其理。可詣佛所，稟受分別。</p>
+        </q>
+        <p n="bza072.16">
+          <name type="person">波斯匿</name>王而為上首，共詣佛所。五王爾時禮佛足已，在一面立，白佛言：</p>
+        <q who="pasenadi">
+          <p n="bza072.17">世尊！我等五王私共議論：<q who="panca rajano">五欲之中，何者第一？</q>一王說言：<q who="ekacca">色為第一。</q>如此五王，所說不同，各稱第一。所<app n="fnT02p0399n08">
+              <lem wit="【大】">說</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】【聖】">謂</rdg>
+            </app>說不同故，來詣佛所，<app n="fnT02p0399n09">
+              <lem wit="【大】">諮</lem>
+              <rdg resp="Taisho" wit="【宋】【聖】"/>
+            </app>諮問斯義，何者第一？</p>
+        </q>
+        <p n="bza072.18">佛說：</p>
+        <q who="gotamo">
+          <p n="bza072.19">若於色中取其像貌，心意封著，稱適其意。當於爾時設有妙色勝於此者，但以所著為勝，不顧色妙。聲、香、味、觸，亦復如是。……（乃至）於觸受其相貌，心意計著，以為最勝。</p>
+        </q>
+        <p n="bza072.20">爾時有一婆羅門，名曰<name type="person">卑嶷</name>，即從坐起，偏袒右肩，右膝著地，合掌向佛，白言：</p>
+        <q who="akkosakabharadvajo">
+          <p n="bza072.21">世尊！欲有所說，唯願聽許！</p>
+        </q>
+        <p n="bza072.22">佛告卑嶷：</p>
+        <q who="gotamo">
+          <p n="bza072.23">宜知是時。</p>
+        </q>
+        <p n="bza072.24">卑嶷即說偈言：</p>
+        <q who="akkosakabharadvajo">
+          <lg n="bza072.25" met="7" xml:id="cg072a">
+            <l>央伽大王畜寶鎧<caesura/>摩竭提主得大利</l>
+            <l>佛出其國最上寶<caesura/>名稱普聞如山王</l>
+            <l>譬如蓮華新敷榮<caesura/>光映泉池香遍至</l>
+            <l>佛亦如日處虛空<caesura/>光明周普照世界</l>
+            <l>諦視如來智慧力<caesura/>猶如猛火炎熾盛</l>
+            <l>開諸眼目作大明<caesura/>諸有疑惑來稟化</l>
+            <l>一切悉得決所疑</l>
+          </lg>
+        </q>
+        <p n="bza072.26">五王皆讚美<app n="fnT02p0399n10">
+            <lem wit="【大】">偈訖</lem>
+            <rdg resp="Taisho" wit="【宋】【元】【明】【聖】">說竭</rdg>
+          </app>偈訖，各以上衣以用賞之。爾時五王聞佛所說，皆大歡喜，從坐而去。王去已後，卑嶷合掌向佛，即以五衣奉上於佛：</p>
+        <q who="akkosakabharadvajo">
+          <p n="bza072.27">唯願納受！</p>
+        </q>
+        <p n="bza072.28">佛即納受。</p>
+      </div>
+      <div type="closing" xml:id="cbza072">
+        <p n="bza072.29">佛說是已，諸比丘聞佛所說，歡喜奉行。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

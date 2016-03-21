@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-1092">
+      <anchor type="start" xml:id="tp0286b22"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住<anchor type="variant" n="fnT02p0286n10"/>欝鞞羅聚落<anchor type="variant" n="fnT02p0286n11"/>尼連禪河側，於菩提樹下成佛未久。</p>
+      </div>
+      <div type="main">
+        <p>時<anchor type="variant" n="fnT02p0286n12"/>魔波旬作是念：</p>
+        <q who="papima">
+          <p>今沙門瞿曇住欝鞞羅聚落尼連禪河側，於菩提樹下成佛未久。我當<anchor type="variant" n="fnT02p0286n13"/>往彼，為作留難！</p>
+        </q>
+        <p>即化作年少，往住佛前，而說偈言：</p>
+        <q who="papima">
+          <lg met="5" xml:id="cgtn0099-1092a">
+            <l>獨入一空處<caesura/>禪思靜思惟</l>
+            <l>已捨國財寶<caesura/>於此復何求</l>
+            <l>
+              <pb ed="T" n="0286c"/>若求聚落利<caesura/>何不習近人</l>
+            <l>既不習近人<caesura/>終<anchor type="variant" n="fnT02p0286n14"/>竟何所得</l>
+          </lg>
+        </q>
+        <p>爾時世尊作是念：</p>
+        <q who="gotamo">
+          <p>惡魔波旬欲作嬈亂。</p>
+        </q>
+        <p>即說偈言：</p>
+        <q who="gotamo">
+          <lg met="5" xml:id="cgtn0099-1092b">
+            <l>已得大財利<caesura/>志足安寂滅</l>
+            <l>摧伏諸魔軍<caesura/>不著於色欲</l>
+            <l>獨一而禪思<caesura/>服食禪妙樂</l>
+            <l>是故不與人<caesura/>周旋相習近</l>
+          </lg>
+        </q>
+        <p>魔復說偈言：</p>
+        <q who="papima">
+          <lg met="5" xml:id="cgtn0099-1092c">
+            <l>瞿曇若自知<caesura/>安隱涅槃道</l>
+            <l>獨善無為樂<caesura/>何為強化人</l>
+          </lg>
+        </q>
+        <p>佛復說偈答言：</p>
+        <q who="gotamo">
+          <lg met="5" xml:id="cgtn0099-1092d">
+            <l>非魔所制處<caesura/>來問度彼岸</l>
+            <l>我則以正答<caesura/>令彼得涅槃</l>
+            <l>時得不放逸<caesura/>不隨魔自在</l>
+          </lg>
+        </q>
+        <p>魔復說偈言：</p>
+        <q who="papima">
+          <lg met="5" xml:id="cgtn0099-1092e">
+            <l>有石似凝膏<caesura/>飛<anchor type="variant" n="fnT02p0286n15"/>烏欲來食</l>
+            <l>竟不得其味<caesura/>損觜還歸空</l>
+            <l>我今亦如彼<caesura/>徒勞歸天宮</l>
+          </lg>
+        </q>
+        <p>魔說是已，內懷憂慼，心生變悔，低頭伏地，以指<anchor type="variant" n="fnT02p0286n16"/>畫地。魔有三女：一名<anchor type="variant" n="fnT02p0286n17"/>愛欲，二名<anchor type="variant" n="fnT02p0286n18"/>愛念，三名<anchor type="variant" n="fnT02p0286n19"/>愛樂，來至波旬所，而說偈言：</p>
+        <q who="maradhitaro">
+          <lg met="5" xml:id="cgtn0099-1092f">
+            <l>父今何愁慼<caesura/>士夫何足憂</l>
+            <l>我<anchor type="variant" n="fnT02p0286n20"/>以愛欲繩<caesura/>縛彼如調象</l>
+            <l>牽來至父前<caesura/>令隨父自在</l>
+          </lg>
+        </q>
+        <p>魔答女言：</p>
+        <q who="papima">
+          <lg met="5" xml:id="cgtn0099-1092g">
+            <l>彼已離恩愛<caesura/>非欲所能招</l>
+            <l>已出於魔境<caesura/>是故我憂愁</l>
+          </lg>
+        </q>
+        <p>時魔三女身放光焰，熾如雲中電，來詣佛<pb ed="T" n="0287a"/>所，稽首禮足，退住一面，白佛言：</p>
+        <q who="maradhitaro">
+          <p>我今歸世尊足下，給侍使令。</p>
+        </q>
+        <p>爾時世尊都不顧視。知如來離諸愛欲，心善解脫。如是第二、第三說。時三魔女自相謂言：</p>
+        <q who="maradhitaro">
+          <p>士夫有種種隨形愛欲，今當各各變化，作百種童女色，作百種初嫁色，作百種未產色，作百種已產色，作百種中年色，作百種宿年色，作此種種形類，詣沙門瞿曇所，作是言：<q who="maradhitaro">今悉歸尊足下，供給使令。</q>
+          </p>
+        </q>
+        <p>作此議已，即作種種變化，如上所說，詣世尊所，稽首禮足，退住一面，白佛言：</p>
+        <q who="maradhitaro">
+          <p>世尊！我等今日歸尊足下，供給使令。</p>
+        </q>
+        <p>爾時世尊都不顧念。如來法離諸愛欲。如是再三說已，時三魔女自相謂言：</p>
+        <q who="maradhitaro">
+          <p>若未離欲士夫，見我等種種妙體，心則迷亂，欲氣衝擊，胸臆破裂，熱血熏面。然今沙門瞿曇於我等所，都不顧眄。<anchor type="variant" n="fnT02p0287n01"/>如其如來離欲解脫，得善解脫想，我等今日當復各各說偈而問。</p>
+        </q>
+        <p>復到佛前，稽首禮足，退住一面。愛欲天女即說偈言：</p>
+        <q who="tanha">
+          <lg met="5" xml:id="cgtn0099-1092h">
+            <l>獨一禪寂默<caesura/>捨俗錢財寶</l>
+            <l>既捨於世利<caesura/>今復何所求</l>
+            <l>若求聚落利<caesura/>何不習近人</l>
+            <l>竟不習近人<caesura/>終竟何所得</l>
+          </lg>
+        </q>
+        <p>佛說偈答言：</p>
+        <q who="gotamo">
+          <lg met="5" xml:id="cgtn0099-1092i">
+            <l>已得大財利<caesura/>志足安寂滅</l>
+            <l>摧伏諸魔軍<caesura/>不著於色欲</l>
+            <l>是故不與人<caesura/>周旋相習近</l>
+          </lg>
+        </q>
+        <p>愛念天女復說偈言：</p>
+        <q who="arati">
+          <lg met="5" xml:id="cgtn0099-1092j">
+            <l>多修何妙禪<caesura/>而度五欲流</l>
+            <l>
+              <pb ed="T" n="0287b"/>復以何方便<caesura/>度於第六海</l>
+            <l>云何修妙禪<caesura/>於諸深廣欲</l>
+            <l>得度於彼岸<caesura/>不為愛所持</l>
+          </lg>
+        </q>
+        <p>爾時世尊說偈答言：</p>
+        <q who="gotamo">
+          <lg met="5" xml:id="cgtn0099-1092k">
+            <l>身得止息樂<caesura/>心得善解脫</l>
+            <l>無為無所作<caesura/>正念不傾動</l>
+            <l>了知一切法<caesura/>不起諸亂覺</l>
+            <l>愛恚睡眠覆<caesura/>斯等皆已離</l>
+            <l>如是多修習<caesura/>得度於五欲</l>
+            <l>亦於第六海<caesura/>悉得度彼岸</l>
+            <l>如是修習禪<caesura/>於諸深廣欲</l>
+            <l>悉得度彼岸<caesura/>不為彼所持</l>
+          </lg>
+        </q>
+        <p>時愛樂天女復說偈言：</p>
+        <q who="raga">
+          <lg met="5" xml:id="cgtn0099-1092l">
+            <l>已斷除恩愛<caesura/>淳厚積集欲</l>
+            <l>多生人淨信<caesura/>得度於欲<anchor type="variant" n="fnT02p0287n02"/>流</l>
+            <l>開發明智慧<caesura/>超踰死魔境</l>
+          </lg>
+        </q>
+        <p>爾時世尊說偈答言：</p>
+        <q who="gotamo">
+          <lg met="5" xml:id="cgtn0099-1092m">
+            <l>大方便廣度<caesura/>入如來法律</l>
+            <l>斯等皆已度<caesura/>慧者復何憂</l>
+          </lg>
+        </q>
+        <p>時三天女志願不滿，還詣其父魔波旬所。時魔波旬遙見女來，說偈弄之：</p>
+        <q who="papima">
+          <lg met="5" xml:id="cgtn0099-1092n">
+            <l>汝等三女子<caesura/>自誇說堪能</l>
+            <l>咸放身光焰<caesura/>如電雲中流</l>
+            <l>至大精進所<caesura/>各現其容姿</l>
+            <l>反為其所破<caesura/>如風飄其綿</l>
+            <l>欲以爪破山<caesura/>齒齧破鐵丸</l>
+            <l>欲以髮藕絲<caesura/>旋轉於大山</l>
+            <l>和合悉解脫<caesura/>而望亂其心</l>
+            <l>著能縛風足<caesura/>令月空中墮</l>
+            <l>
+              <pb ed="T" n="0287c"/>以手<anchor type="variant" n="fnT02p0287n03"/>抒大海<caesura/>氣<anchor type="variant" n="fnT02p0287n04"/>歔動雪山</l>
+            <l>和合悉解脫<caesura/>亦可令傾動</l>
+            <l>於深巨海中<caesura/>而求安足地</l>
+            <l>如來於一切<caesura/>和合悉解脫</l>
+            <l>正覺大海中<caesura/>求傾動亦然</l>
+          </lg>
+        </q>
+      </div>
+      <div type="closing">
+        <p>如魔波旬弄三女已，即沒不現。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

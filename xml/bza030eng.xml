@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Māra plays the Vīṇā -- Godhika</head>
+        <p>Translation of BZA 030. First version published in <emph>
+            Buddhist Studies
+                                Review
+          </emph>vol. 23-1 (2006).</p>
+      </div>
+    </front>
+    <body xml:id="bza030en" xml:lang="en">
+      <div>
+        <p>
+          Thus have I heard, once, the Buddha was staying near rājagaha on vebhāra Mountain
+                              in the sattapaṇṇiguhā cave. at that time, there was a monk called godhika who
+                              lived alone in a cave on isigili mountain at the Black rock. Living in the
+                              wilderness, he made diligent efforts,and through his tenacity cut through the
+                              view of self and attained temporary liberation, bearing witness [to the truth]
+                              within his own body. Then he regressed and lost it. [This happened] a second
+                              time, a third time … altogether six times. always he regressed. Then the monk
+                              thought: ‘now, living alone and making diligent efforts, I have regressed six
+                              times. if I regress again, I will kill myself with a blade’.
+        </p>
+        <p>
+          King Māra the Bad knew that Buddha was staying near rājagaha on gijjhakūṭa
+                              mountain in the sattapaṇṇiguhā cave. he also knew that a disciple of gotama
+                              called godhika was also staying near rājagaha, on isigili mountain at the Black
+                              rock. There, making diligent efforts with tenacious mind, godhika had reached
+                              temporary liberation, had witnessed [the truth] with his own body, but after
+                              each of the six attainments had regressed again. at that time King Māra had this
+                              thought: ‘When the monk godhika attains [temporary liberation] a seventh time,
+                              he will certainly kill himself, and leave the world of Māra’.
+        </p>
+        <p>
+          Having thought thus, he took his lapis lazuli lute and went before the Buddha.
+                              Plucking his lute he made this verse:
+        </p>
+        <lg>
+          <l>
+            You endowed with great wisdom and great strength // with great magical
+                                    powers,
+          </l>
+          <l>
+            having attained freedom in the Dhamma // your majestic radiance shines
+                                    brightly.
+          </l>
+          <l>Now your Sāvaka disciple // wishes to kill himself.</l>
+          <l>You, best among men // should restrain him.</l>
+          <l>
+            how could he who rejoices in your teaching // die while still learning
+                                it?
+          </l>
+        </lg>
+        <p>
+          When King Māra had spoken this verse, the Buddha said to him: ‘Bad One, you have
+                              always been a great friend of the slothful. What you said now you spoke for your
+                              own sake, not for the sake of that monk’.
+        </p>
+        <p>At that time the World-honoured One spoke this verse:</p>
+        <lg>
+          <l>If one is not easily frightened // [and] persistently practises diligently,</l>
+          <l>one can always enjoy meditation // [and] day and night practise the good.</l>
+          <l>
+            [godhika] has ended the propensity towards of lust and desire // [and]
+                                    defeated your armies.
+          </l>
+          <l>[he] has now cast off his final body // [and] entered Nirvāṇa forever.</l>
+        </lg>
+        <p>
+          There King Māra became sad and dispirited, dropped his lapis lazuli lute and
+                              melancolicly and regretfully returned to his palaces.
+        </p>
+        <p>
+          The Buddha ordered the monks to [follow him to] godhika’s place at isigili.
+                              [There] they saw something like smoke gathering to the east of godhika’s corpse.
+                              The Buddha said to the monks: ‘Do you see the smoke gathering?’. The monks said:
+                              ‘Yes, World-honoured One, we see it’. [Then the smoke] gathered likewise towards
+                              the south, the west and the north [of godhika’s body]. The Buddha said to the
+                              monks: ‘This is the Bad One; his form is hidden and he is surrounding godhika
+                              looking for his consciousness’. The Buddha said to the monks: ‘The monk
+                              godhika has entered Nirvāṇa; there is no consciousness [to be found]; there is
+                              no destination’. At that time, King Māra changed into a young man and spoke this
+                              verse:
+        </p>
+        <lg>
+          <l>
+            Above and below and in the four directions // I have searched for godhika’s
+                                    consciousness.
+          </l>
+          <l>Does no one know his destination // where his consciousness abides?</l>
+        </lg>
+        <p>
+          At that time the Buddha said to the Bad One: ‘Thus the wise and steadfast one has
+                              vanquished your armies and entered Nirvāṇa’.
+        </p>
+        <p>
+          When the Buddha had finished, the monks, having listened to what he had said,
+                              were happy and practised accordingly.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

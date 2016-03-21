@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-0924">
+      <anchor type="start" xml:id="tp0235a06"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住王舍城迦蘭陀竹園。</p>
+      </div>
+      <div type="main">
+        <p>爾時世尊告諸比丘：<q who="gotamo">
+            <p>世間馬有八態。何等為八？謂惡馬臨駕車時後腳蹹人，前腳跪地，奮頭齧人，是名世間馬第一態。復次，惡馬就駕車時低頭振軛，是名世間惡馬第二之態。復次，世間惡馬就駕車時下道而去，或復偏厲車，令其翻覆，是名第三之態。復次，世間惡馬就駕車時仰頭卻行，是名世間惡馬第四之態。復次，世間惡馬就駕車時小得鞭杖，或斷繮折勒，縱橫馳走，是名第五之態。復次，世間惡馬就駕車時舉前兩足，而作人立，是名第六之態。復次，世間惡馬就駕之時加之鞭杖，安住不動，是名第七之態。復次，世間惡馬就駕之時叢聚四腳，伏地不起，是名第八之態。</p>
+          </q>
+        </p>
+        <q who="gotamo">
+          <p>如是，世間惡丈夫於正法、律有八種過。何等為八？若比丘！諸梵行者以見聞疑罪而發舉時彼則瞋恚，反呵責彼言：<q>汝愚癡，不辯不善，他立舉汝，汝云何舉我？</q>如彼惡馬後腳雙蹹，前腳跪地，斷鞅折軛，是名丈夫於正法、律第一之過。</p>
+        </q>
+        <q who="gotamo">
+          <p>復次，比丘！諸梵行者以見聞疑舉，反出他罪，猶如惡馬怒項折軛，是名丈夫於正法、律第二之過。</p>
+        </q>
+        <q who="gotamo">
+          <p>復次，比丘！諸梵行者以見聞疑舉，不以正答，橫說餘事，瞋恚<pb ed="T" n="0235b"/>憍慢，隱覆嫌恨，不忍，無所由作，如彼惡馬不由正路，令車翻覆，是名丈夫於正法、律第三之過。</p>
+        </q>
+        <q who="gotamo">
+          <p>復次，比丘！諸梵行者以見聞疑舉，令其憶念，而作是言：『我不憶念！』觝突不伏，如彼惡馬卻縮轉退，是名丈夫於正法、律第四之過。</p>
+        </q>
+        <q who="gotamo">
+          <p>復次，比丘！諸梵行者以見聞疑舉時，輕蔑不數其人，亦不數僧，攝持衣缽，隨意而去，如彼惡馬加以鞭杖，縱橫馳走，是名丈夫於正法、律第五之過。</p>
+        </q>
+        <q who="gotamo">
+          <p>復次，比丘！諸梵行者以見聞疑舉時，自處高床、與諸上座共諍曲直，如彼惡馬雙腳人立，是名丈夫於正法、律第六之過。</p>
+        </q>
+        <q who="gotamo">
+          <p>復次，比丘！諸梵行者以見聞疑舉時，默然不應，以惱大眾，如彼惡馬加其鞭杖，兀然不動，是名丈夫於正法、律第七之過。</p>
+        </q>
+        <q who="gotamo">
+          <p>復次，比丘！諸梵行者以見聞疑舉時，則便捨戒，自生退沒，到於寺門，而作是言：『汝默然快喜安住，我自捨戒退沒。』如彼惡馬叢聚四足，伏地不動，是名丈夫於正法、律第八之過。是名比丘於正法、律有八種丈夫過惡。</p>
+        </q>
+      </div>
+      <div type="closing">
+        <p>佛說此經已，諸比丘聞佛所說，歡喜奉行！</p>
+      </div>
+    </body>
+  </text>
+</TEI>

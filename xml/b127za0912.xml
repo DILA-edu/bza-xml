@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-0912">
+      <anchor type="start" xml:id="tp0228c15"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住瞻婆國揭伽池側。</p>
+      </div>
+      <div type="main">
+        <p>時有王頂聚落主來詣佛所，稽首佛足，退坐一面。</p>
+        <p>爾時世尊告王頂聚落主：</p>
+        <q who="gotamo">
+          <p>今者眾生依於二邊。何等為二？一者樂著卑下、田舍、常人凡夫五欲。二者自苦方便，不正、非義饒益。聚落主！有三種樂受欲樂：卑下、田舍、常人凡夫。有三種自苦方便，不正、非義饒益。
+                 聚落主！何等為三種卑下、田舍、常人凡夫樂受欲樂？有受欲者，非法濫取，不以安樂自供，不供養父母、給足兄弟、妻子、奴婢、眷屬、朋友、知識，亦不隨時供養沙門、婆羅門，仰求勝處安樂果報、未來生天，是名世間第一受欲。
+                 復次──聚落主！──受欲樂者，以法、非法濫取財物，以樂自供，供養父母，給足兄弟、妻子、奴婢、眷屬、朋友、知識，而不隨時供養沙門、婆羅門，<pb ed="T" n="0229a"/>
+              仰求勝處安樂果報、未來生天，是名第二受欲樂者。
+                               復次──聚落主！──有受欲樂者，以法求財，不以濫取，以樂自供，供養父母，給足兄弟、妻子、奴婢、眷屬、知識，隨時供養沙門、婆羅門，仰求勝處安樂果報、未來生天，是名第三受欲樂者。
+                               聚落主！我不一向
+            <anchor type="variant" n="fnT02p0229n01"/>
+              說受欲平等。我說受欲者其人卑下，我說受欲者是其中人，我說受欲者是其勝人。
+                               何等為卑下受欲者？謂非法濫取，（……乃至）不仰求勝處安樂果報、未來生天，是名我說卑下者受欲。
+                                   何等為中人受欲？謂受欲者以法、非法而求財物，（……乃至）不求未來生天，是名我說第二中人受欲。
+                                   何等為我說勝人受欲？謂彼以法求財，（……乃至）未來生天，是名我說第三勝人受欲。
+                               何等為三種自苦方便，是苦非法、不正、非義饒益？有一自苦枯槁活，初始犯戒、污戒，彼修種種苦行，精勤方便住處住。彼不能現法得離熾然、過人法、勝妙知見安樂住。聚落主！是名第一自苦方便枯槁活。
+                                   復次自苦方便枯槁活，始不犯戒、污戒，而修種種苦行，亦不由此現法得離熾然、過人法、勝妙知見安樂住。是名第二自苦方便枯槁活。
+                                   復次自苦方便枯槁活，不初始犯戒、污戒，然修種種苦行方便，亦不能現法離熾然、得過人法、勝妙知見安樂住，是名第三自苦方便枯槁活。
+                               聚落主！我不說一切自苦方便枯槁活悉等。我說有自苦方便是卑劣人，有說自苦方便是中人，有說自苦方便是勝人。
+                                   何等自苦方便卑劣人？若彼自苦方便，初始犯戒、
+            <pb ed="T" n="0229b"/>
+              污戒，（……乃至）不得勝妙知見安樂住，是名我說自苦方便卑劣人。
+                                   何等為自苦方便中人？若彼自苦方便，不初始犯戒、污戒，（……乃至）不得勝妙知見安樂住，是名我說自苦方便中間人。
+                                   何等為自苦方便勝人？若彼自苦方便枯槁活，不初始犯戒、污戒，（……乃至）不得勝妙知見安樂住，是名我說自苦方便勝人。
+                               聚落主！是名三種自苦方便，是苦非法、不正、非義饒益。
+                               聚落主！有道有跡，
+            <anchor type="variant" n="fnT02p0229n02"/>不向三種受欲隨順方便：卑下、田舍、常人凡夫；不向三種自苦方便；是苦非法、不正、非義饒益。聚落主！何等為道，何等為跡，不向三種受欲、三種自苦方便？聚落主！為欲貪障<anchor type="variant" n="fnT02p0229n03"/>閡故，或欲自害，或欲害他，或欲俱害，現法後世得斯罪報，心法憂苦。瞋恚、癡所障，或欲自害，或欲害他，或欲俱害，現法後世得斯罪報，心法憂苦。若離貪障，不欲方便自害、害他、自他俱害，不現法後世受斯罪報，彼心、心法常受喜樂。如是離瞋恚、愚癡障<anchor type="variant" n="fnT02p0229n03"/>閡，不欲自害，不欲害他、自他俱害，不現法後世受斯罪報，彼心、心法常受安樂。於現法中，遠離熾然，不待時節，親近涅槃。即此身現緣自覺知。聚落主。如此現法永離熾然。不待時節。親近涅槃，即此現身緣自覺知者，為八聖道：正見、（……乃至）正定。</p>
+        </q>
+        <p>當其世尊說是法時，王頂聚落主遠塵離垢，得法眼淨。時王頂聚落主見法，得法，知法，深入於法，度疑不由於他，於正法、律得無所畏，即從坐起，整衣服，合掌白佛：<q who="rasiya">
+            <p>我今已度。世尊！歸佛、歸法、歸比<pb ed="T" n="0229c"/>丘僧。從今盡壽為優婆塞。</p>
+          </q>
+        </p>
+      </div>
+      <div type="closing">
+        <p>時聞佛所說，歡喜隨喜，作禮而去。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

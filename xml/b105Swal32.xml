@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Waldschmidt 1932: 149-206</head>
+        <p>From Waldschmidt, Ernst: Bruchstücke buddhistischer Sūtras aus dem zentralasiatischen Sanskritkanon, I, herausgegeben und im Zusammenhang mit ihren Parallelversionen bearbeitet ( = Sanskrittexte). Leipzig: Deutsche Morgenländishe Gesellschaft. Reprinted 1979, Wiesbaden: Franz Steiner. 149-206. This is part of the text-cluster of BZA (T.100) sutra 105.</p>
+      </div>
+    </front>
+    <body xml:lang="sa">
+      <anchor type="start" xml:id="Wal1932.149"/>
+      <div type="parallel">
+        <p>evaṃ mayā śrutam | <note type="ref">121 V</note>(ekasmiṃ samaye bhagavāṃ Śākyeṣu viharati vane Kāpilava)stav(e) s(ā)rdhaṃ pañcabhir bhi(kṣuśataiḥ sarvair arhadbhiḥ kṣīṇāsravaiḥ<note type="fn">Vgl. Mahāvyutpatti § 48; dazu Davids Pāli-Dictionary unter arahant: arahaṃ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anupattasadattho parikkhīṇabhavasaññojano sammadaññā vimutto.</note>kṛtakṛtyaiḥ kṛta)karaṇīyair avahṛtabhārai(r anuprāptasvakārthaiḥ parikṣīṇabhavasaṃyojanaiḥ samya)gājñayā suvimuktacittaiḥ |</p>
+        <p>tatra bha(gavān bhi)kṣusa(ṃ)gh(as)y(a nirvāṇapratisam)yukt(ā)ṃ dharmikathāṃ<note type="fn">Pāli: nibbānapaṭisaññutā dhammikathā.</note>ka)thayati sma |</p>
+        <p>api .. .. daśama(hā)lo(kadhātumahāśākyamahāśākyā<note type="fn">Derselbe Ausdruck ist uns oben D 424 Śakrapraśnasūtra Blatt c R 4 bereits begegnet. Im Pāli findet sich oft mahesakkha, dem im Divyāvadāna und Mahāvastu maheśākhya (mahā+īśa+ākhya) entspricht. Wir haben es bei unserem Ausdruck wahrscheinlich mit der Sanskritisierung eines dem Pāli āhnlichen Prakritkompositums zu tun, das der Übersetzer, möglicherweise absichtlich, zur Wurzel śak in Beziehung gebracht hat. Man sollte dann aber nicht śakya, sondern śakra erwarten. Das Pāli kennt auch mahabhisakka.</note>devatā .. .. .. .. .. .. .. .. .. .. .. .. .. .. saṅghañ ca |<note type="ref">121 R</note>
+        </p>
+        <p>.. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..  de)vatānāṃ brahma(kāyikānām) e(tad abhavad | adya khalu bhagavāṃ Śāk)yeṣu v(iha)rati vane Kāpil(avastave sārdhaṃ pañcabhir bhikṣuśataiḥ sarvair arhad)bh(iḥ) kṣ(ī)ṇāsravaiḥ kṛtakṛtyaiḥ kṛtakara(ṇīyairavahṛtabhārair anuprāptasvakārthaiḥ) parikṣīṇabhavasaṃyojanaiḥ samyagājña(yā suvimuktacittaiḥ |</p>
+        <p>tatra bhagavān bhi)kṣusaṃghasya nirvāṇapratisamyuktāṃ dharmikathāṃ k(athayati |</p>
+        <p>api .. .. da)śamahālokadhātumahāśākyamahāśakyā devatā .. .. .. .. .. .. .. .. .. .. .. .. .. sa(ṅ)ghañ ca | <note type="ref">122 V</note>
+        </p>
+        <p>yan nu vayaṃ gatvā pratyekapratīkṣāṃ gā(thāṃ) .. .. .. .. .. .. .. .. .. .. .. .. .. .. ..</p>
+        <p>atha catasro brahmakāyikā de(vatās) tadyathā balav(ān puruṣaḥ saṃmiñjitaṃ bāhuṃ pras)ā(ra)ye(t pra)sāritaṃ vā saṃmiñjayed evam eva .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. bhagavataḥ purataḥ pratitasthuḥ |<note type="ref">122 R</note>
+        </p>
+        <p>ekānt(e) sthi(tā prathamā brahmakāyikā devatā) gāthāṃ babhāṣe ||</p>
+        <lg>
+          <l>(ma)hāsamāja ─ ─ ─ <caesura/>─ ─ ─ ─ ⌣ ─  ⌣ ─ |</l>
+          <l> ─ ─ ─ ─ ⌣ ─ ─ ─ <caesura/>sa(ṃ)ghaṃ hi draṣṭum āy(ayuḥ) ||</l>
+        </lg>
+        <p>(atha<note type="fn">atha fehlt an den folgenden Parallelstellen</note>dvitīyā brahmakāyikā de)vatā gāthāṃ babhāṣe ||</p>
+        <lg>
+          <l>ṛjubhūtena ─ ─ ─ <caesura/>─ ─ ─ ─ ⌣ ─  ⌣ ─ |</l>
+          <l> ─ ─ va n(e)trāṇy ādāya<caesura/>sa(ṃ)rakṣantīndriyāṇi hi ||</l>
+        </lg>
+        <p>tṛtī(yā brahmakāyikā devatā gāthāṃ) babhāṣe ||</p>
+        <lg>
+          <l>saṃpradālya khalu kīlam aneyā<note type="fn">Falsche Sanskritisierurg einer Bildung aus der Wurzel iñj? (Vgl. Pali aneja und D 424, Bl.131 R. 2 neñcati).</note>
+            <caesura/>indra ─ ⌣ ⌣ ⌣ ─ ⌣ ⌣ ─ ─<note type="fn">Metrum Svāgatā, doch ⌣ ─ statt ⌣ ⌣ ⌣ im 3. und 4. Pāda.</note>|</l>
+          <l> ─ ⌣ ─ ⌣ (śu)d(dh)ā vimalāś (ca)<caesura/>nāyakena dāntāḥ śiśunāgāḥ ||</l>
+        </lg>
+        <p>caturthī (brahmakāyikā devatā gāthāṃ babhā)ṣ(e) ||</p>
+        <lg>
+          <l>ye buddhaṃ śaraṇaṃ yānti<caesura/>na te gacchanti durg(atim |</l>
+          <l>prahāya mānuṣān kāyān<caesura/>divyān kāyān u)pāsat(e)<note type="fn">Ergänzung nach Divyāvadāna S. 195.</note>||</l>
+        </lg>
+        <p>ity uktvā catasro (bra)hmakāyikā d(e)v(atā) .. .. .. .. .. .. .. .. .. ||</p>
+      </div>
+    </body>
+  </text>
+</TEI>

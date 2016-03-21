@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum
+                              Buddhist College 法鼓佛教研修學院.
+        </title>
+        <funder>
+          Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會
+        </funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist
+                              College 法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>
+            Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉,
+                                    Chueh Hui-chen 闕慧貞
+          </name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>
+          This is the default header for all files in the database. Files which contain
+                              gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.
+        </p>
+        <p>
+          The project was conducted 2005-2008. Some minor revisions and additions were done
+                              in 2009.
+        </p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                    Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                    text lies with the Vipassana Research Institute. Copyright for the Sanskrit
+                                    text lies with Fumio Enomoto. Copyright for the English text lies with
+                                    Marcus Bingenheimer. The Tibetan and Manchu texts are in the public realm.
+                                    The digital edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                    (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                    (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                    comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding
+                                    to the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                    literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly
+                                publications (as referenced). English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the
+                              Bieyi za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies
+                              中華佛學研究所 and the Dharma Drum Buddhist College 法鼓佛教研修學院. The project is funded by
+                              the Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會. The aim of the project is to produce a comparative digital edition
+                              and partial translation of the 364 sutras of the BZA and their parallels. The
+                              texts are kept in single files in an eXist database and are realized via XQuery
+                              and XSLT as HTML for the online user. The project lasts from 2005-2008. For any
+                              changes after 2008 see the revision description.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                              attribute on the containing elements
+        </p>
+        <p>
+          BZA: New Punctuation. Markup of person and place names. Verse and prose.
+                              References to the print edition (Taishō). Corrected characters (according to
+                              CBETA).
+        </p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō).</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA. Verse and
+                              Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan: Parallel and not-parallel divisions regarding the BZA.
+                              Verse and Prose. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="bza109">
+      <anchor type="start" xml:id="Tp0412c19"/>
+      <div type="opening" xml:id="obza109">
+        <p n="bza109.01">如是我聞：一時佛在<name type="place">舍衛國</name>
+          <name type="place">祇樹給孤獨園</name>。</p>
+      </div>
+      <div type="main" xml:id="mbza109">
+        <p n="bza109.02">時有一梵，起大邪見，而作是言：</p>
+        <q who="brahma">
+          <p n="bza109.03">我此處常，不見有能生於我宮，況復有能過於我上者！</p>
+        </q>
+        <p n="bza109.04">爾時世尊入<app n="fnT02p0412n05">
+            <lem wit="【大】">於</lem>
+            <rdg resp="Taisho" wit="【宋】【元】【明】">于</rdg>
+          </app>於三昧，從閻浮提沒，現於梵頂虛空中坐。尊者憍陳如以淨天眼觀於世尊為至何處，即知如來在梵頂上虛空中坐。時憍陳如亦入是定，於此而沒，現梵頂上，處如來下，在於東面。時尊者摩訶迦葉以淨天眼觀於如來為至何處，尋知世尊在梵頂上，復入此定，於此處沒，在如來下，現梵頂上，在於南面。<pb ed="T" xml:id="T02.0100.0413a" n="0413a"/>尊者目連以淨天眼觀於如來為至何處，尋知世尊在梵頂上，即入是定，於此處沒，現梵頂上，處如來下，<app n="fnT02p0413n01">
+            <lem wit="【大】">現</lem>
+            <rdg resp="Taisho" wit="【宋】【元】【明】">在</rdg>
+          </app>現於西面。時尊者阿那律復以淨天眼觀察如來為至何處，尋知世尊在梵頂上，亦入是定，於此處沒，現梵頂上，處如來下，在於北面。爾時世尊告梵天言：</p>
+        <q who="gotamo">
+          <p n="bza109.05">汝本所見，為捨<app n="fnT02p0413n02">
+              <lem wit="【大】">已</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】【聖】">以</rdg>
+            </app>已不？</p>
+        </q>
+        <p n="bza109.06">復告梵天：</p>
+        <q who="gotamo">
+          <p n="bza109.07">汝本心念：<q who="brahma">我不見有能生我宮者，況能出過！</q>汝今試觀此等<app n="fnT02p0413n03">
+              <lem wit="【大】">天</lem>
+              <rdg resp="Taisho" wit="【元】【明】">大</rdg>
+            </app>天身，容貌光明，勝汝<app n="fnT02p0413n02">
+              <lem wit="【大】">已</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】【聖】">以</rdg>
+            </app>已不？</p>
+        </q>
+        <p n="bza109.08">時梵白佛：</p>
+        <q who="brahma">
+          <p n="bza109.09">唯然，已見。而今見之，斯等光明，昔所不見。而今見之，斯等光明，真為殊勝。自今已後，更不敢言『此處常恒，無有變易。』</p>
+        </q>
+        <p n="bza109.10">佛告梵天：</p>
+        <q who="gotamo">
+          <p n="bza109.11">此處無常、空、不自在。</p>
+        </q>
+        <p n="bza109.12">佛為彼梵種種說法，示、教、利、喜，入如是三昧，從彼梵沒，還<app n="fnT02p0412n05">
+            <lem wit="【大】">於</lem>
+            <rdg resp="Taisho" wit="【宋】【元】【明】">于</rdg>
+          </app>於祇洹。尊者憍陳如、摩訶迦葉、阿那律等亦為彼梵種種說法，示、教、利、喜，亦入是定，從彼處沒，還<app n="fnT02p0412n05">
+            <lem wit="【大】">於</lem>
+            <rdg resp="Taisho" wit="【宋】【元】【明】">于</rdg>
+          </app>於祇洹。唯尊者大目犍連在彼而坐。爾時彼梵問目連言：</p>
+        <q who="brahma">
+          <p n="bza109.13">世尊弟子頗有如汝，有大威德神足者不？</p>
+        </q>
+        <p n="bza109.14">目連答言：</p>
+        <q who="mahamoggallano">
+          <p n="bza109.15">諸餘聲聞亦有如是威德神足。</p>
+        </q>
+        <p n="bza109.16">尊者目連即說偈言：</p>
+        <q who="mahamoggallano">
+          <lg n="bza109.17" met="7" xml:id="cg109a">
+            <l>牟尼弟子大羅漢<caesura/>有大威德具三明</l>
+            <l>得盡諸漏知他心<caesura/>能現神變化群生</l>
+            <l>如是聲聞甚眾多<caesura/>是故汝今宜恭敬</l>
+          </lg>
+        </q>
+        <p n="bza109.18">時尊者目連說是偈已，種種說法，示、教、利、喜，亦入是定，從彼梵沒，還於祇洹。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

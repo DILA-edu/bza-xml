@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-1091">
+      <anchor type="start" xml:id="tp0286a02"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住王舍城毘婆羅山七葉樹林石室中。</p>
+      </div>
+      <div type="main">
+        <p>時有尊者<anchor type="variant" n="fnT02p0286n02"/>瞿低迦，住王舍城<anchor type="variant" n="fnT02p0286n04"/>仙人山側<anchor type="variant" n="fnT02p0286n02"/>黑石室中，獨一思惟，不放逸行，修自饒益。時受意解脫，身作證，數數退轉：一、二、三、四、五、六反，退還復得。時受意解脫，身作證，尋復退轉。彼尊者瞿低迦作是念：</p>
+        <q who="godhiko">
+          <p>我獨一靜處思惟，不放逸行，精勤修習，以自饒益。時受意解脫，身作證，而復數數退轉，……（乃至）六反，猶復退轉。我今當以刀自殺，莫令第七退轉。</p>
+        </q>
+        <p>時魔波旬作是念：</p>
+        <q who="papima">
+          <p>沙門瞿曇住王舍城毘婆羅山側七葉樹林石窟中。有弟子瞿低迦，住王舍城仙人山側黑石室中，獨一靜處，專精思惟。得時受意解脫，身作證，六反退轉，而復還得。彼作是念：<q who="godhiko">我已六反退，而復還得，莫令我第七退轉。我寧以刀自殺，莫令第七退轉。</q>若彼比丘以刀自殺者，莫令自殺，出我境界去。我今當往告彼大師。</p>
+        </q>
+        <p>爾時波旬執<anchor type="variant" n="fnT02p0286n05"/>琉璃柄琵琶，詣世尊所，鼓<anchor type="variant" n="fnT02p0286n06"/>絃說偈：</p>
+        <q who="papima">
+          <lg met="5" xml:id="cgtn0099-1091a">
+            <l>大智大方便<caesura/>自在大神力</l>
+            <l>得熾然弟子<caesura/>而今欲取死</l>
+            <l>大牟尼當制<caesura/>勿令其自殺</l>
+            <l>何聞佛世尊<caesura/>正法律聲聞</l>
+            <l>學其所不得<caesura/>而取於命終</l>
+          </lg>
+        </q>
+        <p>時魔說此偈已。世尊說偈答言：</p>
+        <q who="gotamo">
+          <lg met="5" xml:id="cgtn0099-1091b">
+            <l>波旬放逸種<caesura/>以自事故來</l>
+            <l>堅固具足士<caesura/>常住妙禪定</l>
+            <l>晝夜勤精進<caesura/>不顧於性命</l>
+            <l>見三有可畏<caesura/>斷除彼愛欲</l>
+            <l>
+              <pb ed="T" n="0286b"/>已摧伏魔軍<caesura/>瞿低般涅槃</l>
+          </lg>
+        </q>
+        <lg met="5" xml:id="cgtn0099-1091c">
+          <l>波旬心憂惱<caesura/>琵琶落於地</l>
+          <l>內懷憂慼已<caesura/>即沒而不現</l>
+        </lg>
+        <p>爾時世尊告諸比丘：</p>
+        <q who="gotamo">
+          <p>汝等當來，共至仙人山側黑石室所，觀瞿低迦比丘以刀自殺。</p>
+        </q>
+        <p>爾時世尊與眾多比丘往至仙人山側黑石室中，見瞿低迦比丘殺身在地，告諸比丘：</p>
+        <q who="gotamo">
+          <p>汝等見此瞿低迦比丘殺身在地不？</p>
+        </q>
+        <p>諸比丘白佛：</p>
+        <q who="bhikkhavo">
+          <p>唯然，已見，世尊！</p>
+        </q>
+        <p>佛告比丘：</p>
+        <q who="gotamo">
+          <p>汝等見瞿低迦比丘周匝遶身黑闇烟起，充滿四方不？</p>
+        </q>
+        <p>比丘白佛：</p>
+        <q who="bhikkhavo">
+          <p>已見，世尊！</p>
+        </q>
+        <p>佛告比丘：</p>
+        <q who="gotamo">
+          <p>此是惡魔波旬於瞿低迦善男子身側，周匝求其識神。然比丘瞿低迦以不住心，執刀自殺。</p>
+        </q>
+        <p>爾時世尊為瞿低迦比丘受第一記。爾時波旬而說偈言：</p>
+        <q who="papima">
+          <lg met="5" xml:id="cgtn0099-1091d">
+            <l>上下及諸方<caesura/>遍求彼識神</l>
+            <l>都不見其處<caesura/>瞿低何所之</l>
+          </lg>
+        </q>
+        <p>爾時世尊復說偈言：</p>
+        <q who="gotamo">
+          <lg met="5" xml:id="cgtn0099-1091e">
+            <l>如是堅固士<caesura/>一切無所求</l>
+            <l>拔<anchor type="variant" n="fnT02p0286n07"/>恩愛根本<caesura/>瞿低<anchor type="variant" n="fnT02p0286n08"/>般涅槃</l>
+          </lg>
+        </q>
+      </div>
+      <div type="closing">
+        <p>佛說此經已，諸比丘聞佛所說，歡喜奉行。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

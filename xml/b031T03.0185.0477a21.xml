@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 031. It is found in the 太子瑞應本起經 Sutra at T.03.0185.0477.</p>
+      </div>
+    </front>
+    <body xml:id="T03.0185.0477a21">
+      <anchor type="start" xml:id="t03.0185.0477a21"/>
+      <div type="parallel">
+        <p>
+          <seg type="not-parallel">於是第六化應聲天。</seg>天上魔王。見菩薩清淨無欲。精思不懈。心中煩毒。飲食不甘。<anchor type="variant" n="fnT03p0477n08"/>伎樂不御。念是道成必大勝我。欲及其未作佛。<anchor type="variant" n="fnT03p0477n09"/>當壞其道意。<seg type="not-parallel">魔子薩陀。前諫父曰。菩薩行淨。三界無比。<anchor type="variant" n="fnT03p0477n06"/>以得自然神通。眾梵諸天億百。皆往禮侍。此非天王所當沮壞。無為興惡自虧福也。</seg>魔王不聽。召三玉女。一名欲妃。二名悅彼。三名快觀。使行壞菩薩意。三女皆被羅縠之衣。服天名香瓔珞珠<anchor type="variant" n="fnT03p0477n10"/>寶。極為妖冶<pb ed="T" n="0477b"/>巧媚之辭。欲亂其意。菩薩心淨。如琉璃珠。不可得污。三女復<anchor type="variant" n="fnT03p0477n11"/>白曰。仁德至重。諸天所敬。應有供<anchor type="variant" n="fnT03p0477n12"/>養故天獻我。我等好潔。年在盛時。天女端正。莫有<anchor type="variant" n="fnT03p0477n13"/>殊我者。願得晨起夜寐供侍左右。</p>
+        <p>
+          <seg type="not-parallel">菩薩答曰。汝宿有福。受得天身。不惟無常。而作妖媚。形體雖好。而心不端。譬如畫瓶中盛臭毒。將以自壞。有何等奇。福難久居。婬惡不善。自亡其本。死即當墮三惡道中。受鳥獸形。欲脫致難。汝輩亂人正意。非清淨種。革囊盛屎。而來何為。去吾不用<anchor type="variant" n="fnT03p0477n14"/>汝。其三玉女。化成老母。不能自復。</seg>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-1077">
+      <anchor type="start" xml:id="tp0280c18"/>
+      <div type="opening">
+        <p>如是我聞：一時佛在央瞿多羅國人間遊行。</p>
+      </div>
+      <div type="main">
+        <p>
+          <anchor type="variant" n="fnT02p0280n07"/>經陀婆闍梨迦林中，見有牧牛者、牧羊者、採柴草者及餘種種作人。見世尊行路，見已，皆白佛言：</p>
+        <q who="kammakarino">
+          <p>世尊！莫從此道去！前有央瞿利摩羅賊，脫恐怖人。</p>
+        </q>
+        <p>佛告諸人：</p>
+        <q who="gotamo">
+          <p>我不畏懼。</p>
+        </q>
+        <p>作此語已，從道而去。彼再三告，世尊猶去，遙見央瞿利摩羅手執刀楯，走向世尊。以神力現身徐行，令央瞿利摩羅<anchor type="variant" n="fnT02p0280n08"/>駃走不及。走極疲乏已，遙語世尊：</p>
+        <q who="angulimalo">
+          <p>住！住！勿去！</p>
+        </q>
+        <p>世尊竝行而答：</p>
+        <q who="gotamo">
+          <p>我常住耳，汝自不住。</p>
+        </q>
+        <p>爾時央瞿利摩羅即說偈言：</p>
+        <q who="angulimalo">
+          <lg met="5" xml:id="cgtn0099-1077a">
+            <l>沙門尚<anchor type="variant" n="fnT02p0280n08"/>駃行<caesura/>而言我常住</l>
+            <pb ed="T" n="0281a"/>
+            <l>我今疲勌住<caesura/>說言汝不住</l>
+            <l>沙門說云何<caesura/>我住汝不住</l>
+          </lg>
+        </q>
+        <p>爾時世尊以偈答言：</p>
+        <q who="gotamo">
+          <lg met="5" xml:id="cgtn0099-1077b">
+            <l>央瞿利摩羅<caesura/>我說常住者</l>
+            <l>於一切眾生<caesura/>謂息於刀杖</l>
+            <l>汝恐怖眾生<caesura/>惡業不休息</l>
+            <l>我於一切蟲<caesura/>止息於刀杖</l>
+            <l>汝於一切蟲<caesura/>常逼迫恐怖</l>
+            <l>造作凶惡業<caesura/>終無休息時</l>
+            <l>我於一切神<caesura/>止息於刀杖</l>
+            <l>汝於一切神<caesura/>長夜苦逼迫</l>
+            <l>造作黑惡業<caesura/>于今不止息</l>
+            <l>我住於<anchor type="variant" n="fnT02p0281n01"/>息法<caesura/>一切不放逸</l>
+            <l>汝不見四諦<caesura/>故不息放逸</l>
+          </lg>
+        </q>
+        <p>央瞿利摩羅說偈白佛：</p>
+        <q who="angulimalo">
+          <lg met="5" xml:id="cgtn0099-1077c">
+            <l>久乃見牟尼<caesura/>故隨路而逐</l>
+            <l>今聞真妙說<caesura/>當捨久遠惡</l>
+            <l>作如是說已<caesura/>即放捨刀楯</l>
+            <l>投身世尊足<caesura/>願聽我出家</l>
+            <l>佛以慈悲心<caesura/>大僊多哀愍</l>
+            <l>告比丘善來<caesura/>出家受具足</l>
+          </lg>
+        </q>
+        <p>爾時央瞿利摩羅出家已，獨一靜處，專精思惟。所以族姓子剃除鬚髮，著袈裟衣，正信非家，出家學道，增修梵行，現法自知作證，我生已盡，梵行已立，所作已作，自知不受後有。時央瞿利摩羅得阿羅漢，覺解脫喜樂，即說偈言：</p>
+        <q who="angulimalo">
+          <lg met="5" xml:id="cgtn0099-1077d">
+            <l>本受不害名<caesura/>而中多殺害</l>
+            <l>今得見諦名<caesura/>永離於傷殺<pb ed="T" n="0281b"/>
+            </l>
+            <l>身行不殺害<caesura/>口意俱亦然</l>
+            <l>當知真不殺<caesura/>不迫於眾生</l>
+            <l>洗手常血色<caesura/>名央瞿摩羅</l>
+            <l>浚流之所漂<caesura/>三歸制令息</l>
+            <l>歸依三寶已<caesura/>出家得具足</l>
+            <l>成就於三明<caesura/>佛教作已作</l>
+            <l>調牛以捶杖<caesura/>伏象以鐵鈎</l>
+            <l>不以刀捶杖<caesura/>正度調天人</l>
+            <l>利刀以水石<caesura/>直箭以<anchor type="variant" n="fnT02p0281n02"/>熅火</l>
+            <l>治<anchor type="variant" n="fnT02p0281n03"/>材以斧斤<caesura/>自調以黠慧</l>
+            <l>人前行放逸<caesura/>隨後能自斂</l>
+            <l>是則照世間<caesura/>如雲解月現</l>
+            <l>人前放逸行<caesura/>隨後<anchor type="variant" n="fnT02p0281n04"/>能自斂</l>
+            <l>於世恩愛流<caesura/>正念而超出</l>
+            <l>少壯年出家<caesura/>精勤修佛教</l>
+            <l>是則照世間<caesura/>如雲解月現</l>
+            <l>少壯年出家<caesura/>精勤修佛教</l>
+            <l>於世恩愛流<caesura/>正念以超出</l>
+            <l>若度諸惡業<caesura/>正善能令滅</l>
+            <l>是則照世間<caesura/>如雲解月現</l>
+            <l>人前造惡業<caesura/>正善能令滅</l>
+            <l>於世恩愛流<caesura/>正念能超出</l>
+            <l>我已作惡業<caesura/>必向於惡趣</l>
+            <l>已受於惡報<caesura/>宿<anchor type="variant" n="fnT02p0281n05"/>責食已食</l>
+            <l>若彼我怨憎<caesura/>聞此正法者</l>
+            <l>得清淨法眼<caesura/>於我修行忍</l>
+            <l>不復興鬪訟<caesura/>蒙佛恩力故</l>
+            <l>我<anchor type="variant" n="fnT02p0281n06"/>怨行忍辱<caesura/>亦常讚歎忍</l>
+            <l>隨時聞正法<caesura/>聞已隨修行</l>
+          </lg>
+        </q>
+      </div>
+      <div type="closing">
+        <p>
+          <pb ed="T" n="0281c"/>佛說此經已，央瞿利摩羅聞佛所說，歡喜奉行。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

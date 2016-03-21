@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum
+                              Buddhist College 法鼓佛教研修學院.
+        </title>
+        <funder>
+          Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會
+        </funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist
+                              College 法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>
+            Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉,
+                                    Chueh Hui-chen 闕慧貞
+          </name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>
+          This is the default header for all files in the database. Files which contain
+                              gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.
+        </p>
+        <p>
+          The project was conducted 2005-2008. Some minor revisions and additions were done
+                              in 2009.
+        </p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                    Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                    text lies with the Vipassana Research Institute. Copyright for the Sanskrit
+                                    text lies with Fumio Enomoto. Copyright for the English text lies with
+                                    Marcus Bingenheimer. The Tibetan and Manchu texts are in the public realm.
+                                    The digital edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                    (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                    (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                    comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding
+                                    to the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                    literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly
+                                publications (as referenced). English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the
+                              Bieyi za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies
+                              中華佛學研究所 and the Dharma Drum Buddhist College 法鼓佛教研修學院. The project is funded by
+                              the Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會. The aim of the project is to produce a comparative digital edition
+                              and partial translation of the 364 sutras of the BZA and their parallels. The
+                              texts are kept in single files in an eXist database and are realized via XQuery
+                              and XSLT as HTML for the online user. The project lasts from 2005-2008. For any
+                              changes after 2008 see the revision description.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                              attribute on the containing elements
+        </p>
+        <p>
+          BZA: New Punctuation. Markup of person and place names. Verse and prose.
+                              References to the print edition (Taishō). Corrected characters (according to
+                              CBETA).
+        </p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō).</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA. Verse and
+                              Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan: Parallel and not-parallel divisions regarding the BZA.
+                              Verse and Prose. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="bza113">
+      <anchor type="start" xml:id="Tp0415a05"/>
+      <div type="opening" xml:id="obza113">
+        <p n="bza113.01">如是我聞：一時佛在<name type="place">舍衛國</name>
+          <name type="place">祇樹給孤獨園</name>。</p>
+      </div>
+      <div type="main" xml:id="mbza113">
+        <p n="bza113.02">爾時尊者<name type="person">摩訶迦葉</name>在彼舍衛舊園林中<name type="place">毘舍佉講堂</name>。時尊者摩訶迦葉即於其夜從定而起。從定起已，往詣佛所，頂禮佛足，在一面坐。佛告迦葉：</p>
+        <q who="gotamo">
+          <p n="bza113.03">汝當教授諸比丘等，指道教<app n="fnT02p0415n02">
+              <lem wit="【大】">照</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">詔</rdg>
+            </app>照禪定之法，為說法要。何以故？我恒教授是比丘等，汝亦應爾。我常為諸比丘說於法要，汝亦應爾。</p>
+        </q>
+        <p n="bza113.04">迦葉白佛：</p>
+        <q who="kassapo">
+          <p n="bza113.05">是諸比丘不能受語，難可教授！</p>
+        </q>
+        <p n="bza113.06">佛告迦葉：</p>
+        <q who="gotamo">
+          <p n="bza113.07">汝於今者以何因緣不為說法？</p>
+        </q>
+        <p n="bza113.08">迦葉復白佛言：</p>
+        <q who="kassapo">
+          <p n="bza113.09">今二比丘：一是<name type="person">阿難</name>共行弟子，名曰<app n="fnT02p0415n03">
+              <lem wit="【大】">難</lem>
+              <rdg resp="Taisho" wit="【元】【明】">離</rdg>
+            </app>
+            <name type="person">難<app n="fnT02p0415n04">
+                <lem wit="【大】">荼</lem>
+                <rdg resp="Taisho" wit="【明】">茶</rdg>
+              </app>荼</name>；二是<name type="person">目連</name>弟子，名<name type="person">阿毘浮</name>。是二弟子互諍勝負，各自稱言：<q who="bhikkhu">我知見勝！我所說勝！</q>互共相引，欲決知見及以言說：<q who="bhikkhu">為我說妙，為汝說妙？為我句義具足，為汝句義具足？</q>
+          </p>
+        </q>
+        <p n="bza113.10">爾時阿難侍於世尊，以扇扇佛。爾時阿難語迦葉言：</p>
+        <q who="anando">
+          <p n="bza113.11">止，止，尊者！聽我懺悔。如此比丘新入佛法，愚無智慧，未有所解。</p>
+        </q>
+        <p n="bza113.12">尊者迦葉語阿難言：</p>
+        <q who="kassapo">
+          <p n="bza113.13">
+            <app n="fnT02p0415n05">
+              <lem wit="【大】">爾止</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">止爾</rdg>
+            </app>爾止，阿難！汝莫僧中作偏黨語。</p>
+        </q>
+        <p n="bza113.14">爾時世尊告一比丘：</p>
+        <q who="gotamo">
+          <p n="bza113.15">汝可往喚彼二比丘。</p>
+        </q>
+        <p n="bza113.16">時彼比丘奉教往喚，語二比丘言：</p>
+        <q who="bhikkhu">
+          <p n="bza113.17">世尊喚汝！</p>
+        </q>
+        <p n="bza113.18">時二比丘承佛勅命，即<app n="fnT02p0415n06">
+            <lem wit="【大】">往</lem>
+            <rdg resp="Taisho" wit="【宋】【元】【明】">往詣</rdg>
+          </app>往佛所，頂禮佛足，在一面立。爾時世尊告二比丘：</p>
+        <q who="gotamo">
+          <p n="bza113.19">汝等二人實作是語：<q who="bhikkhavo">我讀誦多，我所知多，我所說言句偈不闕！</q>欲決勝負，為有是不？</p>
+        </q>
+        <p n="bza113.20">時二比丘白佛言：</p>
+        <q who="bhikkhavo">
+          <p n="bza113.21">實爾，世尊！</p>
+        </q>
+        <p n="bza113.22">佛復告言：</p>
+        <q who="gotamo">
+          <p n="bza113.23">汝若解我所說修<pb ed="T" xml:id="T02.0100.0415b" n="0415b"/>多羅、祇夜、授記、說偈、優<app n="fnT02p0415n07">
+              <lem wit="【大】">他</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">陀</rdg>
+            </app>他那、尼<app n="fnT02p0415n07">
+              <lem wit="【大】">他</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">陀</rdg>
+            </app>他那、伊帝目多伽、本生、毘佛略、未曾有、優波提舍、本事，是十二部，汝若讀誦，令通利者，是等經中為有勝負以不？</p>
+        </q>
+        <p n="bza113.24">時二比丘白佛言：</p>
+        <q who="bhikkhavo">
+          <p n="bza113.25">世尊！是十二部，實無是說。</p>
+        </q>
+        <p n="bza113.26">佛復告二比丘，言：</p>
+        <q who="gotamo">
+          <p n="bza113.27">說十二部經，為欲除滅諍訟勝負。汝今云何作如是說？汝等愚人作如是解，我豈可有如是說耶？若生諍訟，此非佛法。又復不應出家之法。我佛法中終不如是：<q who="bhikkhu">我勝汝負，……（乃至）我所說法句義具足，汝之所說句義不足。</q>如是諍訟，實非我說。汝二比丘如斯之事，汝應作不？</p>
+        </q>
+        <p n="bza113.28">時二比丘即禮佛足，白佛言：</p>
+        <q who="bhikkhavo">
+          <p n="bza113.29">我等聞佛所說，自知有過，實如<app n="fnT02p0415n08">
+              <lem wit="【大】">孾</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">嬰</rdg>
+            </app>孾愚，無所知解，作不應作，所作不善，乃共相決種種勝負，實有是過。唯願世尊憐愍我故，聽許懺悔！</p>
+        </q>
+        <p n="bza113.30">佛言：</p>
+        <q who="gotamo">
+          <p n="bza113.31">知汝誠心、慇重懺悔。汝實<app n="fnT02p0415n08">
+              <lem wit="【大】">孾</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">嬰</rdg>
+            </app>孾愚，無所知解，所作不善，不如佛教，非出家法，乃諍勝負，各云：<q who="bhikkhu">多知，……（乃至）我所言說句義具足，汝不具足。</q>如是勝負，實不應作。吾今受汝誠心懺悔，使汝善法增長，無有退失。何以故？若能至心，實知有罪，然後懺悔，後莫復作，如是懺者，善法增長，無有退失。</p>
+        </q>
+      </div>
+      <div type="closing" xml:id="cbza113">
+        <p n="bza113.32">諸比丘聞佛所說，歡喜頂禮而去。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

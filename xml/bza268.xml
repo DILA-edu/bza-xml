@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum
+                              Buddhist College 法鼓佛教研修學院.
+        </title>
+        <funder>
+          Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會
+        </funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist
+                              College 法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>
+            Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉,
+                                    Chueh Hui-chen 闕慧貞
+          </name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>
+          This is the default header for all files in the database. Files which contain
+                              gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.
+        </p>
+        <p>
+          The project was conducted 2005-2008. Some minor revisions and additions were done
+                              in 2009.
+        </p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                    Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                    text lies with the Vipassana Research Institute. Copyright for the Sanskrit
+                                    text lies with Fumio Enomoto. Copyright for the English text lies with
+                                    Marcus Bingenheimer. The Tibetan and Manchu texts are in the public realm.
+                                    The digital edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                    (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                    (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                    comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding
+                                    to the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                    literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly
+                                publications (as referenced). English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the
+                              Bieyi za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies
+                              中華佛學研究所 and the Dharma Drum Buddhist College 法鼓佛教研修學院. The project is funded by
+                              the Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會. The aim of the project is to produce a comparative digital edition
+                              and partial translation of the 364 sutras of the BZA and their parallels. The
+                              texts are kept in single files in an eXist database and are realized via XQuery
+                              and XSLT as HTML for the online user. The project lasts from 2005-2008. For any
+                              changes after 2008 see the revision description.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                              attribute on the containing elements
+        </p>
+        <p>
+          BZA: New Punctuation. Markup of person and place names. Verse and prose.
+                              References to the print edition (Taishō). Corrected characters (according to
+                              CBETA).
+        </p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō).</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA. Verse and
+                              Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan: Parallel and not-parallel divisions regarding the BZA.
+                              Verse and Prose. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="bza268">
+      <anchor type="start" xml:id="Tp0467b27"/>
+      <div type="opening" xml:id="obza268">
+        <p n="bza268.01">如是我聞：一時佛在<name type="place">王舍城</name>
+          <name type="place">迦蘭陀竹林</name>。</p>
+      </div>
+      <div type="main" xml:id="mbza268">
+        <p n="bza268.02">爾時世尊著衣持鉢，入城乞食，到<name type="person">火姓達賴殊婆羅門</name>家。爾時火姓達賴殊於中門前祀祠於火。佛來至門，達賴殊遙見佛來，而語之言：</p>
+        <q who="????????">
+          <p n="bza268.03">住！住！<name type="person">旃陀羅</name>！莫來至此！</p>
+        </q>
+        <p n="bza268.04">佛告之言：</p>
+        <q who="gotamo">
+          <p n="bza268.05">汝識旃陀羅，知旃陀羅法不？</p>
+        </q>
+        <p n="bza268.06">婆羅門答言：</p>
+        <q who="?????????">
+          <p n="bza268.07">不識，不知旃陀羅旃陀羅法！汝識旃陀羅，知旃陀羅法耶？</p>
+        </q>
+        <p n="bza268.08">佛告之言：</p>
+        <q who="gotamo">
+          <p n="bza268.09">我識旃陀羅，知旃陀羅法。</p>
+        </q>
+        <p n="bza268.10">時婆羅門於坐處起，為佛敷座，而白佛言：</p>
+        <q who="gotamo">
+          <p n="bza268.11">汝為我說旃陀羅法！</p>
+        </q>
+        <p n="bza268.12">爾時世尊即坐其座，而說偈言：</p>
+        <q who="gotamo">
+          <lg n="bza268.13" met="7" xml:id="cg268a">
+            <l>惡性喜瞋久嫌恨<caesura/>為人剛惡懷憍慢</l>
+            <l>行於倒見及幻惑<caesura/>當知此是旃陀羅</l>
+            <l>含忿嫉妬好惡欲<caesura/>難可調化無慚愧</l>
+            <l>行如是者旃陀羅<caesura/>傷害胎生及卵生</l>
+            <l>心無慈愍害生類<caesura/>傷殘毀害於四生</l>
+            <l>當知是此旃陀羅<caesura/>若人齎物涉道路</l>
+            <l>聚落空處有財寶<caesura/>悉能劫奪并害命</l>
+            <l>行如是者旃陀羅<caesura/>造行眾惡無悔恨</l>
+            <l>是則名為旃陀羅<caesura/>捨自己妻及婬女</l>
+            <l>邪姦他婦無所避<caesura/>如是亦名旃陀羅</l>
+            <l>於己種姓及親友<caesura/>如是之處造邪惡</l>
+            <l>不擇好惡而姦婬<caesura/>是亦名為旃陀羅</l>
+            <l>以理問義為倒說<caesura/>如是亦名旃陀羅</l>
+            <l>自歎己德毀呰他<caesura/>貪著我慢下賤行</l>
+            <l>如是亦名旃陀羅<caesura/>橫加誹謗極愚癡</l>
+            <l>為小利故生誹謗<caesura/>如是亦名旃陀羅</l>
+            <l>自己有過推與他<caesura/>專行欺誑謗毀人</l>
+            <l>如是亦名旃陀羅<caesura/>多有財寶饒親族</l>
+            <l>自食好美與他惡<caesura/>如是亦名旃陀羅</l>
+            <l>己到他家得美食<caesura/>他若來時與麁惡</l>
+            <l>如是亦名旃陀羅<caesura/>父母衰老離盛壯</l>
+            <l>而不孝順加供養<caesura/>如是亦名旃陀羅</l>
+            <l>父母兄弟及姊妹<caesura/>罵詈惡口無遜弟</l>
+            <l>如是亦名旃陀羅<caesura/>沙門及與婆羅門</l>
+            <l>中時垂至不施與<caesura/>更加罵詈而瞋恚</l>
+            <l>如是亦名旃陀羅<caesura/>沙門及與婆羅門</l>
+            <l>貧窮乞匃請向家<caesura/>不與飲食亦不施</l>
+            <l>如是亦名旃陀羅<caesura/>毀罵於佛及聲聞</l>
+            <l>出家在家加毀罵<caesura/>如是亦名旃陀羅</l>
+            <l>竟非羅漢詐稱是<caesura/>於天人中為殘賊</l>
+            <l>生於大家婆羅門<caesura/>韋陀典籍悉通利</l>
+            <l>數數造作諸惡業<caesura/>種姓不能遮謗毀</l>
+            <l>亦不能遮地獄報<caesura/>現前為人所罵辱</l>
+            <l>未來之世墮惡趣<caesura/>生旃陀羅須陀延</l>
+            <l>得好名稱必不聞<caesura/>又得盛樂生梵處</l>
+            <l>種姓不能遮梵處<caesura/>現在稱歎終生天</l>
+            <l>我今為汝顯示說<caesura/>如是之事應當知</l>
+            <l>種姓不是婆羅門<caesura/>種姓不是旃陀羅</l>
+            <l>淨業得作婆羅門<caesura/>惡行得為旃陀羅</l>
+          </lg>
+        </q>
+        <p n="bza268.14">婆羅門聞是偈，讚言：</p>
+        <q who="??????????">
+          <p n="bza268.15">如是，如是大精進，實如所說！大牟尼不以種姓是婆羅門，不以種姓旃陀羅，善能修行，是婆羅門；作惡行者，旃陀羅。</p>
+        </q>
+        <p n="bza268.16">婆羅門聞是偈已，歡喜信解，盛滿鉢飲食持以奉佛，佛不為受。何以故？以是說法食故。婆羅門白佛言：</p>
+        <q who="?????????">
+          <p n="bza268.17">此食當以施誰？</p>
+        </q>
+        <p n="bza268.18">佛言：</p>
+        <q who="gotamo">
+          <p n="bza268.19">我不見沙門、婆羅門若天、若魔、若梵能消此食者，無有是處。當以此食著淨無虫水中。</p>
+        </q>
+        <p n="bza268.20">婆羅門即以此食著無虫水中，烟炎俱起，滑滑大聲。爾時婆羅門生未曾有想：</p>
+        <q who="??????????">
+          <p n="bza268.21">佛．世尊尚於食所出大神足！</p>
+        </q>
+        <p n="bza268.22">婆羅門還至佛所，白佛言：</p>
+        <q who="??????????">
+          <p n="bza268.23">唯願世尊聽我出家得及道次！</p>
+        </q>
+        <p n="bza268.24">佛言：</p>
+        <q who="gotamo">
+          <p n="bza268.25">善來！比丘！</p>
+        </q>
+        <p n="bza268.26">鬚髮自落，法服著身，即得具戒，如出家法，於空靜處獨己精修。所以族姓子剃除鬚髮，被服法衣者，為正修無上梵行故。族姓子梵行已立，所作已辦，不受後有，成阿羅漢，得解脫樂，而說偈言：</p>
+        <q who="??????????">
+          <lg n="bza268.27" met="5" xml:id="cg268b">
+            <l>我昔迷正真<caesura/>愚惑造邪行</l>
+            <l>不識清淨道<caesura/>又不知死路</l>
+            <l>妄想生橫計<caesura/>劬勞承奉火</l>
+            <l>空為虛妄事<caesura/>徒損無所獲</l>
+            <l>今遇天中天<caesura/>黑闇蒙惠光</l>
+            <l>獲得樂中樂<caesura/>具戒得三明</l>
+            <l>於佛教法中<caesura/>所作皆已訖</l>
+            <l>本雖婆羅門<caesura/>實是旃陀羅</l>
+            <l>今日真實是<caesura/>淨行婆羅門</l>
+            <l>遠離於淤泥<caesura/>淨自澡浴已</l>
+            <l>過韋陀彼岸</l>
+          </lg>
+        </q>
+      </div>
+    </body>
+  </text>
+</TEI>

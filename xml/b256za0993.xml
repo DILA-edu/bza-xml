@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-0993">
+      <anchor type="start" xml:id="tp0259a05"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住舍衛國祇樹給孤獨園。</p>
+      </div>
+      <div type="main">
+        <p>時有諸上座比丘隨佛左右依止而住。所謂：尊者阿若憍陳如、尊者摩訶迦葉、尊者舍利弗、尊者摩訶目揵連、尊者阿那律陀、尊者二十億耳、尊者陀羅驃摩羅子、尊者婆那迦婆娑、尊者耶舍舍羅迦毘訶利、尊者富<anchor type="variant" n="fnT02p0259n02"/>
+            留那、尊者分陀檀尼迦，如此及餘上座比丘隨佛左右依止而住。
+                             時尊者婆耆舍住舍衛國東園鹿子母講堂。時尊者婆耆舍作是念：
+          </p>
+        <q who="vangisa">
+          <p>今日世尊在舍衛國祇樹給孤獨園。諸上座比丘隨佛左右依止而住。我今當往至世尊所，各各說偈，歎諸上座比丘。</p>
+        </q>
+        <p>作是念已，往詣佛所，稽首佛足，退住一面，<anchor type="variant" n="fnT02p0259n03"/>而說偈言：</p>
+        <q who="vangisa">
+          <lg met="5" xml:id="cgtn0099-0993a">
+            <l>上上座比丘<caesura/>已斷諸貪欲</l>
+            <l>超過諸世間<caesura/>一切之積聚</l>
+            <l>深智少言說<caesura/>勇猛勤方便</l>
+            <l>道德淨明顯<caesura/>我今稽首禮</l>
+            <l>已伏諸<anchor type="variant" n="fnT02p0259n04"/>魔怨<caesura/>遠離於群聚</l>
+            <l>不為五欲縛<caesura/>常習於空閑</l>
+            <l>清虛而寡欲<caesura/>我今稽首禮</l>
+            <l>遮羅延勝族<caesura/>禪思不放逸</l>
+            <l>內心樂正受<caesura/>清淨離塵穢</l>
+            <l>辯慧顯深義<caesura/>是故稽首禮</l>
+            <l>所得神通慧<caesura/>超諸神通力</l>
+            <l>
+              <pb ed="T" n="0259b"/>六神通眾中<caesura/>自在無所畏</l>
+            <l>神通最勝故<caesura/>是故稽首禮</l>
+            <l>於大千世界<caesura/>五道諸趣生</l>
+            <l>乃至於梵世<caesura/>人天優劣想</l>
+            <l>淨天眼悉見<caesura/>是故稽首禮</l>
+            <l>精勤方便力<caesura/>斷除諸愛集</l>
+            <l>壞裂生死網<caesura/>心常樂正法</l>
+            <l>離諸悕望想<caesura/>超度於彼岸</l>
+            <l>清淨無塵穢<caesura/>是故稽首禮</l>
+            <l>永離諸恐畏<caesura/>無依離財物</l>
+            <l>知足度疑惑<caesura/>伏諸魔怨敵</l>
+            <l>身念觀清淨<caesura/>是故稽首禮</l>
+            <l>無有諸世間<caesura/>煩惱棘刺林</l>
+            <l>結縛使永除<caesura/>三有因緣斷</l>
+            <l>精練滅諸垢<caesura/>究竟明顯現</l>
+            <l>於林離林去<caesura/>是故稽首禮</l>
+            <l>無舍宅所依<caesura/>幻偽癡恚滅</l>
+            <l>調伏諸愛喜<caesura/>出一切見處</l>
+            <l>清淨無瑕穢<caesura/>是故稽首禮</l>
+            <l>其心自在轉<caesura/>堅固不傾動</l>
+            <l>智慧大德力<caesura/>難伏魔能伏</l>
+            <l>斷除無明結<caesura/>是故稽首禮</l>
+            <l>大人離闇冥<caesura/>寂滅牟尼尊</l>
+            <l>
+              <anchor type="variant" n="fnT02p0259n05"/>正法離垢過<caesura/>光明自顯照</l>
+            <l>照一切世界<caesura/>是故名為佛</l>
+            <l>地神虛空天<caesura/>三十三天子</l>
+            <l>光明悉映障<caesura/>是故名為佛</l>
+            <l>度生死有邊<caesura/>超踰越群眾</l>
+            <l>柔弱善調伏<caesura/>正覺第一覺</l>
+            <l>
+              <pb ed="T" n="0259c"/>斷一切結縛<caesura/>伏一切異道</l>
+            <l>降一切魔怨<caesura/>得無上正覺</l>
+            <l>離塵滅諸垢<caesura/>是故稽首禮</l>
+          </lg>
+        </q>
+      </div>
+      <div type="closing">
+        <p>尊者婆耆舍偈讚歎時，諸比丘聞其所說，皆大歡喜。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

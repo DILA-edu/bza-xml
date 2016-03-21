@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-0275">
+      <anchor type="start" xml:id="tp0073a22"/>
+      <div type="opening">
+        <p>如是我聞：一時佛 <anchor type="variant" n="fnT02p0073n04"/>住舍衛國祇樹給孤獨園。</p>
+      </div>
+      <div type="main">
+        <q who="gotamo">
+          <p>其有說言<anchor type="variant" n="fnT02p0073n05"/>『大力』者，其唯難陀，此是正說。其有說言『最端<anchor type="variant" n="fnT02p0073n06"/>
+              政』者，其唯難陀，是則正說。其有說言『愛欲重』者，其唯難陀，是則正說。諸比丘！而今難陀關閉根門，飲食知量，初夜、後夜精勤修習，正智成就，堪能盡壽，純一滿淨，梵行清白。      
+                        彼難陀比丘關閉根門故，若
+            <pb ed="T" n="0073b"/>眼見色，不取色相，不取隨形好。若諸眼根增不律儀，無明闇障，世間貪<anchor type="variant" n="fnT02p0073n07"/>愛、惡不善法，不漏其心。生諸律儀，防護於眼、耳、鼻、舌、身、意根。生諸律儀，是名『難陀比丘關閉根門』。飲食知量者，難陀比丘於食繫數，不自高、不放逸、不著色、不著莊嚴，支身而已，任其所得，為止飢渴。修梵行故，故起苦覺令息<anchor type="variant" n="fnT02p0073n08"/>滅，未起苦覺令不起故。成其崇向故，氣力安樂。無<anchor type="variant" n="fnT02p0073n09"/>聞獨住故，如人乘車，塗以膏油，不為自高、……（乃至）莊嚴，為載運故。又如塗瘡，不貪其味，為息苦故。如是，善男子難陀知量而食，……（乃至）無<anchor type="variant" n="fnT02p0073n09"/>聞獨住，是名『難陀知量而食』。彼善男子難陀初夜、後夜精勤修業者：彼難陀晝則經行，坐禪，除去陰障，以淨其身。於初夜時經行，坐禪，除去陰障，以淨其身。於中夜時房外洗足，入於室中，右脅而臥，屈膝累足，<anchor type="variant" n="fnT02p0073n10"/>係念明<anchor type="variant" n="fnT02p0073n11"/>想，作起覺想。於後夜時徐覺徐起，經行，坐禪。是名『善男子難陀初夜、後夜精勤修<anchor type="variant" n="fnT02p0073n12"/>集』。彼善男子難陀勝念正知者：是善男子難陀觀察東方，一心正念，安住觀察。觀察南、西、北方，亦復如是，一心正念，安住觀察。如是觀者，世間貪<anchor type="variant" n="fnT02p0073n13"/>愛、惡不善法，不漏其心。彼善男子難陀覺諸受起，覺諸受住，覺諸受滅，正念而住，不令散亂。覺諸想起，覺諸想住，覺諸想滅，覺諸覺起，覺諸覺住，覺諸覺滅，正念<anchor type="variant" n="fnT02p0073n14"/>心住，不令散亂。是名『善男子難陀正念正智成就』。是故──諸比丘！──當作是學：關閉根門。如善男子難陀飲食知<pb ed="T" n="0073b"/>量。如善男子難陀初夜、後夜精勤修業。如善男子難陀正念正智成就。如善男子難陀如教授難陀法，亦當持是為其餘人說。</p>
+        </q>
+        <p>時有異比丘而說偈言：</p>
+        <q who="bhikkhu">
+          <lg met="5" xml:id="cgtn0099-0275a">
+            <l>善關閉根門<caesura/>正念攝心住</l>
+            <l>飲食知節量<caesura/>覺知諸心相</l>
+            <l>善男子難陀<caesura/>世尊之所歎</l>
+          </lg>
+        </q>
+      </div>
+      <div type="closing">
+        <p>佛說此經已，諸比丘聞佛所說，歡喜奉行。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

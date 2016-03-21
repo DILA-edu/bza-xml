@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 098. It is found in the 佛說梵志計水淨經 Sutra at T.01.0051.0843.</p>
+      </div>
+    </front>
+    <body xml:id="T01.0051.0843c11">
+      <anchor type="start" xml:id="t01.0051.0843c11"/>
+      <div type="parallel">
+        <p>聞如是。一時婆伽婆。在欝鞞羅(摩竭附邊)水岸上。獨在樹下初成等覺。彼時有計水淨婆羅門過中食後彷徉。行至世尊所。世尊遙見計水淨婆羅門從遠而來。
+                    <seg type="not-parallel">世尊見計水淨婆羅門已。為彼故便告諸比丘。若有二十一結著意者。當墮惡趣生泥犁中。云何為二十一。邪見意著結。非法欲欺世間邪法。貪瞋恚懈怠睡眠調戲無恥疑瞋恨恚慳嫉不捨諛諂<anchor type="variant" n="fnT01p0843n16"/>多無羞無恥<anchor type="variant" n="fnT01p0843n17"/>無妬嫉增上<anchor type="variant" n="fnT01p0843n18"/>妬嫉放逸意結。若有此二十一結著意者。墮惡趣生泥犁中。猶若穢垢小兒衣。彼主與染師若<anchor type="variant" n="fnT01p0843n19"/>染弟子。持衣鹵土若牛糞若土以漬之。浣濯洗令極淨。雖彼染師及染弟子持彼垢穢小兒衣。以鹵土以灰以牛糞以土<anchor type="variant" n="fnT01p0843n20"/>清淨濯洗令極淨。彼小<pb ed="T" n="0844a"/>兒衣故有黑膩。如是若有二十一結著意者。便墮惡趣生泥犁中。云何二十一。邪見意著結至放逸意著結者。若有此二十一結著意者。墮惡趣生泥犁中。若有無二十一結著意者。便生善處天上。云何二十一。邪見意著結至放逸意著結。若無此二十一結著意者。便生善處天上。猶若波羅<g ref="g006">[木*奈]</g>以成衣。彼主授與染師若染弟子。彼染師染弟子。持鹵土灰牛糞以漬之。浣濯洗極令淨。雖彼波羅<g ref="g006">[木*奈]</g>以成衣。彼染師染弟子。以<anchor type="variant" n="fnT01p0844n01"/>鹵以灰牛糞<anchor type="variant" n="fnT01p0844n02"/>上以漬之。浣濯洗極令淨。波羅<g ref="g006">[木*奈]</g>以成衣。極清淨白。如是若有無二十一結著意者。便生善處天上。云何為二十一。邪見<anchor type="variant" n="fnT01p0844n03"/>意結至放逸意著者。便生善處天上。邪見意結見已當棄。至放逸意著結見已當棄。彼意與慈俱滿一方正受住。如是二三四上下一切諸方意與慈俱無二無恚。極廣極大。<anchor type="variant" n="fnT01p0844n04"/>無極分別。滿諸方已正受住。如是意與悲喜護俱滿一切諸方已正受住。是為婆羅門內外洗淨。非外淨也。</seg>
+        </p>
+        <p>沙門瞿曇往詣水浴。汝婆羅門。瞿曇水洗者。一切世間應戒故應福故應度故。此瞿曇。一切世間水洗者。除一切惡故。在水淨洗濡。凡愚常樂。此不得除黑黑行。用彼水淨。為在水何所見。人作諸惡行。此水何所能淨者。有堅牢淨者。當持戒行行清淨行。<anchor type="variant" n="fnT01p0844n05"/>行清淨<anchor type="variant" n="fnT01p0844n06"/>行常得應戒。若不殺盜不妄<anchor type="variant" n="fnT01p0844n07"/>語為得等度。梵志<anchor type="variant" n="fnT01p0844n08"/>當住此作一切善為得安隱。汝婆羅門。何須還家何須<anchor type="variant" n="fnT01p0844n09"/>水及家。汝婆羅門。寧求淨善法。何須弊惡水。但除塵垢<pb ed="T" n="0844b"/>穢。瞿曇或作是念。寧求淨善法。不須弊惡水。用除塵垢穢。已竟瞿曇。已竟瞿曇。我今歸世尊法及比丘僧。世尊我<anchor type="variant" n="fnT01p0844n10"/>持優婆塞。從今日始盡命。離殺而歸佛。</p>
+        <p>佛如是說。彼諸比丘聞世尊所說。歡喜而<anchor type="variant" n="fnT01p0844n11"/>歸。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

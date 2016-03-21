@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-1136">
+      <anchor type="start" xml:id="tp0299c06"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住<anchor type="variant" n="fnT02p0299n12"/>舍衛國迦蘭陀竹園。</p>
+      </div>
+      <div type="main">
+        <p>爾時世尊告諸比丘：</p>
+        <q who="gotamo">
+          <p>當如月譬住。如新學，慚愧軟下，攝心斂形而入他家。如明目士夫，臨深登峰，攝心斂形，難速<anchor type="variant" n="fnT02p0299n13"/>前進。如是比丘如月譬住，亦如新學，慚愧軟下，御心<anchor type="variant" n="fnT02p0299n14"/>斂形而入他家。迦葉比丘如月譬住，亦如新學，慚愧軟下諸高慢 ，御心控形而入他家。如明目士夫，臨深登峰，御心控形，正觀而進。</p>
+        </q>
+        <p>佛告比丘：</p>
+        <q who="gotamo">
+          <p>於意云何：比丘為何等像類應入他家？</p>
+        </q>
+        <p>諸比丘白佛言：</p>
+        <q who="bhikkhavo">
+          <p>世尊是法根、法眼、法依。<anchor type="variant" n="fnT02p0299n15"/>唯願廣說！諸比丘聞已，當受奉行！</p>
+        </q>
+        <p>佛告<anchor type="variant" n="fnT02p0299n16"/>諸比丘：</p>
+        <q who="gotamo">
+          <p>諦聽！善思！當為汝說。若有比丘，於他家心不縛著貪樂，於他得利，他作功德，欣若在己，不生嫉想，亦不自舉，亦不下人，如是像類比丘應入他家。</p>
+        </q>
+        <p>爾時世尊以手捫摸虛空，告諸比丘：</p>
+        <q who="gotamo">
+          <p>我今此手寧著空、縛空、染空不？</p>
+        </q>
+        <p>比丘白佛：</p>
+        <q who="bhikkhavo">
+          <p>不也，世尊！</p>
+        </q>
+        <p>佛告比丘：</p>
+        <q who="gotamo">
+          <p>比丘之法常如是，不著、不縛、不染心而入他家。唯迦葉比丘以不著、不縛、不染之心而入他家，於他得利及作功德，欣若在己，不生嫉想，不自舉，不下人。其唯迦葉比丘應入他家。</p>
+        </q>
+        <p>爾時世尊復以手捫摸虛空，告諸比丘：</p>
+        <q who="gotamo">
+          <p>於<pb ed="T" n="0300a"/>意云何？我今此手寧著空、縛空、染空以不？</p>
+        </q>
+        <p>諸比丘白佛言：</p>
+        <q who="bhikkhavo">
+          <p>不也，世尊！</p>
+        </q>
+        <p>佛告比丘：</p>
+        <q who="gotamo">
+          <p>其唯迦葉比丘心常如是，以不著、不縛、不染之心入於他家。</p>
+        </q>
+        <p>爾時世尊告諸比丘：</p>
+        <q who="gotamo">
+          <p>何等像類比丘應清淨說法？</p>
+        </q>
+        <p>諸比丘白佛：</p>
+        <q who="bhikkhavo">
+          <p>世尊是法根、法眼、法依。唯願廣說！諸比丘聞已，當受奉行！</p>
+        </q>
+        <p>佛告比丘：</p>
+        <q who="gotamo">
+          <p>諦聽！善思！當為汝說。若有比丘，作如是心，為人說法：<q who="bhikkhu">何等人於我起淨信，心為本已，當得供養衣被、飲食、臥具、湯藥？</q>
+              如是說者，名不清淨說法。
+                                  若復比丘為人說法，作如是念：
+            <q who="bhikkhu">世尊顯現正法、律，離諸熾然，不待時節，即此現身，緣自覺知，正向涅槃，而諸眾生沈溺老、病、死、憂、悲、惱苦。如此眾生聞正法者，以義饒益，長夜安樂。</q>以是正法因緣，以慈心、悲心、哀愍心、欲令正法久住心而為人說，是名清淨說法。唯迦葉比丘有如是清淨心，為人說法，以如來正法、律，……（乃至）令法久住心而為人<anchor type="variant" n="fnT02p0300n01"/>說。是故──諸比丘！──當如是學：如是說法，於如來正法、律，……（乃至）令法久住心為人說法。</p>
+        </q>
+      </div>
+      <div type="closing">
+        <p>佛說此經已，諸比丘聞佛所說，歡喜奉行。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

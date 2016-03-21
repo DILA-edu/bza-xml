@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 022. It is found in the 增壹阿含經 Sutra at T.02.0125.0697.</p>
+      </div>
+    </front>
+    <body xml:id="T02.0125.0697b16">
+      <anchor type="start" xml:id="t02.0125.0697b16"/>
+      <div type="parallel">
+        <p>聞如是。一時。佛在舍衛國祇樹給孤獨園。</p>
+        <p>爾時。世尊告諸比丘。昔者。釋提桓因告三十三天曰。若諸賢與阿須倫共鬪時。設阿須倫不<anchor type="variant" n="fnT02p0697n12"/>如。諸天得勝<anchor type="variant" n="fnT02p0697n13"/>者。汝等捉<anchor type="variant" n="fnT02p0697n14"/>毘摩質多羅阿須倫。將來至此。身為五繫。是時。毘摩質多羅阿須倫。復告諸阿須倫曰。卿等。今日與諸天共鬪。設得勝者。便捉釋提桓因。縛送此間。比丘當知。爾時。二家共鬪。諸天得勝。阿須倫不如。是時。三十三天躬捉毘摩質多羅阿須倫王。束縛其身。將詣釋提桓因所。著中門外。自觀<anchor type="variant" n="fnT02p0697n15"/>彼五繫。</p>
+      </div>
+      <div type="not-parallel">
+        <p>是時。毘摩質多羅阿須倫王便作是念。此諸天法<anchor type="variant" n="fnT02p0697n16"/>整。阿須倫所行非法。我今不樂阿須倫。便當即住此諸天宮。是時。以生此念言。諸天法<pb ed="T" n="0697c"/>
+          <anchor type="variant" n="fnT02p0697n16"/>整。阿須倫非法。我欲住此間。作此念已。是時。毘摩質多羅阿須倫王便自覺知身無縛繫。五欲而自娛樂。設毘摩質多羅阿須倫王生此念已。言。諸天非法。阿須倫法<anchor type="variant" n="fnT02p0697n16"/>整。我不用此三十三天。還<anchor type="variant" n="fnT02p0697n17"/>欲詣阿須倫宮。是時。阿須倫王身被五繫。五欲娛樂自然消滅。</p>
+        <p>比丘當知。纏縛之急。莫過此事。魔之所縛。復甚於斯。設<anchor type="variant" n="fnT02p0697n18"/>與結使魔<anchor type="variant" n="fnT02p0697n02"/>以被<anchor type="variant" n="fnT02p0697n19"/>縛。動魔被縛。不動魔不被縛。是故。諸比丘。當求方便。使心不<anchor type="variant" n="fnT02p0697n20"/>被縛。樂閑靜之處。所以然者。此諸結使是魔境界。若有比丘在魔境界者。終不脫生‧老‧病‧死。不脫愁‧憂‧苦‧惱。我今說此苦際。若復比丘心不移動。不著結使。便脫生‧老‧病‧死‧愁‧憂‧苦‧惱。我今說此苦際。是故。<anchor type="variant" n="fnT02p0697n21"/>諸比丘。當<anchor type="variant" n="fnT02p0697n22"/>作是學。無有結使。越出魔界。如是。比丘。當作是學。</p>
+      </div>
+      <div type="parallel">
+        <p>爾時。諸比丘聞佛所說。歡喜奉行。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

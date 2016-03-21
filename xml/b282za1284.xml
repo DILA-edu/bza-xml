@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-1284">
+      <anchor type="start" xml:id="tp0353b25"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住舍衛國祇樹給孤獨園。</p>
+      </div>
+      <div type="main">
+        <p>爾時世尊告諸比丘：</p>
+        <q who="gotamo">
+          <p>過去世時拘薩羅國有彈琴人，名曰麁牛，於拘薩羅國人間遊行，止息野中。時有六廣大天宮天女，來至<anchor type="variant" n="fnT02p0353n10"/>憍薩羅國麁牛彈琴人所，語麁牛彈琴<pb ed="T" n="0353c"/>人言：<q who="六廣大天宮天女">阿舅！阿舅！為我彈琴，我當歌舞。</q>麁牛彈琴者言：<q who="麁牛彈琴者">如是，姊妹！我當為汝彈琴，汝當語我汝是何人？何由生此？</q>天女答言：<q who="天女">阿舅！且彈琴，我當歌舞，於歌頌中，自說所以生此因緣。</q>
+              彼拘薩羅國麁牛彈琴人即便彈琴，彼六天女即便歌舞。
+                               第一天女說偈歌言：
+            <q who="suprabhata">
+              <lg met="5" xml:id="cgtn0099-1284a">
+                <l>若男子女人<caesura/>勝妙衣惠施</l>
+                <l>施衣因緣故<caesura/>所生得殊勝</l>
+                <l>施所愛念物<caesura/>生天隨所欲</l>
+                <l>見我居宮殿<caesura/>乘<anchor type="variant" n="fnT02p0353n11"/>空而遊行</l>
+                <l>天身如金聚<caesura/>天女百中勝</l>
+                <l>觀察斯福德<caesura/>迴向中之最</l>
+              </lg>
+            </q>
+                 
+                第二天女復說偈言：
+                 <q who="第二天女">
+              <lg met="5" xml:id="cgtn0099-1284b">
+                <l>若男子女人<caesura/>勝妙香<anchor type="variant" n="fnT02p0353n12"/>惠施</l>
+                <l>愛念可意施<caesura/>生天隨所欲</l>
+                <l>見我處宮殿<caesura/>乘<anchor type="variant" n="fnT02p0353n11"/>空而遊行</l>
+                <l>天身若金聚<caesura/>天女百中勝</l>
+                <l>觀察斯福德<caesura/>迴向中之最</l>
+              </lg>
+            </q>
+                第三天女復說偈言：
+                 <q who="第三天女">
+              <lg met="5" xml:id="cgtn0099-1284c">
+                <l>若男子女人<caesura/>以食而惠施</l>
+                <l>可意愛念施<caesura/>生天隨所欲</l>
+                <l>見我居宮殿<caesura/>乘虛而遊行</l>
+                <l>天身如金聚<caesura/>
+                  <anchor type="variant" n="fnT02p0353n13"/>天女百中勝</l>
+                <l>觀察斯福德<caesura/>迴向中之最</l>
+              </lg>
+            </q>
+                 第四天女復說偈言：
+                 <q who="第四天女">
+              <lg met="5" xml:id="cgtn0099-1284d">
+                <l>憶念餘生時<caesura/>曾為人婢使</l>
+                <l>不盜不貪嗜<caesura/>勤修不<anchor type="variant" n="fnT02p0353n14"/>懈怠</l>
+                <l>量腹自節身<caesura/>分飡救貧人</l>
+                <l>今見居宮殿<caesura/>乘虛而遊行</l>
+                <l>
+                  <pb ed="T" n="0354a"/>天身如金聚<caesura/>天女百中勝</l>
+                <l>觀察斯福德<caesura/>供養中為最</l>
+              </lg>
+            </q>
+                第五天女復說偈言：
+                 <q who="第五天女">
+              <lg met="5" xml:id="cgtn0099-1284e">
+                <l>憶念餘生時<caesura/>為人作子婦</l>
+                <l>
+                  <anchor type="variant" n="fnT02p0354n01"/>嫜姑性狂暴<caesura/>常加麁<anchor type="variant" n="fnT02p0354n02"/>澁言</l>
+                <l>執節修婦禮<caesura/>卑遜而奉順</l>
+                <l>今見處宮殿<caesura/>乘虛而遊行</l>
+                <l>天身如金聚<caesura/>天女百中勝</l>
+                <l>觀察斯福德<caesura/>供養中為最</l>
+              </lg>
+            </q>
+                第六天女復說偈言：
+                 <q who="第六天女">
+              <lg met="5" xml:id="cgtn0099-1284f">
+                <l>昔曾見行<anchor type="variant" n="fnT02p0354n03"/>跡<caesura/>比丘比丘尼</l>
+                <l>從其聞正法<caesura/>一宿受齋戒。</l>
+                <l>今見處<anchor type="variant" n="fnT02p0354n04"/>天殿<caesura/>乘虛而遊行</l>
+                <l>天身如金聚<caesura/>天女百中勝</l>
+                <l>觀察斯福德<caesura/>迴向中之最</l>
+              </lg>
+            </q>
+                爾時拘薩羅國麁牛彈琴人而說偈言：
+                 <q who="麁牛彈琴人">
+              <lg met="5" xml:id="cgtn0099-1284g">
+                <l>我今善來此<caesura/>拘薩羅林中</l>
+                <l>得見此天女<caesura/>具足妙天身</l>
+                <l>既見又聞說<caesura/>當增修善業</l>
+                <l>緣今修功德<caesura/>亦當生天上</l>
+              </lg>
+            </q>
+                 說是語已，<anchor type="variant" n="fnT02p0354n05"/>此諸天女即沒不現。</p>
+        </q>
+      </div>
+      <div type="closing">
+        <p>佛說此經已，諸比丘聞佛所說，歡喜奉行！</p>
+      </div>
+    </body>
+  </text>
+</TEI>

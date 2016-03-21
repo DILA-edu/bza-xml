@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 106. It is found in the 雜阿含經 Sutra 005 at T.02.0101.0494. The new punctuation for T.101 was in part done with the help of Shi Zizhou 釋自拙.</p>
+      </div>
+    </front>
+    <body xml:id="tn0101-0005">
+      <anchor type="start" xml:id="t02.0101.0494b20"/>
+      <div type="opening">
+        <p>聞如是：一時佛在舍衛國祇樹給孤獨園。</p>
+      </div>
+      <div type="main">
+        <p>是時自梵自明，夜亦明。梵往至佛。在時，佛火神足行。在時，自梵念：</p>
+        <q who="brahma">
+          <p>是尚早至佛，見今佛亦火神足行，令我今居前，到俱披犁比丘調達部。</p>
+        </q>
+        <p>
+          便自梵至俱披犁比丘調達部。
+                                  已到，為告俱披犁調達部：
+        </p>
+        <q who="brahma">
+          <p>如是──俱披犁！俱披犁！──為持好意向舍利弗、目<anchor type="variant" n="fnT02p0494n11"/>乾連比丘，亦餘慧行道者！</p>
+        </q>
+        <p>俱披犁調達部便言：</p>
+        <q who="kokaliko">
+          <p>卿為誰？</p>
+        </q>
+        <p>梵言：</p>
+        <q who="brahma">
+          <p>我為梵。</p>
+        </q>
+        <p>俱披犁調達部報言：</p>
+        <q who="kokaliko">
+          <p>佛說卿阿那含不？</p>
+        </q>
+        <p>梵言：</p>
+        <q who="brahma">
+          <p>是。</p>
+        </q>
+        <p>俱披犁調達部報言：</p>
+        <q who="kokaliko">
+          <p>何因緣得來到是間？</p>
+        </q>
+        <pb ed="T" n="0494c"/>
+        <p>便梵思惟念：</p>
+        <q who="brahma">
+          <p>是何以無有悲意？</p>
+        </q>
+        <p>便自梵說是絕：</p>
+        <q who="brahma">
+          <lg met="irreg" xml:id="cgtn0101-0494a">
+            <l>不可量欲量<caesura/>為是故世間少慧</l>
+            <l>不可量欲作量<caesura/>如是世間自覆蓋</l>
+          </lg>
+        </q>
+        <p>便梵行至佛。已到，為佛足下禮，一處止。已一處止，自梵為佛說：</p>
+        <q who="brahma">
+          <p>是我為自光明，夜亦已明，為至佛。已至，是時火神足行。我便思惟念：<q who="brahma">尚早至見佛。</q>我已到，見佛火神足。我便念：<q who="brahma">令我居前，行俱披犁比丘調達部。</q>我為便至俱披犁比丘調達部。已至俱披犁比丘調達部，我便告：<q who="brahma">俱披犁！俱披犁！持好心向舍利弗、目<anchor type="variant" n="fnT02p0494n11"/>乾連比丘，亦同道行者。</q>便言：<q who="kokaliko">卿為誰？</q>我言：<q who="brahma">梵。</q>便報我：<q who="kokaliko">佛說卿阿那<anchor type="variant" n="fnT02p0494n12"/>含不？</q>我言：<q who="brahma">是。</q>便報：<q who="kokaliko">若何因緣得來到是？</q>我便思惟念：<q who="brahma">咄！是何以無有悲意？
+                    <lg met="irreg" xml:id="cgtn0101-0494b">
+                <l>不可量欲量<caesura/>是故世間少慧</l>
+                <l>不可量說量<caesura/>世間人意計我自知</l>
+              </lg>
+            </q>
+          </p>
+        </q>
+        <p>佛便說：</p>
+        <q who="gotamo">
+          <p>俱披犁調達部破戲亦<anchor type="variant" n="fnT02p0494n13"/>
+            <g>[口*建]</g>。</p>
+        </q>
+        <p>是時說是絕：</p>
+        <q who="gotamo">
+          <lg met="irreg" xml:id="cgtn0101-0494c">
+            <l>不可量欲量<caesura/>故世間難得<anchor type="variant" n="fnT02p0493n17"/>慧</l>
+            <l>不可量說量<caesura/>從是世間自覆蓋</l>
+          </lg>
+        </q>
+      </div>
+      <div type="closing">
+        <p>佛說如是。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

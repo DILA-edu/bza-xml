@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum
+                              Buddhist College 法鼓佛教研修學院.
+        </title>
+        <funder>
+          Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會
+        </funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist
+                              College 法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>
+            Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉,
+                                    Chueh Hui-chen 闕慧貞
+          </name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>
+          This is the default header for all files in the database. Files which contain
+                              gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.
+        </p>
+        <p>
+          The project was conducted 2005-2008. Some minor revisions and additions were done
+                              in 2009.
+        </p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                    Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                    text lies with the Vipassana Research Institute. Copyright for the Sanskrit
+                                    text lies with Fumio Enomoto. Copyright for the English text lies with
+                                    Marcus Bingenheimer. The Tibetan and Manchu texts are in the public realm.
+                                    The digital edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                    (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                    (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                    comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding
+                                    to the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                    literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly
+                                publications (as referenced). English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the
+                              Bieyi za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies
+                              中華佛學研究所 and the Dharma Drum Buddhist College 法鼓佛教研修學院. The project is funded by
+                              the Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會. The aim of the project is to produce a comparative digital edition
+                              and partial translation of the 364 sutras of the BZA and their parallels. The
+                              texts are kept in single files in an eXist database and are realized via XQuery
+                              and XSLT as HTML for the online user. The project lasts from 2005-2008. For any
+                              changes after 2008 see the revision description.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                              attribute on the containing elements
+        </p>
+        <p>
+          BZA: New Punctuation. Markup of person and place names. Verse and prose.
+                              References to the print edition (Taishō). Corrected characters (according to
+                              CBETA).
+        </p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō).</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA. Verse and
+                              Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan: Parallel and not-parallel divisions regarding the BZA.
+                              Verse and Prose. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="bza127">
+      <anchor type="start" xml:id="Tp0421c24"/>
+      <div type="opening" xml:id="obza127">
+        <p n="bza127.01">如是我聞：一時佛在<name type="place">瞻<app n="fnT02p0421n19">
+              <lem wit="【大】">波</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">婆</rdg>
+            </app>波國</name>
+          <name type="place">竭城祇池岸</name>。</p>
+      </div>
+      <div type="main" xml:id="mbza127">
+        <p n="bza127.02">時聚落主號<name type="person">王頂髮</name>，來詣佛所，頂禮尊足，在一面坐。佛告之曰：</p>
+        <q who="gotamo">
+          <p n="bza127.03">此世間中多有眾生，依二種法：一、貪欲樂，二名習於無益身，事非聖之法，徒受無益損減，習於欲樂，是名下賤、繫累之法。受欲樂者，凡有三種。云何為三？<pb ed="T" xml:id="T02.0100.0422a" n="0422a"/>一者、聚非法財，殘<app n="fnT02p0422n01">
+              <lem wit="【大】">害物</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">物害</rdg>
+            </app>害物命，自樂己身，而為己身作正樂因，此亦不名供養父母，亦不名與妻子及其僮僕，亦非親友、知識、眷屬、輔弼己者，亦復不名為供養、供給沙門、婆羅門、諸福田等。若如是者，不修上道，不作樂因，不得樂報，是名第一欲樂。
+                        設受欲樂，或時如法，或不如法，或為殘害，或不殘害，以樂己身安樂，父母、妻子、僮僕、親友、眷屬、輔弼己者，悉皆供養供給，與正安樂，然不施與沙門、婆羅門及諸福田，亦復不修正道，不作樂因，不求樂報，不作生天因緣，是名第二欲樂。</p>
+        </q>
+        <p n="bza127.04">佛復告聚落主：</p>
+        <q who=" gotamo">
+          <p n="bza127.05">若有集於財<app n="fnT02p0422n02">
+              <lem wit="【大】">寶</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">果</rdg>
+            </app>寶，如法而聚，<app n="fnT02p0422n03">
+              <lem wit="【大】">而</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">不</rdg>
+            </app>而為殘害。以如法故，不造殘惡故，<app n="fnT02p0422n04">
+              <lem wit="【大】">修</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">能</rdg>
+            </app>修自己身，正受其樂，亦名正理供養父母及與妻子、僮僕、親友、眷屬、輔成己者，皆名正與安樂，正事給養。時時供養沙門、婆羅門，修立福田，修於上道，種於樂因，求樂果報，作生天因緣，是名第三受於欲樂。
+                        我今為諸受欲樂者，皆悉同說：設受欲樂，我說下賤；設受欲樂，我說為中；設受欲樂，我說為上。
+                        何者下賤？非法聚財，又不非法聚財，自樂己身，而為己身作正樂因，此亦不供養，亦不名與妻子、僮僕、親友、眷屬，亦不隨時供養沙門、婆羅門、諸福田等。不修上道，不作樂因，不得樂報，不作生天因緣，是名為下。
+                        何等名中？設受欲樂，或時如法，或不如法，或為殘害，以自樂身，亦復安樂父母、妻子、僮僕、親屬，乃至不作生天因緣，是名為中。 云何名上？所<app n="fnT02p0422n05">
+              <lem wit="【大】">謂</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">說</rdg>
+            </app>謂如法聚財，不作殘害，身正受樂，正理供養父母及與妻子、僮僕、親友乃至能作生<pb ed="T" xml:id="T02.0100.0422b" n="0422b"/>
+              天因緣，是名為上。
+                                      何等無益三種苦身？所謂苦非聖法，無有義利。若有苦身，心已變壞，初犯禁戒，身心內外，一切俱熱。追念此事無時暫離，現在之世不離煩熱，終不能得過人之法，是名初無益苦身法。
+                                      若復有人雖不犯戒，心亦不變，然復稱於身心二業，內外俱適。修學是事，現在之世不離煩惱，終不能得過人之法，是名第二無益苦身。
+                                      復次若更有人雖不犯戒，心不變異，然復稱於身心二業，內外俱適。修念此事，現在之世不離惱熱，有少增進過人之法，或得少智，或得見法，或少禪定，是名第三無益苦身。
+                                          聚落主！我亦不說無益苦行都為一種。有一
+            <app n="fnT02p0422n06">
+              <lem wit="【大】">苦</lem>
+              <rdg resp="Taisho" wit="【元】【明】">名</rdg>
+            </app>苦行名為下品，復有苦行名為中品，又有苦行名為上品。
+                        云何名下？初毀戒時心已變壞，身心內外，一切俱熱。追念此事無時暫離，於現在世不離煩惱，終不能得過人之法，是名為下。
+                        云何名中？若復有人雖不犯戒，心亦不變，然復稱於身心二業，內外俱適。修學此事，於現在世不離惱熱，亦不能得過人之法，是名為中。
+                        云何名上？若更有人雖不犯戒，心不變異，然復稱於身心二業，內外俱適。修學此事，於今現在不能永斷一切煩惱，有少增進過人之法，或得少智，或得見法，或觸禪樂，是名為上。
+                        為──聚落主！──除是二邊，趣向於道，所謂三種欲樂及以三種無益苦身，趣向中道。何等名為捨於三種欲樂之事及以三種無益苦身，向中道耶？
+                            聚落主！貪染欲樂，惱害自見，亦惱害他。自他俱害，現集諸惡，於當來世亦集諸<pb ed="T" xml:id="T02.0100.0422c" n="0422c"/>惡。以此因緣心煩悲<app n="fnT02p0422n07">
+              <lem wit="【大】">憂</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">擾</rdg>
+            </app>憂，受諸苦惱。設盡欲結，亦無自苦，亦不苦他，亦復無有自他之苦。現在之世不集諸苦，於未來世亦復不集一切眾苦。以是義故，得現法樂，離眾惱熱，不擇時節，得近涅槃。於現在世能得道果，智者自知，明了無滯，不隨他教，是名初中道。
+                        聚落主！復有中道，離於惱熱，不擇時節，得近涅槃。智者自知，不隨他教，所謂正見、正語、正業、正命、正定、正方便、正志、正念，是名第二中道。</p>
+        </q>
+        <p n="bza127.06">說是法時，王頂髮聚落主遠塵離垢，得法眼淨。爾時王頂髮聚落主知法，見法，得法，度疑彼岸，離於疑惑，不隨他教，不受異見，於佛法中得自在辯，即從坐起，整衣服，合掌向佛，白佛言：</p>
+        <q who="rasiya">
+          <p n="bza127.07">世尊！我於今日已得出過，歸依於佛，亦復歸依法、僧<app n="fnT02p0422n08">
+              <lem wit="【大】">二</lem>
+              <rdg resp="Taisho" wit="【元】【明】">三</rdg>
+            </app>二寶。我持優婆塞戒，從今盡壽歸依三寶。</p>
+        </q>
+      </div>
+      <div type="closing" xml:id="cbza127">
+        <p n="bza127.09">爾時王頂髮聚落主聞佛所說，歡喜踊躍，頂禮而去。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 054. It is found in the 增壹阿含經 Sutra at T.02.0125.0638.</p>
+      </div>
+    </front>
+    <body xml:id="T02.0125.0638a02">
+      <anchor type="start" xml:id="t02.0125.0638a02"/>
+      <div type="not-parallel">
+        <p>
+          <seg type="parallel">聞如是。一時。佛在舍衛國祇樹給孤獨園。</seg>
+        </p>
+        <p>爾時。王波斯匿即勅臣佐。嚴<anchor type="variant" n="fnT02p0636n03"/>寶羽之車。欲出舍衛城觀地講堂。當於爾時。波斯匿王母命過。年極衰老。垂向百歲。<anchor type="variant" n="fnT02p0638n02"/>王甚尊敬。念未曾離目。是時。波斯匿王邊有大臣。名不奢蜜。高才蓋世。<anchor type="variant" n="fnT02p0638n03"/>世人尊重。時。大臣便作是念。此波斯匿王母年向百歲。今日命終。設當聞者。王甚愁憂。不能飲食而得重病。我今當設方便。使王不愁憂。亦使不病。</p>
+        <p>是時。大臣即嚴駕五百白象。亦嚴駕五百<anchor type="variant" n="fnT02p0638n04"/>疋馬。復<anchor type="variant" n="fnT02p0638n05"/>嚴五百步兵。復嚴駕五百妓女。復嚴駕五百老母。復嚴駕五百婆羅門。復有五百沙門。復嚴駕五百衣裳。復嚴駕五百珍寶。與亡者作好大棺。<anchor type="variant" n="fnT02p0638n06"/>彩畫極令使妙。懸繒幡蓋。作倡妓樂。不可稱計。出舍衛城。</p>
+        <p>是時。波斯匿王還來入城。是時。王波斯匿有少事。是時王<anchor type="variant" n="fnT02p0638n07"/>遙見亡者。問左右曰。此是何人。供養乃至於斯。時不奢蜜曰。此舍衛城中有長者母無常。是彼之具。時王復告曰。此諸象馬車乘復用為。 大臣報曰。此五百老母者。用奉上閻羅王。持用贖命。時。王<anchor type="variant" n="fnT02p0638n08"/>便笑而作是說。此是愚人之法。命也難保。有何可剋。<anchor type="variant" n="fnT02p0638n09"/>如有人墮摩竭魚口。欲求出者。實復難得。此亦如是。墮閻羅王邊。欲求<anchor type="variant" n="fnT02p0638n10"/>出。實難<anchor type="variant" n="fnT02p0638n11"/>可得。</p>
+        <p>此五百妓女亦用贖命。王報曰。此亦難得。時大臣曰。若此妓女不可得者。當用餘者贖之。王曰。此亦難得。大臣曰。若此不可得者。當用五百珍寶贖之。王報曰。此亦難<pb ed="T" n="0638b"/>得。大臣曰。<anchor type="variant" n="fnT02p0638n102"/>此不可得者。用五百衣裳贖之。王曰。此亦難得。臣曰。若此衣裳不可得者。當用此五百梵志呪術。<anchor type="variant" n="fnT02p0638n13"/>呪術取之。王曰。此亦難得。大臣曰。若此五百梵志不可得者。復當持此沙門高才說法。持用贖之。王曰。此不可得。大臣曰。若說法不可得者。當集兵眾。共大戰鬪而<anchor type="variant" n="fnT02p0638n14"/>取之。時。波斯匿王大笑而曰。此是愚人之法。以墮摩竭魚口。終不得出。</p>
+        <p>時王曰。汝當知之。頗有生而不死乎。時大臣曰。此實不可得也。時<anchor type="variant" n="fnT02p0638n15"/>大王報曰。實不可得。諸佛亦作是說。夫生有死。命亦難得。是時。不<anchor type="variant" n="fnT02p0638n16"/>奢蜜跪白王曰。是故。大王。<anchor type="variant" n="fnT02p0638n17"/>甚莫愁憂。一切眾生皆歸於死。時王問曰。我何故愁憂。時臣白王。王當知之。大王母者。今日已死。是故。波斯匿王聞此語已。八九歎息而語大臣曰。善哉。如汝所言。乃能知善權方便。</p>
+      </div>
+      <div type="parallel">
+        <p>是時。王波斯匿還入城。<choice>
+            <sic>辨</sic>
+            <corr resp="CBETA">辦</corr>
+          </choice>種種香華。供養亡母。供養亡母已。便還駕乘至世尊所。到已。頭面禮足。在一面坐。</p>
+        <p>是時。世尊問曰。大王。何故塵土坌身。王白世尊。天母命終。向送至城外。今來詣世尊所。問其所由。然天母在時。持戒精進。恒修善法。年向百歲。今日已命終。故來至世尊所耳。若當我持象贖命可得者。亦當用象贖之。若當馬贖命可得者。當用馬贖之。若當車乘贖命可得者。<anchor type="variant" n="fnT02p0638n18"/>便當用車乘贖之。若當金銀珍寶贖命可得者。當用金銀珍寶贖之。若當以奴婢‧僕從‧城廓‧國界。贖命可得者。當以城廓‧國界贖<anchor type="variant" n="fnT02p0638n19"/>命。若以<anchor type="variant" n="fnT02p0638n20"/>加尸國界人<pb ed="T" n="0638c"/>民贖命可得者。當以<anchor type="variant" n="fnT02p0638n20"/>加尸人民贖之。莫令我<anchor type="variant" n="fnT02p0638n21"/>天母命終。</p>
+        <p>世尊告曰。是故。大王。<anchor type="variant" n="fnT02p0638n22"/>甚莫愁憂。一切眾生皆歸於死。一切變易之法。欲令不變易者。終不有此事。<seg type="not-parallel">大王當知。人身之法猶如雪<anchor type="variant" n="fnT02p0638n23"/>揣。要當歸壞。亦如土坏。同亦歸壞不可久保。亦如野馬幻化。虛偽不真。亦如空<anchor type="variant" n="fnT02p0638n24"/>拳。以誑小兒。是故。大王。莫懷愁憂。恃怙此身。大王當知。有此四大恐怖。來至此身。不可障護。亦不可以言語‧呪術‧藥草‧符書。所可除去。</seg>
+        </p>
+      </div>
+      <div type="not-parallel">
+        <p>云何為四。一者名為老。壞敗少壯。使無顏色。二者<anchor type="variant" n="fnT02p0638n25"/>名病盡。壞敗<anchor type="variant" n="fnT02p0638n26"/>無病。三者名為死盡。壞敗命根。四者有常之物歸於無常。是謂。大王。有此四法不可障護。非力所能伏也。大王當知。猶如四方有四大山。從四方來。<anchor type="variant" n="fnT02p0638n27"/>使<anchor type="variant" n="fnT02p0638n28"/>壓眾生。非力所却。是故。大王。非牢固物。不可恃怙。是故。大王。當以法治化。莫以非法。王亦不久。當至生死之海。王亦當知。諸以法治化者。身壞命終。生善處天上。若復以非法治化者。身壞命終。生地獄中。是故。大王。當以法治化。莫以非法。如是。大王。當作是學。</p>
+        <p>爾時。波斯匿王白世尊曰。此法名何等。當云何奉行。
+                世尊告曰。此法<anchor type="variant" n="fnT02p0638n25"/>
+            名除愁憂之刺。
+                            王白佛言。實爾。世尊。所以然者。我聞此法已。所有愁憂之
+          <anchor type="variant" n="fnT02p0638n29"/>刺。今日<anchor type="variant" n="fnT02p0637n09"/>已除。然。世尊。國界事猥。欲還所在。世尊告曰。宜知是時。</p>
+        <p>
+          <seg type="parallel">波斯匿王即從坐起。頭面禮足。便退而去。</seg>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

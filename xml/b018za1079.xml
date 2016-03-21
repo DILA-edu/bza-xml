@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-1079">
+      <anchor type="start" xml:id="tp0282a22"/>
+      <div type="opening">
+        <p>如是我聞：一時佛在王舍城迦蘭陀竹園。</p>
+      </div>
+      <div type="main">
+        <p>時有異比丘，於後夜時至<anchor type="variant" n="fnT02p0281n08"/>搨補河邊，脫衣，置岸邊，入水，洗浴。浴已，還上岸，著一衣，待身乾。時有一天子，放身光明，普照<anchor type="variant" n="fnT02p0281n08"/>搨補河側，問比丘言：</p>
+        <q who="devata">
+          <p>比丘！比丘！此是丘塚，夜則起烟，晝則火然。彼婆羅門見已，而作是言：<q who="brahmano">壞此丘塚！</q>發掘者智<anchor type="variant" n="fnT02p0282n03"/>，持以刀劍，又見大龜。婆羅門見已，作是言：<q who="brahmano">除此大龜！</q>發<pb ed="T" xml:id="T02.0099.0282b" n="0282b"/>掘者智，持以刀劍，見有氍氀 。婆羅門見已，作此言：<q who="brahmano">却此氍氀！</q>發掘者智，持以刀劍，見有肉段。彼婆羅門見已，作是言：<q who="brahmano">除此肉段！</q>發掘者智，持以刀劍，見有屠殺。婆羅門見已，作是言：<q who="brahmano">壞是屠殺處！</q>發掘者智，持以刀劍，見有楞耆。彼婆羅門見已，作是言：<q who="brahmano">却此楞耆！</q>發掘者智，持以刀劍，見有二道。彼婆羅門見已，作是言：<q who="brahmano">除此二道！</q>發掘者智，持以刀劍，見有門扇。婆羅門見已，作是言：<q who="brahmano">却此門扇！</q>發掘者智，持以刀劍，見有大龍。婆羅門見已，作是言：<q who="brahmano">止！勿却大龍！應當恭敬！</q>比丘！汝來受此論，往問世尊。如佛所說，汝隨受持！所以者何？除如來，我不見世間諸天、魔、梵、沙門、婆羅門於此論心悅樂者，若諸弟子從我所聞，然後能說。</p>
+        </q>
+        <p>爾時比丘從彼天所聞此論已，往詣世尊，稽首禮足，退坐一面，以彼天子所問<anchor type="variant" n="fnT02p0282n04"/>諸論廣問世尊：</p>
+        <q who="bhikkhu">
+          <p>云何為丘塚？云何為夜則起烟？云何為晝則火然？云何是婆羅門？云何發掘？云何智者？云何刀劍？云何為大龜？云何氍氀？云何為肉段？云何為屠殺處？云何為楞耆？云何為二道？云何為門扇？云何為大龍？</p>
+        </q>
+        <p>佛告比丘：</p>
+        <q who="gotamo">
+          <p>丘塚者，謂眾生身──麤四大色、父母遺體、<anchor type="variant" n="fnT02p0282n05"/>摶食、衣服、覆蓋、<anchor type="variant" n="fnT02p0282n06"/>澡浴、摩飾長養，皆是變、壞、磨、滅之法。夜起烟者，謂有人於夜時起隨覺、隨觀。晝行其教身業、口業。婆羅門者，謂如來．應．等正覺。發掘者，謂精勤方便。智士者，謂多聞聖弟子。刀劍者，謂智慧刀劍。大龜者，謂五蓋。氍氀者，謂忿恨。肉段者，謂慳、愱。屠<pb ed="T" xml:id="T02.0099.0282c" n="0282c"/>殺者，謂五欲功德。楞耆者，謂無明。二道，謂疑惑。門扇者，謂我慢。大龍者，謂漏盡羅漢。如是──比丘！──，若大師為聲聞所作哀愍、悲念，以義安慰，於汝已作。汝等當作所作，當於<anchor type="variant" n="fnT02p0282n07"/>曝露、林中、空舍、山澤、巖窟敷草、樹葉，思惟、禪思，不起放逸，莫令後悔！是則為我隨順之教。</p>
+        </q>
+        <p>即說偈言：</p>
+        <q who="gotamo">
+          <lg met="5" xml:id="cgtn0099-1079a">
+            <l>說身為丘塚<caesura/>覺觀夜起烟</l>
+            <l>晝業為火然<caesura/>婆羅門正覺</l>
+            <l>精進勤發掘<caesura/>黠慧明智<anchor type="variant" n="fnT02p0282n08"/>士</l>
+            <l>以智慧利劍<caesura/>厭離勝進者</l>
+            <l>五蓋為巨龜<caesura/>忿恨為氍氀</l>
+            <l>慳愱為肉段<caesura/>五欲屠殺處</l>
+            <l>無明為楞耆<caesura/>疑惑於二道</l>
+            <l>門扇現我慢<caesura/>漏盡羅漢龍</l>
+            <l>究竟斷諸論<caesura/>故我如是說</l>
+          </lg>
+        </q>
+      </div>
+      <div type="closing">
+        <p>佛說此經已，彼比丘聞佛所說，歡喜奉行。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

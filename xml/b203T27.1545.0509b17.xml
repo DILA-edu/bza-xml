@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 203. It is found in the 阿毘達磨大毘婆沙論 Abhidharma at T.27.1545.0509.</p>
+      </div>
+    </front>
+    <body xml:id="T27.1545.0509b17">
+      <anchor type="start" xml:id="t27.1545.0509b17"/>
+      <div type="parallel">
+        <p>謂契經說。長爪梵志。來詣佛所而白佛言。喬答摩。當知我一切不忍。乃至廣說。<seg type="not-parallel">契經雖作是說。而不說此於五見何見攝。見何諦斷此見。經是此論所依根本。彼未說者今應說之。故作斯論。
+                    問何故名為長爪梵志。答由彼梵志身爪俱長。而且說為長爪梵志。問彼復何緣留此長爪。答彼貪習業無容<anchor type="variant" n="fnT27p0509n03"/>剪故。有作是說。彼恒山居爪髮雖長無人<anchor type="variant" n="fnT27p0509n03"/>剪剃。復有說者。彼在家時樂習絃管。後雖出家猶愛長爪故不剪之。有餘師說。彼在外道法中出家。外道法中有留爪者。故說彼為長爪梵志。此中以二事推求見趣。一以自性。二以對治。如文<pb ed="T" n="0509c"/>應知。問此惡見趣等起云何。答尊者舍利子。及大目乾連。投佛出家是此等起。謂長爪梵志。是舍利子舅。曾教尊者外道書論。聞舍利子與大目連歸佛出家。深心憂悔作如是念。智境無窮設解深遠終有迴義。彼喬答摩多聞智慧雖定應勝舍利子等。而必應有勝。喬答摩定復有餘能勝彼者。如是展轉智境無窮。故我不應不設方便。</seg>
+        </p>
+        <p>作是念已來詣佛所而白佛言。喬答摩。當知我一切不忍。世尊告曰。汝為忍此所起見不。時彼梵志作是思惟。若答言。忍便違所立。若言不忍便無所宗。若無所宗則非論道。思已愧恥默然而住。復次長爪梵志是斷見者。彼觀一切後當必斷。故佛告言。汝所起見亦當斷不。復次長爪梵志是猶豫者。彼觀一切皆可猶豫。故佛告言。汝於自見亦猶豫不。然彼梵志有占相智。自知所立必當墮負故。彼梵志默然而住。世尊告曰。無量有情同汝所見汝亦同彼。謂諸世間依三種見。一有一類。起如是見。立如是論。我一切忍。二有一類。起如是見。立如是論。我一切不忍。三有一類。起如是見。立如是論。我一分忍一分不忍。此中若言一切我皆忍者。彼依此見生愛貪著。若言一切我皆不忍者。彼依此見不生愛貪著。若言我一分忍一分不忍者。彼依此見一分生愛貪著。一分不生愛貪著。<seg type="not-parallel">問一切見趣無不皆能生愛貪著。世尊何故說依彼見有不生者。答應知彼經有別意趣。謂常見者執有<pb ed="T" n="0510a"/>後世。於能引發後有業思生愛貪著。若斷見者執無後世。於能引發後有業思不愛貪著。是彼契經所說意趣。然諸見趣無不皆能生愛貪著。謂斷見者信有現在入胎為初命終為後。撥無他世。於此見中生愛貪著。與常見者保執無異。</seg>
+        </p>
+        <p>如契經說。佛告梵志。若有沙門婆羅門等。捨惡見趣而不取者。當知此類少中復少。<seg type="not-parallel">問此類云何少中復少。答世間有情性愚鈍者如大地<anchor type="variant" n="fnT27p0510n01"/>土。性聰慧者如爪上土。<anchor type="variant" n="fnT27p0510n02"/>性聰慧中。邪見者多正見者少。喻如前說。是故名為少中復少。問如見蘊說斷常見者展轉相違。云何此中說有一類起如是見。我一分忍一分不忍而不相違。答此中說。一補特伽羅。若執色蘊為常。彼執四蘊為斷。若執四蘊為常。彼執色蘊為斷。故此二見非互相違。見蘊說二補特伽羅。一執色常。一執色斷乃至執識亦有二種。故彼二見展轉相違。彼經復說。</seg>世尊說此見趣法時。長爪梵志遠塵離垢。於諸法中生淨法眼。時舍利子受<pb ed="T" n="0510b"/>具足戒已經半月。隨觀此法得阿羅漢。<seg type="not-parallel">問時舍利子隨觀何法。尊者世友作如是說。尊者舍利子。即隨觀世尊為彼梵志說見趣法。成阿羅漢。復有說者。尊者舍利子。即隨觀梵志得預流果道所觀法。成阿羅漢。有作是說。尊者舍利子。即隨觀梵志得預流果能證學法。成阿羅漢。大德說曰。彼舍利子。隨觀緣起有十二支差別性法。成阿羅漢。是名舍利子所隨觀法。</seg>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Āpaṇasuttaṃ</head>
+        <p>From the VRI Chaṭṭa Saṅgāyana edition. PTS: SN, V, 225. This is part of the text-cluster of BZA (T.100) sutra 346.</p>
+      </div>
+    </front>
+    <body xml:lang="pi">
+      <anchor type="start" xml:id="pts.sn.05.225"/>
+      <div type="parallel">
+        <p> Evaṃ me sutaṃ– ekaṃ samayaṃ bhagavā  <name type="place">aṅgesu</name>viharati<name type="place">āpaṇaṃ</name>nāma aṅgānaṃ nigamo. Tatra kho bhagavā āyasmantaṃ<name type="person">sāriputtaṃ</name>āmantesi– “yo so, sāriputta, ariyasāvako tathāgate ekantagato [ekantigato (sī.)] abhippasanno, na so tathāgate vā tathāgatasāsane vā kaṅkheyya vā vicikiccheyya vā”ti?</p>
+        <p>
+          “Yo so, bhante, ariyasāvako tathāgate ekantagato abhippasanno, na so tathāgate vā tathāgatasāsane vā kaṅkheyya vā vicikiccheyya vā. Saddhassa hi, bhante, ariyasāvakassa evaṃ pāṭikaṅkhaṃ yaṃ āraddhavīriyo viharissati– akusalānaṃ dhammānaṃ pahānāya, kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu. Yaṃ hissa, bhante, vīriyaṃ tadassa vīriyindriyaṃ.
+                              “Saddhassa hi bhante, ariyasāvakassa āraddhavīriyassa etaṃ pāṭikaṅkhaṃ yaṃ satimā bhavissati, paramena satinepakkena samannāgato, cirakatampi cirabhāsitampi saritā anussaritā. Yā hissa, bhante, sati tadassa satindriyaṃ.
+                              “Saddhassa hi, bhante, ariyasāvakassa āraddhavīriyassa upaṭṭhitassatino etaṃ pāṭikaṅkhaṃ yaṃ vossaggārammaṇaṃ karitvā labhissati samādhiṃ, labhissati cittassa ekaggataṃ. Yo hissa, bhante, samādhi tadassa samādhindriyaṃ.
+                              “Saddhassa hi, bhante, ariyasāvakassa āraddhavīriyassa upaṭṭhitassatino samāhitacittassa etaṃ pāṭikaṅkhaṃ yaṃ evaṃ pajānissati– anamataggo kho saṃsāro. Pubbā koṭi na paññāyati avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ sandhāvataṃ saṃsarataṃ. Avijjāya tveva tamokāyassa asesavirāganirodho santametaṃ padaṃ paṇītametaṃ padaṃ, yadidaṃ– sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṃ [nibbānanti (?)]. Yā hissa, bhante, paññā tadassa paññindriyaṃ.
+                              “Saddho so [sa kho so (sī. syā. kaṃ.)], bhante, ariyasāvako evaṃ padahitvā padahitvā evaṃ saritvā saritvā evaṃ samādahitvā samādahitvā evaṃ pajānitvā pajānitvā evaṃ abhisaddahati– ‘ime kho te dhammā ye me pubbe sutavā ahesuṃ. Tenāhaṃ etarahi kāyena ca phusitvā viharāmi, paññāya ca ativijjha [paṭivijjha (sī. ka.) tadaṭṭhakathāsu pana ativijjhitvāti vaṇṇitaṃ] passāmī’ti. Yā hissa, bhante, saddhā tadassa saddhindriyan”ti.
+                              “Sādhu sādhu, sāriputta! Yo so, sāriputta, ariyasāvako tathāgate ekantagato abhippasanno, na so tathāgate vā tathāgatasāsane vā kaṅkheyya vā vicikiccheyya vā. Saddhassa hi, sāriputta, ariyasāvakassa etaṃ pāṭikaṅkhaṃ yaṃ āraddhavīriyo viharissati– akusalānaṃ dhammānaṃ pahānāya, kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu. Yaṃ hissa, sāriputta, vīriyaṃ tadassa vīriyindriyaṃ.
+                              “Saddhassa hi, sāriputta, ariyasāvakassa āraddhavīriyassa etaṃ pāṭikaṅkhaṃ yaṃ satimā bhavissati, paramena satinepakkena samannāgato, cirakatampi cirabhāsitampi saritā anussaritā. Yā hissa, sāriputta, sati tadassa satindriyaṃ.
+                              “Saddhassa hi, sāriputta, ariyasāvakassa āraddhavīriyassa upaṭṭhitassatino etaṃ pāṭikaṅkhaṃ yaṃ vossaggārammaṇaṃ karitvā labhissati samādhiṃ, labhissati cittassa ekaggataṃ. Yo hissa, sāriputta, samādhi tadassa samādhindriyaṃ.
+                              “Saddhassa hi, sāriputta, ariyasāvakassa āraddhavīriyassa upaṭṭhitassatino samāhitacittassa etaṃ pāṭikaṅkhaṃ yaṃ evaṃ pajānissati– anamataggo kho saṃsāro. Pubbā koṭi na paññāyati avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ sandhāvataṃ saṃsarataṃ. Avijjāya tveva tamokāyassa asesavirāganirodho santametaṃ padaṃ paṇītametaṃ padaṃ, yadidaṃ– sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṃ. Yā hissa, sāriputta, paññā tadassa paññindriyaṃ.
+                              “Saddho so [sa kho so (sī. syā. kaṃ. pī.)], sāriputta, ariyasāvako evaṃ padahitvā padahitvā evaṃ saritvā saritvā evaṃ samādahitvā samādahitvā evaṃ pajānitvā pajānitvā evaṃ abhisaddahati– ‘ime kho te dhammā ye me pubbe sutavā ahesuṃ. Tenāhaṃ etarahi kāyena ca phusitvā viharāmi, paññāya ca ativijjha [paṭivijjha (ka. sī. ka.)] passāmī’ti. Yā hissa, sāriputta, saddhā tadassa saddhindriyan”ti.
+        </p>
+        <lg>
+          <l/>
+          <l>
+            <note type="variant"/>
+          </l>
+        </lg>
+      </div>
+      <anchor type="gap" n="pts.sn.01.225"/>
+      <gap resp="t.100" reason="longNonParallel"/>
+      <anchor type="continued" n="pts.sn.01.227"/>
+      <div type="parallel">
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

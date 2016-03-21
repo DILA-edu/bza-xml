@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-1179">
+      <anchor type="start" xml:id="tp0318b12"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住毘舍離國大林精舍。</p>
+      </div>
+      <div type="main">
+        <p>時有毘<anchor type="variant" n="fnT02p0318n03"/>梨耶婆羅豆婆遮婆羅門，晨朝買牛，未償其價，即日失牛，六日不見。時婆羅門為覓牛故，至大林精舍，遙見世尊坐一樹下，儀容挺特，諸根清淨；其心寂默，成就止觀；其身金色，光明焰照。見已，即詣其前，而說偈言：</p>
+        <q who="bharadvajagotto">
+          <lg met="5" xml:id="cgtn0099-1179a">
+            <l>云何無所求<caesura/>空寂在於此</l>
+            <l>獨一處空閑<caesura/>而得心所樂</l>
+          </lg>
+        </q>
+        <p>爾時世尊說偈答<anchor type="variant" n="fnT02p0317n23"/>曰：</p>
+        <q who="gotamo">
+          <lg met="5" xml:id="cgtn0099-1179b">
+            <l>若失若復得<caesura/>於我心不亂</l>
+            <l>婆羅門當知<caesura/>莫謂彼如我</l>
+            <l>心計於得失<caesura/>其心不自在</l>
+          </lg>
+        </q>
+        <p>時婆羅門復說偈言：</p>
+        <q who="brahmano">
+          <lg met="5" xml:id="cgtn0099-1179c">
+            <l>最勝梵志處<caesura/>如比丘所說</l>
+            <l>我今當自說<caesura/>真實語諦聽</l>
+            <l>沙門今定非<caesura/>晨朝失牛者</l>
+            <l>六日求不得<caesura/>是故安樂住</l>
+            <pb ed="T" n="0318c"/>
+            <l>沙門今定非<caesura/>種<anchor type="variant" n="fnT02p0318n04"/>殖胡麻田</l>
+            <l>慮其草荒沒<caesura/>是故安樂住</l>
+            <l>沙門今定非<caesura/>種稻田乏水</l>
+            <l>畏<anchor type="variant" n="fnT02p0318n05"/>葉枯便死<caesura/>是故安樂住</l>
+            <l>沙門今定<anchor type="variant" n="fnT02p0318n06"/>無<caesura/>寡女有七人</l>
+            <l>悉養孤遺子<caesura/>是故安樂住</l>
+            <l>沙門今定無<caesura/>七不愛念子</l>
+            <l>放逸多負債<caesura/>是故安樂住</l>
+            <l>沙門今定無<caesura/>債主守其門</l>
+            <l>求索長息財<caesura/>是故安樂住</l>
+            <l>沙門今定無<caesura/>七領重臥具</l>
+            <l>憂勤擇諸蟲<caesura/>是故安樂住</l>
+            <l>沙門今定無<caesura/>
+              <anchor type="variant" n="fnT02p0318n07"/>赤眼<anchor type="variant" n="fnT02p0318n08"/>黃髮婦</l>
+            <l>晝夜聞惡聲<caesura/>是故安樂住</l>
+            <l>沙門今定無<caesura/>空倉群鼠戲</l>
+            <l>常憂其羸乏<caesura/>是故安樂住</l>
+          </lg>
+        </q>
+        <p>爾時世尊說偈答言：</p>
+        <q who="gotamo">
+          <lg met="5" xml:id="cgtn0099-1179d">
+            <l>我今日定不<caesura/>晨朝失其牛</l>
+            <l>六日求不得<caesura/>是故安樂住</l>
+            <l>我今日定無<caesura/>種<anchor type="variant" n="fnT02p0318n04"/>殖胡麻田</l>
+            <l>常恐其荒沒<caesura/>是故安樂住</l>
+            <l>我今日定無<caesura/>種稻田乏水</l>
+            <l>畏<anchor type="variant" n="fnT02p0318n05"/>葉便枯死<caesura/>是故安樂住</l>
+            <l>我今日定無<caesura/>寡女有七人</l>
+            <l>悉養孤遺子<caesura/>是故安樂住</l>
+            <l>我今日定無<caesura/>七不愛念子</l>
+            <l>放逸多負債<caesura/>是故安樂住</l>
+            <l>我今日定無<caesura/>債主守其門</l>
+            <l>求索長息財<caesura/>是故安樂住</l>
+            <pb ed="T" n="0319a"/>
+            <l>我今日定無<caesura/>七領重臥具</l>
+            <l>憂勤擇諸蟲<caesura/>是故安樂住</l>
+            <l>我今日定無<caesura/>黃頭赤眼婦</l>
+            <l>晝夜聞惡聲<caesura/>是故安樂住</l>
+            <l>我今日定無<caesura/>空倉群鼠戲</l>
+            <l>常憂其羸乏<caesura/>是故安樂住</l>
+            <l>不捨念不念<caesura/>眾生安樂住</l>
+            <l>斷欲離恩愛<caesura/>而得安樂住</l>
+          </lg>
+        </q>
+        <p>爾時世尊為精進婆羅豆婆遮婆羅門種種說法，示、教、照<anchor type="variant" n="fnT02p0319n01"/>喜，如佛常法，次第說法──布施、持戒，……（乃至）於正法中心得無畏。即從座起，合掌白佛：<q who="bharadvajagotto">
+            <p>我今得於正法、律出家學道，成比丘分，修梵行不？</p>
+          </q> 佛告婆羅門：<q who="gotamo">
+            <p>汝今可得於正法、律出家，受具足，修諸梵行，……（乃至）得阿羅漢，心善解脫。</p>
+          </q> 爾時精進婆羅豆婆遮婆羅門得阿羅漢，緣自覺知，得解脫樂，而說偈言：</p>
+        <q who="bharadvajagotto">
+          <lg met="5" xml:id="cgtn0099-1179e">
+            <l>我今甚欣樂<caesura/>大仙法之上</l>
+            <l>得離貪欲樂<caesura/>不<anchor type="variant" n="fnT02p0319n02"/>生見於佛</l>
+          </lg>
+        </q>
+      </div>
+    </body>
+  </text>
+</TEI>

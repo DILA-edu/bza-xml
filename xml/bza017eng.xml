@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>A deva tempts a monk and is granted an interview with the Buddha</head>
+        <p>Translation of BZA 017. First version published in <emph>Buddhist Studies Review</emph>vol. 23-1 (2006).</p>
+      </div>
+    </front>
+    <body xml:id="bza017en" xml:lang="en">
+      <div>
+        <p>Thus have I heard, once, the Buddha was staying in Rājagaha in the Bamboo Grove of Jialantuo.</p>
+        <p>At that time a monk, in the last light of the day, went to the riverbank, folded his clothes, put them aside and entered the river to take a bath. He came naked out of the water and let his body dry on the riverside.  There a deva, emitting rays and illuminating the riverbank, addressed him: ‘You haven’t gone forth for long yet. Your body is strong and lovely your hair. Why don’t you enjoy the five sensual pleasures [of sight, sound, scent, taste, and touch]? Haven’t you gone forth untimely?’.</p>
+        <p>The monk answered: ‘I have gone forth right on time, attaining timelessness’.  The deva replied: ‘What does it mean to “have gone forth right on time, attaining timelessness”?’. The monk: ‘The Buddha, the World-honored One, has explained how the five sensual pleasures are bound to time, the Buddhadhamma, however, is not bound to time. The five sensual pleasures bring very little pleasure, but multiply our sufferings, accumulate our worries. In the Buddhadhamma I have found certainty within this very body, no more troubling passions. In everything we do, independently of time, when we sow a little karmic seed, we will obtain the full fruit of its results’.</p>
+        <p>Again the deva asked: ‘Why does the Buddha say the five sensual pleasures are bound to time, why does he say the Buddhadhamma is not bound to time?’. The monk said: ‘I am still young and have not gone forth for long. My learning is still shallow. How could I expound the wide and deep aspects of the utmost truth of the Tathāgata? The Bhagavant is staying near here in the Bamboo Grove of Jialantuo. You can go and put your questions to him yourself’.</p>
+        <p>The deva replied: ‘The Buddha is served by many powerful and virtuous devas gathered around him left and right. I, weak and lowly as I am, will not be allowed to see him. Go and speak to the World-honored One on my behalf. If the Tathāgata out of compassion graciously agrees to listen, I will go and seek his counsel to dispel my doubts’. The monk: ‘Come along then, I will inform the World-honored One that you seek counsel’. The deva said: ‘I will follow you to the World-honored One’. There the monk went to where the Buddha stayed, and having paid homage to his feet, sat to one side and put the deva’s questions to the World-honored One.</p>
+        <p>There the World-honored One spoke a verse:</p>
+        <lg>
+          <l>Whoever says the signs / arising from name-and-form do truly exist, //</l>
+          <l>know this person / is on the road of death. //</l>
+          <l>In name-and-form perceiving / [their] empty nature, [their] absence of self-nature //</l>
+          <l>this is called to respect the Buddhas / forever escaping the realms of existence. //</l>
+        </lg>
+        <p>And to the deva: ‘Did you understand that?’. The deva replied: ‘Not yet, World-honored One’.   There the Buddha spoke another verse:</p>
+        <lg>
+          <l>The conceit of being better [than others], the conceit of being equal / and the conceit of being inferior [to others];  //</l>
+          <l>those with these three conceits / are apt to have arguments; //</l>
+          <l>those who have done away with them / are called of unmovable mind. //</l>
+        </lg>
+        <p>And the Buddha asked the deva: ‘Did you understand that?’. The deva replied: ‘Not yet, World-honored One’. There the Buddha spoke another verse:</p>
+        <lg>
+          <l>By cutting off attachment to name-and-form / one extinguishes the three conceits, //</l>
+          <l>avoids all desires / extinguishes hate and anger. //</l>
+          <l>By pulling out the poisoned root / all mental discrimination, wishes and desires cease; //</l>
+          <l>those who are able to do this / cross over the ocean of birth and death. //</l>
+        </lg>
+        <p>There the deva said: ‘Now I understand’.</p>
+        <p>The monks, having listened to what the Buddha had said, were happy and practised accordingly.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

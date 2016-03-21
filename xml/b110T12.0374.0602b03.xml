@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 110. It is found in the 大般涅槃經 Sutra at T.12.0374.0602.</p>
+      </div>
+    </front>
+    <body xml:id="T12.0374.0602b03">
+      <anchor type="start" xml:id="t12.0374.0602b03"/>
+      <div type="not-parallel">
+        <p>
+                    文殊師利與阿難俱來至佛所。<seg type="parallel">阿難見佛至心禮敬<g>[去*ㄗ]</g>住一面</seg>佛告阿難。<seg type="parallel">是娑羅林外有一梵志名須<anchor type="variant" n="fnT12p0602n05"/>跋陀。其年極老已百二十。</seg>雖得五通未捨憍慢。獲得非想非非想定。生一切智起涅槃想。汝可往彼語須<anchor type="variant" n="fnT12p0602n06"/>跋言。如來出世如優曇花。於今中夜當般涅槃。若有所作可及時作。莫於後日而生悔心。阿難汝之所說彼定信受。何以故。汝曾往昔五百世中作須<anchor type="variant" n="fnT12p0602n07"/>跋陀子。其人愛心習猶未盡。以是因緣信受汝語。爾時阿難受佛<g>[束*力]</g>已。往須<anchor type="variant" n="fnT12p0602n06"/>跋所作如是言。仁者。當知如來出世如優曇花。於今中夜當般涅槃。欲有所作可及時作。莫於後日生悔心也。須<anchor type="variant" n="fnT12p0602n06"/>跋言。善哉阿難。我今當往至如來所。</p>
+        <p>
+          <seg type="parallel">爾時阿難與須跋陀還至佛所時須<anchor type="variant" n="fnT12p0602n06"/>跋陀到已問訊作如是言。瞿曇。我今欲問隨我意答。佛言。須<anchor type="variant" n="fnT12p0602n06"/>跋。今正是時隨汝所問。我當方便隨汝意答。瞿曇。</seg>有諸沙門婆羅門等作如是言。一切眾生受苦樂報。皆隨往日本業因緣。是故若有持戒精進受身心苦能壞本業。本業既盡眾苦盡滅。眾苦盡滅即得涅槃。<seg type="parallel">是義云何。</seg>
+        </p>
+        <p>
+          <seg type="parallel">佛言。善男子。若有沙門婆羅門等作是說<anchor type="variant" n="fnT12p0602n08"/>者</seg>。我為憐<anchor type="variant" n="fnT12p0602n09"/>愍常當往<anchor type="variant" n="fnT12p0602n10"/>來<anchor type="variant" n="fnT12p0602n11"/>如是人所。既至彼已我當問之。仁者。實作如是說不。彼若見答我如是說。何以故。瞿曇。我見眾生習行諸惡。多饒財寶身得自在。又見修善貧窮多乏不得自在。又見有人多役力用求<anchor type="variant" n="fnT12p0602n12"/>不能得。又見不求自然得之。又見有人慈<pb ed="T" n="0602c"/>心不殺反更中夭。又見<g>[喜/心]</g>殺終保年壽。又見有人淨修梵行精<anchor type="variant" n="fnT12p0602n13"/>
+            勤持戒。有得解脫有不得者。是故我說一切眾生受苦樂報。皆由往日本業因緣。
+                                須
+          <anchor type="variant" n="fnT12p0602n06"/>跋我復當問仁者。實見過去業不。若有是業為多少耶。現在苦行能破多少耶。能知是業已盡不盡耶。是業既盡一切盡耶。彼若見答我實不知。我便當為彼人引喻。譬如有人身被毒箭。其家眷屬為請醫師令拔是箭。既拔箭已身得安隱。其後十年是人猶憶了了分明。是醫為我拔出毒箭。以藥塗<anchor type="variant" n="fnT12p0602n14"/>
+            拊令我得差安隱受樂。仁既不知過去本業。云何能知現在苦行定能破壞過去業耶。
+                                彼若復言。瞿曇。汝今亦有過去本業。何故獨責我過去業。瞿曇。經中亦作是說。若見有人豪
+          <anchor type="variant" n="fnT12p0602n15"/>貴自在。當知是人先世好施。如是不名過去業耶。我復答言。仁者。如是知者。名為比知不名真知。我佛法中或有從因知果。或有從果知因。我佛法中有過去業有現在業。汝則不爾唯有過去業無現在業。汝法不從方便斷業。我法不爾從方便斷。汝業盡已則得苦盡。我<anchor type="variant" n="fnT12p0602n03"/>
+            即不爾煩惱盡已業苦則盡。是故我今責汝過去業。彼人若言瞿曇我實不知。從師受之師作是說我實無咎。我言。仁者。汝師是誰。
+                                彼若見答是富蘭那。我復
+          <anchor type="variant" n="fnT12p0602n16"/>言曰。汝昔何不一一諮<anchor type="variant" n="fnT12p0602n17"/>啟。大師實知過去業不。汝師若言我不知者。汝復云何受是師語。若言我知復應問言。下苦因緣受中上苦不。中苦因緣受下上苦不。上苦因緣受中下苦不。若言不者。復應問言。師云何說苦樂之報唯過去業非現在<pb ed="T" n="0603a"/>耶。復應問言。是現在<anchor type="variant" n="fnT12p0603n01"/>
+            苦過去有不。若過去有過去之業悉已都盡。若都盡者云何復受今日之身。若過去無唯現在有。云何復言眾生苦樂皆過去業。仁者。若知現在苦行能壞過去業。現在苦行復以何破。如其不破苦即是常。苦若是常云何說言得苦解脫。若更有行壞苦行者。過去已盡云何有苦。仁者。如是苦行能令樂業受苦果不。復令苦業受樂果不。能令無苦無樂業作不受果不。能令現報作生報不。能令生報作現報不。令是二報作無報不。能令定報作無報不。能令無報作定報不。
+                                彼若復言瞿曇不能。我復當言。仁者。如其不能何因緣故受是苦行。仁者。當知定有過去業現在因緣。是故我言因煩惱生業因業受報。仁者。當知一切眾生有過去業有現在因。眾生雖有過去壽業。要賴現在飲食因緣。仁者。若說眾生受苦受樂。定由過去本業因緣。是事不然。何以故。仁者。譬如有人為王除怨。以是因緣多得財寶。因是財寶受現在樂。如是之人現作樂因現受樂報。譬如有人殺王愛子。以是因緣喪失身命。如是之人現作苦因現受苦報。仁者。一切眾生現在因於四大時節土地人民受苦受樂。是故我說一切眾生不必盡因過去本業受苦樂也。仁者。若以斷業因緣力故得解脫者。一切聖人不得解脫。何以故。一切眾生過去本業無始終故。是故我說修聖道時是道能遮無始終業。仁者。若受苦行便得道者。一切畜生悉應得道。是故先當調伏其心不調伏身。以是因
+          <pb ed="T" n="0603b"/>緣我經中說。斫伐此林莫斫伐樹。何以故。從林生怖不從樹生。欲調伏身先當調心。心喻於林身喻於樹。</p>
+        <p>須<anchor type="variant" n="fnT12p0603n02"/>跋陀言。世尊。我已先調伏心。</p>
+        <p>佛言。善男子。汝今云何能先調心。</p>
+        <p>須<anchor type="variant" n="fnT12p0603n02"/>跋陀言。世尊。我先思惟欲是無常無樂無淨。觀色即是常樂<anchor type="variant" n="fnT12p0603n03"/>清淨。作是觀已欲界結斷獲得色處。是故名為先調伏心。次復觀色色是無常如癰如瘡如毒如箭。見無色常清淨寂靜。如是觀已色界結盡得無色處。是故名為先調伏心。次復觀想即是無常癰瘡毒箭。如是觀已獲得非想非非想處。是非想非非想<anchor type="variant" n="fnT12p0603n04"/>處即一切智寂靜清淨。無有墮墜常恒不變。是故我能調伏其心。</p>
+        <p>佛言。善男子。汝云何能調伏心耶。汝今所得非想非非想定猶名為想。涅槃無想。汝云何言獲得涅槃。善男子。汝已先能呵責<g>[色-巴+鹿]</g>想。今者云何愛著細想。不知呵責如是非想非非想處。故名為想如癰如瘡如毒如箭。善男子。汝師<g>[爵-(采-木)+(樊-大)]</g>頭藍弗利根聰明。尚不能斷如是非想非非想處。受於惡身況其餘者。</p>
+        <p>世尊。云何能斷一切諸有。</p>
+        <p>佛言。善男子。若觀實相是人能斷一切諸有。須<anchor type="variant" n="fnT12p0603n05"/>跋陀言。世尊。云何名為實相。善男子。無相之相名為實相。</p>
+        <p>世尊。云何名為無相之相。</p>
+        <p>善男子。一切法無自相他相及自他相。無無因相無作相無受相。無作者相無受者相。無法非法相。無男女相無士夫相。無微塵相無時節相。無為自相無為他相無為自他相。無有相無無相無生相無生者相。無因相無<anchor type="variant" n="fnT12p0603n06"/>因因相。無果相無果果相。無晝夜相無明闇相。無見相無見者相。無聞相無聞者相。無覺知相無覺知者相。無菩提相無得菩提者相。無業相無業<anchor type="variant" n="fnT12p0603n07"/>主相。無煩惱相無煩惱<anchor type="variant" n="fnT12p0603n07"/>主相。善男子。如是等相隨所滅處名真實<anchor type="variant" n="fnT12p0603n08"/>相。善男子。一切諸法皆是虛假。隨其滅處是名為實是名實相。是名法界名畢竟智。名第一義諦名第一義空。善男子。是相法界畢竟智。第一義諦第一義空。下智觀故得聲聞菩提。中智觀故得緣覺菩提。上智觀故得無上菩提。</p>
+        <p>
+          <seg type="parallel">說是法時</seg>十千菩薩得一生實相。萬五千菩薩得二生法界。二萬五千菩薩得畢竟智。三萬五千菩薩悟第一義諦。是第一義諦亦名第一義空。亦名首楞嚴三昧。四萬五千菩薩得虛空三昧。是虛空三昧亦名廣大三昧。亦名智印三昧。五萬五千菩薩得不退忍。是不退忍亦名如法忍。亦名如法界。六萬五千菩薩得陀羅尼。是陀羅尼亦名大念心。亦名無礙智。七萬五千菩薩得師子吼三昧。是師子吼三昧亦名金剛三昧。亦名五智印三昧。八萬五千菩提得平等三昧。是平等三昧亦名大慈大悲。無量恒河沙等眾生發阿耨多羅三藐三菩提心。無量恒河沙等眾生發緣覺心。無量恒河沙等眾生發聲聞心。人女天女二萬億人現轉女身得男子身。<seg type="parallel">須<anchor type="variant" n="fnT12p0603n05"/>跋陀羅得阿羅漢果。</seg>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

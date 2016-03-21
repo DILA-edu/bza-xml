@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head xml:lang="sa">a lpa de ba tā sū tra</head>
+        <head xml:lang="bo">lha'i mdo nyung du</head>
+        <p>
+          From the Derge edition. Derge 330. This is part of the text-cluster of BZA
+                              (T.100) sutra 297.
+        </p>
+      </div>
+    </front>
+    <body xml:lang="bo">
+      <anchor type="start" xml:id="der.72.sa.258b7"/>
+      <div type="parallel">
+        <p>
+          sangs rgyas dang/ byang chub sems dpa' thams cad la phyag 'tshal lo/ 'di skad
+                                  bdag gis thos pa dus gcig na/ bcom ldan 'das mnyan yod na rgyal bu rgyal
+                                  byed kyi tshal mgon med zas sbyin gyi kun dga' ra ba na bzhugs te/
+        </p>
+        <p>
+          de nas lha zhig bcom ldan 'das ga la ba der song ste phyin nas bcom ldan 'das
+                                  kyi zhabs la mgo bos phyag 'tshal te phyogs gcig tu bdug go/ phyogs gcig tu
+                                  'dug nas lha des bcom ldan 'das la zhu ba zhus pa/
+        </p>
+        <lg>
+          <l>tshul khrims gang lags spyod pa gang/ yon tan gang lags las gang gis/</l>
+          <l>gnas pa ji ltar shes rab gang/ skye po gang dag mtho ris mchi/</l>
+          <l>lha la thugs brtse nyer bzung nas/ ston pas de la lung bstan pa/</l>
+        </lg>
+        <lg>
+          <l>skye bo mtho ris gang 'gro ba/ lha khyod nga la rab tu nyon/</l>
+          <l>srog gcod pa las phyir ldog cing/ khrims bzung yang dag sdom la dga'/</l>
+          <l>gang dag 'byung bo mi 'tshe ba/ skye bo de dag mtho ris 'gro/</l>
+          <l>gang dag ma byin len spong zhing/ sbyin pa gtong la rtag dga' ste/</l>
+          <l>rku ba spong zhing mi rku ba/ skye bo de dag mtho ris 'gro/</l>
+          <l>gzhan gyi chung ma'i thad mi 'gro/ log par gyem pa rnam par spong/</l>
+          <l>bdag gi chung mas chog sems pa/ skye bo de dag mtho ris 'gro/</l>
+          <l>gzhan gyi don la rku byed dang/ bdag gi phyir dang 'jigs pa'i phyir/</l>
+          <l>brdzun gyi tshig rnams mi smra ba/ skye bo de dag mtho ris 'gro/</l>
+          <l>grogs po rtag par 'byed byed pa/ phra ma'i tshig rnams rab spong zhing/</l>
+          <l>gang dga 'dun par rab dga' ba/ skye bo de dag mtho ris 'gro/</l>
+          <l>rgyags la rten cing zhe gcod pa/ tshig rtsub dag ni rnam sbyong zhing/</l>
+          <l>'jam po'i tshig tu gang smra ba/ skye bo de dag mtho ris 'gro/</l>
+          <l>don med gnas dang ldan pa yi/ kyal pa'i tshig rnams rab spong zhing/</l>
+          <l>gang yang dus su chos smra ba/ skyes bo de dag mtho ris 'gro/</l>
+          <l>grong ngam 'on te dgon pa na/ gzhan gyis bdag gir byas pa la/</l>
+          <l>de la chags sems gang med pa/ skye bo de dag mtho ris 'gro/</l>
+          <l>byams pa'i sems kyis mi 'tshe zhing/ gnod par sems pa med pa yis/</l>
+          <l>skys bo kun la mi gnod pa/ skye bo de dag mtho ris 'gro/</l>
+          <l>las dang las kyi rnam smin dang/ gnyi ga la yang gang dad cid/</l>
+          <l>yang dag lta pa yang dag 'dzin/ skye bo de dag mthi ris 'gro/</l>
+          <l>dge ba'i chos rnams 'di dag ni/ dkar po'i chos kyi lam bcu ste/</l>
+          <l>gang dag yang dag 'dzin 'gyur ba/ skye bo de dag mtho ris 'gro/</l>
+        </lg>
+        <lg>
+          <l>bram ze mya ngan 'das pa dang/ dgra dang 'jigs pa kun 'das shing/</l>
+          <l>'jig rten chags med rgal ba ni/ mang po yod par ma mthong ngo/</l>
+        </lg>
+        <p>
+          bcom ldan 'das kyis de skad ces bka' stsal nas lha de yi rangs te/
+                               bcom ldan 'das kyis gsungs pa la mngon par bstod do/
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 013. It is found in the 方廣大莊嚴經 Sutra at T.03.0187.0612.</p>
+      </div>
+    </front>
+    <body xml:id="T03.0187.0612c06">
+      <anchor type="start" xml:id="t03.0187.0612c06"/>
+      <div type="parallel">
+        <p>爾時世尊從波羅奈國與優<anchor type="variant" n="fnT03p0612n02"/>婁頻螺迦葉兄弟三人及千羅漢。至摩伽陀國。</p>
+        <p>時頻婆娑羅王久聞菩薩得成佛道。巨身丈六紫磨金色。三十二相八十種好。十號具足已得知見。成就五眼證獲六通。梵釋四王皆悉奉事。今入我國心甚歡喜。吾本共要成佛相度。乃不忽遺從我所願。即勅國內嚴淨道路。王乘寶車。大臣百官前後導從。千乘萬騎出城迎佛。爾時世尊近王舍城在遮越林於大樹下千比丘眾圍遶而坐。王遙見佛如星中月。如日初出。既如帝釋。亦似梵王處於天宮。儼若金山巍巍超絕。王心歡喜下車步進。去五威儀稽首禮佛。自稱其號作如是言。久服尊德欽渴積時。如來即以梵音慰問王言。大王。四大常安隱不。統理人務無乃勞耶。王曰蒙祐幸得安隱。</p>
+        <p>爾時頻婆娑羅王及諸臣民。咸覩迦葉於佛邊坐。心自念言。迦葉耆舊眾仙之宗。豈應棄道作佛弟子。為是佛師為師佛乎。佛知其意。即以偈頌問迦葉言。</p>
+        <lg met="5">
+          <l>汝常祀山川<caesura/>歸依水火風</l>
+          <l>日月眾梵天<caesura/>夙夜勤精進</l>
+          <l>事來幾何時<caesura/>其心無懈廢</l>
+          <l>汝所奉神祇<caesura/>寧有致福不</l>
+        </lg>
+        <p>
+          <pb ed="T" n="0613a"/>爾時迦葉以偈答曰。</p>
+        <lg met="5">
+          <l>自念祠祀來<caesura/>已經八十載</l>
+          <l>風水火梵天<caesura/>山川及日月</l>
+          <l>夙夜常精進<caesura/>祈心不懈廢</l>
+          <l>畢竟無所獲<caesura/>值佛乃得安</l>
+        </lg>
+        <p>說是偈已。王及群臣國中人民。乃知迦葉為佛弟子。佛告迦葉。汝起宜應現汝羅漢神通。迦葉即時承佛教已。<anchor type="variant" n="fnT03p0613n01"/>踊在虛空身上出火身下出水。或身上出水其身不濡。或身下出火其身不灼。飛行虛空七現七隱。入地如水履水如地。穿過須彌無所罣礙。於佛前地。西沒東現。東沒西現。南沒北現。北沒南現。既變化已還於佛前。長跪叉手而白佛言。我是弟子佛是我師。王及臣民重明迦葉是佛弟子。</p>
+      </div>
+      <div type="not-parallel">
+        <p> 爾時世尊告頻婆娑羅王言。大王。色是無常苦空無我。受想行識亦是無常苦空無我。色如聚沫不可撮摩。受如水泡不得久立。行如芭蕉中無有堅想。如所夢為虛妄見。識如幻化從顛倒起。三界不實一切無常。大王。有此國來為幾何時。王言。有此國來七百餘代。所領之王盡識以不。答曰。知吾父耳。佛言。世間須臾<anchor type="variant" n="fnT03p0611n06"/>惟道可恃。應修來福無為空過。大王當知。如人生時。雖因父母而生其身。不由父母招其果報。善惡美醜先業所為。若造諸善命終之後。生天人中十方佛前。若造諸惡。命終之後生於地獄餓鬼畜生。一切諸法緣合即生緣散即滅。<pb ed="T" n="0613b"/>大王當知。無明緣行。行緣識。識緣名色。名色緣六處。六處緣觸。觸緣受。受緣愛。愛緣取。取緣有。有緣生。生緣老死憂悲苦惱。大王。無明滅故則行滅。行滅故則識滅。識滅故則名色滅。名色滅故則六處滅。六處滅故則觸滅。觸滅故則受滅。受滅故則愛滅。愛滅故則取滅。取滅故則有滅。有滅故則生滅。生滅故則老死滅。老死滅故則憂悲苦惱滅。大王。十二因緣盡坦然。無跡猶如虛空。分別本無逮得法忍。</p>
+        <p>說是法時八萬四千諸天及人。遠塵離垢得法眼淨。無央數眾發阿耨多羅三藐三菩提心。爾時頻婆娑羅王得法眼淨。欣然請佛願受五戒大臣百官國內人民。皆悉歸佛亦受五戒。既受戒已即從座起。頂禮佛足而白佛言。世尊。乃能棄捨轉輪王位出家為道。我於昔日輙先奉請。若得道時願前見度我。於今者宿願成滿。幸蒙佛恩得履道跡。國務殷繁比更親奉。王及群臣遶佛三匝辭退而去。王至宮已群臣上賀。古昔諸王悉不見佛。<anchor type="variant" n="fnT03p0611n06"/>惟獨大王得值如來。王益欣喜復慰群臣。卿等夙福今幸遇佛出興於世。因勅後宮妃嬪婇女及國內人民。長修齋戒盡令奉法。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

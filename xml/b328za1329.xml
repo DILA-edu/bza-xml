@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-1329">
+      <anchor type="start" xml:id="tp0365c06"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住王舍城迦蘭陀竹園。</p>
+      </div>
+      <div type="main">
+        <p>時有<anchor type="variant" n="fnT02p0365n13"/>娑多耆利天神、<anchor type="variant" n="fnT02p0365n14"/>醯魔波低天神共作約誓：</p>
+        <q who="devata">
+          <p>若其宮中有寶物出者，必當相語；不相語者，得違約罪。</p>
+        </q>
+        <p>時醯魔波低天神宮中有未曾有寶──波曇摩華出，華有千葉，大如車輪，金色寶莖。時醯魔波低天神遣使告語娑多耆利：</p>
+        <q who="hemavata">
+          <p>聚落主！今我宮中忽生未曾有寶──波曇<choice>
+              <sic>魔</sic>
+              <corr resp="CBETA">摩</corr>
+            </choice>花，華有千葉，大如車輪，金色寶莖。可來觀看！</p>
+        </q>
+        <p>娑多耆利天神遣使詣醯魔波低舍，告言：</p>
+        <q who="satagira">
+          <p>聚落主！用是波曇摩百千為？今我宮中有未曾有寶──大波曇摩──出，所謂如來．應．等正覺．明行足．善逝．世間解．無上士．調御丈夫．天、人師．佛．世尊。汝便可來奉事供養！</p>
+        </q>
+        <p>時醯魔波低天神即與五百眷屬往詣娑多耆利天神所，說偈問言：</p>
+        <q who="hemavata">
+          <lg met="5" xml:id="cgtn0099-1329a">
+            <l>十五日良時<caesura/>天夜遇歡會</l>
+            <l>當說受何齋<caesura/>從<anchor type="variant" n="fnT02p0365n15"/>阿羅漢受</l>
+          </lg>
+        </q>
+        <p>時娑多耆利說偈答言：</p>
+        <q who="satagira">
+          <lg met="5" xml:id="cgtn0099-1329b">
+            <l>今日佛世尊<caesura/>在摩竭勝國</l>
+            <l>住於王舍城<caesura/>迦蘭陀竹園</l>
+            <l>演說微妙法<caesura/>滅除眾生苦</l>
+            <l>苦苦及苦集<caesura/>苦滅盡作證</l>
+            <l>八聖出苦道<caesura/>安隱趣涅槃</l>
+            <l>當往設供養<caesura/>我羅漢世尊</l>
+          </lg>
+        </q>
+        <p>
+          <pb ed="T" n="0366a"/>醯魔波低說偈問言：</p>
+        <q who="hemavata">
+          <lg met="5" xml:id="cgtn0099-1329c">
+            <l>彼<anchor type="variant" n="fnT02p0366n01"/>有心願樂<caesura/>慈濟眾生不</l>
+            <l>彼於受不受<caesura/>心想平等不</l>
+          </lg>
+        </q>
+        <p>娑多耆利說偈答言：</p>
+        <q who="satagira">
+          <lg met="5" xml:id="cgtn0099-1329d">
+            <l>彼妙願慈心<caesura/>度一切眾生</l>
+            <l>於諸受不受<caesura/>心想常平等</l>
+          </lg>
+        </q>
+        <p>時醯魔波低說偈問言：</p>
+        <q who="hemavata">
+          <lg met="5" xml:id="cgtn0099-1329e">
+            <l>為具足明達<caesura/>已行成就不</l>
+            <l>諸漏永滅盡<caesura/>不受後有耶</l>
+          </lg>
+        </q>
+        <p>娑多耆利說偈答言：</p>
+        <q who="satagira">
+          <lg met="5" xml:id="cgtn0099-1329f">
+            <l>明達善具足<caesura/>正行已成就</l>
+            <l>諸漏永已盡<caesura/>不復受後有</l>
+          </lg>
+        </q>
+        <p>醯<anchor type="variant" n="fnT02p0366n02"/>摩波低說偈問言：</p>
+        <q who="hemavata">
+          <lg met="5" xml:id="cgtn0099-1329g">
+            <l>牟尼意行滿<caesura/>及身口業耶</l>
+            <l>明行悉具足<caesura/>以法讚歎耶</l>
+          </lg>
+        </q>
+        <p>娑多耆利說偈答言：</p>
+        <q who="satagira">
+          <lg met="5" xml:id="cgtn0099-1329h">
+            <l>具足牟尼心<caesura/>及業身口滿</l>
+            <l>明行悉具足<caesura/>以法而讚歎</l>
+          </lg>
+        </q>
+        <p>醯<anchor type="variant" n="fnT02p0366n02"/>摩波低說偈問言：</p>
+        <q who="hemavata">
+          <lg met="5" xml:id="cgtn0099-1329i">
+            <l>遠離於害生<caesura/>不與不取不</l>
+            <l>為遠於放蕩<caesura/>不離禪思不</l>
+          </lg>
+        </q>
+        <p>娑多耆利復說偈言：</p>
+        <q who="satagira">
+          <lg met="5" xml:id="cgtn0099-1329j">
+            <l>常不害眾生<caesura/>不與不妄取</l>
+            <l>遠離於放蕩<caesura/>日夜常思禪</l>
+          </lg>
+        </q>
+        <p>醯魔波低復說偈問言：</p>
+        <q who="hemavata">
+          <lg met="5" xml:id="cgtn0099-1329k">
+            <l>為不樂五欲<caesura/>心不濁亂不</l>
+            <l>有清淨法眼<caesura/>滅盡愚癡不</l>
+          </lg>
+        </q>
+        <p>娑多耆利說偈答言：</p>
+        <q who="satagira">
+          <lg met="5" xml:id="cgtn0099-1329l">
+            <l>心常不樂欲<caesura/>亦無濁亂心</l>
+            <l>
+              <pb ed="T" n="0366b"/>佛法眼清淨<caesura/>愚癡盡無餘</l>
+          </lg>
+        </q>
+        <p>醯魔波低復說偈問言：</p>
+        <q who="hemavata">
+          <lg met="5" xml:id="cgtn0099-1329m">
+            <l>至誠不妄語<caesura/>麁<anchor type="variant" n="fnT02p0366n03"/>澁言無有</l>
+            <l>得無別離說<caesura/>無不誠說不</l>
+          </lg>
+        </q>
+        <p>娑多耆利說偈答言：</p>
+        <q who="satagira">
+          <lg met="5" xml:id="cgtn0099-1329n">
+            <l>至誠不妄語<caesura/>亦無麁澁言</l>
+            <l>不離他親<anchor type="variant" n="fnT02p0366n04"/>厚<caesura/>常說如法言</l>
+          </lg>
+        </q>
+        <p>醯<anchor type="variant" n="fnT02p0366n02"/>摩波低復說偈問言：</p>
+        <q who="hemavata">
+          <lg met="5" xml:id="cgtn0099-1329o">
+            <l>為持清淨戒<caesura/>正念寂滅不</l>
+            <l>具足等解脫<caesura/>如來大智不</l>
+          </lg>
+        </q>
+        <p>娑多耆利說偈答言：</p>
+        <q who="satagira">
+          <lg met="5" xml:id="cgtn0099-1329p">
+            <l>淨戒悉具足<caesura/>正念常寂靜</l>
+            <l>等解脫成就<caesura/>得如來大智</l>
+          </lg>
+        </q>
+        <p>醯魔波低復說偈問言：</p>
+        <q who="hemavata">
+          <lg met="5" xml:id="cgtn0099-1329q">
+            <l>明達悉具足<caesura/>正行已清淨</l>
+            <l>所有諸漏盡<caesura/>不復受後有</l>
+          </lg>
+        </q>
+        <p>娑多耆利說偈答言：</p>
+        <q who="satagira">
+          <lg met="5" xml:id="cgtn0099-1329r">
+            <l>明達悉具足<caesura/>正行已清淨</l>
+            <l>一切諸漏盡<caesura/>無復後生有</l>
+          </lg>
+        </q>
+        <p>醯魔波低復說偈言：</p>
+        <q who="hemavata">
+          <lg met="5" xml:id="cgtn0099-1329s">
+            <l>牟尼善心具<caesura/>及身口業跡</l>
+            <l>明行悉成就<caesura/>故讚歎其法<anchor type="variant" n="fnT02p0366n05"/>
+            </l>
+          </lg>
+        </q>
+        <p>娑多耆利說偈答言：</p>
+        <q who="satagira">
+          <lg met="5" xml:id="cgtn0099-1329t">
+            <l>牟尼善心具<caesura/>及身口業跡</l>
+            <l>明行悉成就<caesura/>讚歎於其法</l>
+          </lg>
+        </q>
+        <p>醯魔波低復說偈言：</p>
+        <q who="hemavata">
+          <lg met="5" xml:id="cgtn0099-1329u">
+            <l>伊尼延鹿<g>[跳-兆+尃]</g>
+              <caesura/>仙人之勝相</l>
+            <l>少食捨身貪<caesura/>牟尼處林禪</l>
+            <l>汝今當共行<caesura/>敬禮彼瞿曇</l>
+          </lg>
+        </q>
+        <p>
+          <pb ed="T" n="0366c"/>時有百千鬼神眷屬圍繞，娑多耆利、醯魔波低速至佛<anchor type="variant" n="fnT02p0366n06"/>前，禮拜供養，整衣服，偏袒右肩，合掌敬禮，而說偈言：</p>
+        <q who="devata">
+          <lg met="5" xml:id="cgtn0099-1329v">
+            <l>伊尼延鹿<g>[跳-兆+尃]</g>
+              <caesura/>仙人之勝相</l>
+            <l>少食無貪嗜<caesura/>牟尼樂林禪</l>
+            <l>我等今故來<caesura/>請問於瞿曇</l>
+            <l>師子獨遊步<caesura/>
+              <anchor type="variant" n="fnT02p0366n07"/>大龍無恐畏</l>
+            <l>今故來請問<caesura/>牟尼願決疑</l>
+            <l>云何得出苦<caesura/>云何苦解脫</l>
+            <l>唯願說解脫<caesura/>苦於何所滅</l>
+          </lg>
+        </q>
+        <p>爾時世尊說偈答言：</p>
+        <q who="gatamo">
+          <lg met="5" xml:id="cgtn0099-1329w">
+            <l>世五欲功德<caesura/>及說第六意</l>
+            <l>於彼欲無貪<caesura/>解脫一切苦</l>
+            <l>如是從苦出<caesura/>如是解脫苦</l>
+            <l>今答汝所問<caesura/>苦從此而滅</l>
+          </lg>
+        </q>
+        <p>娑多耆利、醯魔波低復說偈問佛：</p>
+        <q who="devata">
+          <lg met="5" xml:id="cgtn0099-1329x">
+            <l>泉從何轉還<caesura/>惡道何不轉</l>
+            <l>世間諸苦樂<caesura/>於何而滅盡</l>
+          </lg>
+        </q>
+        <p>爾時世尊說偈答言：</p>
+        <q who="gatamo">
+          <lg met="5" xml:id="cgtn0099-1329y">
+            <l>眼耳鼻舌身<caesura/>及以意入處</l>
+            <l>於彼名及色<caesura/>永滅盡無餘</l>
+            <l>於彼泉轉還<caesura/>於彼道不轉</l>
+            <l>於<anchor type="variant" n="fnT02p0366n08"/>彼苦及樂<caesura/>得無餘滅盡</l>
+          </lg>
+        </q>
+        <p>娑多耆利、醯魔波低復說偈問佛：</p>
+        <q who="devata">
+          <lg met="5" xml:id="cgtn0099-1329z">
+            <l>世間幾法起<caesura/>幾法世和合</l>
+            <l>幾法取受世<caesura/>幾法令世滅</l>
+          </lg>
+        </q>
+        <p>爾時世尊說偈答言：</p>
+        <q who="gatamo">
+          <lg met="5" xml:id="cgtn0099-1329aa">
+            <l>六法起世間<caesura/>六法世和合</l>
+            <l>六法取<anchor type="variant" n="fnT02p0366n09"/>受世<caesura/>六法世損<anchor type="variant" n="fnT02p0366n10"/>滅</l>
+          </lg>
+        </q>
+        <p>
+          <pb ed="T" n="0367a"/>娑多耆利、醯魔波低復說偈<anchor type="variant" n="fnT02p0367n01"/>問：</p>
+        <q who="devata">
+          <lg met="5" xml:id="cgtn0099-1329ab">
+            <l>云何度諸流<caesura/>日夜勤方便</l>
+            <l>無攀無住處<caesura/>而不溺深淵</l>
+          </lg>
+        </q>
+        <p>爾時世尊說偈答言：</p>
+        <q who="gatamo">
+          <lg met="5" xml:id="cgtn0099-1329ac">
+            <l>一切戒具足<caesura/>智慧善正受</l>
+            <l>如思惟繫念<caesura/>是能度深淵</l>
+            <l>不樂諸欲想<caesura/>亦超色諸結</l>
+            <l>無攀無住處<caesura/>不溺於深淵</l>
+          </lg>
+        </q>
+        <p>娑多耆利、醯魔波低復說偈問佛：</p>
+        <q who="devata">
+          <lg met="5" xml:id="cgtn0099-1329ad">
+            <l>何法度諸流<caesura/>以何度大海</l>
+            <l>云何捨離苦<caesura/>云何得清淨</l>
+          </lg>
+        </q>
+        <p>爾時世尊說偈答言：</p>
+        <q who="gatamo">
+          <lg met="5" xml:id="cgtn0099-1329ae">
+            <l>正<anchor type="variant" n="fnT02p0367n02"/>信度<anchor type="variant" n="fnT02p0367n03"/>河流<caesura/>不放逸度海</l>
+            <l>精進能斷苦<caesura/>智慧得清淨</l>
+          </lg>
+        </q>
+        <p>爾時世尊復說偈言：</p>
+        <q who="gatamo">
+          <lg met="5" xml:id="cgtn0099-1329af">
+            <l>汝可更問餘<caesura/>沙門梵志法</l>
+            <l>真實施調伏<caesura/>除此更無法</l>
+          </lg>
+        </q>
+        <p>醯魔波低復說偈言：</p>
+        <q who="hemavata">
+          <lg met="5" xml:id="cgtn0099-1329ag">
+            <l>更餘何所問<caesura/>沙門梵志法</l>
+            <l>大精進今日<caesura/>已具善開導</l>
+            <l>我今當報彼<caesura/>娑多耆利恩</l>
+            <l>能以導御師<caesura/>告語於我等</l>
+            <l>我當詣村村<caesura/>家家而隨佛</l>
+            <l>承事禮供養<caesura/>從佛聞正法</l>
+            <l>此百千鬼神<caesura/>悉合掌恭敬</l>
+            <l>一切歸依佛<caesura/>牟尼之大師</l>
+            <l>得無上之名<caesura/>必見真實義</l>
+            <l>成就大智慧<caesura/>於欲不染着</l>
+            <l>慧者當觀察<caesura/>救護世間者</l>
+            <l>
+              <pb ed="T" n="0367b"/>得賢聖道跡<caesura/>是則大仙人</l>
+          </lg>
+        </q>
+      </div>
+      <div type="closing">
+        <p>佛說是經已，娑多耆利、醯魔波低及諸眷族五百鬼神聞佛所說，皆大歡喜，隨喜禮佛而去。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

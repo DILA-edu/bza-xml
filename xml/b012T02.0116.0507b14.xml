@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 012. It is found in the 佛說戒德香經 Sutra at T.02.0116.0507.</p>
+      </div>
+    </front>
+    <body xml:id="T02.0116.0507b14">
+      <anchor type="start" xml:id="t02.0116.0507b14"/>
+      <div type="parallel">
+        <p>聞如是。一時佛遊舍衛國祇樹給孤獨園。</p>
+        <p>時賢者阿難閑居獨思。世有三香。一曰根香。二曰枝香。三曰華香。是三品香唯隨風香不能逆風。寧有雅香隨風逆風者乎。</p>
+        <p>賢者阿難獨處思惟於義所歸不知所趣。即從坐起往詣佛所。稽首<anchor type="variant" n="fnT02p0507n08"/>佛足下<anchor type="variant" n="fnT02p0507n09"/>長跪叉手<anchor type="variant" n="fnT02p0507n10"/>而白佛言。</p>
+        <p>我獨處思惟。世有三香。一曰根香。二曰枝香。三曰華香。此三品香唯能隨風不能逆風。寧有雅香隨風逆風者乎。</p>
+        <p>佛告阿難。善哉善哉。誠如汝問。有香真正隨風逆風。</p>
+        <p>阿難白佛。願聞其<anchor type="variant" n="fnT02p0507n11"/>香</p>
+        <p>佛言。若於郡國縣邑村落。有善男子善女人。修行十善身不殺盜<anchor type="variant" n="fnT02p0507n12"/>淫。口不妄言兩舌惡口綺語。意不嫉<anchor type="variant" n="fnT02p0507n13"/>妬恚癡。孝順父母奉事<anchor type="variant" n="fnT02p0507n14"/>三尊。仁慈道德威儀禮節。東方無數沙門梵志歌頌其德。南西北方四維上下沙門梵志咸歌其德。某郡國土縣邑村落。有善<pb ed="T" n="0507c"/>男子善女人。<anchor type="variant" n="fnT02p0507n15"/>奉行十善敬事三寶。孝順仁慈道德恩義不失禮節。是香名曰隨風逆風靡不周。照十方宣德一切蒙賴。</p>
+        <p>佛時頌曰。</p>
+        <lg met="5">
+          <l>雖有美香花<caesura/>不能逆風熏</l>
+          <l>不息名栴檀<caesura/>眾雨一切香</l>
+          <l>志性能和雅<caesura/>爾乃逆風香</l>
+          <l>正士名丈夫<caesura/>普熏于十方</l>
+          <l>木<anchor type="variant" n="fnT02p0507n16"/>蜜及栴檀<caesura/>青蓮諸雨香</l>
+          <l>一切此眾香<caesura/>戒香最無上</l>
+          <l>是等清淨<anchor type="variant" n="fnT02p0507n17"/>者<caesura/>所行無放逸</l>
+          <l>不知魔徑路<caesura/>不見所歸趣</l>
+          <l>此道至永安<caesura/>此道最無上</l>
+          <l>所獲斷穢源<caesura/>降伏絕魔網</l>
+          <l>用上佛道堂<caesura/>昇無窮之慧</l>
+          <l>以此宣<anchor type="variant" n="fnT02p0507n18"/>經義<caesura/>除去一切弊</l>
+        </lg>
+        <p>佛告阿難。是香所布<anchor type="variant" n="fnT02p0507n19"/>不礙須彌山川天地。不礙四種地水火風。通達八極上下亦然。無窮之界咸歌其德。一身不殺<anchor type="variant" n="fnT02p0507n20"/>生。世世長壽。其命無<anchor type="variant" n="fnT02p0507n21"/>橫。不盜竊者。世世富饒又不<anchor type="variant" n="fnT02p0507n22"/>妄遺財寶。常存施為道根。不<anchor type="variant" n="fnT02p0507n23"/>婬色者。<anchor type="variant" n="fnT02p0507n24"/>人不犯<anchor type="variant" n="fnT02p0507n25"/>妻。所在化生蓮華之中。不妄言者。口氣香好言<anchor type="variant" n="fnT02p0507n26"/>輒信之。不兩舌者。家常和合無<anchor type="variant" n="fnT02p0507n27"/>有別離。不惡口者。其舌常好言辭辯通。不綺<anchor type="variant" n="fnT02p0507n28"/>語者。人聞其言莫不諮受宣用為珍。不嫉妬者。世世所生眾人所敬。不瞋恚者。世世端正人見歡<anchor type="variant" n="fnT02p0507n29"/>喜。除愚癡者。所生智慧靡不諮請。捨于邪見常住正道。從行所得各自然生。故當棄邪從其真妙。</p>
+        <p>佛說如是。時諸比丘聞之歡喜。作禮而去。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

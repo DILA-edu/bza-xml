@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 013. It is found in the 佛所行讚 Sutra at T.04.0192.0032.</p>
+      </div>
+    </front>
+    <body xml:id="T04.0192.0032a14">
+      <anchor type="start" xml:id="t04.0192.0032a14"/>
+      <div type="parallel">
+        <lg met="5">
+          <l part="F">世尊大眷屬</l>
+          <l>進詣王舍城<caesura/>憶念摩竭王</l>
+          <l>先所修要誓<caesura/>世尊既<anchor type="variant" n="fnT04p0032n02"/>至已</l>
+          <l>止住於杖林<caesura/>瓶沙王聞之</l>
+          <l>與大眷屬俱<caesura/>舉國士女從</l>
+          <l>往詣世尊所<caesura/>遠見如來坐</l>
+          <l>降心伏諸根<caesura/>除去諸俗容</l>
+          <l>下車而步進<caesura/>猶如天帝釋</l>
+          <l>往詣梵天王<caesura/>前頂禮佛足</l>
+          <l>敬問體<anchor type="variant" n="fnT04p0032n03"/>和安<caesura/>佛還慰勞畢</l>
+          <l>命令一面坐<caesura/>時王心默念</l>
+          <l>釋迦大威力<caesura/>勝德迦葉等</l>
+          <l>今皆為弟子<caesura/>佛知眾心念</l>
+          <l>而問於迦葉<caesura/>汝見何福利</l>
+          <l>而棄事火法<caesura/>迦葉聞佛命</l>
+          <l> 驚起大眾前<caesura/>胡跪而合掌<pb ed="T" n="0032b"/>
+          </l>
+          <l>高聲白佛言<caesura/>修福事火神</l>
+          <l>果報悉輪迥<caesura/>生死煩惱增</l>
+          <l>是故我棄捨<caesura/>精勤奉事火</l>
+          <l>為求五欲境<caesura/>
+            <anchor type="variant" n="fnT04p0032n04"/>愛欲增無窮</l>
+          <l>是故我棄捨</l>
+          <l>事火修呪術<caesura/>離解脫受生</l>
+          <l>受生為苦本<caesura/>故捨更求安</l>
+          <l>我本謂苦行<caesura/>祠祀設大會</l>
+          <l>為最第一勝<caesura/>而更違正道</l>
+          <l>是故今棄捨<caesura/>更求勝寂滅</l>
+          <l>離生老病死<caesura/>無盡清涼處</l>
+          <l>以知此義故<caesura/>放捨事火法</l>
+          <l>世尊聞迦葉<caesura/>說自知見事</l>
+          <l>欲令諸世間<caesura/>普生淨信<anchor type="variant" n="fnT04p0032n05"/>故</l>
+          <l>而告迦葉言<caesura/>汝大士善來</l>
+          <l>分別種種法<caesura/>而從於勝道</l>
+          <l>今於大眾前<caesura/>顯汝勝功德</l>
+          <l>如巨富長者<caesura/>開現於寶藏</l>
+          <l>令貧苦眾生<caesura/>增其厭離心</l>
+          <l>善哉奉尊教<caesura/>即於大眾前</l>
+          <l>斂身入正受<caesura/>飄然昇虛空</l>
+          <l>經行住坐臥<caesura/>或舉身洞然</l>
+          <l>左右出水火<caesura/>不燒亦不<anchor type="variant" n="fnT04p0032n06"/>濡</l>
+          <l>從身出雲雨<caesura/>雷電動天地</l>
+          <l>舉世悉瞻仰<caesura/>縱目觀無厭</l>
+          <l>異口而同音<caesura/>稱歎未曾有</l>
+          <l>然後攝神通<caesura/>敬禮世尊足</l>
+          <l>佛為我大師<caesura/>我為尊弟子</l>
+          <l>奉教聞斯行<caesura/>所作已畢竟</l>
+          <l>
+            <pb ed="T" n="0032c"/>舉世普見彼<caesura/>迦葉為弟子</l>
+          <l>決定知世尊<caesura/>真實一切智</l>
+          <l>佛知諸會眾<caesura/>堪為受法器</l>
+          <l>而告瓶沙王<caesura/>汝今善諦聽</l>
+          <l>心意及諸根<caesura/>斯皆生滅法</l>
+          <l>了知生滅過<caesura/>是則平等觀</l>
+          <l>如是平等觀<caesura/>是則為知身</l>
+          <l>知身生滅法<caesura/>無取亦無受</l>
+          <l>
+            <anchor type="variant" n="fnT04p0032n07"/>如身諸根覺<caesura/>無我無我所</l>
+          <l>純一苦積聚<caesura/>苦生而苦滅</l>
+          <l>已知諸身相<caesura/>無我無我所</l>
+          <l>是則之第一<caesura/>無盡清<anchor type="variant" n="fnT04p0032n08"/>涼處</l>
+          <l>我見等煩惱<caesura/>繫縛諸世間</l>
+          <l>既見無我所<caesura/>諸縛悉解脫</l>
+          <l>不實見所縛<caesura/>見實則解脫</l>
+          <l>世間攝受戒<caesura/>則為邪攝受</l>
+          <l>若彼有我者<caesura/>或常或無常</l>
+          <l>生死二邊見<caesura/>其過最尤甚</l>
+          <l>若使無常者<caesura/>修行則無果</l>
+          <l>亦不受後<anchor type="variant" n="fnT04p0032n02"/>身<caesura/>無功而解脫</l>
+          <l>若使有常者<caesura/>無死生中間</l>
+          <l>則應同虛空<caesura/>無生亦無滅</l>
+          <l>若使有我者<caesura/>則應一切同</l>
+          <l>一切皆有我<caesura/>無業果自成</l>
+          <l>若有我作者<caesura/>不應苦修行</l>
+          <l>彼有自在主<caesura/>何須造作為</l>
+          <l>若我則有常<caesura/>理不容變異</l>
+          <l>見有苦樂相<caesura/>云何言有常</l>
+          <l>知生則解脫<caesura/>遠離諸塵垢</l>
+          <l>
+            <pb ed="T" n="0033a"/>一切悉有常<caesura/>何用解脫為</l>
+          <l>無我不<anchor type="variant" n="fnT04p0031n08"/>唯言<caesura/>理實無實性</l>
+          <l>不見我作事<caesura/>云何說我作</l>
+          <l>我既無所作<caesura/>亦無作我者</l>
+          <l>無此二事故<caesura/>真實無有我</l>
+          <l>無作者知者<caesura/>無主而常<anchor type="variant" n="fnT04p0033n01"/>遷</l>
+          <l>生死日夜流<caesura/>汝今聽我說</l>
+          <l>六根六境界<caesura/>因緣六識生</l>
+          <l>三事會生觸<caesura/>心念業隨轉</l>
+          <l>陽珠遇乾草<caesura/>緣日火隨生</l>
+          <l>諸根境界識<caesura/>士夫生亦然</l>
+          <l>芽因種子生<caesura/>種非即是芽</l>
+          <l>不即亦不異<caesura/>眾生生亦然</l>
+        </lg>
+      </div>
+      <div type="not-parallel">
+        <lg met="5">
+          <l>世尊說真實<caesura/>
+            <anchor type="variant" n="fnT04p0033n02"/>平等第一義</l>
+          <l>瓶沙王歡喜<caesura/>離垢法眼生</l>
+          <l>
+            <anchor type="variant" n="fnT04p0033n03"/>王眷屬人民<caesura/>百千諸鬼神</l>
+          <l>聞說甘露法<caesura/>亦隨離諸塵</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

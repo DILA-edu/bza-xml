@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 013. It is found in the 四分律 Vinaya at T.22.1428.0797.</p>
+      </div>
+    </front>
+    <body xml:id="T22.1428.0797b03">
+      <anchor type="start" xml:id="t22.1428.0797b03"/>
+      <div type="parallel">
+        <p>
+          <seg type="not-parallel">爾時世尊。化此千比丘已便作是念。我先許瓶沙王請。若我成佛得一切智。先來至羅閱城。我今應往見瓶沙王。即正衣服。將大比丘千人。皆是舊學螺髻梵志。皆已得定調柔永得解脫。從摩竭國界遊化漸至杖林中。</seg>
+        </p>
+        <p>爾時世尊。於杖林中善住尼拘律樹王下坐。時瓶沙王。聞沙門瞿曇出自釋種出家學道。將千弟子遊行摩竭界。皆是舊學螺髻梵志。皆已得定調柔永得解脫。從摩竭界遊行來至杖林中。止善住尼拘律樹王下坐。</p>
+        <p>
+          <seg type="not-parallel">彼沙門瞿曇有大名稱。靡所不聞。所謂名稱者。如來至真等正覺明行足為善逝世間解無上士調御丈夫天人師佛世尊。於天及世間久魔若魔天及梵天眾沙門婆羅門眾中。自知得神通智證。常自娛樂。與人說法。上中下言悉善。義味深邃。具足演布。修諸梵行善哉乃得見如是阿羅漢。我今寧可自往見大沙門瞿曇。</seg>
+        </p>
+        <p>時王瓶沙。駕萬二千乘車。將八萬四千人前後圍繞。以王威勢出羅閱城。欲見世尊。時王瓶沙。往杖林中。齊車所至處。即下車步進入林。遙見世尊顏貌殊特猶如紫金。便發歡喜心。於如來所前頭面禮足已在一面坐。時摩竭國人。或有禮足而坐者。或有舉手相問訊而坐者。或有稱姓名而坐者。或有叉手合掌向如來而坐者。或有默然而坐者。時摩竭國人作是念。為大沙門從欝鞞羅迦<pb ed="T" n="0797c"/>葉學梵行<anchor type="variant" n="fnT22p0794n14"/>耶。為欝鞞羅迦葉并弟子眾從大沙門瞿曇學梵行<anchor type="variant" n="fnT22p0794n14"/>耶。時世尊。知其國人心中所念。即以偈向欝鞞羅迦葉說。</p>
+        <lg met="5">
+          <l>汝等見何變<caesura/>捨諸事火具</l>
+          <l>吾今問迦葉<caesura/>云何捨火具</l>
+        </lg>
+        <p>爾時迦葉。復以偈報世尊言。</p>
+        <lg met="5">
+          <l>飲食諸美味<caesura/>愛欲女及祀</l>
+          <l>我見如<anchor type="variant" n="fnT22p0797n06"/>是垢<caesura/>故捨事火具</l>
+        </lg>
+        <p>世尊。復以偈問迦葉言。</p>
+        <lg met="5">
+          <l>飲食諸美味<caesura/>於中無所樂</l>
+          <l>天上及世間<caesura/>今說樂何處</l>
+        </lg>
+        <p>迦葉。復以偈報世尊言。</p>
+        <lg met="5">
+          <l>我見迹休息<caesura/>三界無所礙</l>
+          <l>不異不可異<caesura/>不樂事火祀</l>
+        </lg>
+        <p>
+          <seg type="not-parallel">時摩竭國人復生是念。大沙門說二偈。欝鞞羅迦葉亦說二偈。我等猶故未別。為大沙門從迦葉受學耶。為迦葉及弟子從大沙門受學耶。</seg>
+        </p>
+        <p>時世尊。知摩竭國人心中所念已。告迦葉言。汝起為吾扇背。答言爾。時迦葉受佛教已。即從坐起上昇虛空。還下禮世尊足。以手摩捫如來足。以口嗚之自稱姓字。世尊是我師。我是弟子。即持扇在如來後而扇。時摩竭國人自相謂言。大沙門瞿曇。不從迦葉學梵行。迦葉及弟子眾。從大沙門瞿曇學梵行。</p>
+      </div>
+      <div type="not-parallel">
+        <p>爾時世尊。知摩竭國人無有疑故。漸次為說法。勸令發歡喜心。所謂法者。布施持戒生天之法。呵欲不淨。讚歎出離為樂。</p>
+        <p>時摩竭國人瓶沙王為首。八萬四千人十二那由他天。諸塵垢盡得法眼淨。<pb ed="T" n="0798a"/>見法得法成就諸法自知得果證。前白佛言。我等歸依佛法僧。聽為優波塞。盡形壽不殺生。乃至不飲酒。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

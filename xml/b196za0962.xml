@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-0962">
+      <anchor type="start" xml:id="tp0245b26"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住<name type="place">王舍城</name>
+          <name type="place">迦蘭陀竹園</name>。</p>
+      </div>
+      <div type="main">
+        <p>爾時<name type="person">婆蹉種出家</name>來詣佛所，與世尊<anchor type="variant" n="fnT02p0245n07"/>
+          <choice>
+            <sic>而</sic>
+            <corr resp="CBETA">面</corr>
+          </choice>相問訊，問訊已，退坐一面，白佛言：</p>
+        <p>
+          <q who="vacchagotta">
+            <p>瞿曇！云何瞿曇作如是見、如是說：<q who="gotamo">世間常，此是真<pb ed="T" n="0245c"/>實，餘則虛妄。</q>耶？</p>
+          </q>
+        </p>
+        <p>佛告婆蹉種出家：<q who="gotamo">
+            <p>我不作如是見、如是說：<q who="gotamo">世間常，是則真實，餘則虛妄。</q>
+            </p>
+          </q>
+        </p>
+        <p>
+          <q who="vacchagotta">
+            <p>云何瞿曇作如是見、如是說：<q who="gotamo">世間無常、常無常、非常非無常，有邊、無邊、邊無邊、非邊非無邊，命即是身、命異身異，如來有後死、無後死、有無後死、非有非無後死。</q>？</p>
+          </q>
+        </p>
+        <p>佛告婆蹉種出家：<q who="gotamo">
+            <p>我不作如是見、如是說，……乃至非有非無後死。</p>
+          </q>
+        </p>
+        <p>爾時婆蹉種出家白佛言：<q who="vacchagotta">
+            <p>瞿曇！於此見，見何等過患，而於此諸見，一切不說？</p>
+          </q>
+        </p>
+        <p>佛告婆蹉種出家：<q who="gotamo">
+            <p>若作是見――世間常，此則真實，餘則虛妄者，此是倒見、此是觀察見、此是動搖見、此是垢污見、此是結見，是苦、是<anchor type="variant" n="fnT02p0245n08"/>閡、是惱、是熱，見結所繫，愚癡無聞凡夫於未來世，生、老、病、死、憂、悲、惱苦生。婆蹉種出家！若作是見——世<anchor type="variant" n="fnT02p0245n09"/>間無常、常無常、非常非無常，有邊、無邊、邊無邊、非有邊非無邊，是命是身、命異身異，如來有後死、無後死、有無後死、非有非無後死。此是倒見……乃至憂、悲、惱苦生。</p>
+          </q>
+        </p>
+        <p>婆蹉種出家白佛：<q who="vacchagotta">
+            <p>瞿曇！何所見？</p>
+          </q>
+        </p>
+        <p>佛告婆蹉種出家：<q who="gotamo">
+            <p>如來所見已畢。婆蹉種出家！然如來見，謂見此苦聖諦、此苦集聖諦、此苦滅聖諦、此苦滅道跡聖諦；作如是知、如是見已，於一切見、一切受、一切生，一切我、我所見、我慢繫著使，斷滅、寂靜、清涼、真實，如是等解脫。比丘！生者不然，不生亦不然。</p>
+          </q>
+        </p>
+        <p>婆蹉白佛：<q who="vacchagotta">
+            <p>瞿曇！何故說言『生者不然』？</p>
+          </q>
+        </p>
+        <p>佛告婆蹉：<q who="gotamo">
+            <p>我今問汝，隨意答我。婆蹉！猶如有人於汝前然火，汝見火<anchor type="variant" n="fnT02p0226n13"/>然</p>
+          </q>
+        </p>
+        <p>婆蹉白佛：<q who="vacchagotta">
+            <p>如是，瞿曇！</p>
+          </q>
+        </p>
+        <p>佛告婆蹉：<q who="gotamo">
+            <p>若有<pb ed="T" n="0246a"/>人問汝：『向者火然，今在何處？為東方去耶？西方、南方、北方去耶？』如是問者，汝云何<anchor type="variant" n="fnT02p0246n01"/>說？</p>
+          </q>
+        </p>
+        <p>婆蹉白佛：<q who="vacchagotta">
+            <p>瞿曇！若有來作如是問者，我當作如是答：<q who="vacchagotta">若有於我前然火，薪草因緣故然；若不增薪，火則永滅，不復更起。東方、南方、西方、北方去者，是則不然。</q>
+            </p>
+          </q>
+        </p>
+        <p>佛告婆蹉：<q who="gotamo">
+            <p>我亦如是說，色已斷已知，受、想、行、識已斷已知，斷其根本，如截多羅樹頭，無復生分，於未來世永不復起。若至東方，南、西、北方，是則不然，甚深廣大，無量無數永滅。</p>
+          </q>
+        </p>
+        <p>婆蹉白佛：<q who="vacchagotta">
+            <p>我當說譬。</p>
+          </q>
+        </p>
+        <p>佛告婆蹉：<q who="gotamo">
+            <p>為知是時。</p>
+          </q>
+        </p>
+        <p>婆蹉白佛：<q who="vacchagotta">
+            <p>瞿曇！譬如近城邑聚落，有好淨地，生堅固林，有一大堅固樹，其生<anchor type="variant" n="fnT02p0246n02"/>已來經數千歲，日夜既久，枝葉零落，皮膚枯朽，唯幹獨立。如是，瞿曇！如來法、律離諸枝條<choice>
+                <sic>
+                  <g ref="g000">[柯-口+日]</g>
+                </sic>
+                <corr resp="CBETA">柯</corr>
+              </choice>
+            </p>
+          </q>
+        </p>
+      </div>
+      <div type="closing">
+        <p>爾時婆蹉出家聞佛所說，歡喜隨喜，<choice>
+            <sic>彼</sic>
+            <corr resp="CBETA">從</corr>
+          </choice>坐起去。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

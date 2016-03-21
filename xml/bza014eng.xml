@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Mettiya and Mettiyā slander Dabba</head>
+        <p>Translation of BZA 014. First version published in <emph>Buddhist Studies Review</emph>vol. 23-1 (2006).</p>
+      </div>
+    </front>
+    <body xml:id="bza014en" xml:lang="en">
+      <div>
+        <p>Thus have I heard, once, the Buddha was staying in Rājagaha in the Bamboo Grove of Jialantuo.</p>
+        <p>At that time there was the monk Dabba Mallaputta. When the World-honored One put him in charge of provisions and lodgings, Dabba, having received the order, served as manager . One time, later, it was the turn of a monk called Mettiya to receive an invitation [from a donor], according to the order among the monks. According to the order among the monks, Dabba sent Mettiya to partake of the food at the donor’s place. When Mettiya went there, however, the food was awful. After this had happened three times, Mettiya felt extremely sorry for himself and consequently was greatly distressed. He told his sister, the nun Mettiyā: ‘Whenever Dabba sends me [to a meal], every time I get awful food! What misery!’. And he said to the nun Mettiyā: ‘Sister, Dabba has bothered me thrice with bad food. Couldn’t you now use some ‘skillful means’ to revenge my anger?’. Mettiyā said: ‘But how could I help you?’. The monk Mettiya: ‘I have a plan. Go to the Buddha and say: “Dabba once sexually harassed me”. And I will bear witness and say: “It’s true, it is true’’. The nun Mettiyā said: ‘But wouldn’t it be slander to accuse someone who has kept his precepts purely?’. Thereupon Mettiya: ‘Sister! If you don’t do this for me, then from now on I won’t speak to you again anymore’. The nun said: ‘If you insist, I will do as you say’. The monk Mettiya: ‘Sister, let me go first, you follow later’.</p>
+        <p>Mettiya went to the Buddha and, having paid homage to his feet, sat to one side. Then the nun Mettiyā came to the Buddha and, having paid homage to his feet, stood to one side and said: ‘World-honored One! How comes it that Dabba Mallaputta has sexually harassed me?’. And the monk Mettiya: ‘It is true! World-honored One!’.</p>
+        <p>At that time the monk Dabba was among those present. The Buddha asked him: ‘Did you hear this?’. And Dabba answered: ‘World-honored One! The Buddha knows me’. The Buddha said: ‘In this case you can not say it like this. If you have done it you should say: “I remember”; if you have not done it, you should say: “I do not remember’’’. He answered the Buddha: ‘World-honored One! I truly do not remember this’.</p>
+        <p>Here Rāhula  said: ‘World-honored One! This monk Dabba has sexually harassed the nun Mettiyā and the monk Mettiya bore witness saying ‘I have seen how Dabba sexually harassed Mettiyā’. What [else] is Dabba supposed to say?’ . The Buddha said: ‘If you were slandered by the nun Mettiyā, if she would say: “Rāhula has sexually harassed me” and the monk Mettiya had also testified: “I have seen how Rāhula sexually harassed Mettiyā”. What would you say?’. Rāhula answered: ‘World-honored One! If I had been slandered I would only have said: “The Bhagavant knows me, he himself is witness [to my innocence]’’’. The Buddha said: ‘Even you know this, how could Dabba, pure and innocent, fail to say so’.</p>
+        <p>The Buddha told the monks: ‘You can recite the vinaya together with Dabba.  The nun Mettiyā has been undone by her own words’.</p>
+        <p>The monks having received the Buddha’s order, sternly interrogated Mettiya: ‘Where have you seen Dabba harassing Mettiyā? Have you alone seen it, or were others with you?’. When put to question in this way, Mettiya could not reply. Only then he conceded his slander: ‘When Dabba sent me to receive the donors’ invitation, three times I have received spoiled food! Out of greed, hatred and ignorance I have slandered him’.</p>
+        <p>When [later] the World-honored One emerged from his silent abode and sat on the prepared seat in front of the assembled monks, the monks told him:</p>
+        <p>‘World-honored One! We already have recited the vinaya with Dabba and expelled Mettiyā. Through interrogating Mettiya we have learned that Dabba was falsely accused’.</p>
+        <p>There the Buddha spoke this verse:</p>
+        <lg>
+          <l>Someone whose accomplishments / are all merely lies //</l>
+          <l>has abandoned his future / there is no evil that he will not do.  //</l>
+          <l>One should rather with this body / swallow a hot iron ball //</l>
+          <l>than having broken the precepts / accept the offerings made in pure faith. //</l>
+        </lg>
+        <p>When Buddha had finished, the monks, having listened to what he had said, were happy and practised accordingly.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

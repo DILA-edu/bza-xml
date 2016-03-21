@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 016. It is found in the 央掘魔羅經 Sutra at T.02.0120.0512.</p>
+      </div>
+    </front>
+    <body xml:id="T02.0120.0512b08">
+      <anchor type="start" xml:id="t02.0120.0512b08"/>
+      <div type="parallel">
+        <p>如是我聞。一時佛住舍衛國祇樹給孤獨園。</p>
+      </div>
+      <div type="not-parallel">
+        <p>爾時世尊。與無量菩薩摩訶薩俱。及四部眾無量諸天龍神夜叉。乾闥婆迦樓羅緊那羅摩睺羅伽。毘舍遮負多伽那阿<anchor type="variant" n="fnT02p0512n09"/>磋羅檀那婆王。日月天子阿修羅及諸羅剎。護世主四天王魔天等俱。爾時世尊。廣說妙法度脫眾生。名曰執劍大方廣經。初中後善。究竟顯示善義善味純一<anchor type="variant" n="fnT02p0512n10"/>清淨具足清白梵行之相。說斯經已。舍衛城北去城不遠。彼處有村村名薩那。有一貧窮婆羅門女名跋陀羅。女生一子名一切世間現。少失其父。厥年十二色力人相具足第一。聰明辯慧微言善說。復有異<anchor type="variant" n="fnT02p0512n11"/>村名頗羅呵私。有一舊住婆羅門師。名摩尼跋陀羅。善能通達四毘陀經。時世間現從其受學。謙順恭敬盡心供養。諸根純<anchor type="variant" n="fnT02p0512n12"/>熟所受奉持爾時彼師暫受王請。留世間現守舍而去。婆羅門婦年少端<anchor type="variant" n="fnT02p0512n13"/>正。見世間現即生染心。忽忘儀軌前執其衣。時世間現白彼婦言。仁今便為是我之母。如何尊處而行非法。內懷愧悚捨衣遠避。爾時彼婦欲心熾盛泣淚念言。彼見斷絕不隨我意。若不見從要斷其命。不使是人更餘婚娶。即以指<anchor type="variant" n="fnT02p0512n14"/>爪自<anchor type="variant" n="fnT02p0512n15"/>畫其體。<anchor type="variant" n="fnT02p0512n16"/>婬亂<pb ed="T" n="0512c"/>彌熾自燒成病。行女人諂莊嚴其身。以繩自<anchor type="variant" n="fnT02p0512n17"/>繫足不離地。時摩尼跋陀事畢還家。見婦自懸以刀截繩。高聲大叫而問之言。誰為此事。時婦答言。是世間現欲行非法。強見陵逼作如是事。摩尼跋陀先知其人有大德力。即思惟言。彼初生日。一切剎利所有刀劍悉自拔出。利劍<anchor type="variant" n="fnT02p0512n18"/>卷屈墜落于地。<anchor type="variant" n="fnT02p0512n19"/>令諸剎利<anchor type="variant" n="fnT02p0512n20"/>皆大恐怖。其生之日有如此<anchor type="variant" n="fnT02p0512n21"/>異。當知是人有大德力。思惟是已。語世間現汝是惡人毀辱所尊。汝今非復真婆羅門。當殺千人可得除罪。世間現稟性恭順。尊重師教即白師言。嗚呼和<anchor type="variant" n="fnT02p0512n22"/>上。殺害千人非我所應。師即謂言。汝是惡人不樂生天。作婆羅門耶。答言和<anchor type="variant" n="fnT02p0512n22"/>上。善哉奉命即殺千人。還禮師足。師聞見已生希有心。汝大惡人故不死耶。復作念言。今當令死。而告之言。殺一一人一一取指。殺千人已取指作鬘冠首而還。然後得成婆羅門耳。以是因緣名央掘魔羅。即白師言。善哉和<anchor type="variant" n="fnT02p0512n22"/>上受教。即殺千人少一。爾時央掘<anchor type="variant" n="fnT02p0512n23"/>魔母念子當飢。<anchor type="variant" n="fnT02p0512n24"/>自持四種<anchor type="variant" n="fnT02p0512n25"/>美食送往與之。子見母已作是思惟。當令我母得生天上。即便執劍欲前斷命。</p>
+      </div>
+      <div type="parallel">
+        <p>去舍衛國十由<anchor type="variant" n="fnT02p0512n26"/>旬少一丈。於彼有樹名阿輸迦。爾時世尊以一切智。如是知時如鴈王來。央掘魔羅見世尊來。執劍疾往作是念言。我今復當殺是沙門瞿曇。爾時世尊示現避去。時央掘魔羅而說偈言。</p>
+        <lg>
+          <l>住住大沙門<caesura/>白淨王太子</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>無貪染衣士</l>
+          <l>
+            <pb ed="T" n="0513a"/>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>毀形剃髮士</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>知足持鉢士</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>無畏師子遊</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>雄健猛虎步</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>儀雅鵝王趨</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>安詳龍象行</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>明朗口初出</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>明<anchor type="variant" n="fnT02p0513n01"/>朗盛滿月</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>莊嚴真金山</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>千葉蓮花眼</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>素齒白蓮<anchor type="variant" n="fnT02p0513n02"/>華</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>善說真言舌</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>眉間白<anchor type="variant" n="fnT02p0513n03"/>毫相</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>光澤紺青髮</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>
+            <pb ed="T" n="0513b"/>住住大沙門<caesura/>過膝傭長臂</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>離欲馬王藏</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>膝骨密不現</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>手足赤銅甲</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>輕舉躡虛<anchor type="variant" n="fnT02p0513n04"/>足</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>迦陵頻伽聲</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>憍吉羅妙音</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>百億勝光曜</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>諸根善調伏</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>十力悉具足</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>善持四真諦</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>說八道饒益</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>三十二相具</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>八十種妙好</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>永滅諸愛欲</l>
+          <l>
+            <pb ed="T" n="0513c"/>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>莫令我起瞋</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>未曾見奇特</l>
+          <l>我是央掘魔<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>修羅因陀羅</l>
+          <l>及與諸羅剎<caesura/>降是三憍慢</l>
+          <l>汝是何等人<caesura/>
+            <anchor type="variant" n="fnT02p0513n05"/>如是極疾行</l>
+          <l>及我未下刀<caesura/>知時宜速<anchor type="variant" n="fnT02p0513n06"/>住</l>
+          <l>住住大沙門<caesura/>不聞我名耶</l>
+          <l>我是央掘魔<caesura/>今當速輸指</l>
+          <l>住住大沙門<caesura/>其諸眾生類</l>
+          <l>若有聞我名<caesura/>一切皆怖死</l>
+          <l>何況面見我<caesura/>而得全身命</l>
+          <l>住住大沙門<caesura/>汝是誰速說</l>
+          <l>為天為風耶<caesura/>於我前疾去</l>
+          <l>住住大沙門<caesura/>我今已疲乏</l>
+          <l>終不能及汝<caesura/>今當稅一指</l>
+          <l>住住大沙門<caesura/>汝善持淨戒</l>
+          <l>宜速<anchor type="variant" n="fnT02p0513n07"/>輸一指<caesura/>莫度我境界</l>
+        </lg>
+        <p>爾時世尊猶如鵝王。<anchor type="variant" n="fnT02p0513n08"/>庠行七步師子顧視。為央掘魔羅而說偈言。</p>
+        <lg>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住無生際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>
+            <pb ed="T" n="0514a"/>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住於實際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住無<anchor type="variant" n="fnT02p0514n01"/>作際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住無為際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住無<anchor type="variant" n="fnT02p0514n02"/>老際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住無<anchor type="variant" n="fnT02p0514n03"/>病際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>
+            <pb ed="T" n="0514b"/>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住不死際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住無染際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住無漏際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住無罪際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住於諦際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>
+            <pb ed="T" n="0514c"/>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住於法際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住<anchor type="variant" n="fnT02p0514n04"/>如法際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住<anchor type="variant" n="fnT02p0514n05"/>寂靜際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住<anchor type="variant" n="fnT02p0514n06"/>安隱際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住<anchor type="variant" n="fnT02p0514n07"/>無憂際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>
+            <pb ed="T" n="0515a"/>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住<anchor type="variant" n="fnT02p0515n01"/>離憂際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住<anchor type="variant" n="fnT02p0514n07"/>無塵際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住<anchor type="variant" n="fnT02p0515n02"/>離塵際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住無<anchor type="variant" n="fnT02p0515n03"/>羸際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住無災際<caesura/>而汝不覺知</l>
+          <l>
+            <pb ed="T" n="0515b"/>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住無<anchor type="variant" n="fnT02p0515n04"/>惱際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住無<anchor type="variant" n="fnT02p0515n05"/>患際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住<anchor type="variant" n="fnT02p0515n06"/>離患際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住無<anchor type="variant" n="fnT02p0515n07"/>有際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>
+            <pb ed="T" n="0515c"/>我住<anchor type="variant" n="fnT02p0515n08"/>無量際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住<anchor type="variant" n="fnT02p0515n09"/>無上際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住<anchor type="variant" n="fnT02p0515n10"/>最勝際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住於<anchor type="variant" n="fnT02p0515n11"/>恒際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住<anchor type="variant" n="fnT02p0515n12"/>等高際<caesura/>
+            <anchor type="variant" n="fnT02p0515n13"/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>
+            <pb ed="T" n="0516a"/>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住<anchor type="variant" n="fnT02p0516n01"/>於上際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住不壞際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住不<anchor type="variant" n="fnT02p0516n02"/>崩際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住無邊際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住不可見<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>
+            <pb ed="T" n="0516b"/>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住深法際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住難見際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住微細法<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住<anchor type="variant" n="fnT02p0516n03"/>滿法際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住極難見<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>
+            <pb ed="T" n="0516c"/>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住無<anchor type="variant" n="fnT02p0516n04"/>定法<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住無諍際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住無分<anchor type="variant" n="fnT02p0516n05"/>別<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住於無際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住解脫際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>
+            <pb ed="T" n="0517a"/>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住寂靜際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住寂止際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住上止際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住無斷際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住彼岸際<caesura/>而汝不覺知</l>
+          <l>
+            <pb ed="T" n="0517b"/>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住<anchor type="variant" n="fnT02p0517n01"/>美妙際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住離虛偽<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住破宅際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住伏慢際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>
+            <pb ed="T" n="0517c"/>我住伏幻際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住伏癡際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住於捨際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住法界際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住無入際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>
+            <pb ed="T" n="0518a"/>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住純善際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住出世際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住無動際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住殿堂際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住不悔際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>
+            <pb ed="T" n="0518b"/>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住休息際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>稅是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住究竟際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住三毒斷<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住煩惱斷<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住有餘斷<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>
+            <pb ed="T" n="0518c"/>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住三毒盡<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住於滅際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住於捨際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住覆護際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住依怙際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>
+            <pb ed="T" n="0519a"/>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住趣向際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘<anchor type="variant" n="fnT02p0519n01"/>魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住洲渚際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住容受際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住<anchor type="variant" n="fnT02p0519n02"/>伏慳嫉<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住離渴際<caesura/>而汝不覺知</l>
+          <l>
+            <pb ed="T" n="0519b"/>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住捨一切<caesura/>
+            <anchor type="variant" n="fnT02p0519n03"/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住離一切<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住一切止<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住斷道際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>
+            <pb ed="T" n="0519c"/>我住空樂際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住結斷際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住愛盡際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住離欲<anchor type="variant" n="fnT02p0519n04"/>滅<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當<anchor type="variant" n="fnT02p0519n05"/>速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>我住涅槃際<caesura/>而汝不覺知</l>
+          <l>汝央掘魔羅<caesura/>我是等正覺</l>
+          <l>今當輸汝稅<caesura/>無上善法水</l>
+          <l>汝今當速飲<caesura/>永除生死渴</l>
+          <l>住住央掘魔<caesura/>汝當住淨戒</l>
+          <l>
+            <pb ed="T" n="0520a"/>我是等正覺<caesura/>輸汝慧劍稅</l>
+          <l>汝當捨利刀<caesura/>疾來歸明智</l>
+          <l>莫隨惡師慧<caesura/>非法謂為法</l>
+          <l>應甞至<anchor type="variant" n="fnT02p0520n01"/>藥味<caesura/>然後深自覺</l>
+          <l>一切畏杖痛<caesura/>莫不愛壽命</l>
+          <l>取己可為譬<caesura/>勿殺勿教殺</l>
+          <l>如他己不異<caesura/>如己他亦然</l>
+          <l>取己可為譬<caesura/>勿殺勿教殺</l>
+          <l>莫作羅剎形<caesura/>人血常塗身</l>
+          <l>人血塗利劍<caesura/>不宜恒在手</l>
+          <l>速捨<anchor type="variant" n="fnT02p0520n02"/>首指鬘<caesura/>離是二生業</l>
+          <l>二生非法求<caesura/>是則惡羅剎</l>
+          <l>羔羊於母所<caesura/>猶尚知孝養</l>
+          <l>哀哉汝可愍<caesura/>為惡師所誤</l>
+          <l>揮手奮利劍<caesura/>而欲害所生</l>
+          <l>汝今所造業<caesura/>惡逆過禽獸</l>
+          <l>殺害甚羅剎<caesura/>兇暴踰修羅</l>
+          <l>永入弊魔黨<caesura/>長與人類分</l>
+          <l>咄哉惡逆者<caesura/>母恩世難報</l>
+          <l>懷<anchor type="variant" n="fnT02p0520n03"/>任十二月<caesura/>將護盡胎養</l>
+          <l>既生常鞠育<caesura/>長夜忍苦穢</l>
+          <l>今且觀汝母<caesura/>血淚盈目流</l>
+          <l>
+            <anchor type="variant" n="fnT02p0520n04"/>忘身愛念汝<caesura/>躬自持食來</l>
+          <l>風吹髮蓬亂<caesura/>塵土坌污身</l>
+          <l>手足悉龜<anchor type="variant" n="fnT02p0520n05"/>坼<caesura/>眾苦集朽形</l>
+          <l>久受飢渴惱<caesura/>寒暑亦備經</l>
+          <l>逼切心狂亂<caesura/>愁毒恒怨嗟</l>
+        </lg>
+      </div>
+      <div type="not-parallel">
+        <p>爾時彼母見佛世尊與央掘魔羅往反苦論。子心降伏縱身垂臂。念其子故說偈白佛。</p>
+        <lg met="7">
+          <l>
+            <pb ed="T" n="0520b"/>久失寶藏今還得<caesura/>塵穢壞眼<anchor type="variant" n="fnT02p0520n06"/>今明淨</l>
+          <l>哀哉我子心迷亂<caesura/>常以人血自塗身</l>
+          <l>極利刀劍恒在手<caesura/>多殺人眾成屍聚</l>
+          <l>當令此子隨順我<caesura/>今敬稽首等正覺</l>
+          <l>多人見罵難聽聞<caesura/>汝子如是切責我</l>
+        </lg>
+        <p>爾時世尊告央掘魔羅。此樹下者是汝之母生育之恩深重難報。云何欲害令其生天。央掘魔羅非法謂法。如春時焰渴鹿迷惑。汝亦如是。隨惡師教而生迷惑。若諸眾生非法謂法。命終當墮無擇地獄。央掘魔羅。汝今疾來歸依如來。央掘魔羅。莫怖莫畏。如來大慈是無畏處等視眾生如羅睺羅。救療眾<anchor type="variant" n="fnT02p0520n07"/>疾無依作依。如來安隱是穌息處。諸無親者為作親善。諸貧乞者為作寶藏。失佛道者示無上道。為諸恐怖而作覆護。為諸漂溺而作舟梁。汝當疾捨利劍出家學道。頂禮母足悔過自洗。至誠啟請求聽出家。濟度汝母離三有苦。今輸稅汝出家具足。汝今當飲甘露法水。汝久遊惡道迷亂疲惓。今當休息。汝是稅主我亦稅主。為守道王於一切眾生常受其稅令得超<anchor type="variant" n="fnT02p0520n08"/>渡生死有海。</p>
+      </div>
+      <div type="parallel">
+        <p>爾時央掘魔羅即捨利劍。</p>
+      </div>
+      <div type="not-parallel">
+        <p>如一歲嬰兒捉火即放振手啼泣。時央掘魔羅捨鬘振手發聲<anchor type="variant" n="fnT02p0520n09"/>呼叫。亦復如是。如人熟眠蛇卒<anchor type="variant" n="fnT02p0520n10"/>齧脚即時驚起振手遠擲。央掘魔羅。速捨指鬘亦復如是。爾時央掘魔羅。如離非人所持。自知慚愧血出遍身淚流如雨。譬如<anchor type="variant" n="fnT02p0520n11"/>有人為蛇所螫良醫為呪令作蛇行。央掘魔羅宛轉腹行三十九旋亦復如是。</p>
+      </div>
+      <div type="parallel">
+        <p>然後進前頂禮佛足。而說偈言。</p>
+        <lg met="7">
+          <l>
+            <pb ed="T" n="0520c"/>奇哉正覺第一慈<caesura/>調御人師為我來</l>
+          <l>
+            <anchor type="variant" n="fnT02p0520n12"/>令我得度無知海<caesura/>愚癡闇冥濤波惑</l>
+          <l>奇哉正覺無上悲<caesura/>調御人師為我來</l>
+          <l>度我生死曠野難<caesura/>種種煩惱棘刺林</l>
+          <l>奇哉正覺第一喜<caesura/>調御人師為我來</l>
+          <l>
+            <anchor type="variant" n="fnT02p0520n13"/>令我得度諸迷惑<caesura/>邪見虎狼禽獸難</l>
+          <l>奇哉正覺第一捨<caesura/>調御人師為我來</l>
+          <l>令我得度無擇獄<caesura/>永離熾然無量苦</l>
+          <l>無依怙者為作依<caesura/>無親厚者為作親</l>
+          <l>集眾惡業趣大苦<caesura/>今為我來作歸依</l>
+        </lg>
+      </div>
+      <anchor type="gap" n="t02.0120.0520c10"/>
+      <gap resp="t.100" reason="longNonParallel"/>
+      <anchor type="continued" n="t02.0120.0532b13"/>
+      <div type="parallel">
+        <p>爾時世尊歎言。善哉善哉。央掘魔羅。汝來比丘。即成沙門威儀具足如舊比丘。爾時央掘魔羅稽首佛足白佛言。世尊。我今已來尋聲即得阿羅漢果。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

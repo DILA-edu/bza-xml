@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 260. It is found in the 雜阿含經 Sutra 003 at T.02.0101.0493. The new punctuation for T.101 was in part done with the help of Shi Zizhou 釋自拙.</p>
+      </div>
+    </front>
+    <body xml:id="tn0101-0003">
+      <anchor type="start" xml:id="t02.0101.0493c16"/>
+      <div type="opening">
+        <p>聞如是：一時佛在舍衛國祇樹給孤獨園。</p>
+      </div>
+      <div type="main">
+        <p>有<g>[阿-可+桑]</g>
+          <g>[阿-可+(曷-人+乂)]</g>闍壯年婆羅門，至佛所。已至，與佛共相問，已問，一處坐。已坐，為問佛：</p>
+        <q who="sanghaja">
+          <p>如是持何等，分別觀惡人？</p>
+        </q>
+        <p>佛報言：</p>
+        <q who="gotamo">
+          <p>譬喻惡人如月。</p>
+        </q>
+        <p>復問佛：</p>
+        <q who="sanghaja">
+          <p>若人欲分別慧人，持何等觀？</p>
+        </q>
+        <q who="gotamo">
+          <p>譬喻慧人，如月。</p>
+        </q>
+        <p>復問佛：</p>
+        <q who="sanghaja">
+          <p>何等為不慧人如月？</p>
+        </q>
+        <q who="gotamo">
+          <p>譬喻二十九日，月明亦減，色亦減，方亦減，見亦減。<anchor type="variant" n="fnT02p0493n20"/>在中夜過為減行，有時月為一切索盡，不復現，如月盡時。愚癡亦如是，為從所得道者，聞經、教<anchor type="variant" n="fnT02p0493n10"/>誡、慧信已得，不奉行，不受聽，不著心，捨離教，不著行。便信減，戒減，聞減，施減，慧減，中夜過亡。是婆羅門有一時令所愚人者，一切盡，一切不現所得好法，譬如月盡時二十九日，如是見，愚癡者譬喻月。</p>
+        </q>
+        <p>復問佛：</p>
+        <q who="sanghaja">
+          <p>欲知慧<pb ed="T" n="0494c"/>者行說。</p>
+        </q>
+        <q who="gotamo">
+          <p>譬喻月十五日，明亦增，方亦增，見亦增。復一時，為月一切增具止。十五日時亦如是。慧者所道德言如法行便得信。
+                    從得信聽事著意不捨離。所教合聚，便得增信，增戒，增聞，增施，增慧，增高。敢言便中夜增滿。 亦有一時增所。是智慧者，一切行得具足，所行淨教<anchor type="variant" n="fnT02p0493n10"/>誡，譬喻月十五日，明月時至。明慧人見如是，婆羅門！譬喻月。</p>
+        </q>
+        <p>從移說絕辭：</p>
+        <q who="gotamo">
+          <lg met="irreg" xml:id="cgtn0101-0493a">
+            <l>譬如月明在中行<caesura/>一切天下星宿從明所勝<caesura/>信聞者亦爾<caesura/>能布施無有慳</l>
+            <l>難捨世間一切為從布施明<caesura/>譬如雷鳴<caesura/>雲<anchor type="variant" n="fnT02p0494n01"/>電俱多<caesura/>含水灑地</l>
+            <l>信聞者亦如是<caesura/>能布施無有慳<caesura/>便從飲食滿設說復與</l>
+            <l>便有名聞聲如天雨墮<caesura/>便多福汔與者得</l>
+            <l>如雨珍寶穀<caesura/>名聞亦<anchor type="variant" n="fnT02p0494n02"/>得天上</l>
+            <l>已有德行<caesura/>後世在天上</l>
+          </lg>
+        </q>
+      </div>
+      <div type="closing">
+        <p>便<g>[阿-可+桑]</g>
+          <anchor type="variant" n="fnT02p0494n03"/>
+          <g>[阿-可+(曷-人+乂)]</g>闍從<anchor type="variant" n="fnT02p0493n18"/>坐起，持頭面著佛足禮：</p>
+        <q who="gotamo">
+          <p>從今受佛教<anchor type="variant" n="fnT02p0493n10"/>誡行。</p>
+        </q>
+        <p>佛說如是。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

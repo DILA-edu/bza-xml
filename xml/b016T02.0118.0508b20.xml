@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 016. It is found in the 佛說鴦掘摩經 Sutra at T.02.0118.0508.</p>
+      </div>
+    </front>
+    <body xml:id="T02.0118.0508b20">
+      <anchor type="start" xml:id="t02.0118.0508b20"/>
+      <div type="parallel">
+        <p>聞如是。一時佛遊舍衛國祇樹給孤獨園。與大比丘五百眾俱。</p>
+      </div>
+      <div type="not-parallel">
+        <p>舍衛城中有異梵志。博綜三經無所疑滯。具暢五典所問即對。精生講肆莫不稟仰。國老諮<anchor type="variant" n="fnT02p0508n06"/>諏群儒宗焉。門徒濟濟有五百人。上首弟子名<anchor type="variant" n="fnT02p0508n07"/>鴦掘摩<anchor type="variant" n="fnT02p0508n08"/>(晉曰指鬘)。儀幹剛猛力超壯士。手能接飛走先奔馬。聰慧才辯志性和雅。安詳敏達一無疑礙。色像第一師所嘉異。</p>
+        <p>
+          <anchor type="variant" n="fnT02p0508n09"/>室主欽敬候夫出處。往造指鬘而謂之曰。觀爾顏彩有堂堂之容。推步年齒相覺不殊。寧可同歡接所娛乎。指鬘聞之慞惶怖<pb ed="T" n="0508c"/>懼。毛衣起竪跪而答曰。夫人比母師則當父。猥垂斯教<anchor type="variant" n="fnT02p0508n10"/>儀不敢許。心所不甘甚非法也。師婦又曰。飢者與食渴給水漿有何非法。寒施溫衣熱惠清涼有何非法。裸露復之危厄救之有何非法。指鬘答曰。赴趣患急<anchor type="variant" n="fnT02p0508n11"/>寬濟窮頓實無非法。夫人母也。師之所重。隨婬著色慢犯非宜。如蛇<anchor type="variant" n="fnT02p0508n12"/>蝘體服毒<anchor type="variant" n="fnT02p0508n13"/>褒。師室聞之即懷<anchor type="variant" n="fnT02p0508n14"/>愧恨。歸自總<anchor type="variant" n="fnT02p0508n15"/>滅裂衣裳。欝金黃面佯愁委臥。時夫行還。問曰。何故有何不善。誰相<anchor type="variant" n="fnT02p0508n16"/>嬲觸。室人譖曰。君常所歎聰慧弟子。柔仁貞潔履行無闕。君旦不在來<anchor type="variant" n="fnT02p0508n17"/>見牽掣。欲肆逆慢妾不順從。而被<anchor type="variant" n="fnT02p0508n18"/>陵侮摧<anchor type="variant" n="fnT02p0508n19"/>捽委頓。是以受辱不能自起。師聞悵然意懷盛怒。欲加楚罰掠治姦暴。慮之雄霸非力所伏。退欲靜默深惟不道。穢染閨閤上下失<anchor type="variant" n="fnT02p0508n20"/>序。進退沈吟將如之何。乃<anchor type="variant" n="fnT02p0508n21"/>咿悒歎曰。當微改常倒教而教。教使殺人限至于百。各貫一指以鬘其額。殺人之罪罪莫大焉。不加楚酷必就辜戮。現受危沒<anchor type="variant" n="fnT02p0508n22"/>沒墮地獄。不可釋<anchor type="variant" n="fnT02p0508n23"/>置縱使<anchor type="variant" n="fnT02p0508n24"/>滋甚也。</p>
+        <p>於是師命指鬘而<anchor type="variant" n="fnT02p0508n25"/>告曰。卿之聰慧所學周密。<anchor type="variant" n="fnT02p0508n26"/>升堂入室精生無首。唯之一藝未施行耳。指鬘進曰。願聞所告。師曰。欲速成者宜執利劍。晨於四衢躬殺百人。人取一指以為傅飾。至于日中使百指滿。設勤奉遵。則道德備矣。便以劒授。指鬘受劍聞告愕懼。心懷愁慼。設違教旨非孝弟子。順而行之畏陷失理。奉劍而退垂淚言曰。淨修梵行則梵志法。孝養父母則梵志法。修為眾善則梵志法。不<anchor type="variant" n="fnT02p0508n27"/>邪正歸則梵志法。柔和<anchor type="variant" n="fnT02p0508n28"/>仁惠則梵志法。弘<pb ed="T" n="0509a"/>慈四等則梵志。法得五神通則梵志法。超上梵天則梵志法。今暴伐殺非法失理。躊躇懊惱當如之何。即詣<anchor type="variant" n="fnT02p0509n01"/>前樹四衢路側。悲怒<anchor type="variant" n="fnT02p0509n02"/>激憤惡鬼助禍。耗亂其心瞋目噴吒。四顧遠視如鬼師子。如虎<anchor type="variant" n="fnT02p0509n03"/>狼獸跳騰馳踊。色貌可畏行者四集。悉當趣城即奮長劍多所殺害。莫不迸怖值無遺脫。去來往返而無覺者。無數之眾稱怨悲叫。入<anchor type="variant" n="fnT02p0509n04"/>趣王宮告有逆賊。遮截要路害人不少。唯願<anchor type="variant" n="fnT02p0509n05"/>天王。為民除患。</p>
+        <p>時諸比丘入城分衛見諸告者。恐怖如是。分衛還出飯食畢訖。往詣佛所稽首足下白世尊曰。見國人眾詣王宮門。<anchor type="variant" n="fnT02p0509n06"/>告大逆賊名曰指鬘。手執利劍多所危害。體掌污血路無行人。爾時世尊告諸比丘。汝等且止。吾往救之。</p>
+      </div>
+      <div type="parallel">
+        <p>佛從坐起尋到其所。道逢蒭牧荷負載乘。佃居<anchor type="variant" n="fnT02p0509n07"/>民眾白世尊曰。大聖所湊<anchor type="variant" n="fnT02p0509n08"/>勿由斯路。前有逆賊四徼道斷。<anchor type="variant" n="fnT02p0509n09"/>取殺狼藉唯改所從。又且獨步<anchor type="variant" n="fnT02p0509n10"/>無侍衛故也。世尊告曰。設使三界盡為寇虜吾不省錄。況一賊乎。</p>
+      </div>
+      <div type="not-parallel">
+        <p>指鬘之母怪子不歸。時至不食懼必當飢。齎餉出城就<anchor type="variant" n="fnT02p0509n11"/>而餉之日<anchor type="variant" n="fnT02p0509n12"/>欲向中百指未滿。恐日移昳道業不具。欲還害母以充其數。佛念指鬘若害母者。在不中止罪不可救。佛便忽然住立其前。</p>
+      </div>
+      <div type="parallel">
+        <p>時<anchor type="variant" n="fnT02p0508n07"/>鴦掘摩見佛捨母。如師子步往迎世尊。心自念言。十人百人見我馳迸<anchor type="variant" n="fnT02p0509n13"/>不敢當也。吾常奮威縱橫自恣。況此沙門獨身<anchor type="variant" n="fnT02p0509n14"/>而至。<anchor type="variant" n="fnT02p0509n15"/>今我規圖必勦其命。<anchor type="variant" n="fnT02p0509n16"/>即執劍趣佛不能自前竭力奔走亦不能到則心念曰。我跳度江河解諸繫縛。<anchor type="variant" n="fnT02p0509n17"/>投捭勇猛曾無匹敵。重關固塞無不開<anchor type="variant" n="fnT02p0509n18"/>闔。而此沙<pb ed="T" n="0509b"/>門徐步<anchor type="variant" n="fnT02p0509n19"/>裁動我走不及。殫盡威勢永不摩近。指鬘謂佛。沙門且止。佛告逆賊。吾止<anchor type="variant" n="fnT02p0509n20"/>已來其日久矣。但汝未止。時<anchor type="variant" n="fnT02p0508n07"/>鴦掘摩遙以偈頌曰。</p>
+        <lg met="5">
+          <l>寂志語何謂<caesura/>自云已停跱</l>
+          <l>斯言何所趣<caesura/>以我為不止</l>
+          <l>今佛云何立<caesura/>謂身行不住</l>
+          <l>反以我若茲<caesura/>願說解此義</l>
+        </lg>
+        <p>於是世尊為指鬘頌偈。而告之曰。</p>
+        <lg met="5">
+          <l>指鬘聽佛住<caesura/>世尊<anchor type="variant" n="fnT02p0509n21"/>除君過</l>
+          <l>汝走無<anchor type="variant" n="fnT02p0509n22"/>智想<caesura/>吾定爾不止</l>
+          <l>吾安住三脫<caesura/>樂法修梵行</l>
+          <l>汝獨驅<anchor type="variant" n="fnT02p0509n23"/>癡想<caesura/>懷害今<anchor type="variant" n="fnT02p0509n24"/>未止</l>
+          <l>大聖無極慧<caesura/>
+            <anchor type="variant" n="fnT02p0509n25"/>讚寂於四衢</l>
+          <l>尋聞所說罪<caesura/>聽<anchor type="variant" n="fnT02p0509n26"/>采詠法義</l>
+        </lg>
+        <p>於是指鬘心<anchor type="variant" n="fnT02p0509n27"/>即開悟。棄劍稽首自投于地。唯願世尊。恕我迷謬。興害集指念欲見道。僥賴慈化乞原罪舋。垂哀接濟得使出家受成就戒。佛則授之即為沙門。爾時世尊威神巍巍。智慧<anchor type="variant" n="fnT02p0509n28"/>光明結<anchor type="variant" n="fnT02p0509n29"/>加趺坐。賢者指鬘翼從左右。還至祇樹給孤獨園。指鬘蒙化眾祐所信。諸<anchor type="variant" n="fnT02p0509n30"/>尊弟子亦共攝持。其族姓子。下鬚髮者<anchor type="variant" n="fnT02p0509n31"/>則<anchor type="variant" n="fnT02p0509n32"/>被法服。以家之信捨家為道。具足究竟無上梵行。得六通證生死已斷。稱舉<anchor type="variant" n="fnT02p0509n33"/>淨德所作已辦。解名色本即得應真。</p>
+      </div>
+      <div type="not-parallel">
+        <p>時王<anchor type="variant" n="fnT02p0509n34"/>波私匿<anchor type="variant" n="fnT02p0509n35"/>(晉號和悅)。與四部眾象馬步騎。嚴駕出征欲討穢逆。<anchor type="variant" n="fnT02p0509n36"/>其身疲弊而被塵土。過詣佛所稽首足下。佛問。王曰。從何所來身被塵土。王白佛言。唯然世尊。有大逆賊名<anchor type="variant" n="fnT02p0508n07"/>鴦掘摩。<pb ed="T" n="0509c"/>兇暴懷害斷四徼道。手執嚴刃傷殺人民。今故<anchor type="variant" n="fnT02p0509n37"/>匡勒四部之眾欲出討捕。是時指鬘在於會中。去佛不遠。佛告王曰。指鬘在此。已除鬚髮今為比丘。本<anchor type="variant" n="fnT02p0509n38"/>與云何。王白佛言。已志于道無如之何。當盡形壽給其衣食臥起床<anchor type="variant" n="fnT02p0509n39"/>坐病瘦醫藥。又問世尊。唯然大聖。<anchor type="variant" n="fnT02p0509n40"/>凶害逆人焉得至道履行寂義乎。今為安在。佛告王曰。近在斯坐。王遙見之。心即懷懼衣毛為竪。佛言。大王。莫恐莫懅。今以仁賢無復逆意。王造禮之謂曰。賢者。是指鬘乎。答曰。是也。王又問曰。仁姓為何。曰。奇角<anchor type="variant" n="fnT02p0509n41"/>氏。又<anchor type="variant" n="fnT02p0509n42"/>問。何謂奇角氏。曰父本姓。王曰。唯奇角子受吾供養。衣食床臥病瘦醫藥各盡形壽。即然所供。王<anchor type="variant" n="fnT02p0509n43"/>以獲許稽首辭還。歎世尊曰。能調諸不調。能成諸未成。安住垂大慈。無所不開<anchor type="variant" n="fnT02p0509n44"/>道。消伏患逆使充法會。亦令<g ref="g009">[黍-禾+利]</g>庶逮斯調定。我國多事意欲請退。佛告。便去從<anchor type="variant" n="fnT02p0509n45"/>志所奉。王禮佛足稽首而歸。</p>
+        <p>爾時賢者指鬘。處於閑居服五納衣。明旦持鉢入舍衛城普行分衛。見有諸家懷妊女人。月滿產難心歸怙之。問指鬘曰。欲何至趣唯蒙救濟。指鬘得供出城食畢。澡竟去器獨坐加敬。詣佛稽首白世尊曰。我朝晨旦著衣持鉢入城分衛。見有女人臨月欲產。產難恐懼求見<anchor type="variant" n="fnT02p0509n46"/>救護。佛告指鬘。汝便速往謂女人曰。如指鬘言至誠不虛。從生<anchor type="variant" n="fnT02p0508n20"/>已來未<anchor type="variant" n="fnT02p0509n47"/>嘗殺生。審如是者。姊當尋<anchor type="variant" n="fnT02p0509n48"/>生安隱無患。指鬘白佛。我作眾罪不可稱計。發九十九人一不滿百。而發此言豈非兩舌乎。世尊告曰。前生異世<pb ed="T" n="0510a"/>今生不同。是則至誠不為妄語。<anchor type="variant" n="fnT02p0510n01"/>如斯用時救彼女厄。即奉聖旨往到女<anchor type="variant" n="fnT02p0510n02"/>所。如佛言曰。如我至誠所言不虛。從生<anchor type="variant" n="fnT02p0510n03"/>以來未曾殺生。審如是者。當令大姊安隱在產。所言未竟女尋<anchor type="variant" n="fnT02p0510n04"/>娩軀兒亦獲安。</p>
+        <p>爾時指鬘入舍衛城。群小童黻見之分衛。或瓦石擲或以箭射。或刀斫刺或杖捶擊。賢者指鬘。破頭傷體衣服<anchor type="variant" n="fnT02p0510n05"/>破裂<anchor type="variant" n="fnT02p0510n06"/>還詣佛所稽首<anchor type="variant" n="fnT02p0510n07"/>足下起於佛前頌曰。</p>
+      </div>
+      <div type="parallel">
+        <lg met="5">
+          <l>我前本為賊<caesura/>指鬘名普聞</l>
+          <l>大淵以枯竭<caesura/>則歸命正覺</l>
+          <l>斯以<anchor type="variant" n="fnT02p0510n08"/>成忍辱<caesura/>逮佛開化眾</l>
+          <l>聽經常以時<caesura/>是故無躓礙</l>
+          <l>今<anchor type="variant" n="fnT02p0508n20"/>已歸命佛<caesura/>受真諦法戒</l>
+          <l>逮得三通達<caesura/>則順諸佛教</l>
+          <l>昔暴懷兇毒<caesura/>多傷眾類命</l>
+          <l>雖古多所危<caesura/>吾今名無害</l>
+          <l>身口所犯過<caesura/>志懷殺害心</l>
+          <l>其不危他餘<caesura/>未曾遭諸厄</l>
+          <l>又復無過去<caesura/>
+            <anchor type="variant" n="fnT02p0510n09"/>持其法寂然</l>
+          <l>應受<anchor type="variant" n="fnT02p0509n40"/>凶暴名<caesura/>自調成仁賢</l>
+          <l>以才一調定<caesura/>如鉤調諸象</l>
+          <l>如來成就我<caesura/>無劍亦無杖</l>
+          <l>其前為放逸<caesura/>然後能自制</l>
+          <l>彼明炤於世<caesura/>
+            <anchor type="variant" n="fnT02p0510n10"/>由日出於雲</l>
+          <l>假使犯眾惡<caesura/>不斷眾<anchor type="variant" n="fnT02p0510n11"/>善德</l>
+          <l>彼明炤於世<caesura/>
+            <anchor type="variant" n="fnT02p0510n10"/>由雲消日出</l>
+          <l>若新學比丘<caesura/>勤修於佛教</l>
+          <l>其明炤於世<caesura/>如月盛滿時</l>
+          <l>
+            <pb ed="T" n="0510b"/>其有犯眾罪<caesura/>當歸於<anchor type="variant" n="fnT02p0510n12"/>惡道</l>
+          <l>不復難諸患<caesura/>
+            <anchor type="variant" n="fnT02p0510n13"/>服食無所著</l>
+          <l>亦不求於生<caesura/>未曾<anchor type="variant" n="fnT02p0510n14"/>會德死</l>
+          <l>唯須待時日<caesura/>心常志於定</l>
+          <l>如是<anchor type="variant" n="fnT02p0508n07"/>鴦掘摩<caesura/>已得成羅漢</l>
+          <l>在佛世尊前<caesura/>口自頌斯偈</l>
+        </lg>
+      </div>
+      <div type="not-parallel">
+        <p>佛說如是。賢者指鬘及諸比丘眾。聞經歡喜<anchor type="variant" n="fnT02p0510n15"/>奉行。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

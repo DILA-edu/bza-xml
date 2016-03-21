@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum
+                              Buddhist College 法鼓佛教研修學院.
+        </title>
+        <funder>
+          Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會
+        </funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist
+                              College 法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>
+            Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉,
+                                    Chueh Hui-chen 闕慧貞
+          </name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>
+          This is the default header for all files in the database. Files which contain
+                              gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.
+        </p>
+        <p>
+          The project was conducted 2005-2008. Some minor revisions and additions were done
+                              in 2009.
+        </p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                    Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                    text lies with the Vipassana Research Institute. Copyright for the Sanskrit
+                                    text lies with Fumio Enomoto. Copyright for the English text lies with
+                                    Marcus Bingenheimer. The Tibetan and Manchu texts are in the public realm.
+                                    The digital edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                    (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                    (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                    comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding
+                                    to the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                    literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly
+                                publications (as referenced). English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the
+                              Bieyi za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies
+                              中華佛學研究所 and the Dharma Drum Buddhist College 法鼓佛教研修學院. The project is funded by
+                              the Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會. The aim of the project is to produce a comparative digital edition
+                              and partial translation of the 364 sutras of the BZA and their parallels. The
+                              texts are kept in single files in an eXist database and are realized via XQuery
+                              and XSLT as HTML for the online user. The project lasts from 2005-2008. For any
+                              changes after 2008 see the revision description.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                              attribute on the containing elements
+        </p>
+        <p>
+          BZA: New Punctuation. Markup of person and place names. Verse and prose.
+                              References to the print edition (Taishō). Corrected characters (according to
+                              CBETA).
+        </p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō).</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA. Verse and
+                              Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan: Parallel and not-parallel divisions regarding the BZA.
+                              Verse and Prose. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="bza204">
+      <anchor type="start" xml:id="Tp0449b28"/>
+      <div type="opening" xml:id="obza204">
+        <p n="bza204.01">如是我聞：一時佛在<name type="place">王舍城</name>
+          <name type="place">須摩竭陀池</name>岸。</p>
+      </div>
+      <div type="main" xml:id="mbza204">
+        <p n="bza204.02">爾時<name type="person">奢羅浮梵志</name>在大眾中而作是言：</p>
+        <q who="sarabha">
+          <p n="bza204.03">
+            <pb ed="T" xml:id="T02.0100.0449c" n="0449c"/>我知釋子所說教法。我所知見，勝彼釋子！</p>
+        </q>
+        <p n="bza204.04">當于爾時有眾多比丘，入城乞食，見奢羅浮梵志在彼池岸，聞其所說，作如是言：</p>
+        <q who="sarabha">
+          <p n="bza204.05">我知釋子所有法教。我所知者，出過於彼！</p>
+        </q>
+        <p n="bza204.06">時諸比丘聞此語已，還至僧坊，收攝衣鉢，洗手足已，往詣佛所，頂禮佛足，在一面坐，白佛言：</p>
+        <q who="bhikkhavo">
+          <p n="bza204.07">世尊！我等今日入城乞食。食訖<app n="fnT02p0449n09">
+              <lem wit="【大】">已</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】"/>
+            </app>已還，歸於其中，路經須摩竭陀池。彼池岸上有一梵志，名奢羅浮，在大眾中唱如是言：<q who="sarabha">我知釋子所有教法。我所知者，出過於彼！</q>善哉──世尊！──唯願當往彼池岸！</p>
+        </q>
+        <p n="bza204.08">爾時如來默然許之，與諸比丘前後圍遶，往詣於彼須摩竭陀池。時奢羅浮遙見佛來，即從坐起，敷置高座，尋白佛言：</p>
+        <q who="sarabha">
+          <p n="bza204.09">可就此坐。</p>
+        </q>
+        <p n="bza204.10">佛即便就座，坐已，而告之曰：</p>
+        <q who="gotamo">
+          <p n="bza204.11">汝實作是言：<q who="sarabha">我知釋子所有法教。我所知者，出過於彼！</q>如是說不？</p>
+        </q>
+        <p n="bza204.12">時彼梵志默然而住。佛復告曰：</p>
+        <q who="gotamo">
+          <p n="bza204.13">何故默然而不答我？汝若解者，隨汝意說；若不解者，吾當為汝分別宣說，令汝具足。汝今若能具足說者，吾助爾喜。梵志！當知世若有人說言：『如來非阿羅呵．三藐三佛陀者。』如是說者，我稱善哉。當問彼言：<q who="gotamo">汝以何事說言如來非阿羅呵．三藐三佛陀？</q>此眾生等於理不決，不能正答，更說世間其餘談論。以諸雜語間錯其中，憍慢矜高，生毀害心。以不能答如斯問故，默然而住，慚愧低頭，失於機辯。奢羅浮！汝今亦爾。設復有人作如是言：『沙門瞿曇能善顯示，是有過法。』如是說者，我亦稱善。當問於彼：<q who="gotamo">以何智知如斯之事？</q>彼不能答，更說其餘世間談論。錯亂其中，辭窮理屈，慚愧低頭，默然而<pb ed="T" xml:id="T02.0100.0450a" n="0450a"/>住，失於機辯。亦如汝今無有異也。若復說言：『沙門瞿曇所有弟子無善迴向，不具持戒。』我亦稱善。而問於彼：<q who="gotamo">汝以何法驗知斯事？</q>彼不能答，更說世間其餘談論。錯亂其中，辭窮理屈，慚愧低頭，默然而住，失於機辯。汝今亦爾。</p>
+        </q>
+        <p n="bza204.14">當于爾時奢羅浮同梵行者語奢羅浮：</p>
+        <q who="????????奢羅浮同梵行者">
+          <p n="bza204.15">汝今何故默然不答？汝昔日時恒於大眾多人之中而言：<q who="sarabha">我所知見，出過瞿曇所有教法！</q>汝今宜問沙門瞿曇。云何乃使沙門瞿曇反問<app n="fnT02p0450n01">
+              <lem wit="【大】">於汝</lem>
+              <rdg resp="Taisho" wit="【宋】【元】">汝法</rdg>
+            </app>於汝，詰汝使說，作如是言：<q who="gotamo">汝所說者，若能具足，吾助爾喜，稱慶善哉。如其不具，吾當為汝分別宣示，令得具足。</q>？</p>
+        </q>
+        <p n="bza204.16">時奢羅浮聞斯語已，亦復默然，無所陳說。爾時世尊在須摩竭陀池岸作師子吼已，即從<anchor type="variant" n="fnT02p0329n06"/>坐起，還王舍城。佛去不久，彼諸同行種種呵責，作如是言：</p>
+        <q who="諸同行者">
+          <p n="bza204.17">汝於今者如截角牛，在屏處吼。汝亦如是，於閑靜處作師子吼，於沙門瞿曇前默然無所說。亦如童女，欲作男子聲，然不能作，還為女聲。汝亦如是，欲學瞿曇作師子吼，而不能成。亦如雌野干，欲作師子吼，然其出聲，故作野干，終不能成師子之聲。</p>
+        </q>
+        <p n="bza204.18">諸同行者如是種種呵責奢羅浮已，各四散<app n="fnT02p0450n02">
+            <lem wit="【大】">而</lem>
+            <rdg resp="Taisho" wit="【宋】【元】【明】"/>
+          </app>而去。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

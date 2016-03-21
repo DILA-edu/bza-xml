@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Saddhasuttaṃ</head>
+        <p>From the VRI Chaṭṭa Saṅgāyana edition. PTS: AN, V, 322. This is part of the text-cluster of BZA (T.100) sutra 151.</p>
+      </div>
+    </front>
+    <body xml:lang="pi">
+      <anchor type="start" xml:id="pts.an.05.322"/>
+      <div type="parallel">
+        <p>Ekaṃ samayaṃ bhagavā <name type="place">nātike</name>viharati<name type="place">giñjakāvasathe</name>Atha kho āyasmā<name type="person">saddho</name>yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho āyasmantaṃ saddhaṃ bhagavā etadavoca–</p>
+        <p>“Ājānīyajhāyitaṃ kho, saddha, jhāya; mā khaḷuṅkajhāyitaṃ <note type="variant">[ājānīyajjhāyitaṃ kho saddha jhāyatha, mā khaḷuṅkajjhāyitaṃ (sī. pī.)]</note>. Kathañca, khaḷuṅkajhāyitaṃ hoti? Assakhaḷuṅko hi saddha, doṇiyā baddho<note type="variant">[bandho (syā. ka.)]</note>‘yavasaṃ yavasan’ti jhāyati. Taṃ kissa hetu? Na hi, saddha, assakhaḷuṅkassa doṇiyā baddhassa evaṃ hoti– ‘kiṃ nu kho maṃ ajja assadammasārathi kāraṇaṃ kāressati, kimassāhaṃ<note type="variant">[kammassāhaṃ (ka.)]</note>paṭikaromī’ti. So doṇiyā baddho ‘yavasaṃ yavasan’ti jhāyati.</p>
+        <p>Evamevaṃ kho, saddha, idhekacco purisakhaḷuṅko araññagatopi rukkhamūlagatopi suññāgāragatopi kāmarāgapariyuṭṭhitena cetasā viharati kāmarāgaparetena uppannassa ca kāmarāgassa nissaraṇaṃ yathābhūtaṃ nappajānāti. So kāmarāgaṃyeva antaraṃ katvā jhāyati pajjhāyati nijjhāyati avajjhāyati, byāpādapariyuṭṭhitena cetasā viharati… thinamiddhapariyuṭṭhitena cetasā viharati… uddhaccakukkuccapariyuṭṭhitena cetasā viharati… vicikicchāpariyuṭṭhitena cetasā viharati vicikicchāparetena, uppannāya ca vicikicchāya nissaraṇaṃ yathābhūtaṃ nappajānāti. So vicikicchaṃyeva antaraṃ katvā jhāyati pajjhāyati nijjhāyati avajjhāyati. <seg type="not-parallel">So pathavimpi nissāya jhāyati, āpampi nissāya jhāyati, tejampi nissāya jhāyati, vāyampi nissāya jhāyati, ākāsānañcāyatanampi nissāya jhāyati, viññāṇañcāyatanampi nissāya jhāyati, ākiñcaññāyatanampi nissāya jhāyati, nevasaññānāsaññāyatanampi nissāya jhāyati, idhalokampi nissāya jhāyati, paralokampi nissāya jhāyati, yampidaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā, tampi nissāya jhāyati.</seg>Evaṃ kho, saddha, purisakhaḷuṅkajhāyitaṃ hoti.</p>
+        <p>“Kathañca saddha ājānīyajhāyitaṃ hoti? Bhadro hi, saddha, assājānīyo doṇiyā baddho na ‘yavasaṃ yavasan’ti jhāyati. Taṃ kissa hetu? Bhadrassa hi, saddha, assājānīyassa doṇiyā baddhassa evaṃ hoti– ‘kiṃ nu kho maṃ ajja assadammasārathi kāraṇaṃ kāressati, kimassāhaṃ paṭikaromī’ti. So doṇiyā baddho na ‘yavasaṃ yavasan’ti jhāyati.</p>
+        <p>Bhadro hi, saddha, assājānīyo yathā iṇaṃ yathā bandhaṃ yathā jāniṃ yathā kaliṃ evaṃ patodassa ajjhoharaṇaṃ samanupassati. Evamevaṃ kho, saddha, bhadro purisājānīyo araññagatopi rukkhamūlagatopi suññāgāragatopi na kāmarāgapariyuṭṭhitena cetasā viharati na kāmarāgaparetena, uppannassa ca kāmarāgassa nissaraṇaṃ yathābhūtaṃ pajānāti, na byāpādapariyuṭṭhitena cetasā viharati… na thinamiddhapariyuṭṭhitena cetasā viharati… na uddhaccakukkuccapariyuṭṭhitena cetasā viharati… na vicikicchāpariyuṭṭhitena cetasā viharati na vicikicchāparetena, uppannāya ca vicikicchāya nissaraṇaṃ yathābhūtaṃ pajānāti. So neva pathaviṃ nissāya jhāyati, na āpaṃ nissāya jhāyati, na tejaṃ nissāya jhāyati, na vāyaṃ nissāya jhāyati, na ākāsānañcāyatanaṃ nissāya jhāyati, na viññāṇañcāyatanaṃ nissāya jhāyati, na ākiñcaññāyatanaṃ nissāya jhāyati, na nevasaññānāsaññāyatanaṃ nissāya jhāyati, na idhalokaṃ nissāya jhāyati, na paralokaṃ nissāya jhāyati, yampidaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā, tampi nissāya na jhāyati; jhāyati ca pana. Evaṃ jhāyiñca pana, saddha, bhadraṃ purisājānīyaṃ sa-indā devā sabrahmakā sapajāpatikā ārakāva namassanti–</p>
+        <lg>
+          <l>“Namo te purisājañña, namo te purisuttama;</l>
+          <l>yassa te nābhijānāma, yampi nissāya jhāyasī”ti.</l>
+        </lg>
+        <p>Evaṃ vutte āyasmā saddho bhagavantaṃ etadavoca– “kathaṃ jhāyī pana, bhante, bhadro purisājānīyo <note type="variant">[purisājānīyo jhāyati, so (sī. syā. pī.), purisājānīyo, so (ka.)]</note>neva pathaviṃ nissāya jhāyati, na āpaṃ nissāya jhāyati, na tejaṃ nissāya jhāyati, na vāyaṃ nissāya jhāyati, na ākāsānañcāyatanaṃ nissāya jhāyati, na viññāṇañcāyatanaṃ nissāya jhāyati, na ākiñcaññāyatanaṃ nissāya jhāyati, na nevasaññānāsaññāyatanaṃ nissāya jhāyati, na idhalokaṃ nissāya jhāyati na paralokaṃ nissāya jhāyati, yampidaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā, tampi nissāya na jhāyati; jhāyati ca pana? Kathaṃ jhāyiñca pana, bhante, bhadraṃ purisājānīyaṃ sa-indā devā sabrahmakā sapajāpatikā ārakāva namassanti–</p>
+        <lg>
+          <l>“Namo te purisājañña, namo te purisuttama;</l>
+          <l>yassa te nābhijānāma, yampi nissāya jhāyasī”ti.</l>
+        </lg>
+        <p>“Idha, saddha, bhadrassa purisājānīyassa pathaviyaṃ pathavisaññā vibhūtā hoti, āpasmiṃ āposaññā vibhūtā hoti, tejasmiṃ tejosaññā vibhūtā hoti, vāyasmiṃ vāyosaññā vibhūtā hoti, ākāsānañcāyatane ākāsānañcāyatanasaññā vibhūtā hoti, viññāṇañcāyatane viññāṇañcāyatanasaññā vibhūtā hoti, ākiñcaññāyatane ākiñcaññāyatanasaññā vibhūtā hoti, nevasaññānāsaññāyatane nevasaññānāsaññāyatanasaññā vibhūtā hoti, idhaloke idhalokasaññā vibhūtā hoti, paraloke paralokasaññā vibhūtā hoti, yampidaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā, tatrāpi saññā vibhūtā hoti. Evaṃ jhāyī kho, saddha, bhadro purisājānīyo neva pathaviṃ nissāya jhāyati…pe… yampidaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā, tampi nissāya na jhāyati; jhāyati ca pana. Evaṃ jhāyiñca pana, saddha, bhadraṃ purisājānīyaṃ sa-indā devā sabrahmakā sapajāpatikā ārakāva namassanti–</p>
+        <lg>
+          <l>“Namo te purisājañña, namo te purisuttama;</l>
+          <l>yassa te nābhijānāma, yampi nissāya jhāyasī”ti.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

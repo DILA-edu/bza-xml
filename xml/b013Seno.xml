@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Enomoto 1994, no.1074</head>
+        <p>From Fumio Enomoto, "A comprehensive study of the Chinese Samyuktagama : Indic texts corresponding to the Chinese Samyuktagama as found in the Sarvastivada-Mulasarvastivada literature", Kyoto : Kacho Junior College, 1994. This is part of the text-cluster of BZA (T.100) sutra 013.</p>
+      </div>
+    </front>
+    <body xml:lang="sa">
+      <anchor type="start" xml:id="eno.1074"/>
+      <div type="parallel">
+        <note type="reference">CPS 27c1-3.</note>
+        <p>(atha bhagavān māgadheṣu janapade)ṣu caryāṃ caran mahat(ā) bhi(kṣu)saṃghena sārdhaṃ bhikṣusahasreṇa (sarvaiḥ purāṇajaṭilaiḥ sarvaiś cārhadbhiḥ kṣīṇāsravaiḥ kṛtakṛtyaiḥ kṛtakaraṇīyair avahṛtabhārair anuprāptasvakārthaiḥ parikṣīṇabhavasaṃyojanaiḥ samya)gājñayā suvimuktacittair ye(na supratiṣṭhitaṃ māgadha)kānāṃ caityaṃ ya(ṣṭ)ī(vanaṃ tenopasaṃkrāntaḥ) |<note type="reference">(CPS 27c1)</note>
+        </p>
+        <p>(atha bhagavān supratiṣṭhitaṃ caityam anuprāpto yaṣṭīvane su)prat(i)ṣṭh(i)te viharati māgadhakānāṃ c(aitye) | <note type="reference">(27c2)</note>
+        </p>
+        <p> (aśrauṣīd rājā māgadhaḥ śraiṇyo bimbasāraḥ | bhagavān mahatā bhikṣusaṃghena sārdhaṃ bhikṣusahasreṇa sarvaiḥ pū)rvavad (y)āvat samyagājñayā suvimukta(cittair māgadheṣu janapadeṣu caryāṃ caran yena yaṣṭīvanaṃ supratiṣṭhito māgadhakānāṃ caityas tenānuprāpto yaṣṭīvane vi)harati māgadhakānāṃ (caitye) |  <note type="reference">(27c3)</note>
+        </p>
+        <note type="reference">CPS 27c4-d12; Saṅghabh 1, pp. 154-157; SHT 3, no. 967.</note>
+        <p>tato rājā bimbasāro1<note type="variant">1 bimbi- Saṅghabh.</note>dvādaśabhī rathasahasrair aṣṭādaśabhiś ca peṭakāśvasahasrair anekaiś ca māgadhakair brāhmaṇagṛhapatiśatasahasraiḥ sārdhaṃ rājagṛhān niryāti bhagavato 2'ntikenopadarśanāya bhagavantaṃ paryupāsanāyai2<note type="variant">(2 ... 2) 'ntikaṃ bhagavantaṃ darśanāyopasaṃkramituṃ paryupāsanāyai Saṅghabh.</note>|<note type="reference">(CPS 27c4, Saṅghabh p. 154)</note>
+        </p>
+        <p> tasya yāvad yānabhūmis tāvad yānena gatvā yānād avatīrya padbhyām evārāmaṃ prāvikṣat |  <note type="reference">(27c5, Saṅghabh p. 154)</note>
+        </p>
+        <p>yadantaraṃ rājā māgadhaḥ śraiṇyo3<note type="variant">3 śreṇyo Saṅghabh.</note>bimbasāro1<note type="variant">1 bimbi- Saṅghabh.</note>bhagavantam adrākṣīt tadantaraṃ pañcakakudāny apanayaty uṣṇīṣaṃ chatraṃ khaḍgaṃ maṇibālavyajanaṃ citre copānahau |<note type="reference">(27c6, Saṅghabh p. 154)</note>
+        </p>
+        <p>4atha rājā māgadhaḥ śraiṇyo3<note type="variant">3 śreṇyo Saṅghabh.</note>bim(basāraḥ1<note type="variant">1 bimbi- Saṅghabh.</note>pañcakakudāny apanīya4<note type="variant">(4 ... 4) om. Saṅghabh = SĀc..</note>yena bhagavāṃs tenopajagāma) |<note type="reference">(27c7, Saṅghabh p. 154)</note>
+        </p>
+        <p>upetyaikāṃsam uttarāsaṅgaṃ kṛtvā yena bhagavāṃs tenāñjaliṃ praṇamya triṣkṛtvātmano nāmagotram5<note type="variant">5 = SĀc.; nāmadheyam Saṅghabh.</note>anuśrāvayati |<note type="reference">(27c8, Saṅghabh p. 154)</note>
+        </p>
+        <p> rājāhaṃ asmi bhadanta māgadhaḥ śraiṇyo3<note type="variant">3 śreṇyo Saṅghabh.</note>bimbasāraḥ1<note type="variant">1 bimbi- Saṅghabh.</note>| rājāhaṃ asmi bhadanta māgadhaḥ śraiṇyo3<note type="variant">3 śreṇyo Saṅghabh.</note>bimbasāraḥ1<note type="variant">1 bimbi- Saṅghabh.</note>|<note type="reference">(27c9, Saṅghabh p. 154)</note>
+        </p>
+        <p> evam etan mahārāja | evam etan mahārāja | rājā tvaṃ māgadhaḥ śraiṇyo3<note type="variant">3 śreṇyo Saṅghabh.</note>biṃbasāraḥ1<note type="variant">1 bimbi- Saṅghabh.</note>| rājā tvaṃ mahārāja māgadhaḥ śraiṇyo3<note type="variant">3 śreṇyo Saṅghabh.</note>bimbasāraḥ1<note type="variant">1 bimbi- Saṅghabh.</note>| niṣīda tvaṃ mahārāja yathāsvaka āsane |<note type="reference">(27c10, Saṅghabh p. 154)</note>
+        </p>
+        <p>atha rājā māgadhaḥ śraiṇyo3<note type="variant">3 śreṇyo Saṅghabh.</note>bimbasāro1<note type="variant">1 bimbi- Saṅghabh.</note>bhagavatpādau śirasā vanditvaikānte nyaṣīdat |<note type="reference">(27c11, Saṅghabh p. 154)</note>
+        </p>
+        <p>ekatyā māgadhakā brāhmaṇagṛhapatayo bhagavatpādau śirasā vanditvaikānte nyaṣīdan | <note type="reference">(27c12, Saṅghabh p. 154)</note>
+        </p>
+        <p>ekatyā 6(māgadhakā brāhmaṇagṛhapata)yo6<note type="variant">(6 ... 6) om. Saṅghabh.</note>bhagavatā sārdhaṃ saṃmukhaṃ saṃmodanīṃ saṃrañjanīṃ vividhāṃ kathāṃ vyatisāryaikānte nyaṣīdan |<note type="reference">(27c13, Saṅghabh pp. 154f.)</note>
+        </p>
+        <p>ekatyā 6māgadhakā brāhmaṇagṛhapatayo6<note type="variant">(6 ... 6) om. Saṅghabh.</note>yena bhagavāṃs tenāñjaliṃ praṇamyaikānte nyaṣīdan |<note type="reference">(27c14, Saṅghabh p. 155)</note>
+        </p>
+        <p>ekatyā 6māgadha(kā brāhmaṇagṛhapatayo)6<note type="variant">(6 ... 6) om. Saṅghabh.</note>bhagavantaṃ dūrād eva dṛṣṭvā tūṣṇīm ekānte nyaṣīdan |<note type="reference">(27c15, Saṅghabh p. 155)</note>
+        </p>
+        <p> tena khalu samayenāyuṣmān urubilvākāśyapas tasyām eva pariṣadi saṃniṣaṇṇas saṃnipatitaḥ | <note type="reference">(27c16, Saṅghabh p. 155)</note>
+        </p>
+        <p>atha māgadhakānāṃ brāhmaṇagṛhapatīnām etad abhavat | 7kiṃ nu mahāśramaṇa urubilvākāśyapasya jaṭilasyāntike brahmacaryaṃ caraty āho svid urubilvākāśyapa eva jaṭilo mahāśramaṇasyāntike brahmacaryaṃ carati7<note type="variant">(7 ... 7) = SĀc.; kiṃ nūrubilvākāśyapo jaṭilo (mahāśramaṇasyāntike brahmacaryaṃ carati | aho svid mahāśramaṇa urubilvākāśyapasya jaṭilasyāntike brahmacaryaṃ carati) CPS.</note>|<note type="reference">(Saṅghabh p. 155, CPS 27c17)</note>
+        </p>
+        <p>atha bhagavān māgadhakānāṃ brāhmaṇagṛhapatīnāṃ cetasā cittam ājñāyāyuṣmantam urubilvākāśyapaṃ gāthābhir gītena praśnaṃ pṛcchati sma | <note type="reference">(CPS 27c18, Saṅghabh p. 155)</note>
+        </p>
+        <lg>
+          <l>dṛṣṭveha kiṃ tvam urubilvavāsin<caesura/>agnīn ahāsīr vratam eva cārṣam |</l>
+          <l>ācakṣva me kāśyapa etam arthaṃ<caesura/>kathaṃ prahīṇaṃ hi tavāgnihotram ||<note type="reference">(27c19, Saṅghabh p. 155)</note>
+          </l>
+          <l>annāni pānāni tathā rasāṃś ca<caesura/>kāmāṃś ca strīś caiva vadanti haike |</l>
+          <l>etān8<note type="variant">8 tāvan Saṅghabh.</note>malān upadhau saṃprapaśyaṃs<caesura/>tasmān na yaṣṭe na hute rato 'ham ||<note type="reference">(27c20, Saṅghabh p. 155)</note>
+          </l>
+          <l>na te 'tra kāmeṣu mano rataṃ ced<caesura/>anneṣu pāneṣu tathā raseṣu |</l>
+          <l>kathaṃ nu te devamanuṣyaloke<caesura/>rataṃ manaḥ kāśyapa brūhi pṛṣtaḥ ||<note type="reference">(27c21, Saṅghabh p. 155)</note>
+          </l>
+        </lg>
+        <p>9āyuṣmā(n urubilvākāśyapa āha)9<note type="variant">(9 ... 9) ~ SĀc.; om. Saṅghabh.</note>
+        </p>
+        <lg>
+          <l>dṛṣṭvā padaṃ nirupadhi śāntim agryam<caesura/>ākiṃcanyaṃ (kā)mabhaveṣv10<note type="variant">10 sarvabhaveṣu Saṅghabh.</note>asaktam |</l>
+          <l>ananyathībhāvam ananyaneyaṃ<caesura/>tasmān na yaṣṭe na hute rato 'ham ||<note type="reference">(27c22, Saṅghabh p. 155)</note>
+          </l>
+          <l>yajñair vratair agnibhiś cāpi mokṣa<caesura/>ity apy abhūn me manaso 11ca mohaḥ11<note type="variant">(11 ... 11) = SĀc.; vitarkaḥ Saṅghabh.</note>|</l>
+          <l>andho 'smi jātīmaraṇānusārī<caesura/>anīkṣamāṇo 'cyutam uttamaṃ padam ||<note type="reference">(27c23, Saṅghabh pp. 155f.)</note>
+          </l>
+          <l>paśyāmīdānīṃ tad asaṃskṛtaṃ padaṃ<caesura/>sudeśitaṃ nāgavareṇa tāyinā |</l>
+          <l>mahājanārthāya muner12<note type="variant">12 munir Saṅghabh.</note>vināyakas<caesura/>tvam udgato gautama satyavikramaḥ ||<note type="reference">(27c24, Saṅghabh p. 156)</note>
+          </l>
+        </lg>
+        <p>bhagavān āha |</p>
+        <lg>
+          <l>svāgataṃ te tavāsitaṃ<caesura/>naitad duścintitaṃ tvayā |</l>
+          <l>pravibhakteṣu dharmeṣu<caesura/>yac chreṣṭhaṃ tad upāgatam ||</l>
+        </lg>
+        <p>saṃvejaya kāśyapa pariṣadam iti | <note type="reference">(27c25, Saṅghabh p. 156)</note>
+        </p>
+        <p>athāyuṣmān urubilvākāśyapo bhagavatā kṛtāvakāśas tadrūpaṃ samādhiṃ samāpanno yathā samāhite citte | <note type="reference">(27d1, Saṅghabh p. 156)</note>
+        </p>
+        <p>pūrvasyāṃ diśy 13u(pari vi)hāyasam13<note type="variant">(13 ... 13) = SĀc.; om. Saṅghabh.</note>abhyudgamya caturvidham īryāpathaṃ kalpayati | 14<note type="variant">14 tadyathā add. Saṅghabh.</note>caṅkramati 15tiṣṭhati niṣīdati15<note type="variant">(15 ... 15) = SĀc.; niṣīdati tiṣṭhati Saṅghabh.</note>śayyāṃ kalpayati | tejodhātum api samāpadyate |<note type="reference">(27d2, Saṅghabh p. 156)</note>
+        </p>
+        <p> tejodhātuṃ samāpannasyāyuṣmata urubilvākāśyapasya vividhāny arcīṃsi kāyān niścaranti | <note type="reference">(27d3, Saṅghabh p. 156)</note>
+        </p>
+        <p>14<note type="variant">14 tadyathā add. Saṅghabh.</note>nīlāni pītāni lohitāny avadātāni māṃjiṣṭhāni sphaṭikavarṇāni |<note type="reference">(27d4, Saṅghabh p. 156)</note>
+        </p>
+        <p>yamakāni ca prātihāryāṇi vidarśayati | adhaḥ kāyaḥ prajvalati | uparimāt kāyāc chītalā vāridhārāḥ syandante | uparimaḥ kāyaḥ prajvalati | adhaḥ kāyāc chītalā vāridhārāḥ syandante |<note type="reference">(27d5, Saṅghabh p. 156)</note>
+        </p>
+        <p>16<note type="variant">16 yathā pūrvasyāṃ diśy add. Saṅghabh.</note>evaṃ dakṣiṇasyāṃ paścimasyām uttarasyāṃ diśi | iti caturdiśaṃ caturvidhaṃ vividham17<note type="variant">17 = SĀc.; om. Saṅghabh.</note>ṛddhiprātihāryaṃ vidarśayitvā<note type="reference">(27d6, Saṅghabh p. 156, SHT)</note>
+        </p>
+        <p>tān ṛddhyabhisaṃskārān pratipraśrabhya yena bhagavāṃs tenāñjaliṃ praṇamya bhagavantam idam avocat | <note type="reference">(27d7, Saṅghabh p. 156, SHT)</note>
+        </p>
+        <p>śastā me bhadanta18<note type="variant">18 om. Saṅghabh.</note>bhagavāñ 19śrāvakas te 'ham19<note type="variant">(19 ... 19) śrāvako 'ham bhagavataḥ Saṅghabh.</note>| śāstā me bhadanta bhagavāñ 19śrāvakas te 'ham19<note type="variant">(19 ... 19) śrāvako 'ham bhagavataḥ Saṅghabh.</note>|<note type="reference">(27d8, Saṅghabh p. 156, SHT)</note>
+        </p>
+        <p>evam etat kāśyapa | 20evam etat kāśyapa20<note type="variant">(20 ... 20) om. Saṅghabh.</note>| 21śastā te 'ham kāśyapa śrāvakas tvaṃ mama | śastā te 'ham kāśyapa śrāvakas tvaṃ mama21<note type="variant">(21 ... 21) śrāvakas tvaṃ mama śastā te 'ham kāśyapa | śrāvakas tvaṃ mama Saṅghabh.</note>| niṣīda tvaṃ kāśyapa yathāsvake āsane |<note type="reference">(27d9, Saṅghabh pp. 156f., SHT)</note>
+        </p>
+        <p>22nyasīdad āyuṣmān urubilvākāśyapaḥ prajñapta evāsane22<note type="variant">(22 ... 22) = SĀc.; athāyuṣmān urubilvākāśyapo bhagavataḥ pādau śirasā vanditvaikānte niṣaṇṇaḥ Saṅghabh.</note>|<note type="reference">(27d10, Saṅghabh p. 157)</note>
+        </p>
+        <p>atha māgadhakānāṃ brāhmaṇagṛhapatīnām etad abhavat |<note type="reference">(27d11, Saṅghabh p. 157, SHT)</note>
+        </p>
+        <p>na haiva mahāśramaṇa urubilvākāśyapasya jaṭilasyāntike brahmacaryaṃ carati | api tūrubilvākāśyapo jaṭilo mahāśramaṇasyāntike brahmacaryaṃ carati |<note type="reference">(27d12, Saṅghabh p. 154, SHT)</note>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

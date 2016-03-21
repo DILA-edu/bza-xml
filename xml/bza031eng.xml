@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>The daughters of Māra</head>
+        <p>Translation of BZA 031. First version published in <emph>
+            Buddhist Studies
+                                Review
+          </emph>vol. 23-1 (2006).</p>
+      </div>
+    </front>
+    <body xml:id="bza031en" xml:lang="en">
+      <div>
+        <p>
+          Thus have I heard, once, the Buddha was staying in the village uruvelā near the
+                              river nerañjarā under the Bodhi tree. This was not long after he had attained
+                              Buddhahood. At that time King Māra had this thought: ‘The Buddha is staying in
+                              the village uruvelā near the river nerañjarā under the Bodhi tree. He has just
+                              attained Buddhahood. I should go there and try to mislead him’.
+        </p>
+        <p>He went to the Buddha and spoke this verse:</p>
+        <lg>
+          <l>You live alone in the wilderness // taciturn, always silent.</l>
+          <l>
+            Of radiant countenance and with celestial body // all senses [perceiving]
+                                    happiness,
+          </l>
+          <l>like someone who had lost his fortune // and later regained it.</l>
+          <l>
+            You are idling your time away in the silence of meditation // and the
+                                    enjoyment that comes with it.
+          </l>
+          <l>
+            Since you were able to discard public honours // and do not desire status and
+                                    profit,
+          </l>
+          <l>why do you not with others // form close friendships?</l>
+        </lg>
+        <p>At that time the World-honoured One answered with a verse:</p>
+        <lg>
+          <l>
+            For a long time I have attained meditative concentration // where the mind is
+                                    always still.
+          </l>
+          <l>I have defeated your armies of desire // [and] reached the highest fortune.</l>
+          <l>
+            My senses are always quiet and happy // In my mind I have attained silent
+                                    extinction.
+          </l>
+          <l>Defeating your armies of desire // practising the way I feel joy,</l>
+          <l>
+            [I live] alone, apart from the hustle and bustle [of others] // What use is
+                                    there for close friends?
+          </l>
+        </lg>
+        <p>At that time King Māra spoke this verse:</p>
+        <lg>
+          <l>Now, since you have attained the true way // you can rest in Nirvāṇa.</l>
+          <l>
+            Since you have reached the wonderful Dhamma // you should keep it forever in
+                                    your bosom.
+          </l>
+          <l>Uprightly face and understand it alone; // why should you teach the many?</l>
+        </lg>
+        <p>At that time the World-honoured One answered with a verse:</p>
+        <lg>
+          <l>
+            Humankind does not belong to you // if someone asks me about the teaching
+                                    that leads to the other shore,
+          </l>
+          <l>I will correctly explain // the truth to let them attain extinction.</l>
+          <l>Stopping their mind without giving up; // Māra will not overpower them.</l>
+        </lg>
+        <p>at that time King Māra spoke this verse:</p>
+        <lg>
+          <l>It is as if there is a large white boulder // its colour like that of fat.</l>
+          <l>
+            A flock of crows cannot distinguish [the two] // they perch on it and peck
+                                    away,
+          </l>
+          <l>
+            but do not get the taste [they wanted] // and with bruised beaks take off
+                                    again into the air.
+          </l>
+          <l>
+            I myself am like this // having come in vain, there is nothing more to
+                                do.
+          </l>
+        </lg>
+        <p>
+          There King Māra, having spoken this verse, became depressed and dispirited and
+                              felt deep regret. he went to an empty place where he crouched alone and with an
+                              arrow drawing [figures] on the ground, trying to think of a way79 [to prevent
+                              the Buddha from teaching]. Māra had three daughters; the first was called
+                              Passionate, the second Pleasing, and the third Desirable. Māra’s daughters came
+                              to his side and addressed their father with a verse:
+        </p>
+        <lg>
+          <l>Father is famous as a great Lord // why are you so depressed?</l>
+          <l>
+            We will with the snare of desire // bind him [the Buddha] like one catches a
+                                    bird,
+          </l>
+          <l>and bring him to our father // to make you feel at ease.</l>
+        </lg>
+        <p>King Māra answered with a verse:</p>
+        <lg>
+          <l>This man is good in cutting off desire // he is not moved by it.</l>
+          <l>He has left the world of Māra already // this is why I am sad.</l>
+        </lg>
+        <p>
+          There, Māra’s three daughters changed their appearance. Becoming extraordinary
+                              beautiful, they went to the Buddha, paid homage to his feet and sat to one side.
+                              The three daughters said together in one voice: ‘We have come to worship you and
+                              be at your service’. But the World-honoured One [had already attained] the final
+                              cutting-off of desires and did not even look at them. They addressed him like
+                              this a second and a third time. The Buddha did not look at them. There, Māra’s
+                              three daughters retreated and discussed the matter: ‘it is in the nature of men
+                              that they like different types [of women]. some like [their women] young, some
+                              like them middle-aged and some mature’. upon [saying] that, each daughter
+                              changed into six hundred women, some of them small girls, some teenagers, some
+                              of them already married women, and some not yet married, some of them had given
+                              birth already and some had not yet given birth. having thus turned into a
+                              multitude of women, they all went to the Buddha and said to him: ‘World-honoured
+                              One! We have come to worship the World-honoured One and be at his service. We
+                              will serve [the World-honoured One] in every way’.
+        </p>
+        <p>
+          The Buddha did not look at them. They addressed him like this a second and a
+                              third time. The Buddha did not look at them at all. There, Māra’s daughters
+                              retreated and conferred again. ‘he must have attained the final cutting-off of
+                              desire, utmost liberation. Otherwise he would have looked at us and become mad,
+                              spitting blood. It might even have torn his heart apart. Let us go to him and
+                              debate with him in verse’.
+        </p>
+        <p>Māra’s daughter Passionate asked in a verse:</p>
+        <lg>
+          <l>
+            The body upright, one hand cupped within another, you sit under the tree //
+                                    alone in complete solitude, contemplating.
+          </l>
+          <l>Like someone who has lost a fortune // and desires to find a great treasure.</l>
+          <l>In the cities and villages // your mind is without passion or attachment.</l>
+          <l>Why is it that among all those people // you have made no close friends?</l>
+        </lg>
+        <p>At that time the World-honoured One answered in a verse:</p>
+        <lg>
+          <l>
+            I have already attained the great treasure // attained quiet extinction in
+                                    the mind.
+          </l>
+          <l>
+            I have destroyed the host of passion and desire // am not attached to
+                                    wonderful forms.
+          </l>
+          <l>I dwell alone sitting in meditation // experiencing the ultimate joy.</l>
+          <l>For this reason // I do not desire close friends.</l>
+        </lg>
+        <p>Māra’s daughter Desirable spoke this verse:</p>
+        <lg>
+          <l>
+            Dwelling in which state, oh monk // have you crossed the five currents [of
+                                    sense-pleasures],
+          </l>
+          <l>as well as the sixth [i.e. mind] // in what meditation do you abide?</l>
+          <l>
+            That you attained the crossing from the great shore of desire // forever free
+                                    from the bondage of becoming?
+          </l>
+        </lg>
+        <p>At that time the World-honoured One spoke a verse:</p>
+        <lg>
+          <l>
+            The body has obtained subtle, gentle joy // the mind attained good
+                                    liberation.
+          </l>
+          <l>The mind abstains from action // consciousness will not regress again.</l>
+          <l>
+            Having attained the method of cutting off discursive thought // having
+                                    attained avoidance of falling into hate and passion;
+          </l>
+          <l>if one can abide in this state // [one] can cross the five currents,</l>
+          <l>and the sixth as well // if one can sit in meditation like this,</l>
+          <l>
+            one can cross from the [existance bound by the] great fetter of desire // and
+                                    leave the relentless flow of becoming.
+          </l>
+        </lg>
+        <p>Māra’s daughter Pleasing said in a verse:</p>
+        <lg>
+          <l>
+            Having cut off the fetter of passion // having abandoned what most people are
+                                    attached to,
+          </l>
+          <l>
+            crossing over the currents of many desires // crossing from the many desires’
+                                    shore of death;
+          </l>
+          <l>only the wise // can cross against these difficulties.</l>
+        </lg>
+        <p>At that time the World-honoured One spoke this verse:</p>
+        <lg>
+          <l>
+            By great effort the Tathāgata extracts himself // [and] crosses with the help
+                                    of the true Dhamma.
+          </l>
+          <l>Liberated by the Dhamma // the wise have no reason not to be happy.</l>
+        </lg>
+        <p>
+          The three daughters, their wish unfulfilled, returned to their father. King Māra
+                              scolded them and for that spoke a verse:
+        </p>
+        <lg>
+          <l>
+            My three daughters thought they could destroy him // their appearance
+                                    [blinding] like lightning.
+          </l>
+          <l>
+            Advancing on the [one with] great effort // [they are scattered by him] like
+                                    tufts of grass in the wind;
+          </l>
+          <l>
+            [they act like they could] tear down a mountain with their fingernails //
+                                    bite an iron pellet with their teeth;
+          </l>
+          <l>foolish children [trying] with lotus stalks // to suspend a great mountain.</l>
+          <l>
+            The Buddha has already crossed beyond all attachment // to desire to debate
+                                    with him
+          </l>
+          <l>
+            [is like wanting to] catch the wind with a net // like wanting to take down
+                                    the moon from the sky,
+          </l>
+          <l>to scoop the ocean with one’s hands // hoping to dry it out.</l>
+          <l>
+            The Buddha has already left all attachment behind; // to desire to go and
+                                    debate with him
+          </l>
+          <l>
+            [is like] striding over Mount sumeru with one’s foot // looking for earth in
+                                    the great ocean.
+          </l>
+          <l>
+            The Buddha has already abandoned all attachment; // to go and debate with him
+                                    […]
+          </l>
+        </lg>
+        <p>King Māra, sad and regretful, vanished and returned to his heavenly palace.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

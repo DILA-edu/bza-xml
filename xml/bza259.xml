@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum
+                              Buddhist College 法鼓佛教研修學院.
+        </title>
+        <funder>
+          Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會
+        </funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist
+                              College 法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>
+            Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉,
+                                    Chueh Hui-chen 闕慧貞
+          </name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>
+          This is the default header for all files in the database. Files which contain
+                              gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.
+        </p>
+        <p>
+          The project was conducted 2005-2008. Some minor revisions and additions were done
+                              in 2009.
+        </p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                    Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                    text lies with the Vipassana Research Institute. Copyright for the Sanskrit
+                                    text lies with Fumio Enomoto. Copyright for the English text lies with
+                                    Marcus Bingenheimer. The Tibetan and Manchu texts are in the public realm.
+                                    The digital edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                    (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                    (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                    comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding
+                                    to the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                    literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly
+                                publications (as referenced). English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the
+                              Bieyi za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies
+                              中華佛學研究所 and the Dharma Drum Buddhist College 法鼓佛教研修學院. The project is funded by
+                              the Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會. The aim of the project is to produce a comparative digital edition
+                              and partial translation of the 364 sutras of the BZA and their parallels. The
+                              texts are kept in single files in an eXist database and are realized via XQuery
+                              and XSLT as HTML for the online user. The project lasts from 2005-2008. For any
+                              changes after 2008 see the revision description.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                              attribute on the containing elements
+        </p>
+        <p>
+          BZA: New Punctuation. Markup of person and place names. Verse and prose.
+                              References to the print edition (Taishō). Corrected characters (according to
+                              CBETA).
+        </p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō).</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA. Verse and
+                              Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan: Parallel and not-parallel divisions regarding the BZA.
+                              Verse and Prose. Variant readings.
+        </p>
+      </editorialDecl>
+      <charDesc>
+        <glyph xml:id="g012">
+          <glyphName>CJK IDEOGRAPH 17255</glyphName>
+          <charProp>
+            <localName>pronunciation</localName>
+            <value>zang1</value>
+          </charProp>
+          <mapping type="cbeta">[牛*羊]</mapping>
+          <mapping type="cbetaNo">CB00212</mapping>
+          <mapping type="UTF-8">E4 8D A7</mapping>
+          <mapping type="unicode">17255</mapping>
+          <graphic url="gaiji/g012.gif"/>
+          <note>appears in bza061; bza089; bza259</note>
+        </glyph>
+      </charDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="bza259">
+      <anchor type="start" xml:id="Tp0464b14"/>
+      <div type="opening" xml:id="obza259">
+        <p n="bza259.01">如是我聞：一時佛遊<name type="place">俱薩羅</name>，至<name type="place">舍衛國</name>
+          <name type="place">祇樹給孤獨園</name>。</p>
+      </div>
+      <div type="main" xml:id="mbza259">
+        <p n="bza259.02">爾時<name type="person">優竭提舍利婆羅門</name>施設大祀，七百牛王繫之於柱。牸牛、犢子、<g ref="g012">[牛*羊]</g>、羖、羊等，如是種種所有畜生，不可稱計，在祀場中處處繫之。設諸餚膳，種種飲食。爾時餘國諸婆羅門聞彼設祀，悉來雲集。時優竭提舍利婆羅門聞佛從俱薩羅到舍衛國祇樹給孤獨園，欲往佛所，作是念言：</p>
+        <q who="uggatasarira">
+          <p n="bza259.03">我今設祀，所作會具當問瞿曇將不少耶？</p>
+        </q>
+        <p n="bza259.04">時婆羅門乘羽葆車，所著衣裳上下純白，提三岐金叉，持金藻盥，滿中淨水。諸摩納眾圍遶左右，餘國種種諸婆羅門亦為翼從，來詣佛所，問訊已訖，在一面坐，具白佛言：</p>
+        <q who="uggatasarira">
+          <p n="bza259.05">世尊！我於今者設斯大祀，繫七百牛王及諸畜生，乃至餘國婆羅門等，悉來雲集。辦具已訖，欲設大祀。願佛教我滿足，有勝無少減不？</p>
+        </q>
+        <p n="bza259.06">佛言：</p>
+        <q who="gotamo">
+          <p n="bza259.07">婆羅門！汝為祀主，<pb ed="T" xml:id="T02.0100.0464c" n="0464c"/>大施求福，亦大得罪。豎三種刀，斯名不善。作於苦因，亦得苦報。得於苦利，受報亦苦。云何名為三種刀？意、口、身刀也。何名意刀？汝若祀時，意業不善，殺諸畜生，以為大祀，是名豎於意刀。何者口刀？汝欲祀時，而作是言：『我於明日當殺爾許種種生命。』是名豎於口刀。云何名為身刀？汝若祀時，手牽牛王及諸畜生，受於咒願，是名豎於身刀。</p>
+        </q>
+        <p n="bza259.08">佛言：</p>
+        <q who="gotamo">
+          <p n="bza259.09">又有三種火，最勝、最妙，宜應謹慎，亦當恭敬。非汝所事，邪見火也。何謂為三？一名、恭敬火，二名、苦樂俱火，三名、福田火。云何名為恭敬火？應當供養、尊重、恭敬、擁護父母。何以故？父母求子，禱祀神祇，然後得子。父母赤白，和合成身，生育長養。以是之故，名恭敬火。如是之火，應正供養，與眾快樂，令無乏苦。云何名為苦樂俱火？若族姓子起於精勤，積集錢財，於其妻子并諸眷屬、奴婢、僕使、知友、輔相及諸親族，皆應供養，供給所須，與其利樂。如是等輩，皆同苦樂。是名苦樂俱火。云何名為福田火？若沙門、婆羅門能斷貪欲，解脫貪欲；能斷瞋恚，解脫瞋恚；能斷愚癡，解脫愚癡。如是等沙門、婆羅門，名福田火。上趣諸天，能招樂報。此名福田火。是以族姓子應當至心供養、恭敬，使得快樂。又有三種火，必應滅之。何者三火？所謂貪欲、愚癡、瞋恚火。不如世間火，有時須然，有時須滅。</p>
+        </q>
+        <p n="bza259.10">爾時世尊即說偈言：</p>
+        <q who="gotamo">
+          <lg n="bza259.11" met="5" xml:id="cg259a">
+            <l>恭敬俱福田<caesura/>此三火應祀</l>
+            <l>若勤心供養<caesura/>獲得三種樂</l>
+            <l>云何為三樂<caesura/>施戒及修定</l>
+            <pb ed="T" xml:id="T02.0100.0465a" n="0465a"/>
+            <l>三種之果報<caesura/>人天涅槃樂</l>
+            <l>若人於一切<caesura/>善解於方法</l>
+            <l>於祠祀時節<caesura/>能養其眷屬</l>
+            <l>供養應供者<caesura/>能供養應供</l>
+            <l>終竟必獲得<caesura/>永離災患處</l>
+          </lg>
+        </q>
+        <p n="bza259.12">爾時優竭提舍利婆羅門聞佛所說，即語<name type="person">烏答摩納</name>：</p>
+        <q who="uggatasarira">
+          <p n="bza259.13">汝可往詣彼祀場中，先所繫養諸畜生等，以係祀者今悉散放，隨逐水草。盡其壽命，莫作拘礙。</p>
+        </q>
+        <p n="bza259.14">烏答摩納言：</p>
+        <q who="matuposako">
+          <p n="bza259.15">和上如所教敕，我能為之！</p>
+        </q>
+        <p n="bza259.16">即往祀場，宣告諸人：</p>
+        <q who="matuposako">
+          <p n="bza259.17">我受優竭提舍利教敕，一切畜生，悉皆解放，任意令去。</p>
+        </q>
+        <p n="bza259.18">烏答摩納往祀場所未久之間，如來於後即為優竭提舍利婆羅門，如諸佛法為說法要，示、教、利、喜。時婆羅門即受禁戒，乃至見諦。（餘如突羅闍品中所說。）時優竭提舍利婆羅門即整衣服，頂禮佛足，白佛言：</p>
+        <q who="uggatasarira">
+          <p n="bza259.19">世尊！唯願明日與諸大眾往祀場中，受我供設！</p>
+        </q>
+        <p n="bza259.20">爾時世尊默然受請。時婆羅門聞佛所說，又見受請，歡喜而去。時婆羅門至祀場已，通夜辦具種種餚膳，乃至敷座，又具淨水。後日晨朝往詣佛所，白佛言：</p>
+        <q who="uggatasarira">
+          <p n="bza259.21">時到！</p>
+        </q>
+        <p n="bza259.22">爾時如來與諸大眾著衣持缽，往詣祀場，在眾僧前敷座而坐。時婆羅門睹佛、大眾寂然坐定，手行淨水，施設種種餚膳飲食。食訖，攝缽。時婆羅門在世尊前敷座而坐，願樂聽法。爾時如來即為咒願：</p>
+        <q who="gotamo">
+          <lg n="bza259.23" met="5" xml:id="cg259b">
+            <l>於諸大祀中<caesura/>祠祀火為上</l>
+            <l>婆羅門書中<caesura/>薩婆底為上</l>
+            <l>一切國土中<caesura/>人王最為上</l>
+            <l>百川眾流中<caesura/>海水最為上</l>
+            <pb ed="T" xml:id="T02.0100.0465b" n="0465b"/>
+            <l>列宿麗于天<caesura/>月光最為上</l>
+            <l>一切眾明中<caesura/>日光最為上</l>
+            <l>十方世界中<caesura/>佛為第一尊</l>
+          </lg>
+        </q>
+      </div>
+      <div type="closing" xml:id="cbza259">
+        <p n="bza259.24">爾時世尊為婆羅門，種種說法，示、教、利、喜，從座而去。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

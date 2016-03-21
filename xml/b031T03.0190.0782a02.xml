@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 031. It is found in the 佛本行集經 Sutra at T.03.0190.0782.</p>
+      </div>
+    </front>
+    <body xml:id="T03.0190.0782a02">
+      <anchor type="start" xml:id="t03.0190.0782a02"/>
+      <div type="not-parallel">
+        <p>爾時彼等魔諸女輩。善解<anchor type="variant" n="fnT03p0782n04"/>婦女妖幻之事。更復別為餘誑惑法。媚亂菩薩。而說偈言。</p>
+        <lg met="7">
+          <l>初春佳麗好時節<caesura/>
+            <anchor type="variant" n="fnT03p0782n05"/>果木林樹悉開花</l>
+          <l>如此美景可歡娛<caesura/>仁色豐盈甚端正</l>
+          <l>現今幼年情逸蕩<caesura/>正是丈夫行樂時</l>
+          <l>欲求菩提道甚難<caesura/>仁可迴心受世樂</l>
+          <l>宜觀我等天女輩<caesura/>可<anchor type="variant" n="fnT03p0782n06"/>喜形貌<anchor type="variant" n="fnT03p0782n07"/>柔軟身</l>
+          <l>以諸瓔珞自莊嚴<caesura/>誰今能得如是體</l>
+          <l>仁<anchor type="variant" n="fnT03p0782n08"/>感得已何不受<caesura/>我身香潔如蓮花</l>
+          <l>世間如此福德人<caesura/>何故捨之而不用</l>
+          <l>頭髮光明紺青色<caesura/>恒以雜種香澤熏</l>
+          <l>奇異摩尼為寶鬘<caesura/>作花持以<anchor type="variant" n="fnT03p0782n09"/>插其上</l>
+          <l>我等額廣頭圓滿<caesura/>眉目平正甚脩揚</l>
+          <l>清淨等彼青蓮花<caesura/>其鼻皆如鸚鵡鳥</l>
+          <l>口脣明曜赤朱色<caesura/>或如頻婆羅<anchor type="variant" n="fnT03p0782n05"/>果形</l>
+          <l>亦似珊瑚及<anchor type="variant" n="fnT03p0782n10"/>胭脂<caesura/>齒如珂貝甚白淨</l>
+          <l>舌薄猶如蓮花<anchor type="variant" n="fnT03p0782n11"/>葉<caesura/>語言歌詠出妙音</l>
+          <l>猶如緊陀羅女聲<caesura/>兩乳百媚皆精妙</l>
+          <l>又復猶如石榴<anchor type="variant" n="fnT03p0782n05"/>果<caesura/>腰軟纖細如<anchor type="variant" n="fnT03p0782n120"/>弓弝</l>
+          <l>脊膂寬博潤而平<caesura/>猶如象王頭頂額</l>
+          <l>雙<anchor type="variant" n="fnT03p0782n13"/>髀軟白<anchor type="variant" n="fnT03p0782n14"/>洪端直<caesura/>其狀猶若象鼻<g>[月*庸]</g>
+          </l>
+          <l>兩脛正等纖而<anchor type="variant" n="fnT03p0782n15"/>圓<caesura/>清淨猶如鹿王<anchor type="variant" n="fnT03p0782n16"/>
+            <g>[蹲-酋+(十/田/ㄙ)]</g>
+          </l>
+          <l>足下平滿不斜凹<caesura/>赤白猶<anchor type="variant" n="fnT03p0782n17"/>彼蓮花輝</l>
+          <l>我等身體可喜容<caesura/>如是眾相莊嚴具</l>
+          <l>
+            <pb ed="T" n="0782b"/>技能一切皆備足<caesura/>快解作諸種音聲</l>
+          <l>復巧歌舞悅眾心<caesura/>諸天見我皆歡喜</l>
+          <l>悉各<choice>
+              <sic>羡</sic>
+              <corr resp="CBETA">羨</corr>
+            </choice>我生<anchor type="variant" n="fnT03p0778n06"/>欲意<caesura/>我等非是不樂仁</l>
+          <l>仁今見我何不貪<caesura/>又如人<g>[者*見]</g>金寶藏</l>
+          <l>捨離棄之遠逃走<caesura/>不知財物是樂因</l>
+          <l>仁之心意亦復然<caesura/>不識五<anchor type="variant" n="fnT03p0782n18"/>欲之快樂</l>
+          <l>寂定安禪不取我<caesura/>或可仁者是大癡</l>
+          <l>何故不受世樂情<caesura/>涅槃道路甚懸遠</l>
+        </lg>
+        <p>爾時菩薩。諦心熟視諸魔女目不暫捨。正念微笑<g>[僉*殳]</g>攝諸根定。其身體無愧無慚不急不緩。端直安住猶如須彌心意不傾。自餘方便智慧之門。往昔已曾攝伏一切諸煩惱患。哀愍言音過於梵響。猶如迦羅頻伽鳥聲。以偈語彼諸魔女言。</p>
+        <lg met="7">
+          <l>彼諸世間五<anchor type="variant" n="fnT03p0782n18"/>欲等<caesura/>多苦多過眾惱纏</l>
+          <l>由煩惱故失神通<caesura/>無明陷墜墮黑闇</l>
+          <l>眾生受之不知足<caesura/>我久捨離諸煩牢</l>
+          <l>如猛火坑毒藥函<caesura/>往昔已來早辭避</l>
+          <l>既飲甘露智慧水<caesura/>自心覺了欲覺他</l>
+          <l>當說微密教法門<caesura/>若今受此穢<anchor type="variant" n="fnT03p0782n18"/>欲事</l>
+          <l>終不可能得此道<caesura/>若人增長貪愛心</l>
+          <l>是則名為大愚癡<caesura/>既自不能得自利</l>
+          <l>況復能利於一切<caesura/>是故我今心不耽</l>
+          <l>世間五欲<anchor type="variant" n="fnT03p0782n18"/>燒眾生<caesura/>猶如劫火<anchor type="variant" n="fnT03p0782n19"/>災萬物</l>
+          <l>五<anchor type="variant" n="fnT03p0782n18"/>欲猶如水泡沫<caesura/>亦如幻焰無一真</l>
+          <l>虛假誑惑於凡夫<caesura/>智者誰應樂此事</l>
+          <l>猶如童蒙小兒輩<caesura/>戲於自許糞穢中</l>
+          <l>迷惑愚癡無智人<caesura/>見著種種諸瓔珞</l>
+          <l>觀已便生<anchor type="variant" n="fnT03p0782n18"/>欲心想<caesura/>頭髮根本從腦生</l>
+          <l>
+            <pb ed="T" n="0782c"/>臭穢醜陋劇癰瘡<caesura/>牙齒增長猶飲出</l>
+          <l>脣口耳鼻及眼等<caesura/>一切皆如水上泡</l>
+          <l>腰髂脊背及尻臀<caesura/>臭處不淨從血有</l>
+          <l>腹肚屎尿之<anchor type="variant" n="fnT03p0782n20"/>囊袋<caesura/>不淨諸物滿其間</l>
+          <l>是業皆從愛所生<caesura/>譬如造輪為<anchor type="variant" n="fnT03p0782n21"/>碾磑</l>
+          <l>愚癡<anchor type="variant" n="fnT03p0782n22"/>受樂亦如是<caesura/>若有一切諸智人</l>
+          <l>分別是等眾患殃<caesura/>此處不受如斯樂</l>
+          <l>身體日夜常流血<caesura/>臭處不<anchor type="variant" n="fnT03p0782n23"/>
+            <g>[喜/心]</g>以眼看</l>
+          <l>兩<g>[月*坒]</g>兩脛雙<g>[腳-谷+去]</g>趺<caesura/>筋骨相縛而立住</l>
+          <l>我觀汝等今如此<caesura/>如幻如化如夢為</l>
+          <l>一切悉從因緣生<caesura/>五<anchor type="variant" n="fnT03p0782n18"/>欲無有真實德</l>
+          <l>五<anchor type="variant" n="fnT03p0782n18"/>欲能失諸聖道<caesura/>牽人將入惡道中</l>
+          <l>五<anchor type="variant" n="fnT03p0782n18"/>欲猶如大火坑<caesura/>亦如雜毒滿諸器</l>
+          <l>如瞋蛇頭不可觸<caesura/>此處愚癡多被迷</l>
+          <l>強作淨想橫生貪<caesura/>五<anchor type="variant" n="fnT03p0782n18"/>欲如受雇客作</l>
+          <l>與諸婦人作奴僕<caesura/>捨彼淨戒行道心</l>
+          <l>及離智慧寂定禪<caesura/>住於憒亂喧鬧裏</l>
+          <l>捨諸妙法取<anchor type="variant" n="fnT03p0782n18"/>欲戲<caesura/>彼人墮地獄不疑</l>
+          <l>是等諸幻我見來<caesura/>以是意中不貪樂</l>
+          <l>欲求畢竟自在樂<caesura/>亦教他人令共同</l>
+          <l>我以解脫彼世間<caesura/>如虛空風不可縛</l>
+          <l>汝等魔女若滿此<caesura/>世間一切諸眾生</l>
+          <l>我心終不分別之<caesura/>暫共汝等行五<choice>
+              <sic>
+                <anchor type="variant" n="fnT03p0782n18"/>
+              </sic>
+              <corr resp="CBETA">
+                <anchor type="variant" n="fnT03p0782n24"/>
+              </corr>
+            </choice>欲</l>
+          <l>我久已除瞋恚恨<caesura/>愚癡貪<anchor type="variant" n="fnT03p0782n24"/>欲一切無</l>
+          <l>諸佛大智聖世尊<caesura/>心無有礙如空體</l>
+        </lg>
+        <p>爾時魔王波旬女等。善解女人幻惑之法。更加情態。益顯<anchor type="variant" n="fnT03p0782n25"/>嬌姿。莊嚴其身。<anchor type="variant" n="fnT03p0782n26"/>亦現美妙音辭巧便。來媚菩薩。而有偈說。</p>
+        <lg met="7">
+          <l>魔王波旬有三女<caesura/>可愛可喜<anchor type="variant" n="fnT03p0782n27"/>喜見儔</l>
+          <l>
+            <pb ed="T" n="0783a"/>在諸女中最尊豪<caesura/>魔王教令善嚴飾</l>
+          <l>速疾往詣菩薩所<caesura/>現諸幻惑作嬌姿</l>
+          <l>使身猶如弱樹枝<caesura/>婀娜隨風而搖動</l>
+          <l>在於菩薩前向立<caesura/>歌舞口唱如是言</l>
+          <l>仁善釋子當作王<caesura/>云何坐彼大樹下</l>
+          <l>
+            <anchor type="variant" n="fnT03p0783n01"/>此盛上春妙時節<caesura/>男女合會生<anchor type="variant" n="fnT03p0783n02"/>喜歡</l>
+          <l>猶如諸鳥自相娛<caesura/>
+            <anchor type="variant" n="fnT03p0782n24"/>欲心一發難止息</l>
+          <l>時至且可共受樂<caesura/>何故守心不觀我</l>
+          <l>我等今者復以來<caesura/>宜應同行稱心適</l>
+          <l>彼聖猶如日初出<caesura/>億劫行諸行積功</l>
+          <l>其心不動如須彌<caesura/>妙音清激猶<anchor type="variant" n="fnT03p0783n03"/>雷響</l>
+          <l>行步安<anchor type="variant" n="fnT03p0783n04"/>庠若師子<caesura/>語言利益多所成</l>
+          <l>世間眾生不思量<caesura/>恒為諸<anchor type="variant" n="fnT03p0782n24"/>欲起<g>[鬥@(豆*寸)]</g>諍</l>
+          <l>既起<g>[鬥@(豆*寸)]</g>諍便言訟<caesura/>如是無智等諸人</l>
+          <l>常為如此苦惱煎<caesura/>智人知之不隨順</l>
+          <l>捐棄出家而遠離<caesura/>處於山林以自娛</l>
+          <l>我今時節已現前<caesura/>欲證常住甘露法</l>
+          <l>先須降伏彼魔眾<caesura/>然後當成十力尊</l>
+          <l>其魔波旬諸女等<caesura/>更白菩薩如是言</l>
+          <l>仁者面目如淨花<caesura/>願聽我等諸語說</l>
+          <l>但且受於世王位<caesura/>自在最勝上尊豪</l>
+          <l>若臥若坐及起行<caesura/>作妙音聲無斷絕</l>
+          <l>菩提極果甚難得<caesura/>況復諸佛智慧身</l>
+          <l>解脫正路行涉難<caesura/>仁見有誰往能到</l>
+          <l>是時菩薩復報彼<caesura/>我當決定作法王</l>
+          <l>於天人中自在尊<caesura/>轉妙法輪無有上</l>
+          <l>具足十力無所畏<caesura/>在於三界獨巍巍</l>
+          <l>諸學無學弟子群<caesura/>千億萬數圍繞我</l>
+          <l>口常作如是讚歎<caesura/>大聖出興除世疑</l>
+          <l>
+            <pb ed="T" n="0783b"/>我當為彼說法時<caesura/>遊行處處隨心意</l>
+          <l>是故我於世間內<caesura/>不樂一切五<anchor type="variant" n="fnT03p0782n24"/>欲歡</l>
+          <l>魔女復白菩薩言<caesura/>仁今少壯甚可惜</l>
+          <l>衰朽年老時未至<caesura/>色力強盛且恣情</l>
+          <l>必其羸<anchor type="variant" n="fnT03p0783n05"/>瘦不能堪<caesura/>乃可<anchor type="variant" n="fnT03p0783n06"/>捨此身端正</l>
+          <l>我等華容悉三五<caesura/>正是仁者好良朋</l>
+          <l>五<anchor type="variant" n="fnT03p0783n07"/>欲嬉<anchor type="variant" n="fnT03p0783n08"/>戲最<anchor type="variant" n="fnT03p0783n09"/>
+            <g>[女*便]</g>妍<caesura/>何故乃然厭離我</l>
+          <l>仁今若不見容受<caesura/>我等隨逐終不辭</l>
+          <l>菩薩復便為說言<caesura/>今日既得人身體</l>
+          <l>
+            <anchor type="variant" n="fnT03p0783n10"/>努力遠離於諸難<caesura/>
+            <anchor type="variant" n="fnT03p0783n11"/>勤求入彼甘露門</l>
+          <l>能捨世間苦難時<caesura/>則離人天一切難</l>
+          <l>及今老病死未至<caesura/>諸惡<g>[鬥@(豆*寸)]</g>諍復不興</l>
+          <l>我等速疾應當行<caesura/>早離於斯諸難處</l>
+          <l>常住寂然無畏所<caesura/>是彼真實涅槃城</l>
+        </lg>
+        <p>爾時魔女復說偈言。</p>
+        <lg met="7">
+          <l>仁在天中如釋天<caesura/>左右端正諸天女</l>
+          <l>焰摩兜率及化樂<caesura/>他化自在并魔宮</l>
+          <l>具足翫好無所虧<caesura/>但受五<anchor type="variant" n="fnT03p0783n12"/>欲莫寂滅</l>
+        </lg>
+        <p>爾時菩薩以偈報言。</p>
+        <lg met="7">
+          <l>五<anchor type="variant" n="fnT03p0783n12"/>欲如霜不久住<caesura/>亦如秋雲雨暫時</l>
+          <l>汝女可畏如蛇瞋<caesura/>帝釋夜摩兜率等</l>
+          <l>悉屬魔王不自在<caesura/>
+            <anchor type="variant" n="fnT03p0783n12"/>欲事百怨何可貪</l>
+        </lg>
+        <p>爾時魔女復說偈言。</p>
+        <lg met="7">
+          <l>仁可不見樹木花<caesura/>諸蜂諸鳥雜音<anchor type="variant" n="fnT03p0783n13"/>響</l>
+          <l>地生青色柔軟草<caesura/>復出種種諸妙林</l>
+          <l>緊陀諸天作<anchor type="variant" n="fnT03p0783n14"/>伎聲<caesura/>如是妙時可受樂</l>
+        </lg>
+        <p>爾時菩薩以偈報言。</p>
+        <lg met="7">
+          <l>樹木依時著花<anchor type="variant" n="fnT03p0782n05"/>果<caesura/>蜂鳥飢渴取氣香</l>
+          <l>日炙至時地自乾<caesura/>昔佛甘露不可盡</l>
+        </lg>
+        <p>
+          <pb ed="T" n="0783c"/>爾時魔女復說偈言。</p>
+        <lg met="7">
+          <l>仁者面色猶初月<caesura/>觀我顏貌似蓮花</l>
+          <l>口齒潔白清淨牙<caesura/>如此妙女天中少</l>
+          <l>況復世間仁已得<caesura/>身心<anchor type="variant" n="fnT03p0783n15"/>柔順不相違</l>
+        </lg>
+        <p>爾時菩薩以偈報言。</p>
+        <lg met="7">
+          <l>我觀汝體不淨流<caesura/>諸虫周匝千萬孔</l>
+          <l>不牢諸惡遍身滿<caesura/>生老病死恒相隨</l>
+          <l>我求世間最上難<caesura/>真正不退智人道</l>
+          <l>彼見六十四種巧<caesura/>手動瓔珞<anchor type="variant" n="fnT03p0783n16"/>
+            <g>[金*巢]</g>耳璫</l>
+          <l>被<anchor type="variant" n="fnT03p0783n17"/>欲箭射微笑言<caesura/>聖子云何不顛倒</l>
+          <l>諸有見患大仁者<caesura/>見美五<anchor type="variant" n="fnT03p0783n12"/>欲猶毒<g>[卸-ㄗ+并]</g>
+          </l>
+          <l>利<anchor type="variant" n="fnT03p0783n18"/>刃塗蜜截舌傷<caesura/>
+            <anchor type="variant" n="fnT03p0783n12"/>欲如蛇頭火坑<g>[穴/井]</g>
+          </l>
+          <l>如人師子行風動<caesura/>樹木山壁悉崩傾</l>
+          <l>我今威德離<anchor type="variant" n="fnT03p0783n12"/>欲中<caesura/>棄捨汝等猶如彼</l>
+          <l>其諸魔女出百<anchor type="variant" n="fnT03p0783n19"/>伎<caesura/>
+            <anchor type="variant" n="fnT03p0783n20"/>衒惑菩薩不動移</l>
+          <l>菩薩如象師子王<caesura/>猶如須彌住無動</l>
+          <l>彼等誘誑既不得<caesura/>心生慚愧各低頭</l>
+          <l>恭敬歡喜讚歎言<caesura/>尊面淨如蓮花潔</l>
+          <l>亦如醍醐及秋月<caesura/>巍巍光照<anchor type="variant" n="fnT03p0783n21"/>若金山</l>
+          <l>心所求者願當成<caesura/>自度度他千萬眾</l>
+        </lg>
+        <p>爾時波旬諸魔女等。力既不能幻惑菩薩。心生愧恥。各自羞<g>[斬/心]</g>。相與曲躬。禮菩薩足。圍遶三匝。辭退而行。安<anchor type="variant" n="fnT03p0783n04"/>庠還向魔波旬邊。到已即白父如是言。父王。不應舉意向於彼眾生所造作怨讎。何以故。我等昔來不曾見有如是眾生。在<anchor type="variant" n="fnT03p0783n12"/>欲界中。作是姿態媚惑之事。顯示於彼。不暫移動。又復我等作<anchor type="variant" n="fnT03p0783n12"/>欲事時。必得枯乾一切人意。猶如旱時諸草木等。必令焦滅。猶如春時<anchor type="variant" n="fnT03p0783n22"/>酥置日下自然融消。今此丈夫。何緣獨爾。是故父王。唯願莫共彼作怨讎。<pb ed="T" n="0784a"/>即向其父。而說偈言。</p>
+        <lg met="7">
+          <l>彼形過於瞻蔔色<caesura/>無邊威德勝名聞</l>
+          <l>不動猶如大山王<caesura/>頂禮已訖今來至</l>
+          <l>我當委具說其事<caesura/>彼眼色如優<g>[金*本]</g>羅</l>
+          <l>微笑觀我心不移<caesura/>面貌清淨視無瞬</l>
+          <l>不瞋不恨無<anchor type="variant" n="fnT03p0783n12"/>欲<anchor type="variant" n="fnT03p0784n01"/>想<caesura/>觀我等如幻化為</l>
+          <l>假使須彌倒地崩<caesura/>星宿日月悉墮落</l>
+          <l>大海枯涸水滅盡<caesura/>彼見<anchor type="variant" n="fnT03p0783n12"/>欲患心不迴</l>
+          <l>語言微妙令人歡<caesura/>觀我慈悲無欲想</l>
+          <l>見我無有瞋恚意<caesura/>思惟我體不似癡</l>
+          <l>察我意行及身體<caesura/>審諦思惟婦女患</l>
+          <l>是故心不行五<anchor type="variant" n="fnT03p0783n12"/>欲<caesura/>離<anchor type="variant" n="fnT03p0783n12"/>欲無<anchor type="variant" n="fnT03p0783n12"/>欲誰能知</l>
+          <l>非是人天所度量<caesura/>我等現示婦女諂</l>
+          <l>彼心若有<anchor type="variant" n="fnT03p0783n12"/>欲心者<caesura/>心意消滅如乾柴</l>
+          <l>而觀我等心不欲<caesura/>猶如山王安止住</l>
+          <l>百福莊嚴功德智<caesura/>具滿檀度戒行圓</l>
+          <l>千億劫行梵行來<caesura/>清淨眾生大威德</l>
+          <l>我等頂禮彼金色<caesura/>決定無疑降我魔</l>
+          <l>必當證正覺菩提<caesura/>我等不願為怨結</l>
+          <l>此陣難擊我難勝<caesura/>欲降伏彼亦大難</l>
+          <l>父王但觀虛空中<caesura/>菩薩多眾他方至</l>
+          <l>種種瓔珞莊嚴體<caesura/>恭敬重心禮彼尊</l>
+          <l>曼陀羅花等雨雲<caesura/>作妙偈頌歎於彼</l>
+          <l>十方諸佛皆遣使<caesura/>持雜種妙甘露<anchor type="variant" n="fnT03p0784n02"/>
+            <g>[冰-水+食]</g>
+          </l>
+          <l>有識眾類悉皆來<caesura/>無情諸山及雜樹</l>
+          <l>須彌山神并帝釋<caesura/>頂禮向於功德林</l>
+          <l>是故父王非是時<caesura/>我等宜應還本處</l>
+        </lg>
+        <p>爾時魔王即說偈言。</p>
+        <lg met="7">
+          <l>
+            <pb ed="T" n="0784b"/>凡人渡河到彼岸<caesura/>欲得掘物必斷根</l>
+          <l>若作怨結須竟頭<caesura/>諸所為事不可悔</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

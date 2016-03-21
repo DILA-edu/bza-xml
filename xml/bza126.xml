@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum
+                              Buddhist College 法鼓佛教研修學院.
+        </title>
+        <funder>
+          Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會
+        </funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist
+                              College 法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>
+            Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉,
+                                    Chueh Hui-chen 闕慧貞
+          </name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>
+          This is the default header for all files in the database. Files which contain
+                              gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.
+        </p>
+        <p>
+          The project was conducted 2005-2008. Some minor revisions and additions were done
+                              in 2009.
+        </p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                    Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                    text lies with the Vipassana Research Institute. Copyright for the Sanskrit
+                                    text lies with Fumio Enomoto. Copyright for the English text lies with
+                                    Marcus Bingenheimer. The Tibetan and Manchu texts are in the public realm.
+                                    The digital edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                    (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                    (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                    comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding
+                                    to the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                    literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly
+                                publications (as referenced). English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the
+                              Bieyi za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies
+                              中華佛學研究所 and the Dharma Drum Buddhist College 法鼓佛教研修學院. The project is funded by
+                              the Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會. The aim of the project is to produce a comparative digital edition
+                              and partial translation of the 364 sutras of the BZA and their parallels. The
+                              texts are kept in single files in an eXist database and are realized via XQuery
+                              and XSLT as HTML for the online user. The project lasts from 2005-2008. For any
+                              changes after 2008 see the revision description.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                              attribute on the containing elements
+        </p>
+        <p>
+          BZA: New Punctuation. Markup of person and place names. Verse and prose.
+                              References to the print edition (Taishō). Corrected characters (according to
+                              CBETA).
+        </p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō).</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA. Verse and
+                              Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan: Parallel and not-parallel divisions regarding the BZA.
+                              Verse and Prose. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="bza126">
+      <anchor type="start" xml:id="Tp0421b11"/>
+      <div type="main" xml:id="mbza126">
+        <p n="bza126.02">爾時有聚落主，名<name type="person">如意珠頂髮</name>，往詣佛所，頂禮佛足，在一面坐，即白佛言：</p>
+        <q who="maniculaka">
+          <p n="bza126.03">世尊！我於往日在王宮殿與諸輔相共一處坐，群臣眷屬詳議講論：『所謂作沙門者，為得捉於<app n="fnT02p0421n09">
+              <lem wit="【大】">錢</lem>
+              <rdg resp="Taisho" wit="【明】">財</rdg>
+            </app>錢寶，以不得捉金不？』時彼眾中有一人言：『縱令捉者，竟有何過？應當得捉。』有一人言：『不應得捉！沙門釋子不捉金寶。』世尊！如是二語，為得名為稱法而說，為不稱說？若作斯語，非為毀佛，非過言耶？為是佛說，為非是乎？</p>
+        </q>
+        <p n="bza126.04">佛告聚落主：</p>
+        <q who=" gotamo">
+          <p n="bza126.05">若作是說，斯名謗我<app n="fnT02p0421n10">
+              <lem wit="【大】">為</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】"/>
+            </app>，為不稱說，名為過說。然我所說實不同彼。何以故？為比丘者，沙門釋子法不應捉金等錢寶。若捉金等錢寶，<app n="fnT02p0421n11">
+              <lem wit="【大】">彼非</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">非彼</rdg>
+            </app>彼非沙門釋子之法。佛之教法，轉勝端嚴。佛如是說：<q who=" gotamo">為比丘者，不應捉於金等錢寶。設有捉者，非沙門法。</q>
+          </p>
+        </q>
+        <p n="bza126.06">村主言：</p>
+        <q who="maniculaka">
+          <p n="bza126.07">我<app n="fnT02p0421n12">
+              <lem wit="【大】">於</lem>
+              <rdg resp="Taisho" wit="【明】">以</rdg>
+            </app>於彼時於大眾中亦作是說：<q who=" gotamo">沙門釋子實不應捉金等錢<app n="fnT02p0421n13">
+                <lem wit="【大】">寶</lem>
+                <rdg resp="Taisho" wit="【明】">財</rdg>
+              </app>寶。若有捉者，宜應自恣，放逸五欲。</q>
+          </p>
+        </q>
+        <p n="bza126.08">時彼村主聞佛所說，頂禮而去。當於爾時阿難比丘侍立佛側，以扇扇佛。<app n="fnT02p0421n14">
+            <lem wit="【大】">佛</lem>
+            <rdg resp="Taisho" wit="【宋】【元】【明】"/>
+          </app>佛告阿難曰：</p>
+        <q who="gotamo">
+          <p n="bza126.09">汝<pb ed="T" xml:id="T02.0100.0421c" n="0421c"/>可召諸比丘依此王舍城而<app n="fnT02p0421n15">
+              <lem wit="【大】">住</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">依</rdg>
+            </app>住止者，盡集講堂。</p>
+        </q>
+        <p n="bza126.10">爾時阿難奉佛教已，如佛所命勅諸比丘，盡集講堂。時諸比丘各來集已。阿難詣佛，頂禮佛足，在一面<app n="fnT02p0421n16">
+            <lem wit="【大】">坐</lem>
+            <rdg resp="Taisho" wit="【明】">立</rdg>
+          </app>坐，白佛言：</p>
+        <q who="anado">
+          <p n="bza126.11">世尊！諸比丘僧依王舍城迦蘭陀竹林者，皆來集在講堂之中。唯願世尊宜知是時！</p>
+        </q>
+        <p n="bza126.12">爾時世尊即往講堂，於眾僧前敷座而坐。佛告比丘：</p>
+        <q who="gotamo">
+          <p n="bza126.13">有如意珠頂髮聚落主來至我所，頂禮我已，而作是言：<q who="maniculaka">我於往日在王宮殿與諸輔相共議講論：「沙門之法，為應捉持金等錢寶，為不捉耶？」時彼眾中有一人言：「假令沙門捉持錢寶及金銀等，有何過咎！但捉無苦。」復有人言：「沙門之法，法不應捉金等錢寶。」如<app n="fnT02p0421n17">
+                <lem wit="【大】">斯</lem>
+                <rdg resp="Taisho" wit="【明】">是</rdg>
+              </app>斯二人，其語不同。此二人言，何者稱法？』</q>我即答言：<q who="gotamo">沙門釋子不應捉持金等錢寶。</q>時聚落主而作是言：<q who="maniculaka">我<app n="fnT02p0421n12">
+                <lem wit="【大】">於</lem>
+                <rdg resp="Taisho" wit="【明】">以</rdg>
+              </app>於昔時於彼眾中亦作是語：<q who="maniculaka">如斯沙門得捉金等及以錢寶，亦應恣令受於五欲。</q>
+            </q>時彼村主聞我所說，歡喜而去。</p>
+        </q>
+        <p n="bza126.14">佛告諸比丘：</p>
+        <q who="gotamo">
+          <p n="bza126.15">汝等當知：彼如意珠頂髮聚落主於眾人前作師子吼言：『沙門法不應受取金銀錢寶。』汝諸比丘從今已後若有所須，欲捉之者，當作草木及捉糞想。寧捉糞穢，不捉寶物。</p>
+        </q>
+      </div>
+      <div type="closing" xml:id="cbza126">
+        <p n="bza126.16">時諸比丘聞佛所說，歡喜頂禮而去。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

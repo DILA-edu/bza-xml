@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 066. It is found in the 中阿含經 Sutra at T.01.0026.0647.</p>
+      </div>
+    </front>
+    <body xml:id="T01.0026.0647b18">
+      <anchor type="start" xml:id="t01.0026.0647b18"/>
+      <div type="parallel">
+        <p>我聞如是。一時。佛遊舍衛國。在勝林給孤獨園。</p>
+        <p>爾時。世尊告諸比丘。若有無量善法可得。彼一切以不放逸為本。不放逸為習。因不放逸生。不放逸為首。不放逸者。於諸善法為最第一。
+                    猶作田業。彼一切因地‧依地‧立地。得作田業。如是若有無量善法可得。彼一切以不放逸為本。不放逸為習。因不放逸生。不放逸為首。不放逸者。於諸善法為最第一。
+                    猶種子。村及與鬼村。百穀藥木得生長養。彼一切因地‧依地‧<pb ed="T" n="0647c"/>立地。得生長養。如是。若有無量善法可得。彼一切以不放逸為本。不放逸為習。因不放逸生。不放逸為首。不放逸者。於諸善法為最第一。</p>
+        <p>猶諸根香。沈香為第一。
+                    猶諸樹香。赤栴檀為第一。
+                    猶諸水華。青蓮華為第一。
+                    猶諸陸華。須摩那華為第一。
+                    猶諸<anchor type="variant" n="fnT02p0647n19"/>獸跡。彼一切悉入象跡中。象跡盡攝。彼象跡者為最第一。謂廣<anchor type="variant" n="fnT02p0647n20"/>人故。如是。若有無量善法可得。彼一切以不放逸為本。不放逸為習。因不放逸生。不放逸為首。不放逸者。於諸善法為最第一。</p>
+        <p>猶諸<anchor type="variant" n="fnT02p0647n21"/>
+            獸中。彼師子王為最第一。
+                                猶如列陣共鬪戰時。唯要誓為第一。
+                                猶樓觀椽。彼一切皆依
+          <anchor type="variant" n="fnT02p0647n22"/>承椽梁立。承椽梁‧承椽梁皆攝持之。承椽梁者為最第一。謂盡攝故。如是。若有無量善法可得。彼一切以不放逸為本。不放逸為習。因不放逸生。不放逸為首。不放逸者。於諸善法為最第一。</p>
+        <p> 猶如諸山。須彌山王為第一。
+                猶如諸泉。大<anchor type="variant" n="fnT02p0647n23"/>
+            泉攝水。大海為第一。
+                            猶諸大身。阿須羅王為第一。
+                            猶諸瞻
+          <anchor type="variant" n="fnT02p0647n24"/>
+            侍。魔王為第一。
+                            猶諸行欲。頂生王為第一。
+                            猶如諸小王。轉輪王為第一。
+                            猶如虛空諸星。宿月殿為第一。
+                            猶諸
+          <anchor type="variant" n="fnT02p0647n25"/>
+            綵衣。白練為第一。
+                            猶諸光明。慧光明為第一。
+                            猶如諸
+          <anchor type="variant" n="fnT02p0647n26"/>眾。如來弟子眾<anchor type="variant" n="fnT02p0647n27"/>第一。</p>
+      </div>
+      <div type="not-parallel">
+        <p>猶如諸法。有為及無為。愛盡‧無欲‧滅盡‧涅槃為第一。
+                        猶諸眾生。無足‧二足‧四足‧多足。色‧無色‧有想‧無想。乃至非有想非無想。如來於彼為極第一。為大為上。為最為勝。為尊為妙。
+                        猶如因牛有乳。因乳有酪。因酪有生<anchor type="variant" n="fnT02p0647n28"/>酥。因生<anchor type="variant" n="fnT02p0647n28"/>酥<pb ed="T" n="0648a"/>有熟<anchor type="variant" n="fnT02p0647n28"/>酥。因熟<anchor type="variant" n="fnT02p0647n28"/>酥有<anchor type="variant" n="fnT02p0647n28"/>酥精。<anchor type="variant" n="fnT02p0647n28"/>
+            酥精為第一。為大為上。為最為勝。為尊為妙。
+                                    如是若有諸眾生。無足‧二足‧四足‧多足。色‧無色‧有想‧無想。乃至非有想非無想。如來於彼為極第一。為大為上。為最為勝。為尊為妙。
+          </p>
+      </div>
+      <div type="parallel">
+        <p>於是。世尊說此頌曰。</p>
+        <lg met="5">
+          <l>若有求財物<caesura/>極好轉增多</l>
+          <l>稱譽不放逸<caesura/>事無事慧說</l>
+          <l>有不放逸者<caesura/>必取二俱義</l>
+          <l>即此世能獲<caesura/>後世亦復得</l>
+          <l>雄猛觀諸義<caesura/>慧者必解脫</l>
+        </lg>
+        <p>佛說如是。彼諸比丘聞佛所說。歡喜奉行。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-0977">
+      <anchor type="start" xml:id="tp0252c12"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住王舍城迦蘭陀竹園。</p>
+      </div>
+      <div type="main">
+        <p>爾時尸婆外道出家來詣佛所，與世尊面相問訊慰勞已，退坐一面，白佛言：
+                 <q who="moliyasivaka">
+            <p>瞿曇！有一沙門婆羅門作如是見、如是說：『若人有所知覺，彼一切本所作因，修諸苦行，令過去業盡，更不造新業，斷於因緣，於未來世無復諸漏。諸漏盡故業盡，業盡故苦盡，苦盡者究竟苦邊。』今瞿曇所說云何？</p>
+          </q>
+        </p>
+        <p>佛告尸婆：<q who="gotamo">
+            <p>
+              <anchor type="variant" n="fnT02p0252n19"/>彼沙門婆羅門實爾<anchor type="variant" n="fnT02p0252n20"/>洛漠說耳，不審不數，愚癡不善不辯。所以者何？或從風起苦，眾生覺知，或從<anchor type="variant" n="fnT02p0252n21"/>痰起，或從<anchor type="variant" n="fnT02p0252n22"/>唌唾起，或等分起，或自害，或他害，或因節氣。彼自害者，或拔髮、或拔鬚，或常立舉手，或蹲地，或臥灰土中，或臥<anchor type="variant" n="fnT02p0252n23"/>棘刺上，或臥杵上、或板上，或牛屎塗地而臥其<anchor type="variant" n="fnT02p0252n24"/>上，或臥水中，或日三洗浴，或一足而立，身隨日轉，如是眾苦精勤有行，尸婆！是名自害。他害者，或為他手石、刀、杖等，種種害身，是名他害。尸婆！若<pb ed="T" n="0253a"/>復時節所害，冬則大寒，春則大熱，夏寒暑俱，是名節氣所害。世間真實，非為虛妄。尸婆！世間有此真實，為風所害，乃至節氣所害，彼眾生如實覺知。汝亦自有此患，風<anchor type="variant" n="fnT02p0252n21"/>痰<anchor type="variant" n="fnT02p0252n22"/>唌唾，……乃至節氣所害覺，如是如實覺知。尸婆！若彼沙門婆羅門言一切人所知覺者皆是本所造因，捨世間真實事而隨自見，作虛妄說。</p>
+          </q>
+        </p>
+        <p>
+          <q who="gotamo">
+            <p>尸婆！有五因五緣生心法憂苦。何等為五？謂因貪欲纏，緣貪欲纏，生心法憂苦；因瞋恚、睡眠、掉悔、疑<anchor type="variant" n="fnT02p0253n01"/>纏，緣瞋恚、睡眠、掉悔、疑纏，生彼心法憂苦，尸婆！是名五因<anchor type="variant" n="fnT02p0253n02"/>五緣生心法憂苦。尸婆！有五因五緣不生心法憂苦。何等為五？謂因貪欲纏，緣貪欲纏，生彼心<anchor type="variant" n="fnT02p0253n03"/>法憂苦者，離彼貪欲纏，不起心法憂<anchor type="variant" n="fnT02p0253n04"/>苦；是名五因五緣不起心法憂苦，現法得離熾然，不待時節，通達現見，緣自覺知。尸婆！復有現法離熾然，不待時節，通達現見，緣自覺知，謂八正道——正見……乃至正定。</p>
+          </q>
+        </p>
+        <p>說是法時尸婆外道出家<anchor type="variant" n="fnT02p0253n05"/>遠塵離垢，得法眼淨。時尸婆外道出家見法、得法、知法、入法，<anchor type="variant" n="fnT02p0253n06"/>離諸狐疑，不由於他，入正法、律，得無所畏，即從坐起，整衣服，合掌白佛：<q who="moliyasivaka">
+            <p>世尊！我今<anchor type="variant" n="fnT02p0253n07"/>可得於正法、律出家、受具足，得比丘分耶？</p>
+          </q>
+        </p>
+        <p>佛告尸婆：<q who="gotamo">
+            <p>汝今得出家。</p>
+          </q>
+        </p>
+      </div>
+      <div type="closing">
+        <p>如上說，……乃至心善解脫，得阿羅漢。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

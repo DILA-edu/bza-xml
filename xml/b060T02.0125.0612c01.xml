@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 060. It is found in the 增壹阿含經 Sutra at T.02.0125.0612.</p>
+      </div>
+    </front>
+    <body xml:id="T02.0125.0612c01">
+      <anchor type="start" xml:id="t02.0125.0612c01"/>
+      <div type="parallel">
+        <p>聞如是。一時。佛在舍衛國祇樹給孤獨園。</p>
+        <p>爾時。舍衛城中<anchor type="variant" n="fnT02p0612n16"/>婆提長者遇病命終。然彼長者無有子息。所有財寶盡沒入官。爾時。王波斯匿塵土坌身來至世尊所。頭面禮足。在一面坐。</p>
+        <p>是時。世尊問王曰。大王。何故塵土坌身來至我所。波斯匿王白世尊曰。此舍衛城內有長者名婆提。今日命終。彼無<anchor type="variant" n="fnT02p0612n17"/>子姓。躬往收攝財寶。理使入官。純金八萬斤。況復餘雜物乎。然彼長者存在之日。<anchor type="variant" n="fnT02p0612n18"/>所食如此之食。極為<anchor type="variant" n="fnT02p0612n19"/>弊惡。不食精細。所著衣服垢坌不淨。所乘車騎極為瘦弱。世尊告曰。如是。大王。如王來言。夫慳貪之人得此財貨。不能<choice>
+            <sic>貪</sic>
+            <corr resp="CBETA">食</corr>
+          </choice>噉。不與父母‧妻子‧僕從‧奴婢。亦復不與朋友‧知識。亦復不與沙門‧婆羅門‧諸尊長者。若有智之士得此財寶。便能惠施廣濟。一切無所愛惜。供給沙門‧婆羅門‧諸高德者。</p>
+        <p>時。王波斯匿說曰。此婆提長者命終為生何處。世尊告曰。此婆提長者命終生<anchor type="variant" n="fnT02p0612n20"/>涕哭大地獄中。所以然者。此斷善根之人。身壞命終。生<anchor type="variant" n="fnT02p0612n20"/>涕哭地獄中。波斯匿王曰。婆提長者斷善根耶。世尊告曰。如是。大王。如王所說。彼長者斷於善根。然彼長者故福已盡。更不造新。王波斯匿曰。彼長者頗有遺餘福乎。世尊告曰。無也。大王。乃無毫釐之餘<anchor type="variant" n="fnT02p0612n21"/>有存在者。如彼田家公。但收不種。後<anchor type="variant" n="fnT02p0612n22"/>便窮困。漸以命終。所以然者。但食故業。更不造新。此長者亦復如是。但食故福。更不造新福。此長者今夜當在<anchor type="variant" n="fnT02p0612n20"/>涕哭地獄中。</p>
+        <p>爾時。波斯匿王便懷恐怖。<anchor type="variant" n="fnT02p0612n23"/>收淚而曰。此長者<pb ed="T" n="0613a"/>昔日作何功德福業生在富家。復作何不善根本。不得食此極富之貨。不樂五樂之中。爾時。世尊告波斯匿王曰。過去久遠迦葉佛時。此長者在此舍衛城中為田家子。爾時。佛去世後。有<anchor type="variant" n="fnT02p0613n01"/>辟支佛出世。往詣此長者家。爾時。此長者見辟支佛在門<anchor type="variant" n="fnT02p0613n02"/>外。見已。便生是念。如此尊者出世甚難。我今可以飲食往施此人。爾時。長者便施彼辟支佛<anchor type="variant" n="fnT02p0613n03"/>食。辟支佛得食已。便飛在虛空而去。時。彼長者見辟支佛作神足。作是誓願。持此善本之願。使<anchor type="variant" n="fnT02p0613n04"/>世世所生之處。不墮三惡趣。常多財<anchor type="variant" n="fnT02p0613n05"/>寶。後有悔心。我向所有食。應與奴僕。不與此禿頭道人使食。爾時。田家<anchor type="variant" n="fnT02p0613n06"/>長者豈異人乎。莫作是觀。所以然者。爾時田家長者。今<anchor type="variant" n="fnT02p0613n07"/>此婆提長者是。</p>
+        <p>是時施已。發此誓願。持此功德。所生之處不墮惡趣。恒多財饒寶。生富貴之家。無所渴乏。既復施已。後生悔心。我寧與奴僕使食。不與此禿頭道人使食。以此因緣本末。不得食此極有之貨。亦復不樂五樂之中。不自供養。復不與父母‧兄弟‧妻子‧僕從‧朋友‧知識。不施沙門‧婆羅門‧諸尊長者。但食故業。不造新者。是故。大王。若有智之士得此財貨。當廣布施。莫有所惜。復當得<anchor type="variant" n="fnT02p0613n08"/>無極之財。如是。大王。當作是學。</p>
+        <p>爾時。波斯匿王白世尊曰。自今<anchor type="variant" n="fnT02p0609n27"/>以後。當廣布施<anchor type="variant" n="fnT02p0613n09"/>沙門‧婆羅門四部之眾。諸外道‧異學來乞求者。我不堪與。世尊告曰。大王。莫作是念。所以然者。一切眾生皆由食得存。無食便喪。爾時。世尊便說此偈。</p>
+        <lg met="5">
+          <pb ed="T" n="0613b"/>
+          <l>念當廣惠施<caesura/>終莫斷施心</l>
+          <l>必當值<anchor type="variant" n="fnT02p0613n10"/>賢聖<caesura/>度此生死<anchor type="variant" n="fnT02p0613n11"/>源</l>
+        </lg>
+        <p>爾時。波斯匿王白世尊曰。我今倍<anchor type="variant" n="fnT02p0613n12"/>復歡慶<anchor type="variant" n="fnT02p0613n13"/>於向<anchor type="variant" n="fnT02p0613n14"/>如來。所以然者。一切眾生皆由食得存。無食不存。爾時。<anchor type="variant" n="fnT02p0613n15"/>波斯匿王曰。自今<anchor type="variant" n="fnT02p0609n27"/>以後。當廣惠施。無所悋惜。是時。世尊與王說微妙之法。時。王即從<anchor type="variant" n="fnT02p0601n12"/>坐起。頭面禮足。便退而去。</p>
+        <p>爾時。王波斯匿聞佛所說。歡喜奉行。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

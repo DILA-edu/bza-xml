@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-1081">
+      <anchor type="start" xml:id="tp0283a20"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住波羅<anchor type="variant" n="fnT02p0283n04"/>
+          <g ref="g006">[木*奈]</g>國鹿野苑中。</p>
+      </div>
+      <div type="main">
+        <p>爾時世尊晨朝著衣持鉢，入波羅<anchor type="variant" n="fnT02p0283n04"/>
+          <g ref="g006">[木*奈]</g>城乞食。時有異比丘，著衣持鉢，入城乞食，於其路邊住一樹下，起不善覺，以依惡貪。爾時世尊見彼比丘，住一樹下，以生不善覺，依惡貪嗜，而告之曰：</p>
+        <q who="gotamo">
+          <p>比丘！比丘！莫種苦種，而發<anchor type="variant" n="fnT02p0283n05"/>熏生臭，汁漏流出！若──比丘！──種苦種子，自<anchor type="variant" n="fnT02p0283n06"/>發生臭，汁漏流出者，欲令<anchor type="variant" n="fnT02p0283n07"/>蛆蠅不競集者，無有是處。</p>
+        </q>
+        <p>時彼比丘作是念：</p>
+        <q who="bhikkhu">
+          <p>世尊知我心之惡念！</p>
+        </q>
+        <p>即生恐怖，身<pb ed="T" n="0283b"/>毛皆竪。爾時世尊入城，乞食畢，還精舍，舉衣鉢，洗足已，入室坐禪。晡時從禪覺，至於僧中，於眾前敷座而坐，告諸比丘：</p>
+        <q who="gotamo">
+          <p>我今晨朝著衣持鉢，入城乞食，見一比丘，住於樹下，<anchor type="variant" n="fnT02p0283n08"/>以生不善覺，依惡貪嗜。我時見已，即告之言：<q who="gotamo">比丘！比丘！莫種苦種，發熏生臭，惡汁流出！若有比丘，種苦種子，發熏生臭，惡汁流出，<anchor type="variant" n="fnT02p0283n07"/>蛆蠅不集，無有是處。</q>時彼比丘即思念：<q who="bhikkhu">佛已知我心之所念！</q>慚愧恐怖，心驚毛竪，隨路而去。</p>
+        </q>
+        <p>時有異比丘，從坐起，整衣服，偏袒右肩，合掌白佛：</p>
+        <q who="bhikkhu">
+          <p>世尊！云何苦種？云何生臭？云何汁流？云何<anchor type="variant" n="fnT02p0283n07"/>蛆蠅？</p>
+        </q>
+        <p>佛告比丘：</p>
+        <q who="gotamo">
+          <p>忿怒、煩怨，名曰『苦種』。五欲功德，名為『生臭』。於六觸入處不攝律儀，是名『汁流』。謂觸入處不攝已，貪、憂、諸惡、不善心競生，是名『<anchor type="variant" n="fnT02p0283n07"/>蛆蠅』。</p>
+        </q>
+        <p>爾時世尊即說偈言：</p>
+        <q who="gotamo">
+          <lg met="5" xml:id="cgtn0099-1081a">
+            <l>耳目不防護<caesura/>貪欲從是生</l>
+            <l>是名為苦種<caesura/>生臭汁潛流</l>
+            <l>諸覺觀氣味<caesura/>依於惡貪嗜</l>
+            <l>聚落及空處<caesura/>若於晝若夜</l>
+            <l>遠離修梵行<caesura/>究竟於苦邊</l>
+            <l>若內心寂靜<caesura/>決定諦明了</l>
+            <l>臥覺常安樂<caesura/>諸惡<anchor type="variant" n="fnT02p0283n07"/>蛆蠅滅</l>
+            <l>正士所習近<caesura/>善說賢聖路</l>
+            <l>了知八正道<caesura/>不還更受身</l>
+          </lg>
+        </q>
+      </div>
+      <div type="closing">
+        <p>佛說此經已，諸比丘聞佛所說，歡喜奉行。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

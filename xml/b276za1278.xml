@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-1278">
+      <anchor type="start" xml:id="tp0351b12"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住<name type="place">王舍城</name>
+          <name type="place">迦蘭陀竹園</name>。</p>
+      </div>
+      <div type="main">
+        <p>時有<name type="person">
+            <anchor type="variant" n="fnT02p0351n08"/>瞿迦梨</name>比丘，是<name type="person">提婆達多</name>伴黨，來詣佛所，稽首佛足，退坐一面。爾時世尊告瞿迦梨比丘：</p>
+        <q who="gotamo">
+          <p>瞿迦<anchor type="variant" n="fnT02p0351n09"/>梨！汝何故於<name type="person">舍利弗</name>、<name type="person">目揵連</name>清淨梵行所，起不清淨心？長夜當得不饒益苦。</p>
+        </q>
+        <p>瞿迦梨比丘白佛言：<q who="kokaliya">
+            <p>世尊！我今信世尊語，所說無異，但舍利弗、大目揵連心有惡欲。</p>
+          </q>
+        </p>
+        <p> 如是第二、第三說，瞿迦梨比丘――提婆達多伴黨――於世尊所再三說中，違反不受，從座起去。<anchor type="variant" n="fnT02p0351n10"/>去已，其身周遍生諸<anchor type="variant" n="fnT02p0351n11"/>
+            疱瘡，皆如栗，漸漸增長，皆如桃李。
+                             時瞿迦梨比丘患苦痛，口說是言：
+          </p>
+        <q who="kokaliya">
+          <p>極燒！極燒！</p>
+        </q>
+        <p>膿血流出，身壞命終，生大<anchor type="variant" n="fnT02p0351n12"/>鉢曇摩地獄。</p>
+        <p>時有三天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。時一天子白佛言：</p>
+        <q who="devata">
+          <p>瞿迦梨比丘――提婆達多伴黨――今已命終。</p>
+        </q>
+        <p>
+          <anchor type="variant" n="fnT02p0351n13"/>時，第二天子作是言：<q who="devata">
+            <p>諸尊當知：瞿迦梨比丘命終墮地獄中。</p>
+          </q>
+        </p>
+        <p>第三天子即說偈言：</p>
+        <q who="devata">
+          <lg met="5" xml:id="cgtn0099-1277a">
+            <l>
+              <pb ed="T" n="0351c"/>士夫生世間<caesura/>斧在口中生</l>
+            <l>還自斬其身<caesura/>斯由其惡言</l>
+            <l>應毀便稱譽<caesura/>應譽而便毀</l>
+            <l>其罪生於口<caesura/>死墮惡道中</l>
+            <l>博弈亡失財<caesura/>是非為大咎</l>
+            <l>毀佛及聲聞<caesura/>是則為大過</l>
+          </lg>
+        </q>
+        <p>彼三天了說是偈已，即沒不現。</p>
+        <p>爾時世尊夜過晨朝，來入僧中，於大眾前敷座而坐，告諸比丘：
+                 <q who="gotamo">
+            <p>昨後夜時有三天子來詣我所，稽首我足，退坐一面。第一天子語我言：『世尊！瞿迦梨比丘――提婆達多伴黨――今已命終。』第二天子語餘天<anchor type="variant" n="fnT02p0351n14"/>子言：『瞿迦梨比丘命終墮地獄中。』第三天子即說偈言：<q who="devata">
+                <lg met="5" xml:id="cgtn0099-1277b">
+                  <l>士夫生世間<caesura/>斧在口中生</l>
+                  <l>還自斬其身<caesura/>斯由其惡言</l>
+                  <l>應毀便稱譽<caesura/>應譽而便毀</l>
+                  <l>其罪口中生<caesura/>死則墮惡道</l>
+                </lg>
+              </q>
+                     說是偈已，即沒不現。諸比丘！汝等欲聞生<anchor type="variant" n="fnT02p0351n15"/>阿浮陀地獄眾生其壽齊限不？</p>
+          </q>
+        </p>
+        <p>諸比丘白佛：<q who="bhikkhavo">
+            <p>今正是時唯願世尊為諸大眾說阿浮陀地獄眾生壽命齊限。諸比丘聞已。當受奉行。</p>
+          </q>
+        </p>
+        <p>佛告比丘：<q who="gotamo">
+            <p>諦聽！善思！善為汝說。譬如<name type="place">拘薩羅國</name>，四<anchor type="variant" n="fnT02p0351n16"/>斗為一阿羅，四阿羅為一獨籠那，十六獨籠那為一闍摩那，十六闍摩那為一摩尼，二十摩尼為一佉梨，二十佉梨為一倉，滿中芥子。若使有人百年<anchor type="variant" n="fnT02p0351n17"/>百年取一芥子，如是乃至滿倉芥子都盡，阿浮陀地獄眾生壽命猶故不盡。如是二十阿浮陀地獄眾生壽等一<anchor type="variant" n="fnT02p0351n18"/>尼羅浮陀地獄眾生壽，二十尼<pb ed="T" n="0352a"/>羅浮陀地獄眾生壽等一<anchor type="variant" n="fnT02p0352n01"/>阿吒吒地獄眾生壽，二十阿吒吒地獄眾生壽等一<anchor type="variant" n="fnT02p0352n02"/>阿波波地獄眾生壽，二十阿波波地獄眾生壽等一<anchor type="variant" n="fnT02p0352n03"/>阿休休地獄眾生壽，二十阿休休地獄眾生壽等一<anchor type="variant" n="fnT02p0352n04"/>
+                優缽羅地獄眾生壽，二十優缽羅地獄眾生壽等一缽曇摩地獄眾生壽，二十缽曇摩地獄眾生壽等一摩訶缽曇摩地獄眾生壽。
+                                 比丘！彼瞿迦梨比丘命終墮摩訶缽曇摩地獄中，以彼於尊者舍利弗、大目揵連比丘生惡心、誹謗故。是故，諸比丘！當作是學：於
+              <anchor type="variant" n="fnT02p0352n05"/>彼燒燋<anchor type="variant" n="fnT02p0352n06"/>炷所，尚不欲毀壞，況毀壞有識眾生？</p>
+          </q>
+        </p>
+        <p>佛告諸比丘：<q who="gotamo">
+            <p>當如是學！</p>
+          </q>
+        </p>
+      </div>
+      <div type="closing">
+        <p>佛說此經已，諸比丘聞佛所說，歡喜奉行！</p>
+      </div>
+    </body>
+  </text>
+</TEI>

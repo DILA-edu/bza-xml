@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum
+                              Buddhist College 法鼓佛教研修學院.
+        </title>
+        <funder>
+          Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會
+        </funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist
+                              College 法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>
+            Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉,
+                                    Chueh Hui-chen 闕慧貞
+          </name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>
+          This is the default header for all files in the database. Files which contain
+                              gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.
+        </p>
+        <p>
+          The project was conducted 2005-2008. Some minor revisions and additions were done
+                              in 2009.
+        </p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                    Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                    text lies with the Vipassana Research Institute. Copyright for the Sanskrit
+                                    text lies with Fumio Enomoto. Copyright for the English text lies with
+                                    Marcus Bingenheimer. The Tibetan and Manchu texts are in the public realm.
+                                    The digital edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                    (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                    (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                    comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding
+                                    to the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                    literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly
+                                publications (as referenced). English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the
+                              Bieyi za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies
+                              中華佛學研究所 and the Dharma Drum Buddhist College 法鼓佛教研修學院. The project is funded by
+                              the Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會. The aim of the project is to produce a comparative digital edition
+                              and partial translation of the 364 sutras of the BZA and their parallels. The
+                              texts are kept in single files in an eXist database and are realized via XQuery
+                              and XSLT as HTML for the online user. The project lasts from 2005-2008. For any
+                              changes after 2008 see the revision description.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                              attribute on the containing elements
+        </p>
+        <p>
+          BZA: New Punctuation. Markup of person and place names. Verse and prose.
+                              References to the print edition (Taishō). Corrected characters (according to
+                              CBETA).
+        </p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō).</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA. Verse and
+                              Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan: Parallel and not-parallel divisions regarding the BZA.
+                              Verse and Prose. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="bza121">
+      <anchor type="start" xml:id="Tp0419b14"/>
+      <div type="opening" xml:id="obza121">
+        <p n="bza121.01">如是我聞：一時佛在<name type="place">舍衛國</name>
+          <name type="place">祇樹給孤獨園</name>。</p>
+      </div>
+      <div type="main" xml:id="mbza121">
+        <p n="bza121.02">爾時尊者<name type="person">摩訶迦葉</name>住舍衛國西園林中<name type="place">毘舍佉講堂</name>。彼大迦葉於日沒時從禪定起，往詣佛所，頂禮佛足，在一面坐，而白佛言：</p>
+        <q who="kassapo">
+          <p n="bza121.03">世尊！以何因緣如來初始制戒之時極為尠少，修行者多？今日何故制戒轉增，履行者少？</p>
+        </q>
+        <p n="bza121.04">佛告迦葉：</p>
+        <q who="gotamo">
+          <p n="bza121.05">如是，如是，眾生命濁、結使濁、眾生濁、劫濁、見濁。眾生轉惡，正法亦<app n="fnT02p0419n07">
+              <lem wit="【大】">末</lem>
+              <rdg resp="Taisho" wit="【宋】">未</rdg>
+            </app>末。是故如來為諸弟子多制禁戒，少有比丘能順佛語，受持禁戒。諸眾生等漸漸退沒。譬如金寶，漸漸損減，至相似金出。如來正法亦復如是，漸漸損減，像法乃出。像法出故，正法滅沒。迦葉！當知：譬如海中所有船舫，多載眾寶，船必沈沒。如來教法亦復如是，以漸滅沒。如來正法不因地沒，亦非水、火、風之所壞。若我法中生於惡欲，行惡威儀，成就眾<pb ed="T" xml:id="T02.0100.0419c" n="0419c"/>惡，法言非法，非法言法；非是<app n="fnT02p0419n08">
+              <lem wit="【大】">毘尼</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">比丘</rdg>
+            </app>毘尼說言<app n="fnT02p0419n08">
+              <lem wit="【大】">毘尼</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">比丘</rdg>
+            </app>毘尼；犯說非犯，非犯說犯；輕罪說重，重罪說輕，如斯之事出於世者，皆由像法句味相似，令佛正法漸漸滅沒。迦葉！當知：有五因緣，能令法滅，一切咸共忘失章句，善法退轉。何等為五？不恭敬佛、不尊重佛、不供養佛、不能至心歸命於佛，然復依止佛法而住。不敬法、不尊重法、不供養法，於正法中不能至心，然依法住。不恭敬戒、不尊重戒、不供養戒、不能至心持所受戒，然依戒住。不恭敬教授、不尊重教授、不供養教授、不能至<app n="fnT02p0419n09">
+              <lem wit="【大】">心</lem>
+              <rdg resp="Taisho" wit="【宋】【元】"/>
+            </app>心向教授者，以不恭敬、尊重、供養，亦不至心向教授故，然復依此教授而住。於同梵行──佛所讚者──不恭敬、不尊重、不供養、不能至心禮拜問訊，然猶依彼而得安住。迦葉！以此上來五因緣故，能令正法漸漸滅沒，衰退忘失。迦葉！復有五因緣故，能令正法久住於世，不沒不退，不忘不失。何等為五？恭敬世尊、尊重於佛、供養於佛，常能至心歸依於佛。於法、於戒及以教授、同梵行者亦應供養、恭敬、尊重、至心向之。以此五種善因緣故，能使正法久住於世，不沒不退，不忘不失。以是義故，應當恭敬佛、法、教<app n="fnT02p0419n10">
+              <lem wit="【大】">授</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">法</rdg>
+            </app>授、同梵行者。</p>
+        </q>
+      </div>
+      <div type="closing" xml:id="cbza121">
+        <p n="bza121.06">諸比丘等聞佛所說，歡喜奉行。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 018. It is found in the 佛說蟻喻經 Sutra at T.01.0095.0918.</p>
+      </div>
+    </front>
+    <body xml:id="T01.0095.0918b25">
+      <anchor type="start" xml:id="t01.0095.0918b25"/>
+      <div type="parallel">
+        <p>爾時世尊。放大光明普照耀已。告苾芻眾言。汝等當知。於一時中有諸蟻聚。夜中出煙。晝日火然。有一婆羅門。見是事已。乃作是言。若有執持快利刀者。必能破散其聚。如是言已。次復見一大龜。其婆羅門亦作是言。若有執<pb ed="T" n="0918c"/>持快利刀者。必能破壞。次見諸水母蟲。次見一水蛭蟲。次見諸阿西蘇那蟲。次見一大蛇。次見一挼陀鉢他蟲。次見一<g ref="g018">[昝-人+几]</g>哥嚩吒蟲。其婆羅門見彼諸蟲已。皆如前言。最後見一大龍。婆羅門言。如我所見其事云何。唯佛世尊悉能了知。即時往詣一苾芻所。具陳上事。復言。苾芻。汝以此事為我問佛。使我疑心而得開曉。如佛所說我當憶持。何以故。苾芻。我不見彼天人世間沙門婆羅門眾中有以此義能問佛者。是故不能使諸疑心而得開曉。</p>
+        <p>時彼苾芻即如其言。來詣我所。到已禮足退住一面。具陳上事已復發問言。如婆羅門所見蟻聚。其事云何。夜中出煙晝日火然。此復云何。又見大龜水母蟲水蛭蟲阿西蘇那蟲大蛇挼陀鉢他蟲<g ref="g018">[昝-人+几]</g>哥嚩吒蟲大龍。此等所見皆是何相。即彼婆羅門復是何人。何故名為利刀破散。願佛為說。</p>
+        <p>諸苾芻我時謂彼苾芻言。其蟻聚者。即是一切眾生五蘊聚身。夜中出煙者。即是眾生起諸尋伺。晝日火然者。即是眾生隨所尋伺起身語業。大龜者。即是五鄣染法。水母蟲者。即是忿恚。水蛭蟲者即是慳嫉。阿西蘇那蟲者。即是五欲之法。蛇者即是無明。挼陀鉢他蟲者。是疑惑。<g ref="g018">[昝-人+几]</g>哥嚩吒蟲者。是我慢。龍者即是諸阿羅漢。婆羅門者。即是如來應供正等正覺。快利者。即是有智之人。刀者即是智慧。破散者。即是發起精進勝行。諸苾芻。於汝意云何。彼所見相以要言之。即是一切眾生五蘊聚身羯邏藍等。父母不淨之所出生。四大合成。虛假色相。麁惡劣<pb ed="T" n="0919a"/>弱。積集苦惱畢竟破壞。而諸眾生不能覺知。於晝夜中起諸尋伺。而身語業不善施作。五鄣煩惱之所覆蔽。耽著五欲。增長無明。生我慢心。於諸聖法疑惑不決。忿恚慳嫉。念念發起。不求解脫。是故如來應供正等正覺。欲令諸有智者發精進行。修習智慧。斷諸煩惱。趣證聖果。汝諸苾芻。已盡諸漏證阿羅漢果。故說如龍。</p>
+      </div>
+      <div type="not-parallel">
+        <p>復次諸苾芻。過去未來諸佛世尊。悲愍利樂一切眾生。欲令斷諸煩惱趣證聖果。為諸聲聞廣說是義。我於今日亦如諸佛。乃以此緣為汝宣說。汝諸苾芻。憶念是事。當於曠野空舍山間樹下巖穴菴室諸寂靜處。諦心思惟觀察是義。無令放逸生退轉心。亦復轉為他人開示教導。普令修習得大利樂。</p>
+      </div>
+      <div type="parallel">
+        <p>爾時世尊為諸苾芻如是說已。而諸苾芻。皆悉信受。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

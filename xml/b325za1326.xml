@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-1326">
+      <anchor type="start" xml:id="tp0364b21"/>
+      <div type="opening">
+        <p>如是我聞：一時佛在<name type="place">摩竭提國</name>人間游行，到<name type="person">阿臈鬼</name>住處夜宿。</p>
+      </div>
+      <div type="main">
+        <p>時阿臈鬼集會諸鬼神。時有竭曇鬼見世尊在阿臈鬼住處夜宿。見已，至阿臈鬼所，語阿臈鬼言：<q who="竭曇鬼">
+            <p>聚落主！汝獲大利，如來宿汝住處。</p>
+          </q>
+        </p>
+        <p>阿臈鬼言：<q who="alavakayakkha">
+            <p>生人今日在我舍住耶？今當令知，為是如來？為非如來？</p>
+          </q>
+        </p>
+        <p>時阿臈鬼諸鬼神聚會畢，還歸自家，語世尊曰：<q who="alavakayakkha">
+            <p>出去！沙門！</p>
+          </q>
+        </p>
+        <p>爾時世尊以他家故，即出其舍。阿臈鬼復言：<q who="alavakayakkha">
+            <p>沙門！來入！</p>
+          </q>
+        </p>
+        <pb ed="T" n="0364c"/>
+        <p>佛即還入。以滅慢故，如是再三。</p>
+        <p>時阿臈鬼第四復語世尊言：<q who="alavakayakkha">
+            <p>沙門！出去！</p>
+          </q>
+        </p>
+        <p>爾時世尊語阿臈鬼言：<q who="gotamo">
+            <p>聚落主！已三見請，今不復出。</p>
+          </q>
+        </p>
+        <p>阿臈鬼言：<q who="alavakayakkha">
+            <p>今問沙門，沙門答我，能令我喜者善，不能令我喜者，我當壞其心，裂其胸，亦令熱血從其面出，執持兩手擲著恒水彼岸！</p>
+          </q>
+        </p>
+        <p>世尊告言：<q who="gotamo">
+            <p>聚落主！我不見諸天、魔、梵、沙門、婆羅門、天神、世人，有能壞我心，裂我胸，令我熱血從面而出，執持兩手擲著恒水彼岸者。然，聚落主！汝今但問，當為汝說，令汝心喜。</p>
+          </q>
+        </p>
+        <p>時阿臈鬼說偈問佛：</p>
+        <q who="alavakayakkha">
+          <lg met="5" xml:id="cgtn0099-1326a">
+            <l>說何等名為<caesura/>勝士夫事物</l>
+            <l>行於何等法<caesura/>得安樂果報</l>
+            <l>何等為美味<caesura/>云何壽中勝</l>
+          </lg>
+        </q>
+        <p>爾時世尊說偈答言：</p>
+        <q who="gotamo">
+          <lg met="5" xml:id="cgtn0099-1326b">
+            <l>淨信為最勝<caesura/>士夫之事物</l>
+            <l>行法得樂果<caesura/>解脫味中上</l>
+            <l>智慧除老死<caesura/>是為壽中勝</l>
+          </lg>
+        </q>
+        <p>時阿臈鬼復說偈言：</p>
+        <q who="alavakayakkha">
+          <lg met="5" xml:id="cgtn0099-1326c">
+            <l>云何得名稱<caesura/>如上所說偈</l>
+          </lg>
+        </q>
+        <p>爾時世尊說偈答言：</p>
+        <q who="gotamo">
+          <lg met="5" xml:id="cgtn0099-1326d">
+            <l>持戒名稱流<caesura/>如上所說偈</l>
+          </lg>
+        </q>
+        <p>時阿臈鬼復說偈言：</p>
+        <q who="alavakayakkha">
+          <lg met="5" xml:id="cgtn0099-1326e">
+            <l>幾法起世間<caesura/>幾法相順可</l>
+            <l>世幾法取受<caesura/>世幾法損減</l>
+          </lg>
+        </q>
+        <p>爾時世尊以偈答言：</p>
+        <q who="gotamo">
+          <lg met="5" xml:id="cgtn0099-1326f">
+            <l>世六法等起<caesura/>六法相順可</l>
+            <l>世六法取受<caesura/>世六法損減</l>
+          </lg>
+        </q>
+        <p>阿臈鬼復說偈問佛：</p>
+        <pb ed="T" n="0365a"/>
+        <q who="alavakayakkha">
+          <lg met="5" xml:id="cgtn0099-1326g">
+            <l>誰能度諸流<caesura/>晝夜勤方便</l>
+            <l>無攀無住處<caesura/>孰能不沈沒</l>
+          </lg>
+        </q>
+        <p>爾時世尊說偈答言：</p>
+        <q who="gotamo">
+          <lg met="5" xml:id="cgtn0099-1326h">
+            <l>一切戒具足<caesura/>智慧善正受</l>
+            <l>正念內思惟<caesura/>能度難度流</l>
+            <l>不樂於五欲<caesura/>亦超度色愛</l>
+            <l>無攀無住處<caesura/>是能不沒溺</l>
+          </lg>
+        </q>
+        <p>時阿臈鬼復說偈問佛：</p>
+        <q who="alavakayakkha">
+          <lg met="5" xml:id="cgtn0099-1326i">
+            <l>以何法度流<caesura/>以何度大海</l>
+            <l>以何捨離苦<caesura/>以何得清淨</l>
+          </lg>
+        </q>
+        <p>爾時世尊說偈答言：</p>
+        <q who="gotamo">
+          <lg met="5" xml:id="cgtn0099-1326j">
+            <l>以信度河流<caesura/>不放逸度海</l>
+            <l>精進能<anchor type="variant" n="fnT02p0365n01"/>除苦<caesura/>以慧得清淨</l>
+            <l>汝當更問餘<caesura/>沙門梵志法</l>
+            <l>其法無有過<caesura/>真諦施調伏</l>
+          </lg>
+        </q>
+        <p>時阿臈鬼復說偈問佛：</p>
+        <q who="alavakayakkha">
+          <lg met="5" xml:id="cgtn0099-1326k">
+            <l>何煩更問餘<caesura/>沙門梵志法</l>
+            <l>即曰最勝士<caesura/>以顯大法炬</l>
+            <l>於彼竭曇摩<caesura/>常當報其恩</l>
+            <l>告我等正覺<caesura/>無上<anchor type="variant" n="fnT02p0365n02"/>導御師</l>
+            <l>我即日當行<caesura/>從村而至村</l>
+            <l>親侍等正覺<caesura/>聽受所說法</l>
+          </lg>
+        </q>
+      </div>
+      <div type="closing">
+        <p>佛說此經已，阿臈鬼歡喜隨喜，作禮而去。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

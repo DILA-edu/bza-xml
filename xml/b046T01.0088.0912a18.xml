@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 046. It is found in the 優陂夷墮舍迦經 Sutra at T.01.0088.0912.</p>
+      </div>
+    </front>
+    <body xml:id="T01.0088.0912a18">
+      <anchor type="start" xml:id="t01.0088.0912a18"/>
+      <div type="not-parallel">
+        <p>聞如是。一時佛在舍衛國止城東出。有女人子字蕪耶樓。人呼為蕪耶樓母。佛在蕪耶樓母家殿上坐。有一女人奉持教戒。字墮舍迦以月十五日朝起沐浴。有七子婦皆使沐浴著好衣。日未中因飯。飯已澡手。將七子婦至佛所前為佛作禮。佛言就座。皆却就座。佛問優<anchor type="variant" n="fnT01p0912n06"/>陂夷墮舍迦。今日何等沐浴著好衣。與子婦俱至佛所。墮舍迦言。今日十五日我齋戒。我聞一月當六齋。我與子婦俱共齋不敢懈慢。佛告墮舍迦。佛正齋法有八戒。使人得度世道。不復墮三惡處。所生常有福祐。亦從八戒本因緣致成佛。</p>
+        <p>
+          <pb ed="T" n="0912b"/>何等為佛正齋法。是間有賢善人持戒。一月六日齋。月八日一齋。十四日一齋。十五日一齋。二十三日一齋。二十九日一齋。三十日一齋。齋日朝起告家中言。今日我身齋。家中今一日。且莫飲酒莫鬪諍莫道說錢財。家中事意所念口所說。當如阿羅漢。阿羅漢無殺意。齋日持戒亦當如阿羅漢。無殺意無捶擊意。念畜生及虫蛾。使常生如阿羅漢意。是為一戒。今日與夜持殺意使不得殺。持意如是為佛一戒。</p>
+        <p>佛言。齋日持意當如阿羅漢無貪心。無所貪慕於世間。無貪毛菜之意。齋日如是持意如阿羅漢。富有者。當念作布施。貧無有者。當當念施。是為二戒。
+                    佛言。齋日持意當如阿羅漢。阿羅漢不畜婦亦不念婦。亦不貪女人亦無婬意。齋日如是持意如阿羅漢。是為三戒。
+                    佛言。齋日持意當如阿羅漢。<anchor type="variant" n="fnT01p0912n07"/>
+            不妄語不傷人意。語即說佛經。不語者但念諸善。齋日如是持意如阿羅漢。是為四戒。
+                                佛言。齋日持意當如阿羅漢。阿羅漢不飲酒。不念酒不思酒。用酒為惡。齋日如是持意如阿羅漢。是為五戒。
+                                佛言。齋日持意當如阿羅漢。阿羅漢意不在歌舞。聞亦不喜音樂聲。亦不在香華氣。齋日如是持意如阿羅漢。是為六戒。
+                                佛言。齋日持意當如阿羅漢。阿羅漢不於高好床臥。意亦不念高好床上臥。齋日如是持意如阿羅漢。是為七戒。
+          <pb ed="T" n="0912c"/>佛言。齋日持意當如阿羅漢。阿羅漢日中<anchor type="variant" n="fnT01p0912n08"/>及食。日中已後至明不得復食。得飲蜜漿。齋日如是持意如阿羅漢。是為八戒。</p>
+        <p>佛<anchor type="variant" n="fnT01p0912n09"/>復告優<anchor type="variant" n="fnT01p0912n04"/>陂夷墮舍迦。是間有人頭髮有垢自沐其頭。沐已其人便喜言。我頭垢已去。有人持八戒一日一夜者。明日即喜。喜者便<anchor type="variant" n="fnT01p0912n10"/>念佛經戒廼如是。其有人心中有惡意即去善意即還。</p>
+        <p>佛言。有人身體饒垢入水中治。身垢皆去出水即喜言。我垢去身輕。其有人齋戒一日一夜。明日即喜念佛正語。自念當何時得道。使我心不復動不復走。使我心一志無為之道。佛言。有人衣多垢。以得灰浣之垢去。其人即喜。其有人齋戒一日一夜。明日即喜。便念比丘僧言。比丘僧中。有須陀洹斯陀含阿那含阿羅漢。念比丘僧如是。</p>
+        <p>佛言。如人有鏡鏡有垢。磨去其垢鏡即明。其有人齋戒一日一夜。有慈心於天下。心開如明如鏡者。不當有瞋怒意。其有人一日一夜齋戒。閱哀天下。淨心自思自端其意。自思念身中惡露如是。如是者不當復瞋怒。</p>
+        <p>佛告優<anchor type="variant" n="fnT01p0912n04"/>陂夷墮舍迦。持八戒齋一日一夜不失者。勝持金銀珠璣施與比丘僧也。天下有十六大國。一者名鴦迦。二者名摩竭。三者名迦夷。四者名拘薛羅。五者名鳩溜。六者名般闍荼。七者名阿波耶。八者名阿洹提渝。九者名脂提渝。十者名越祇渝。十一者名速摩。十二者名速賴吒。十三者名越蹉。十四者名末羅。十五者名渝匿。十六者名劍善提。是十六<pb ed="T" n="0913a"/>大國中珍寶物施與比丘僧。不如齋戒一日一夜也。齋戒使人得度世道。以財寶施與。不能使人得道。今我得佛道本從是八戒起。</p>
+        <p>佛告墮舍迦。天下人多憂家事。我用是故。使一月六齋持八戒。若有賢善人。欲急得阿羅漢道者。若欲疾得佛道<anchor type="variant" n="fnT01p0913n01"/>者。若欲生天上者能自端其心一其意者。一月十五日齋亦善。二十日齋亦善。人多憂家事故與一月六齋。六日齋者。譬如海水不可斛量。其有齋戒一日一夜者。其福不可計。佛告墮舍迦。且將子婦歸。誦念是正齋法八戒也。優<anchor type="variant" n="fnT01p0913n02"/>陂夷墮舍迦。前為佛作禮而去。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

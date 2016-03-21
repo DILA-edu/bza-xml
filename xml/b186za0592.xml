@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-0592">
+      <anchor type="start" xml:id="tp0157b18"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住王舍城<anchor type="variant" n="fnT02p0157n06"/>寒林<anchor type="variant" n="fnT02p0157n07"/>中丘塚間。</p>
+      </div>
+      <div type="main">
+        <p>時給孤獨長者有小因緣至王舍城，止宿長者舍。夜見長者告其妻子、僕使、作人言：<q who="護彌長者">
+            <p>汝等皆起，破樵<anchor type="variant" n="fnT02p0030n01"/>然火，炊飯<anchor type="variant" n="fnT02p0157n08"/>
+              <g ref="g000">[麩-夫+并]</g>調和眾<anchor type="variant" n="fnT02p0157n09"/>味，莊嚴堂舍。</p>
+          </q>
+        </p>
+        <p>給孤獨長者見已，作是念：<q who="anathapindika">
+            <p>今此長者何所為作？為嫁女娶婦耶？為請賓客、國王、大臣耶？</p>
+          </q>念已，即問長者：<q who="anathapindik">
+            <p>汝何所作？為嫁女娶婦？為請賓客、國王、大臣耶？</p>
+          </q>
+        </p>
+        <p>時彼長者答給孤獨長者言：<q who="護彌長者">
+            <p>我不嫁女娶婦，亦不請呼國王、大臣，唯欲請佛及比丘僧，設供養耳。</p>
+          </q>
+        </p>
+        <p>時給孤獨長者聞未曾聞佛名字已，心大歡喜，身諸毛孔皆悉怡<pb ed="T" n="0157c"/>悅，問彼長者言：<q who="anathapindika">
+            <p>何名為佛？</p>
+          </q>
+        </p>
+        <p>長者答言：<q who="護彌長者">
+            <p>有沙門瞿曇，是釋種子，於釋種中剃除鬚髮，著袈裟衣，正信、非家、出家學道，得阿耨多羅三藐三菩提，是名為佛。</p>
+          </q>
+        </p>
+        <p>給孤獨長者言：<q who="anathapindika">
+            <p>云何名僧？</p>
+          </q>
+        </p>
+        <p>彼長者言：<q who="護彌長者">
+            <p>若婆羅門種剃除鬚髮，著袈裟衣，信家、非家，而隨佛出家；或剎利種、毘舍種、首陀羅種善男子等剃除鬚髮，著袈裟衣，正信、非家，彼佛出家而隨出家，是名為僧。今日請佛及現前僧，設諸供養。</p>
+          </q>
+        </p>
+        <p>給孤獨長者問彼長者言：<q who="anathapindika">
+            <p>我今可得往見世尊不？</p>
+          </q>
+        </p>
+        <p>彼長者答言：<q who="護彌長者">
+            <p>汝且住此，我請世尊來至我舍，於此得見。</p>
+          </q>
+        </p>
+        <p>時給孤獨長者即於其夜至心念佛，因得睡眠。天猶未明，忽見明相，謂天已曉，欲出其舍，行向城門，至城門下，夜始二更，城門未開――王家常法，待遠使命來往，至初夜盡，城門乃閉，中夜已盡，輒復開門，欲令行人早得往來。
+                 爾時給孤獨長者見城門開，而作是念：<q who="anathapindika">
+            <p>定是夜過天曉門開。</p>
+          </q>
+        </p>
+        <p>乘明相出於城門，出城門已，明相即滅，輒還闇冥。給孤獨長者心即恐怖，身毛為豎：得無為人及非人，或姦<anchor type="variant" n="fnT02p0157n10"/>
+            姣人恐怖我耶？即便欲還。
+                             爾時城門側有天神住。時彼天神即放身光，從其城門至寒林丘塚間光明普照，告給孤獨長者言：
+          </p>
+        <p>
+          <q who="sivaka">
+            <p>汝且前進，可得勝利，慎勿退還！</p>
+          </q>
+        </p>
+        <p>時彼天神即說偈言：</p>
+        <q who="sivaka">
+          <lg met="5" xml:id="cgtn0099-0592a">
+            <l>善良馬百匹<caesura/>黃金滿百斤</l>
+            <l>騾車及馬車<caesura/>各各有百乘</l>
+            <l>種種諸珍奇<caesura/>重寶載其上</l>
+            <l>
+              <pb ed="T" n="0158a"/>宿命種善根<caesura/>得如此福報</l>
+            <l>若人宗重心<caesura/>向佛行一步</l>
+            <l>十六分之一<caesura/>過前福之上</l>
+          </lg>
+        </q>
+        <p>
+          <q who="sivaka">
+            <p>是故，長者！汝當前進，慎勿退還！</p>
+          </q>即復說偈：</p>
+        <q who="sivaka">
+          <lg met="5" xml:id="cgtn0099-0592b">
+            <l>雪山大龍象<caesura/>純金為莊飾</l>
+            <l>巨身長大牙<caesura/>以此象施人</l>
+            <l>不及向佛福<caesura/>十六分之一</l>
+          </lg>
+        </q>
+        <p>
+          <q who="sivaka">
+            <p>是故，長者！當速前進，得其大利，非退還也。</p>
+          </q>復說偈言：</p>
+        <q who="sivaka">
+          <lg met="5" xml:id="cgtn0099-0592c">
+            <l>金菩闍國女<caesura/>其數有百人</l>
+            <l>種種眾妙寶<caesura/>瓔珞具莊嚴</l>
+            <l>以<anchor type="variant" n="fnT02p0158n01"/>是持施與<caesura/>不及行向佛</l>
+            <l>一步之功德<caesura/>十六分之一</l>
+          </lg>
+        </q>
+        <p>
+          <q who="sivaka">
+            <p>是故，長者！當速前進，得其勝利，非退還也。</p>
+          </q>
+        </p>
+        <p>時給孤獨長者問天神言：<q who="anathapindika">
+            <p>賢者！汝是何人？</p>
+          </q>
+        </p>
+        <p>天神答言：<q who="sivaka">
+            <p>我是摩頭息揵大摩那婆先，是長者善知識，於尊者舍利弗、大目揵連所起信敬心，緣斯功德，今得生天，典此城門，是故告長者：<q who="sivaka">但當進前，慎<anchor type="variant" n="fnT02p0158n02"/>莫退還！前進得利，非退還也！</q>
+            </p>
+          </q>
+        </p>
+        <p>時給孤獨長者作是念：<q who="anathapindika">
+            <p>佛興於世，非為小事；得聞正法，亦非小事，是故天神勸我令進，往見世尊。</p>
+          </q>
+        </p>
+        <p>時給孤獨長者尋其光明，逕至寒林丘塚間。爾時世尊出房<anchor type="variant" n="fnT02p0158n03"/>露地經行，給孤獨長者遙見佛已，即至其前，以俗人禮法恭敬問訊：<q who="anathapindika">
+            <p>云何，世尊！安隱臥不？</p>
+          </q>
+        </p>
+        <p>爾時世尊說偈答<anchor type="variant" n="fnT02p0158n04"/>言：</p>
+        <q who="gotamo">
+          <lg met="5" xml:id="cgtn0099-0592d">
+            <l>婆羅門涅槃<caesura/>是則常安樂</l>
+            <l>
+              <anchor type="variant" n="fnT02p0158n05"/>愛欲所不染<caesura/>解脫永無餘</l>
+            <l>斷一切希望<caesura/>調伏心熾然</l>
+            <l>
+              <pb ed="T" n="0158b"/>心得寂止息<caesura/>止息安隱眠</l>
+          </lg>
+        </q>
+        <p>爾時世尊將給孤獨長者往入房中，就座而坐，端身繫念。爾時世尊為其說法，示教照喜已，世尊說：<q who="gotamo">
+            <p>諸法無常，宜布施福事、持戒福事、生天福事，欲味、欲患、欲出，遠離之福。</p>
+          </q>
+        </p>
+        <p>給孤獨長者聞法、見法、得法、入法、解法，度諸疑惑，不由他信，不由他度，入正法、律，心得無畏，即從座起，正衣服，為佛作禮，右膝著地，合掌白佛言：<q who="anathapindika">
+            <p>已度，世尊！已度，善逝！我從今日盡其壽命，歸佛、歸法、歸比丘僧，為優婆塞，證知我！</p>
+          </q>
+        </p>
+        <p>爾時世尊問給孤獨長者：<q who="gotamo">
+            <p>汝名何等？</p>
+          </q>
+        </p>
+        <p>長者白佛：<q who="anathapindika">
+            <p>名<anchor type="variant" n="fnT02p0158n06"/>須達多，以常給孤貧辛苦故，時人名我為給孤獨。</p>
+          </q>
+        </p>
+        <p>世尊復問：<q who="gotamo">
+            <p>汝居何處？</p>
+          </q>
+        </p>
+        <p>長者白佛言：<q who="anathapindika">
+            <p>世尊！在拘薩羅人間，城名舍衛，唯願世尊來舍衛國，我當盡壽供養衣被、飲食、房舍、床臥、隨病湯藥。</p>
+          </q>
+        </p>
+        <p>佛問長者：<q who="gotamo">
+            <p>舍衛國有精舍不？</p>
+          </q>
+        </p>
+        <p>長者白佛：<q who="anathapindika">
+            <p>無也，世尊！</p>
+          </q>
+        </p>
+        <p>佛告長者：<q who="gotamo">
+            <p>汝可於彼建立精舍，令諸比丘往來宿止。</p>
+          </q>
+        </p>
+        <p>長者白佛：<q who="anathapindika">
+            <p>但使世尊來舍衛國，我當造作精舍僧房，令諸比丘往來止住。</p>
+          </q>
+        </p>
+        <p>爾時世尊默然受請。</p>
+      </div>
+      <div type="closing">
+        <p>時長者知佛世尊默然受請已，從座起，稽首佛足而去。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-1308">
+      <anchor type="start" xml:id="tp0359b22"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住<name type="place">王舍城</name>
+          <name type="place">毘富羅山</name>側。</p>
+      </div>
+      <div type="main">
+        <p>有六天子，本為外道出家，一名<name type="person">阿毘浮</name>、二名<name type="person">增上阿毘浮</name>、三名<anchor type="variant" n="fnT02p0359n09"/>
+          <name type="person">能求</name>、四名<anchor type="variant" n="fnT02p0359n10"/>
+          <name type="person">毘藍婆</name>、五名<anchor type="variant" n="fnT02p0359n11"/>
+          <name type="person">阿俱吒</name>、六名<name type="person">迦<anchor type="variant" n="fnT02p0359n10"/>藍</name>，來詣佛所。</p>
+        <p>阿毘浮天子即說偈言：</p>
+        <q who="abhibhudevaputta">
+          <lg met="5" xml:id="cgtn0099-1308a">
+            <l>比丘專至心<caesura/>常修行厭離</l>
+            <l>於初夜後夜<caesura/>思惟善自攝</l>
+            <l>見聞其所說<caesura/>不墮於地獄</l>
+          </lg>
+        </q>
+        <p>
+          <pb ed="T" n="0359c"/>增上阿毘浮天子復說偈言：</p>
+        <q who="增上阿毘浮devaputta">
+          <lg met="5" xml:id="cgtn0099-1308b">
+            <l>厭離於黑闇<caesura/>心常自攝護</l>
+            <l>永離於世間<caesura/>言語諍論法</l>
+            <l>從如來大師<caesura/>稟受沙門法</l>
+            <l>善攝護世間<caesura/>不令造眾惡</l>
+          </lg>
+        </q>
+        <p>能求天子復說偈言：</p>
+        <q who="nimkadevaputta">
+          <lg met="5" xml:id="cgtn0099-1308c">
+            <l>斷截<anchor type="variant" n="fnT02p0359n12"/>椎打殺<caesura/>供養施迦葉</l>
+            <l>不見其為惡<caesura/>亦不見為福</l>
+          </lg>
+        </q>
+        <p>毘<anchor type="variant" n="fnT02p0359n10"/>藍婆天子復說偈言：</p>
+        <q who="vetambarindevaputta">
+          <lg met="5" xml:id="cgtn0099-1308d">
+            <l>我說彼<anchor type="variant" n="fnT02p0359n13"/>尼乾<caesura/>外道若提子</l>
+            <l>出家行學道<caesura/>長夜修難行</l>
+            <l>於大師徒眾<caesura/>遠離於妄語</l>
+            <l>我說如是人<caesura/>不遠於羅漢</l>
+          </lg>
+        </q>
+        <p>爾時世尊說偈答言：</p>
+        <q who="gotamo">
+          <lg met="5" xml:id="cgtn0099-1308e">
+            <l>死瘦之野狐<caesura/>常共師子遊</l>
+            <l>終日小羸劣<caesura/>不能為師子</l>
+            <l>尼乾大師眾<caesura/>虛妄自稱嘆</l>
+            <l>是惡心妄語<caesura/>去羅漢甚遠</l>
+          </lg>
+        </q>
+        <p>爾時<anchor type="variant" n="fnT02p0359n14"/>天魔<name type="person">波旬</name>著阿俱吒天子而說偈言：</p>
+        <q who="akotakadevaputta">
+          <lg met="5" xml:id="cgtn0099-1308f">
+            <l>精勤棄闇冥<caesura/>常守護遠離</l>
+            <l>
+              <anchor type="variant" n="fnT02p0359n15"/>深著微妙色<caesura/>貪樂於梵世</l>
+            <l>當教化斯等<caesura/>令得生梵天</l>
+          </lg>
+        </q>
+        <p>爾時世尊作是念：<q who="gotamo">
+            <p>若此阿俱吒天子所說偈，此是天魔波旬加其力故，非彼阿俱吒天子自心所說，作是說言：
+                 <q who="papima">
+                <lg met="5" xml:id="cgtn0099-1308g">
+                  <l>精勤棄闇冥<caesura/>守護於遠離</l>
+                  <l>
+                    <anchor type="variant" n="fnT02p0359n15"/>深著微妙色<caesura/>貪樂於梵世</l>
+                  <l>當教化斯等<caesura/>令得生梵天</l>
+                </lg>
+              </q>
+            </p>
+          </q>
+        </p>
+        <p>爾時世尊復說偈言：</p>
+        <q who="gotamo">
+          <lg met="5" xml:id="cgtn0099-1308h">
+            <l>
+              <pb ed="T" n="0360a"/>若諸所有色<caesura/>於此及與彼</l>
+            <l>或復虛空中<caesura/>各別光照<anchor type="variant" n="fnT02p0360n01"/>耀</l>
+            <l>當知彼一切<caesura/>不離魔魔縛</l>
+            <l>猶如垂<anchor type="variant" n="fnT02p0360n02"/>鈎餌<caesura/>鉤釣於遊魚</l>
+          </lg>
+        </q>
+        <p>
+          <anchor type="variant" n="fnT02p0360n03"/>時彼，天子咸各念言：<q who="devata">
+            <p>今日阿俱吒天子所說偈，沙門瞿曇言是魔所說。何故沙門瞿曇言是魔說？</p>
+          </q>
+        </p>
+        <p>爾時世尊知諸天子心中所念，而告之言：<q who="gotamo">
+            <p>今阿俱吒天子所說偈，非彼天子自心所說，<anchor type="variant" n="fnT02p0360n04"/>時魔波旬加其力故，作是說言：<q who="akotakadevaputta or papima">
+                <lg met="5" xml:id="cgtn0099-1308i">
+                  <l>精勤棄闇冥<caesura/>守護於遠離</l>
+                  <l>
+                    <anchor type="variant" n="fnT02p0359n15"/>深著微妙色<caesura/>貪樂於梵<anchor type="variant" n="fnT02p0360n05"/>天</l>
+                  <l>當教化斯等<caesura/>令<anchor type="variant" n="fnT02p0360n06"/>得生梵天</l>
+                </lg>
+              </q>
+            </p>
+          </q>
+        </p>
+        <q who="gotamo">
+          <p>是故我說<anchor type="variant" n="fnT02p0360n07"/>偈：<q who="gotamo">
+              <lg met="5" xml:id="cgtn0099-1308j">
+                <l>若諸所有色<caesura/>於此及與彼</l>
+                <l>或復虛空中<caesura/>各別光照<anchor type="variant" n="fnT02p0360n01"/>耀</l>
+                <l>當知彼一切<caesura/>不離魔魔縛</l>
+                <l>猶如垂<anchor type="variant" n="fnT02p0360n02"/>鈎餌<caesura/>鉤釣於遊魚</l>
+              </lg>
+            </q>
+          </p>
+        </q>
+        <p>時諸天子復作是念：<q who="devata">
+            <p>奇哉！沙門瞿曇！神力大德，能見天魔波旬，而我等不見，我等當復各<anchor type="variant" n="fnT02p0360n08"/>各說偈讚歎沙門瞿曇。即說偈言：<q who="devata">
+                <lg met="5" xml:id="cgtn0099-1308k">
+                  <l>斷除於一切<caesura/>有身<anchor type="variant" n="fnT02p0360n09"/>愛貪想</l>
+                  <l>令此善護者<caesura/>除一切妄語</l>
+                  <l>若<anchor type="variant" n="fnT02p0360n10"/>欲斷欲愛<caesura/>應供養大師</l>
+                  <l>斷除三有愛<caesura/>破壞於妄語</l>
+                  <l>已斷於見貪<caesura/>應供養大師</l>
+                  <l>王舍城第一<caesura/>名<anchor type="variant" n="fnT02p0360n11"/>毘富羅山</l>
+                  <l>雪山諸山最<caesura/>金翅鳥中名</l>
+                  <l>八方及上下<caesura/>一切眾生界</l>
+                  <l>於諸天人中<caesura/>等正覺最上</l>
+                </lg>
+              </q>
+            </p>
+          </q>
+        </p>
+      </div>
+      <div type="closing">
+        <p>
+          <pb ed="T" n="0360b"/>時諸天子說偈讚佛已，聞佛所說，歡喜隨喜，稽首佛足，即沒不現。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

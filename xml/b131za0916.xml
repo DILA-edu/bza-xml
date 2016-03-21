@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-0916">
+      <anchor type="start" xml:id="tp0231c03"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住那羅聚落好衣菴羅園中。</p>
+      </div>
+      <div type="main">
+        <p>時有刀師氏聚落主——尼揵弟子，來詣佛所，稽首禮足，退坐一面。
+                    爾時世尊告聚落主：<q who="gotamo">
+            <p>欲何所論？<anchor type="variant" n="fnT02p0231n05"/>尼揵若提子為何所說？</p>
+          </q>
+        </p>
+        <p>聚落主言：<q who="asibandhakaputta">
+            <p>彼尼揵若提子說：<q who="niganthanataputta">殺生者，一切皆墮<anchor type="variant" n="fnT02p0231n06"/>泥<choice>
+                  <sic>梨</sic>
+                  <corr resp="CBETA">犁</corr>
+                </choice>中，以多行故，則將至彼；如是盜、邪婬、妄語皆墮泥犁中，以多行故，則將至彼。</q>
+            </p>
+          </q>
+        </p>
+        <p>佛告聚落主：<q who="gotamo">
+            <p>若如尼揵若提子說『殺生者墮泥犁中，以多行故，而往生彼』者，則無有眾生墮泥犁中。聚落主！於意云何？何等眾生於一切時有心殺生？復於何時有心不殺生？乃至何時有心妄語？何時有心不妄語？</p>
+          </q>
+        </p>
+        <p>聚落主白佛言：<q who="asibandhakaputta">
+            <p>世尊！人於晝夜，少時有心殺生，……乃至少時有心妄語，而多時不有心殺生，……乃至妄語。</p>
+          </q>
+        </p>
+        <p>佛告聚落主：<q who="gotamo">
+            <p>若如是者，豈非無有人墮於泥犁中耶？如尼揵所說：<q who="niganthanataputta">有人殺生者，一切墮泥犁中，多習行者將往生彼，……乃至妄語亦復如是。</q>聚落主！彼大師出興於出，覺想籌量，入覺想地住。於凡夫地自辯所說，隨意籌量，為諸弟子作如是說法，言『殺生者，一切皆墮泥犁中，多習<anchor type="variant" n="fnT02p0231n07"/>行將往生彼，乃至妄語亦復如是。』彼諸弟子若信其說，言：『我大師知其所知，見其所見，能為弟子作如是說：若殺生者，一切皆墮泥梨中，多習行故，將往生彼。我本有心殺生、偷盜、邪婬、妄語，當墮泥犁中。』得如是見，乃至不捨此見，不厭彼業，不覺彼悔，於未來世，不捨殺生，乃至不捨妄語，彼意解脫不滿足，慧解脫亦不滿足。意解脫不滿足、慧解脫不滿足故，則為謗聖邪見；邪見因緣故，身壞命終，生惡趣泥犁中。如是，聚落主！有因、有緣眾生煩惱，有因、有緣眾生業煩惱。</p>
+          </q>
+        </p>
+        <q who="gotamo">
+          <p>聚落主！如來、應、等正覺、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛、世尊出興於世，常為眾生呵責殺生，讚歎不殺；呵責偷盜、邪婬、妄語，讚歎不盜、不婬、不妄語。常以此法，化諸聲聞，令念樂信重，言：『我大師知其所知，見其所見，呵責殺生，讚歎不殺，……乃至呵責妄語，讚歎不妄語。我從昔來，以愚癡無慧，有心殺生。我緣是故，今自悔責。』雖不能令彼業不為，且因此悔責故，於未來世，得離殺生，……乃至得離盜、婬、妄語，亦得滿足正意解脫，滿足慧解脫。意解脫、慧解脫滿足已，得不謗賢聖，正見成就；正見因緣故，得生善趣天上。如是，聚落主！有因、有緣眾生業煩惱清淨。</p>
+        </q>
+        <q who="gotamo">
+          <p>聚落主！彼多聞聖弟子作如是學：隨時晝夜觀察所起少有心殺生、多有心不殺生。若於有心殺生，當自悔責，不是不類。若不有心殺生，無怨無憎，心生隨喜；隨喜已，歡喜生；歡喜已，心<anchor type="variant" n="fnT02p0232n01"/>猗息；心<anchor type="variant" n="fnT02p0232n01"/>猗息已，心受樂；受樂已，則心定；心<anchor type="variant" n="fnT02p0232n02"/>定已，聖弟子心與慈俱，無怨無嫉，無有瞋恚，廣大無量，滿於一方，正受住。二方、三方，乃至四方、四維、上下、一切世間，心與慈俱，無怨無嫉，無有瞋恚，廣大無量，善修習，充滿諸方，具足正受住。</p>
+        </q>
+        <p>爾時世尊以爪<anchor type="variant" n="fnT02p0232n03"/>甲抄少土，語刀師氏聚落主言：<q who="gotamo">
+            <p>云何，聚落主！我爪<anchor type="variant" n="fnT02p0232n03"/>甲土多？大地為多？</p>
+          </q>
+        </p>
+        <p>聚落主白佛言：<q who="asibandhakaputta">
+            <p>世尊！爪<anchor type="variant" n="fnT02p0232n03"/>甲土少少耳，大地土無量無數。</p>
+          </q>
+        </p>
+        <p>佛告聚落主：<q who="gotamo">
+            <p>如甲上之土甚少，大地之土其數無量。如是心與慈俱，修習多修習，諸有量業者，如<anchor type="variant" n="fnT02p0232n03"/>甲上土，不能將去，不能令住。如是偷盜對以悲心，邪婬對以喜心，妄語對以捨心，不得為比。</p>
+          </q>
+        </p>
+        <p>說是語時刀師氏聚落主遠塵離垢，得法眼淨。聚落主見法、得法、覺法、知法、深入於法，離諸狐疑不由於他、不隨於他，於正法、律得無所畏。從座起，整衣服，右膝著地，合掌白佛：<q who="asibandhakaputta">
+            <p>我已度，世尊！已越，世尊！我今歸佛、歸法、歸比丘僧，盡其壽命，為優婆塞。世尊！譬如士夫欲求燈明，取其馬尾，以為燈炷，欲吹令<anchor type="variant" n="fnT02p0232n04"/>然，終不得明，徒自疲勞，燈竟不然。我亦如是，欲求明智，於諸愚癡尼揵子所，愚癡習近，愚癡和合，愚癡奉事，徒自勞苦，不得明智，是故我今重歸依佛、歸法、歸僧。從今以去，於彼尼揵愚癡不善不辯者所，少信、少敬、少愛、少念，於今遠離。是故，我今第三歸佛、歸法、歸僧，乃至盡壽，為優婆塞，自淨其心。</p>
+          </q>
+        </p>
+      </div>
+      <div type="closing">
+        <p>時刀師氏聚落主聞佛所說，歡喜隨喜，作禮而去。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

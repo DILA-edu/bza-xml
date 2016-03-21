@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Hosoda 1991: 187-189</head>
+        <p>From Noriaki Hosoda 細田典明: Bonbun Zōagongyō Busshosetsuhon Gedōsōō (3) [Sanskrit fragments from the Parivrājakasaṃyukta of the Saṃyuktāgama (3) 梵文《雑阿含経》仏所說品外道相応(Ⅲ)]. Hokkaido Journal of Indological and Buddhist Studies《印度哲学仏教学》6: 172-191. This is part of the text-cluster of BZA (T.100) sutra 206.</p>
+      </div>
+    </front>
+    <body xml:lang="sa">
+      <anchor type="start" xml:id="hos1991.187"/>
+      <div type="parallel">
+        <note type="reference">「三諦経」 BI.172 V2-173 R5: Brāhmaṇasatyāni（AN Ⅱ, pp. 176-177 (Sacca).）; 『雑含』第九七二経、『別訳』第二〇六経「三諦」</note>
+        <p>§1 (|| bhagavān rājagṛhe viharati veṇuvane kalandakanivāpe. atha<note type="footnote">Vgl. MAV 1a. 3.</note>saṃbahu)lānāṃ<note type="reference">(v3)</note>brāhmaṇaparivrājak(ānāṃ sumāgadhāyāḥ puṣkariṇyās tīre sanniṣaṇṇānaṃ sannipatitānām ayam evaṃrūpo 'bhūd antarākathāsa)mudāhāra<note type="reference">(V4)</note>ity api brāhm(aṇasatyāni. ity api brāhmaṇasatyāni.)</p>
+        <p>§2 (aśrauṣīd<note type="footnote">Vgl. MAV 1b. 1-2.</note>bhagavān teṣaṃ saṃbahulānaṃ brāhmaṇaparivrājakānaṃ) sumāgadhāyāḥ<note type="reference">(V5)</note>puṣkariṇyās [t]ī(re sanniṣaṇṇānāṃ sannipatitānām ayam evaṃrūpo 'bhūd antarākathāsamudāhāro divāvihāropagato divyena śrotreṇa vi)śuddhenātikrāntamānuṣeṇa﹙.﹚<note type="reference">(Rl)</note>(śrutvā ca punar yena sumāgadhyāḥ puṣkariṇyās tīraṃ tenopajagāma.)</p>
+        <p>§3 (adrākṣuḥ saṃbahulā brāhmaṇaparivrājakā bhagavantam) dūrata<note type="reference">(R2)</note>eva﹙.﹚ dṛṣṭvā ca punar bh(agavato 'rthāyāsanaṃ prajñapayanty evaṃ cāhur. niṣīdataṃ bhagavān prajñapta evāsane. nyaṣīdad bhagavān pra)jñapta<note type="reference">(R3)</note>evāsane﹙.﹚ niṣadya (bhagavān saṃbahulāṃ brāhmaṇaparivrājakām idam avocat.)</p>
+        <p>§4 (kā<note type="footnote">Vgl. MAV 1b 4-5.</note>nu yuṣmākaṃ saṃbahulānāṃ brāhmaṇaparivrājakānāṃ sumāgadhāyāḥ puṣka)riṇyās<note type="reference">(R4)</note>tīre sanniṣaṇṇā(nāṃ sannipatitānām antarākathā viprakṛtā. kayā cātha kathayaitarhi sanniṣaṇṇāḥ sannipatitāḥ. ihā)smākaṃ<note type="reference">(R5)</note>bho gauta(ma saṃbahulānāṃ brāhmaṇaparivrājakānāṃ sumāgadhāyāḥ puṣkariṇyās tīre sanniṣaṇṇānāṃ sannipatitānām ayam e)vaṃrūpo<note type="reference">(B1.173)</note>'bhūd antarākathāsamudāhāra ity api brāhmaṇasatyāni﹙.﹚ (ity api brāhmaṇasatyāni. iyam<note type="footnote">Vgl. MAV 1b. 11.</note>asmākaṃ bho gautama saṃbahulānāṃ brā)hmaṇaparivrājakānāṃ<note type="reference">(V2)</note>sumāgadhāyāḥ 〇 puṣka(riṇyās tīre sanniṣaṇṇānāṃ sannipatitānām antarākathā viprakṛtā. tayā ca bho gautama kathayai)tarhi<note type="reference">(V3)</note>sanniṣaṃṇāḥ saṃnipatitāḥ 〇</p>
+        <p>§5 trīṇi (imāni brāhmaṇasatyāni. yāni mayā svayam abhijñāya sākṣīkṛtvopasaṃpadya praveditā)ni﹙.﹚<note type="reference">(V4)</note>katamāni trīṇi﹙.﹚</p>
+        <p>§6 brāḥmaṇā evam ā〇hu(ḥ. sarve prāṇino 'vadhā iti vadamānā brāhmaṇāḥ satyam āhur na mṛśā. śreyāṃsaḥ<note type="footnote">śreyāṃsaḥ ... hīnā sma iti manyante.: vgl. Saṅg Ⅲ, 20a.</note>sma i)ti<note type="reference">(V5)</note>manyante sadṛśā sma iti manyante hīnā sma (iti manyante yad atra satyaṃ tad anabhiniveśya sarvaloke<note type="footnote">Pāli, l. c., p. 176. 27-28: pāṇānaṃ yeva anuddayāya anukampāya paṭipanno hoti.</note>maitrāsahagatena cittena viharan)ti﹙.﹚<note type="reference">(R1)</note>idaṃ prathamaṃ brāhmaṇasatyaṃ yan mayā svaya(m abhijñāya sākṣīkṛtvopasaṃpadya praveditaṃ.)</p>
+        <p>§7 (brāḥmaṇā evam āhuḥ. yat kiṃcit samudayadharmaṃ sa)rvaṃ<note type="reference">(R2)</note>nirodhadharmakam iti vadamānā (brāhmaṇāḥ satyam āhur na mṛśa. pūrvavad yāvad iti yad atra satyaṃ tad anabhiniviśya sarvaloke udayavyayā)nudarśino<note type="reference">(R3)</note>viharaṃtic﹙.﹚ idaṃ dvitīyaṃ 〇 brā(hmaṇasatyaṃ yan mayā svayam abhijñāya sākṣīkṛtvopasaṃpadya praveditaṃ.)</p>
+        <p>§8 (brāḥmaṇā eva)m<note type="reference">(R4)</note>āhur﹙.﹚ na mama kvacana kaścana kiñcana〇m as[t]i nā[sy](a kvacana kaścana kiñcanam astīti vadamānā brāhmaṇāḥ satyam āhur na mṛśā. pūrvava)d<note type="reference">(R5)</note>yāvad iti yad atra satyaṃ (tad ana)bhiniviśya sarvaloke amamāya(nto<note type="footnote">amamāya-: vgl. BimbSū (BBS S. 125); PCD s. v. amamāyati.</note>viharanti. idaṃ tṛtīyaṃ brāhmaṇasatyaṃ yan mayā svayam abhijñāaya sākṣīkṛtvopasaṃpadya praveditaṃ.)</p>
+      </div>
+    </body>
+  </text>
+</TEI>

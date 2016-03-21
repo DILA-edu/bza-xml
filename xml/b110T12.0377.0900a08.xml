@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 110. It is found in the 大般涅槃經後分 Sutra at T.12.0377.0900.</p>
+      </div>
+    </front>
+    <body xml:id="T12.0377.0900a08">
+      <anchor type="start" xml:id="t12.0377.0900a08"/>
+      <div type="parallel">
+        <p>爾時須跋陀羅。從佛聞說大般涅槃甚深妙法。而得法眼見法清淨。愛護正法已捨邪見。於佛法中深信堅固。即從如來欲求出家。佛言。善哉善哉。須跋陀羅善。來比丘。悅可聖心善入佛道。於是須跋陀羅。歡喜踊躍忻慶無量。即時<anchor type="variant" n="fnT12p0900n07"/>鬚髮自落而作沙門。法性智水灌注心<anchor type="variant" n="fnT12p0900n08"/>原。無復縛著。漏盡意解得羅漢果。</p>
+        <p>須跋陀羅既證果已。即前佛所瞻仰尊顏頭面禮足。偏袒右肩右膝著地長跪合掌。<seg type="not-parallel">悲喜交流深自悔責在昔罪咎。而白佛言。世尊。恨我毒身久劫已來常相欺惑。令我長沒無明邪見。淪溺三界外道法中。痛哉苦哉為害滋甚。今大喜慶。蒙如來恩得入正法。世尊。智慧大海慈愍無量。竊自惟忖。累劫碎軀未能報此須臾之恩。須跋陀羅說是語已。悲泣流淚不能自裁。復白佛言。世尊。我年老邁餘命無幾。未脫眾苦行苦遷逼。唯願世尊。少住教<anchor type="variant" n="fnT12p0900n09"/>誡哀愍救護莫般涅槃。爾時世尊默然不許。須跋陀羅不果所請。愁憂熱惱高聲唱曰。苦哉苦哉。世間<anchor type="variant" n="fnT12p0900n10"/>虛空。世間<anchor type="variant" n="fnT12p0900n10"/>虛空。如何於今大怖即至熱惱流行。哀哉哀哉。眾生福盡正慧眼滅。復更流淚悲號哽咽。遍體血現發聲大哭。於<pb ed="T" n="0900b"/>如來前舉身投地。<anchor type="variant" n="fnT12p0900n11"/>慌亂濁心昏迷悶絕。久乃蘇醒涕淚哽咽。而</seg>白佛言。世尊。我今不忍見於如來入般涅槃。中心痛切難任裁抑。我自何能與此坏器毒身共住。今前寧可先自速滅。唯願世尊。後當涅槃。爾時須跋陀羅。說是語已悲戀哽咽。於是時頃即入涅槃。
+                </p>
+      </div>
+      <anchor type="gap" n="t12.0377.0900b06"/>
+      <gap resp="t.100" reason="longNonParallel"/>
+      <anchor type="continued" n="t12.0377.0905c14"/>
+      <div type="not-parallel">
+        <p>
+          <seg type="parallel">爾時娑婆世界主尸棄大梵天王。知佛已入涅槃。與諸<anchor type="variant" n="fnT12p0905n15"/>天眾即從初禪飛空而下。</seg>舉聲大哭流淚悲<anchor type="variant" n="fnT12p0905n16"/>咽。投如來前悶絕躄地。久乃穌醒哀不自勝。<seg type="parallel">即於佛前以偈悲歎。</seg>
+        </p>
+        <lg>
+          <l>世尊往昔本誓願<caesura/>為我等故居忍土</l>
+          <l>乃隱無量自在力<caesura/>貧所樂法度眾生</l>
+          <l>方便逐宜隨應說<caesura/>眾生無不受安樂</l>
+          <l>誘進令出三有苦<caesura/>究竟皆至涅槃道</l>
+          <l>如來慈母育眾生<caesura/>普飲眾生大悲乳</l>
+          <l>何期一旦忽捨離<caesura/>人天孤露無所依</l>
+          <l>痛哉眾生善種芽<caesura/>無天甘露令增長</l>
+          <l>善芽漸漸衰滅已<caesura/>罪業相牽墮惡道</l>
+          <l>奈何世界悉空虛<caesura/>眾生正慧眼已滅</l>
+          <l>既行無明黑闇中<caesura/>墮落三有淪溺苦</l>
+          <l>奈何眾生罪無救<caesura/>願依舍利得解脫</l>
+          <pb ed="T" n="0906a"/>
+          <l>勸請如來大悲力<caesura/>救護令我脫苦地</l>
+          <l>何<anchor type="variant" n="fnT12p0906n01"/>其痛哉此惡世<caesura/>如來棄我入涅槃</l>
+        </lg>
+        <p>
+          <seg type="parallel">爾時釋提桓因。</seg>與諸大眾從空而下唱言。苦哉苦哉。發聲大哭悲泣流淚。投如來前悶絕躄地。久乃穌醒悲哀哽咽。<anchor type="variant" n="fnT12p0906n02"/>胡跪佛前。<seg type="parallel">說偈哀歎。</seg>
+        </p>
+        <lg>
+          <l>如來歷劫行苦行<caesura/>普為我等群生故</l>
+          <l>得成無上正覺道<caesura/>等育眾生如一子</l>
+          <l>施法藥中為上藥<caesura/>療病醫中為勝醫</l>
+          <l>大慈悲雲蔭眾生<caesura/>甘露慧雨雨一切</l>
+          <l>慧日光照無明闇<caesura/>無明眾生見聖道</l>
+          <l>聖月慈光照六趣<caesura/>三有蒙光脫眾苦</l>
+          <l>何期於今捨大<anchor type="variant" n="fnT12p0906n03"/>慈<caesura/>已入涅槃眾不見</l>
+          <l>本誓大悲今何在<caesura/>棄捨眾生如涕唾</l>
+          <l>我等一切諸眾生<caesura/>如犢失母必當死</l>
+          <l>四眾互相執手哭<caesura/>搥胸大哀動三界</l>
+          <l>苦哉苦哉諸有人<caesura/>如何一旦盡孤露</l>
+          <l>我等福盡苦何甚<caesura/>善芽燋燃無復潤</l>
+          <l>唯願法寶舍利光<caesura/>照我令脫三有苦</l>
+          <l>哀哉痛哉我等眾<caesura/>幾何重得見如來</l>
+        </lg>
+        <p>
+          <seg type="parallel">爾時樓逗。</seg>悲哀號泣傷悼無量。胡跪佛前。<seg type="parallel">以偈悲<anchor type="variant" n="fnT12p0906n04"/>讚。</seg>
+        </p>
+        <lg>
+          <l>正覺法王育我等<caesura/>飲我法乳長法身</l>
+          <l>眾生法身未成立<caesura/>又復慧命少資糧</l>
+          <l>應以八音常演暢<caesura/>令眾聞已悉悟道</l>
+          <l>常放大慈五色光<caesura/>令眾蒙光皆解脫</l>
+          <l>如何今<anchor type="variant" n="fnT12p0906n05"/>日永涅槃<caesura/>行苦眾生何依趣</l>
+          <l>苦哉世尊捨大悲<caesura/>我等孤窮必當死</l>
+          <l>雖知世尊現方便<caesura/>我等無能不悲哀</l>
+          <pb ed="T" n="0906b"/>
+          <l>四眾迷悶昏失心<caesura/>哀動天地震三界</l>
+          <l>世尊獨處大安樂<caesura/>眾生大苦欲何之</l>
+          <l>世尊往昔為我等<caesura/>眾劫捨頭截手足</l>
+          <l>得成無上正覺道<caesura/>不久住世即涅槃</l>
+          <l>我及四眾處無明<caesura/>魔王欣慶捨甲冑</l>
+          <l>哀哉世尊願大悲<caesura/>舍利慈光攝我等</l>
+          <l>伏請世尊愍四眾<caesura/>法寶流潤願不窮</l>
+          <l>我等不能即殞滅<caesura/>苟存餘命能幾何</l>
+          <l>苦哉痛切難堪忍<caesura/>重見世尊無復期</l>
+        </lg>
+        <p>
+          <seg type="parallel">爾時阿難。</seg>悶絕漸醒舉手拍頭。搥胸哽咽悲泣流淚。哀不自勝。長跪佛前。<seg type="parallel">以偈悲歎。</seg>
+        </p>
+        <lg>
+          <l>我昔與佛誓願力<caesura/>幸共同生釋種中</l>
+          <l>如來得成正覺道<caesura/>我為侍者二十載</l>
+          <l>深心敬養情<anchor type="variant" n="fnT12p0906n06"/>未足<caesura/>一旦見棄入涅槃</l>
+          <l>痛哉哀哉荼毒苦<caesura/>無極長夜痛切心</l>
+          <l>我身未脫諸有網<caesura/>無明之<g>[穀-禾+卵]</g>未出離</l>
+          <l>世尊慧<anchor type="variant" n="fnT12p0906n07"/>
+            <g>[此/束]</g>未啄破<caesura/>如何見捨疾涅槃</l>
+          <l>我如初生之嬰兒<caesura/>失母不久必當死</l>
+          <l>世尊如何見放捨<caesura/>獨出三界受安樂</l>
+          <l>我今懺悔於世尊<caesura/>侍佛已來二十年</l>
+          <l>四威儀中多懈<anchor type="variant" n="fnT12p0906n08"/>墮<caesura/>不能悅可大聖心</l>
+          <l>願正覺尊大慈悲<caesura/>施我甘露令安樂</l>
+          <l>我願窮盡未來際<caesura/>常覲世尊為侍者</l>
+          <l>唯願世尊大慈光<caesura/>一切世界攝受我</l>
+          <l>痛哉痛哉不可說<caesura/>
+            <anchor type="variant" n="fnT12p0906n09"/>喑咽何能陳聖<anchor type="variant" n="fnT12p0906n10"/>恩</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

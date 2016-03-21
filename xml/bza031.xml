@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                      法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                            Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                            text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                            lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                            Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                            edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+            (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+            (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                            comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                            the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                            literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                        English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                              za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                              the Dharma Drum Buddhist College 法鼓佛教研修學院. The project is funded by the Chiang
+                              Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                              the project is to produce a comparative digital edition and partial translation of
+                              the 364 sutras of the BZA and their parallels. The texts are kept in single files in
+                              an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                              The project lasts from 2005-2008. For any changes after 2008 see the revision
+                              description.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                              attribute on the containing elements
+        </p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō).</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA. Verse and
+                              Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan: Parallel and not-parallel divisions regarding the BZA. Verse
+                                  and Prose. Variant readings.
+        </p>
+      </editorialDecl>
+      <charDesc>
+        <glyph xml:id="g003">
+          <glyphName>Non Unicode Character</glyphName>
+          <charProp>
+            <localName>pronunciation</localName>
+            <value>zui3</value>
+          </charProp>
+          <mapping type="cbeta">[口*(隹/乃)]</mapping>
+          <mapping type="cbetaNo">CB00047</mapping>
+          <mapping type="UTF-8">Non Unicode Character</mapping>
+          <mapping type="unicode">Non Unicode Character</mapping>
+          <graphic url="gaiji/g003.gif"/>
+          <note>appears in bza031</note>
+        </glyph>
+      </charDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="bza031">
+      <anchor type="start" xml:id="Tp0383a15"/>
+      <div type="opening" xml:id="obza031">
+        <p n="bza031.01">如是我聞：一時佛在<app n="fnT02p0383n05">
+            <lem wit="【大】">優樓</lem>
+            <rdg resp="Taisho" wit="【聖】">憂婁</rdg>
+            <rdg resp="Taisho" wit="【宋】【元】">憂樓</rdg>
+          </app>
+          <name type="place">優樓比螺聚落</name>
+          <name type="place">尼連禪河</name>
+          <name type="place">菩提樹</name>下，成佛未久。</p>
+      </div>
+      <div type="main" xml:id="mbza031">
+        <p n="bza031.02">爾時<name type="person">魔王</name>而作是念：</p>
+        <q who="papima">
+          <p n="bza031.03">佛在<app n="fnT02p0383n05">
+              <lem wit="【大】">優樓</lem>
+              <rdg resp="Taisho" wit="【聖】">憂婁</rdg>
+              <rdg resp="Taisho" wit="【宋】【元】">憂樓</rdg>
+            </app>優樓比螺聚落尼連禪河菩提樹下，成佛未久。我當詣彼，伺求其便！</p>
+        </q>
+        <p n="bza031.04">作是念已，往詣佛所，而說偈言：</p>
+        <q who="papima">
+          <lg n="bza031.05" met="5" xml:id="cg031a">
+            <l>汝獨處閑靜<caesura/>閉默常寂然</l>
+            <l>光顏顯神體<caesura/>諸根悉悅豫</l>
+            <l>譬如失財者<caesura/>後還獲於財</l>
+            <l>汝今翫禪寂<caesura/>歡喜亦如是</l>
+            <l>既能遺國榮<caesura/>亦不悕名利</l>
+            <l>何不與諸人<caesura/>而共為親友</l>
+          </lg>
+        </q>
+        <p n="bza031.06">
+          <pb ed="T" xml:id="T02.0100.0383b" n="0383b"/>爾時世尊以偈答言：</p>
+        <q who="gotamo">
+          <lg n="bza031.07" met="5" xml:id="cg031b">
+            <l>我<app n="fnT02p0383n06">
+                <lem wit="【大】">久</lem>
+                <rdg resp="Taisho" wit="【聖】">今</rdg>
+              </app>久獲禪定<caesura/>其心常寂然</l>
+            <l>破壞汝欲軍<caesura/>得於無上財</l>
+            <l>
+              <app n="fnT02p0383n07">
+                <lem wit="【大】">我</lem>
+                <rdg resp="Taisho" wit="【宋】【元】【明】【聖】">諸</rdg>
+              </app>我根恒恬豫<caesura/>心中得寂滅</l>
+            <l>以壞汝欲軍<caesura/>修道情歡<app n="fnT02p0383n08">
+                <lem wit="【大】">喜</lem>
+                <rdg resp="Taisho" wit="【宋】【元】【明】【聖】">恬</rdg>
+              </app>喜</l>
+            <l>獨一離憒閙<caesura/>安用親友為</l>
+          </lg>
+        </q>
+        <p n="bza031.08">爾時魔王復說偈言：</p>
+        <q who="papima">
+          <lg n="bza031.09" met="5" xml:id="cg031c">
+            <l>汝<app n="fnT02p0383n09">
+                <lem wit="【大】">已</lem>
+                <rdg resp="Taisho" wit="【宋】【元】【明】【聖】">以</rdg>
+              </app>已獲正道<caesura/>安隱向涅槃</l>
+            <l>既以得妙法<caesura/>宜<app n="fnT02p0383n10">
+                <lem wit="【大】">常</lem>
+                <rdg resp="Taisho" wit="【宋】【元】【明】【聖】">當</rdg>
+              </app>常戢在懷</l>
+            <l>誠應獨了知<caesura/>何以教眾人</l>
+          </lg>
+        </q>
+        <p n="bza031.10">爾時世尊復說偈言：</p>
+        <q who="gotamo">
+          <lg n="bza031.11" met="5" xml:id="cg031d">
+            <l>人不屬魔者<caesura/>諮吾彼岸法</l>
+            <l>我為正分別<caesura/>諦實得盡滅</l>
+            <l>止心不放逸<caesura/>魔不得其便</l>
+          </lg>
+        </q>
+        <p n="bza031.12">爾時魔王復說偈言：</p>
+        <q who="papima">
+          <lg n="bza031.13" met="5" xml:id="cg031e">
+            <l>譬如白石山<caesura/>其色類脂膏</l>
+            <l>群<app n="fnT02p0383n11">
+                <lem wit="【大】">鳥</lem>
+                <rdg resp="Taisho" wit="【宋】【元】【明】【聖】">烏</rdg>
+              </app>
+              <choice>
+                <sic>鳥</sic>
+                <corr resp="T100">烏</corr>
+              </choice>不別知<caesura/>飛來而<app n="fnT02p0383n12">
+                <lem wit="【大】">噏</lem>
+                <rdg resp="Taisho" wit="【元】【明】【聖】">貪</rdg>
+              </app>噏食</l>
+            <l>既不得其味<caesura/>
+              <g ref="g003">[口*(隹/乃)]</g>傷而虛還</l>
+            <l>我今亦如是<caesura/>徒<app n="fnT02p0383n13">
+                <lem wit="【大】">來</lem>
+                <rdg resp="Taisho" wit="【宋】【元】【明】【聖】">求</rdg>
+              </app>來無所為</l>
+          </lg>
+        </q>
+        <p n="bza031.14">爾時魔王說是偈已，憂愁苦惱，極生悔恨，向一空處蹲踞獨坐，以箭畫地，思作方計。時魔三女：一名<name type="person">極愛</name>，二名<name type="person">悅彼</name>，三名<name type="person">適意</name>。時魔三女往至魔邊，向父說偈：</p>
+        <q who="maradhitaro">
+          <lg n="bza031.15" met="5" xml:id="cg031f">
+            <l>父今名丈夫<caesura/>何以懷憂愁</l>
+            <l>我當以欲羂<caesura/>羂彼如捕<app n="fnT02p0383n14">
+                <lem wit="【大】">鳥</lem>
+                <rdg resp="Taisho" wit="【宋】【元】【明】【聖】">象</rdg>
+              </app>鳥</l>
+            <l>將來至父所<caesura/>使父得自在</l>
+          </lg>
+        </q>
+        <p n="bza031.16">爾時魔王說偈答言：</p>
+        <q who="papima">
+          <lg n="bza031.17" met="5" xml:id="cg031g">
+            <l>彼人善斷欲<caesura/>不可以欲牽</l>
+            <l>已過魔境界<caesura/>是故我懷憂</l>
+          </lg>
+        </q>
+        <p n="bza031.18">
+          <pb ed="T" xml:id="T02.0100.0383c" n="0383c"/>彼魔三女化其形容，極為端嚴，往<app n="fnT02p0383n15">
+            <lem wit="【大】">至</lem>
+            <rdg resp="Taisho" wit="【宋】【元】【明】">詣</rdg>
+          </app>至佛所，即禮佛足，在一面立。三女同聲，俱白佛言：
+                </p>
+        <q who="maradhitaro">
+          <p n="bza031.19">我故來供養，與佛策使！</p>
+        </q>
+        <p n="bza031.20">爾時世尊無上斷愛，了不顧視。第二、第三，亦作是語，佛不觀察。時魔三女退在一處，自共議論：</p>
+        <q who="maradhitaro">
+          <p n="bza031.21">男子之法，所好各異，或愛小者，或愛中者，或愛大者。</p>
+        </q>
+        <p n="bza031.22">即時一女，化作六百女人。或作小女，或作童女，或作未嫁女，或作已嫁女，或作已產女，或作未產女，化作如是眾多女已，俱往佛所，白佛言：</p>
+        <q who="maradhita">
+          <p n="bza031.23">世尊！我等今來供養世尊，為其策使，給侍手足！</p>
+        </q>
+        <p n="bza031.24">佛不觀察。第二、第三，亦如是說，都不顧視。時魔女等復退一處，更共語言：</p>
+        <q who="maradhitaro">
+          <p n="bza031.25">
+                        此必得無上，斷愛欲、解脫故。若不爾者，應見我等，狂亂、吐血，或能心裂。我等<app n="fnT02p0383n16">
+              <lem wit="【大】">當</lem>
+              <rdg resp="Taisho" wit="【元】">常</rdg>
+            </app>當往其所，以偈問難。</p>
+        </q>
+        <p n="bza031.26">魔女極愛以偈問曰：</p>
+        <q who="maradhita">
+          <lg n="bza031.27" met="5" xml:id="cg031h">
+            <l>端拱樹下坐<caesura/>閑靜獨思惟</l>
+            <l>為失於財寶<caesura/>為欲求大財</l>
+            <l>城邑聚落中<caesura/>都無愛著心</l>
+            <l>何不與眾人<caesura/>而共作親友</l>
+          </lg>
+        </q>
+        <p n="bza031.28">爾時世尊說偈答言：</p>
+        <q who="gotamo">
+          <lg n="bza031.29" met="5" xml:id="cg031i">
+            <l>我以得大財<caesura/>心中得寂滅</l>
+            <l>我壞愛欲軍<caesura/>妙色都不著</l>
+            <l>獨處而坐禪<caesura/>最受第一樂</l>
+            <l>以是因緣故<caesura/>都不求親友</l>
+          </lg>
+        </q>
+        <p n="bza031.30">魔女適意復說偈言：</p>
+        <q who="maradhita">
+          <lg n="bza031.31" met="5" xml:id="cg031j">
+            <l>比丘住何處<caesura/>能度五駛流</l>
+            <l>六駛流亦<app n="fnT02p0383n17">
+                <lem wit="【大】">過</lem>
+                <rdg resp="Taisho" wit="【宋】【元】【明】【聖】">通</rdg>
+              </app>過<caesura/>入何禪定中</l>
+            <l>得度大欲岸<caesura/>永離有<app n="fnT02p0383n18">
+                <lem wit="【大】">攝</lem>
+                <rdg resp="Taisho" wit="【宋】【元】【明】">槅</rdg>
+              </app>攝縛</l>
+          </lg>
+        </q>
+        <p n="bza031.32">爾時世尊復說偈言：</p>
+        <q who="gotamo">
+          <lg n="bza031.33" met="5" xml:id="cg031k">
+            <pb ed="T" xml:id="T02.0100.0384a" n="0384a"/>
+            <l>身獲柔軟樂<caesura/>心得善解脫</l>
+            <l>心離於諸業<caesura/>意不復退轉</l>
+            <l>得斷覺觀法<caesura/>得離瞋愛掉</l>
+            <l>得住此處住<caesura/>能度五駛流</l>
+            <l>并度第六者<caesura/>作如是坐禪</l>
+            <l>能度大欲結<caesura/>并離有<app n="fnT02p0383n18">
+                <lem wit="【大】">攝</lem>
+                <rdg resp="Taisho" wit="【宋】【元】【明】">槅</rdg>
+              </app>攝流</l>
+          </lg>
+        </q>
+        <p n="bza031.34">魔女悅彼復說偈言：</p>
+        <q who="maradhita">
+          <lg n="bza031.35" met="5" xml:id="cg031l">
+            <l>已斷於愛結<caesura/>離眾所著處</l>
+            <l>多欲度駛流<caesura/>多欲度死岸</l>
+            <l>唯有<app n="fnT02p0384n01">
+                <lem wit="【大】">黠</lem>
+                <rdg resp="Taisho" wit="【明】">黜</rdg>
+              </app>黠慧者<caesura/>能度如斯難</l>
+          </lg>
+        </q>
+        <p n="bza031.36">爾時世尊復說偈言：</p>
+        <q who="gotamo">
+          <lg n="bza031.37" met="5" xml:id="cg031m">
+            <l>大精進<app n="fnT02p0384n02">
+                <lem wit="【大】">濟</lem>
+                <rdg resp="Taisho" wit="【聖】">度</rdg>
+              </app>濟拔<caesura/>如來正法度</l>
+            <l>如法得度脫<caesura/>
+              <app n="fnT02p0384n03">
+                <lem wit="【大】">智</lem>
+                <rdg resp="Taisho" wit="【宋】【元】【明】【聖】">知</rdg>
+              </app>智者莫不欣</l>
+          </lg>
+        </q>
+        <p n="bza031.38">三女不果所願，還至父所。爾時魔王呵責三女，因說偈言：</p>
+        <q who="papima">
+          <lg n="bza031.39" met="5" xml:id="cg031n">
+            <l>三女占壞彼<caesura/>形容猶如電</l>
+            <l>向彼大精進<caesura/>如風吹兜羅</l>
+            <l>
+              <app n="fnT02p0384n04">
+                <lem wit="【大】">爪以</lem>
+                <rdg resp="Taisho" wit="【宋】【元】【明】【聖】">以爪</rdg>
+              </app>爪以欲壞山<caesura/>齒齚於鐵丸</l>
+            <l>
+              <app n="fnT02p0384n05">
+                <lem wit="【大】">嬰</lem>
+                <rdg resp="Taisho" wit="【宋】">嚶</rdg>
+                <rdg resp="Taisho" wit="【聖】">孾</rdg>
+              </app>嬰愚以藕絲<caesura/>欲懸於<app n="fnT02p0384n06">
+                <lem wit="【大】">太</lem>
+                <rdg resp="Taisho" wit="【聖】">大</rdg>
+              </app>太山</l>
+            <l>佛<app n="fnT02p0384n07">
+                <lem wit="【大】">已</lem>
+                <rdg resp="Taisho" wit="【聖】">以</rdg>
+              </app>已度眾<app n="fnT02p0384n08">
+                <lem wit="【大】">著</lem>
+                <rdg resp="Taisho" wit="【聖】">生</rdg>
+              </app>著<caesura/>欲共彼講論</l>
+            <l>羂摾欲捕<app n="fnT02p0384n09">
+                <lem wit="【大】">風</lem>
+                <rdg resp="Taisho" wit="【聖】">魚</rdg>
+              </app>風<caesura/>欲下虛空月</l>
+            <l>以手掬大海<caesura/>望欲得乾竭</l>
+            <l>佛<app n="fnT02p0383n09">
+                <lem wit="【大】">已</lem>
+                <rdg resp="Taisho" wit="【宋】【元】【明】【聖】">以</rdg>
+              </app>已離諸著<caesura/>欲往共講論</l>
+            <l>舉脚度須彌<caesura/>大海中覓地</l>
+            <l>佛<app n="fnT02p0383n09">
+                <lem wit="【大】">已</lem>
+                <rdg resp="Taisho" wit="【宋】【元】【明】【聖】">以</rdg>
+              </app>已出諸著<caesura/>而往共講論</l>
+          </lg>
+        </q>
+      </div>
+      <div type="closing" xml:id="cbza031">
+        <p n="bza031.40">魔王憂愁悔恨，於即滅沒，還于天宮。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

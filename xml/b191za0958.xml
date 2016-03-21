@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-0958">
+      <anchor type="start" xml:id="tp0244b10"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住<name type="place">王舍城</name>
+          <name type="place">迦蘭陀竹園</name>。爾時尊者<name type="person">大目揵連</name>亦於彼住。</p>
+      </div>
+      <div type="main">
+        <p>時有<name type="person">婆蹉種</name>出家詣尊者大目揵連所，與尊者目揵連面相問訊慰勞，慰勞已，退坐一面，語尊者大目揵連：<q who="vacchagottaparibbajaka">
+            <p>欲有所問，寧有閑暇見答以不？</p>
+          </q>
+        </p>
+        <p>目連答言：<q who="mahamoggallana">
+            <p>婆蹉！隨意所問，知者當答。</p>
+          </q>
+        </p>
+        <p>時婆蹉種出家問尊者目揵連：<q who="vacchagottaparibbajaka">
+            <p>何因、何緣餘沙門、婆羅門有人<anchor type="variant" n="fnT02p0244n06"/>求問『云何如來有後死、無後死、有無後死、非有非無後死』，皆悉隨答。而沙門瞿曇有來問言『如來有後死、無後死、有無後死、非有非無後死』，而不記說？</p>
+          </q>
+        </p>
+        <p>目揵連言：<q who="mahamoggallana">
+            <p>婆蹉！餘沙門、婆羅門於色、色集、色滅、色味、色患、色出不如實知；不如實知故，於如來有後死則取著，如來無後死、有後死、<anchor type="variant" n="fnT02p0244n07"/>有無後死、非有後死非無後死則生取著。受、想、行、識、識集、識滅、識味、識患、識出不如實知；不如實知故，<anchor type="variant" n="fnT02p0244n08"/>於如來有後死生取著，無後死、有無後死、非有非無後死生取著。</p>
+          </q>
+        </p>
+        <p>
+          <q who="mahamoggallana">
+            <p>如來者，於色如實知，<anchor type="variant" n="fnT02p0244n09"/>色集、色滅、色味、色患、色出如實知；如實知故，<anchor type="variant" n="fnT02p0244n08"/>於如來有<pb ed="T" n="0244c"/>後死則不著，無後死、有無後死、非有非無後死則不著。受、想、行、識如實知，識集、識滅、識味、識患、識出如實知；如實知故，於如來有後死則不然，無後死、有無後死、非有非無後死則不然。甚深廣大，無量無數，皆悉寂滅。</p>
+          </q>
+        </p>
+        <p>
+          <q who="mahamoggallana">
+            <p>婆蹉！如是因、如是緣，餘沙門、婆羅門若有來問『如來有後死、無後死、有無後死、非有非無後死』，則為記說。如是因、如是緣，如來若有來問『如來有後死、無後死、有無後死、非有非無後死』，不為記說。</p>
+          </q>
+        </p>
+      </div>
+      <div type="closing">
+        <p>時婆蹉種出家聞尊者大目揵連所說，歡喜隨喜，從座起而去。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

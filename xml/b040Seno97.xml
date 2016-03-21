@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Enomoto 1997: 103-104</head>
+        <p>From Fumio Enomoto: "Sanskrit Fragments from the Saṃgītanipāta of the Saṃyuktāgama", in Baud-dhavidyasudhakarah: Studies in Honour of Heinz Bechert on the Occasion of his b65th birthday, Petra Kieffer-Pütz und Jens-Uwe Hartmann(ed.), India et Tibetica 30, Swisstal-Odendorf, pp103-104. This is part of the text-cluster of BZA (T.100) sutra 040, 041.</p>
+      </div>
+    </front>
+    <body xml:lang="sa">
+      <anchor type="start" xml:id="eno1997.103"/>
+      <div type="parallel">
+        <note type="reference">Pelliot Sanskrit Bleu 38. Cf. SN 11.2.8-10 (vol. 1, pp. 234-236).</note>
+        <note type="footnote">Cf. INOKUCHI 1989, p. 51.Its place of discovery is unknown. It is written in Northern Turkestan Brāhmī, type a. The first transcription of the fragment was made by Jens-Uwe HARTMANN and Klaus WILLE on the basis of its microfilm preserved in the Seminar für Indologie und Buddhismuskunde, University of Göttingen, and the indication of the Saṃyutta-Nikāya parallel was made by Klaus WILLE.</note>
+        <milestone unit="recto"/>
+        <p>1  ..    .[t].   ..<note type="footnote">[s]. or [v].</note>+  .[n].  [ā](h)[ṛ](ṣṭaroma)  +  +  +  +  [ra]śmay[o] mu[k]t[ā]ḥ [pra](to)[da]ḥ [pati]taḥ [kṣitau]  ..  (d)ṛ[ṣt](vā<note type="footnote">Read dṛṣṭvā.</note>ca) *[pūna]ḥs [ta]syā(ṃ) [vel](ā) ..*<note type="footnote">*...* Read punas tasyāṃ velāyāṃ.</note>+ + +<lb n="01"/>
+        </p>
+        <p>2  bhā[ṣ]e<note type="footnote">Read babhāṣe.</note>・ ||</p>
+        <lg>
+          <l>kin nu tvaṃ durma .. + + <caesura/>(ma)had bhayam upā[ga]taḥ</l>
+          <l>hast[ā]t t[e ra]śmayo muktāḥ <caesura/>prato[da]ḥ patita[ḥ] kṣītau<note type="footnote">Read kṣitau.</note>||</l>
+        </lg>
+        <p>mā[ta]<note type="footnote">Read mātali.</note>+ + + +<lb n="02"/>
+        </p>
+        <lg>
+          <l>3  + + + [kṣye]ha maghava〇n <caesura/>devarājaṃ śacīpa[t]e :</l>
+          <l>hastān me raśmayo muktāḥ <caesura/>pra[to]daḥ [p]atita[ḥ] kṣītau<note type="footnote">Read kṣitau.</note>:<lb n="03"/>
+          </l>
+          <l>4 t[v]āṃ + + + + + + .. <caesura/>[sa](rve) bhaumāś ca [p]ārthi〇vāḥ</l>
+          <l>catvāraś ca mahārājās <caesura/>tridaśāś ca yaśasvinaḥ<lb n="04"/>
+          </l>
+          <l>5 atha ko nv a[pa]ro loke <caesura/>yaṃ + + + + + + se ||<note type="footnote">Cf. 
+                               <l>taṃ namassanti tevijjā <caesura/>sabbe bhummā ca khattiyā |</l>
+              <l>cattāro ca Mahārājā <caesura/>Tidasā ca yasassino |</l>
+              <l>atha ko nāma so yakkho <caesura/>yaṃ tvaṃ Sakka namassasi ||: SN 11.2.8.7.</l>
+            </note>
+          </l>
+        </lg>
+        <p>śakra[ḥ] prāha ||</p>
+        <lg>
+          <l>māṃ *bhūtānī [na]s[yaṃ]ti*<note type="footnote">*...* Read bhūtāni namasyaṃti.</note>
+            <caesura/>sar[v]e bhaumāś [ca] pārthi[v]āḥ</l>
+          <l>[ca]tvāraś ca mahā[r]ājās <caesura/>trida[ś]āś [ca yaśas](v)i(naḥ)<note type="footnote">Cf. 
+                            <l>maṃ namassanti tevijjā <caesura/>sabbe bhummā ca khattiyā |</l>
+              <l>cattāro ca Mahārājā <caesura/>Tidasā ca yasassino ||: SN 11.2.8.8.</l>
+            </note>
+            <lb n="05"/>
+          </l>
+          <l>6  + + + + + + [sa]mya[g <caesura/>i]maṃ lokaṃ sa[d]evakam*</l>
+          <l> .. + [n]. nāma śās[t]āraṃ <caesura/>[ta]ṃ [nama](sy)ā(mi) mātale .. [ || ]<note type="footnote">Cf. 
+                            <l>so idha sammāsambuddho <caesura/>asmiṃ loke sadevake |</l>
+              <l>anomanāmaṃ satthāraṃ <caesura/>taṃ namassāmi Mātali || : SN 11.2.9.7.</l>
+            </note>
+          </l>
+        </lg>
+        <p>[m]ā[tali]ḥ prāhāḥ<note type="footnote">Read prāha.</note>||</p>
+        <lg>
+          <l>śre[ṣ](ṭh).<note type="footnote">Since this word and [e]ṣa lokānāṃ of verso 1 most probably belong to one and the same pāda, the gap between them is too large.</note>+ + + + + + + +<lb n="06"/>
+          </l>
+          <milestone unit="verso"/>
+          <l> 1 [e]ṣa lokānāṃ <caesura/>ya(ṃ) tva[ṃ] śakra nasya<note type="footnote">Read namasyasi.</note>+</l>
+          <l>namasyāmy aham apy e(t)[e] <caesura/>+ [na]masyasi vāsava :・<note type="footnote">Cf. 
+                            <l>seṭṭhā hi kira lokamiṃ <caesura/>ye tvaṃ Sakka namassasi |</l>
+              <l>aham pi te namassāmi <caesura/>ye namassasi Vāsava ||: SN 11.2.9.8.</l>
+            </note>
+            <lb n="01"/>
+          </l>
+          <l>2 id. va .. + + + + <caesura/>+ + + + śac[ī]patiḥ</l>
+          <l>buddhāya kṛtvā praṇāmam <caesura/>ā[ru]roha rathaṃ tata [・|| ]<note type="footnote">Cf. 
+                            <l>idaṃ vatvāna Maghavā <caesura/>devarājā Sujampati |</l>
+              <l>Bhagavantaṃ namassitvā <caesura/>pamukho ratham āruhi ||: SN 11.2.9.9.</l>
+            </note>
+          </l>
+        </lg>
+        <p>sa tāvad bhakṣavaḥ<note type="footnote">Read bhikṣavaḥ.</note>śakro devendro devā[n](ā)ṃ .[r].  + + + + + +<lb n="02"/>3 (ā)[dhi](pa)tyaṃ kā[ra]yan* bu〇ddhe sagauravatāyāś ca varṇa<note type="footnote">After varṇa, a line or lines ending with the letters āja must have been omitted through scribal error. The next Sūtra begins within the lost lines(s).</note>
+        </p>
+        <p>nyarathaṃ yojayitvā yena śakro devendras ten[o] + + + + + + <lb n="03"/>4  + + + [d](e)vendra[m] idam avo〇cat* yuktas te kauśika sahasrayuktam ājanyarathaḥ yasyedānī<note type="footnote">Read yasyedānīṃ.</note>kauśika k[ā]<note type="footnote">Read kālam.</note>+ + + + +<lb n="04"/>5 tha<note type="footnote">Read atha.</note>śakr[o] devendro vaijaya  +  +  +  dād<note type="footnote">Cf. vejayantapāsādā: SN 11.2.8.5.</note>avataraṃ<note type="footnote">A line must have been omitted through scribal error.</note>prañjalikṛtaṃ<note type="footnote">Read prāñjalīkṛtaṃ.</note>pūrv[ā]mukhaṃ tiṣṭhantan namasyamānaṃ dṛṣtvā*<note type="footnote">Read dṛṣṭvā.</note>ca punaḥ bhīta .. + + + +<lb n="05"/>6 .. [ā]h[ṛ](ṣta)[r]oma[k].  ..  + + [c](a) raś(m)ayo (m)[u]ktā[ḥ] pratodaḥ (pat)itaḥ kṣītau<note type="footnote">Read kṣitau.</note>・adr[ākṣ](ī)c [chakr]o devendraḥ mātaliṃ saṃ .. + + + +<lb n="06"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

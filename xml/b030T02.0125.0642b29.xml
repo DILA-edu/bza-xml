@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 030. It is found in the 增壹阿含經 Sutra at T.02.0125.0642.</p>
+      </div>
+    </front>
+    <body xml:id="T02.0125.0642b29">
+      <anchor type="start" xml:id="t02.0125.0642b29"/>
+      <div type="parallel">
+        <p>聞如是。一時。佛在舍衛國祇樹給孤獨<pb ed="T" n="0642c"/>
+            園。
+                                爾時。尊者
+          <seg type="not-parallel">婆迦梨身得重患。臥在大小便上。</seg>意欲<anchor type="variant" n="fnT02p0642n20"/>自刀殺。<seg type="not-parallel">無此勢可自坐起。是時。尊者婆迦梨告侍者。<anchor type="variant" n="fnT02p0642n21"/>汝今可持刀來。吾欲自殺。所以然者。如今<anchor type="variant" n="fnT02p0642n22"/>日釋迦文佛弟子之中。信解脫者無出我上。然我今日有漏心不解脫。所以然者。<anchor type="variant" n="fnT02p0642n23"/>
+              然如來弟子遇苦惱時。亦復求刀自殺。我今用此命。為不能從此岸至彼岸。
+                                  是時。婆迦梨弟子出家未久。未知今世．後世。不知從此岸至彼岸。亦復不知死此生彼。便授刀與之。
+            </seg>時。婆迦梨手執刀已。以信堅固。持刀自刺。</p>
+        <p>
+          <seg type="not-parallel">是時。婆迦梨以<anchor type="variant" n="fnT02p0642n24"/>刀自刺。而作是念。釋迦文佛弟子之中。所作非法。得惡利不得善利。於如來法中。不得受證而<anchor type="variant" n="fnT02p0642n25"/>取命終。是時。尊者婆迦梨便思惟是五盛陰。是謂此色。是謂色<anchor type="variant" n="fnT02p0642n26"/>習。是謂色滅盡。是謂痛．想．行．識。<anchor type="variant" n="fnT02p0642n27"/>是謂痛．想．行．識集。是謂痛．想．行．識．滅盡。彼於此五盛陰熟思惟之。諸有生法皆是死法。知此已。便於有漏心得解脫。爾時。尊者婆迦梨於無餘涅槃界而般涅槃。</seg>
+        </p>
+        <p>爾時。世尊以天耳聽聞尊者婆迦梨求刀自殺。爾時。世尊告<anchor type="variant" n="fnT02p0642n28"/>
+            阿難。諸比丘在舍衛城者。盡集一處。吾欲所勅。
+                                是時。尊者阿難受世尊教。即集諸比丘。在普
+          <anchor type="variant" n="fnT02p0642n29"/>集講堂。還白世尊<anchor type="variant" n="fnT02p0642n30"/>
+            曰。今日比丘已集一處。
+                                是時。世尊
+          <anchor type="variant" n="fnT02p0642n31"/>將比丘僧。前後圍遶。至彼婆迦梨比丘精舍。<seg type="not-paraqllel">當於爾時。弊魔波旬欲得知尊者婆迦梨神識所在。為在何處。為在人耶。為非人耶。天．龍．鬼神．乾沓惒．阿須倫．迦留羅．摩休勒．閱叉。今此神識竟為所在。在何處生遊。<pb ed="T" n="0643a"/>不見東西南北。四維上下。皆悉周遍而不知神識之處。是時。魔波旬身體疲極。莫知所在。</seg>
+        </p>
+        <p>爾時。世尊將比丘僧。前後圍遶。至彼精舍。爾時。世尊觀魔波旬欲得知神識所在。世尊告諸比丘。汝等頗聞此精舍之中有大聲乎。又在光怪。
+                        諸比丘對曰。如是。世尊。我等<anchor type="variant" n="fnT02p0641n29"/>
+            已見。
+                                世尊告曰。此弊魔波旬。欲得知婆迦梨神識所在。
+          </p>
+        <p>是時。尊者阿難白世尊曰。唯願世尊<anchor type="variant" n="fnT02p0643n01"/>說婆迦梨比丘神識為<anchor type="variant" n="fnT02p0643n02"/>何所在。</p>
+        <p>世尊告曰。婆迦梨比丘神識永無所著。彼族姓子<anchor type="variant" n="fnT02p0641n31"/>以般涅槃。當作如是持。</p>
+        <p>
+          是時。尊者阿難白世尊曰。此婆迦梨比丘何日得此四諦。
+                              世尊告曰。今日之中得此四諦。
+        </p>
+        <p>阿難白佛。此比丘抱病經久。本是凡人。
+                        世尊告曰。如是。阿難。如汝所言。但彼比丘<choice>
+            <sic>嫌</sic>
+            <corr resp="CBETA">謙</corr>
+          </choice>苦甚久。諸有釋迦文佛弟子之中。信解脫者此人最勝。然有漏心未得解脫。我今可求刀自刺。是時。彼比丘臨自刺時。即思惟如來功德。捨壽之日。思惟五盛陰。是謂此色<anchor type="variant" n="fnT02p0642n26"/>習．此色滅盡。爾時。彼比丘思惟此已。諸有<anchor type="variant" n="fnT02p0643n03"/>習之法皆悉滅盡。此比丘<anchor type="variant" n="fnT02p0641n29"/>已般涅槃。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

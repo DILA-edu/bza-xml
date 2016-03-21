@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-0102">
+      <anchor type="start" xml:id="tp0028b19"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住<name type="place">王舍城</name>
+          <name type="place">迦蘭陀竹園</name>。</p>
+      </div>
+      <div type="main">
+        <p>爾時世尊晨朝著衣持缽，入王舍城乞食。次第乞食，至<name type="person">婆羅豆婆遮婆羅門</name>
+            舍。
+                             時婆羅門手執木杓，盛諸飲食，供養火具，住於門邊，遙見佛來。見已，白佛作是言：
+          <q who="aggikabharadvaja">
+            <p>住！住！<anchor type="variant" n="fnT02p0028n12"/>領群特！慎勿近我門！</p>
+          </q>
+        </p>
+        <p>佛告婆羅門：<q who="gotamo">
+            <p>汝知領群特、領群特法耶？</p>
+          </q>
+        </p>
+        <p>婆羅門言：<q who="aggikabharadvaja">
+            <p>我不知領群特，亦不知領群特法。沙門瞿曇知領群特及領群法不？</p>
+          </q>
+        </p>
+        <p>佛言：<q who="gotamo">
+            <p>我善知是領群特及領群特法。</p>
+          </q>
+        </p>
+        <p>是時婆羅門即放事火具，疾敷床座，請佛令坐，白言：<q who="aggikabharadvaja">
+            <p>瞿曇！為我說<pb ed="T" n="0028c"/>領群特及領群特法。</p>
+          </q>
+        </p>
+        <p>佛即就座為說偈言：</p>
+        <q who="gotamo">
+          <lg met="5" xml:id="cgtn0099-0102a">
+            <l>瞋恚心懷恨<caesura/>隱覆諸過惡</l>
+            <l>犯戒起惡見<caesura/>虛偽不真實</l>
+            <l>如是等士夫<caesura/>當知領群特</l>
+            <l>
+              <anchor type="variant" n="fnT02p0028n13"/>憋暴貪吝惜<caesura/>惡欲慳諂偽</l>
+            <l>無慚無愧心<caesura/>當知領群特</l>
+            <l>一生二生者<caesura/>一切皆殺害</l>
+            <l>無有慈愍心<caesura/>是為領群特</l>
+            <l>若殺縛<anchor type="variant" n="fnT02p0028n14"/>椎打<caesura/>聚落及城邑</l>
+            <l>無道以切責<caesura/>當知領群特</l>
+            <l>住止及行路<caesura/>為眾之導首</l>
+            <l>苦切諸群下<caesura/>恐<anchor type="variant" n="fnT02p0028n15"/>怛相迫愶</l>
+            <l>取利以供己<caesura/>當知領群特</l>
+            <l>聚落及空地<caesura/>有主無主物</l>
+            <l>掠<anchor type="variant" n="fnT02p0028n16"/>護為己有<caesura/>當知領群特</l>
+            <l>自棄薄其妻<caesura/>又不入婬舍</l>
+            <l>侵陵他所愛<caesura/>當知領群特</l>
+            <l>內外諸親屬<caesura/>同心善知識</l>
+            <l>侵掠彼所<anchor type="variant" n="fnT02p0028n17"/>受<caesura/>當知領群特</l>
+            <l>妄語欺誑人<caesura/>詐取無證財</l>
+            <l>他索而不還<caesura/>當知領群特</l>
+            <l>為己亦為他<caesura/>舉責及<anchor type="variant" n="fnT02p0028n18"/>財與</l>
+            <l>或復順他語<caesura/>妄語為他證</l>
+            <l>如是妄語者<caesura/>當知領群特</l>
+            <l>作惡不善業<caesura/>無有人知者</l>
+            <l>隱諱覆藏惡<caesura/>當知領群特</l>
+            <l>若人問其義<caesura/>而答以非義</l>
+            <l>顛倒欺誑人<caesura/>當知領群特</l>
+            <l>實空無所有<caesura/>而輕毀智者</l>
+            <l>
+              <pb ed="T" n="0029a"/>愚癡為利故<caesura/>當知領群特</l>
+            <l>高慢自稱舉<caesura/>毀壞於他人</l>
+            <l>是極卑鄙慢<caesura/>當知領群特</l>
+            <l>自造諸過惡<caesura/>移過誣他人</l>
+            <l>妄語謗清白<caesura/>當知領群特</l>
+            <l>前受他利養<caesura/>他<anchor type="variant" n="fnT02p0029n01"/>人來詣己</l>
+            <l>無有敬報心<caesura/>當知領群特</l>
+            <l>沙門婆羅門<caesura/>如法來乞求</l>
+            <l>呵責而不與<caesura/>當知領群特</l>
+            <l>若父母年老<caesura/>少壯氣已謝</l>
+            <l>不勤加奉養<caesura/>當知領群特</l>
+            <l>父母諸尊長<caesura/>兄弟親眷屬</l>
+            <l>實非阿羅漢<caesura/>自顯羅漢德</l>
+            <l>世間之大賊<caesura/>當知領群特</l>
+            <l>
+              <anchor type="variant" n="fnT02p0029n02"/>初上種姓生<caesura/>習婆羅門典</l>
+            <l>而於其中間<caesura/>習行諸惡業</l>
+            <l>不以勝生故<caesura/>障呵責惡道</l>
+            <l>現法受呵責<caesura/>後世墮惡道</l>
+            <l>生旃陀羅家<caesura/>世稱須陀夷</l>
+            <l>名聞遍天下<caesura/>旃陀羅所無</l>
+            <l>婆羅門剎利<caesura/>大姓所供養</l>
+            <l>乘於淨天道<caesura/>平等正<anchor type="variant" n="fnT02p0029n03"/>直住</l>
+            <l>不以生處障<caesura/>令不生梵天</l>
+            <l>現法善名<anchor type="variant" n="fnT02p0029n04"/>譽<caesura/>後世生善趣</l>
+            <l>二生汝當知<caesura/>如我所顯示</l>
+            <l>不以所生故<caesura/>名為領群特</l>
+            <l>不以所生故<caesura/>名為婆羅門</l>
+            <l>業為領群特<caesura/>業為婆羅門</l>
+          </lg>
+        </q>
+        <p>婆羅門白佛言：</p>
+        <q who="aggikabharadvaja">
+          <lg met="5" xml:id="cgtn0099-0102b">
+            <l>
+              <pb ed="T" n="0029b"/>如是大精進<caesura/>如是大牟尼</l>
+            <l>不以所生故<caesura/>名為領群特</l>
+            <l>不以所生故<caesura/>名為婆羅門</l>
+            <l>業故領群特<caesura/>業故婆羅門</l>
+          </lg>
+        </q>
+        <p>時<anchor type="variant" n="fnT02p0029n05"/>事火婆羅豆婆遮婆羅門轉得信心，以滿缽好食奉上世尊。世尊不受，以說偈得故。偈如上說。</p>
+        <p>時事火婆羅豆婆遮婆羅門見食瑞應已，增其信心，白佛言：<q who="aggikabharadvaja">
+            <p>世尊！我今可得<anchor type="variant" n="fnT02p0029n06"/>為正法、律出家、受具足不？</p>
+          </q>
+        </p>
+        <p>佛告婆羅門：<q who="gotamo">
+            <p>汝今可得於正法、律出家、受具足<anchor type="variant" n="fnT02p0029n07"/>戒。</p>
+          </q>
+        </p>
+        <p>即得出家，獨靜思惟，如前說，乃至得阿羅漢，心善解脫。
+                 時婆羅豆婆遮婆羅門得阿羅漢，心善解脫，自覺喜樂，<anchor type="variant" n="fnT02p0029n08"/>即說偈言：</p>
+        <q who="aggikabharadvaja">
+          <lg met="5" xml:id="cgtn0099-0102c">
+            <l>非道求清淨<caesura/>供養祠祀火</l>
+            <l>不識清淨道<caesura/>猶如生盲者</l>
+            <l>今已得安樂<caesura/>出家受具足</l>
+            <l>逮得於三明<caesura/>佛所教已作</l>
+            <l>先婆羅門難<caesura/>今為婆羅門</l>
+            <l>沐浴離塵垢<caesura/>度諸天彼岸</l>
+          </lg>
+        </q>
+      </div>
+      <div type="closing"/>
+    </body>
+  </text>
+</TEI>

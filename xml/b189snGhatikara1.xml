@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Ghaṭīkārasuttaṃ</head>
+        <p>From the VRI Chaṭṭa Saṅgāyana edition. PTS: SN, I, 060. This is part of the text-cluster of BZA (T.100) sutra 189.</p>
+      </div>
+    </front>
+    <body xml:lang="pi">
+      <anchor type="start" xml:id="pts.sn.01.060"/>
+      <div type="parallel">
+        <p>Ekamantaṃ ṭhito kho <name type="person">ghaṭīkāro</name>devaputto bhagavato santike imaṃ gāthaṃ abhāsi–</p>
+        <lg>
+          <l>“<name type="place">Avihaṃ</name>upapannāse, vimuttā satta bhikkhavo;</l>
+          <l>rāgadosaparikkhīṇā, tiṇṇā loke visattikan”ti.</l>
+        </lg>
+        <lg>
+          <l>“Ke ca te ataruṃ paṅkaṃ, maccudheyyaṃ suduttaraṃ;</l>
+          <l>ke hitvā mānusaṃ dehaṃ, dibbayogaṃ upaccagun”ti.</l>
+        </lg>
+        <lg>
+          <l>“<name type="person">Upako</name>
+            <name type="person">palagaṇḍo</name>
+            <note type="variant">[phalagaṇḍo (ka.)]</note>ca,<name type="person">pukkusāti</name>ca te tayo;</l>
+          <l>
+            <name type="person">bhaddiyo</name>
+            <name type="person">khaṇḍadevo</name>ca,<name type="person">bāhuraggi</name>ca<name type="person">saṅgiyo</name>
+            <note type="variant">[bāhudantī ca piṅgiyo (sī. syā.)]</note>;</l>
+          <l>te hitvā mānusaṃ dehaṃ, dibbayogaṃ upaccagun”ti.</l>
+        </lg>
+        <lg>
+          <l>“Kusalī bhāsasī tesaṃ, mārapāsappahāyinaṃ;</l>
+          <l>kassa te dhammamaññāya, acchiduṃ bhavabandhanan”ti.</l>
+        </lg>
+        <lg>
+          <l>“Na aññatra bhagavatā, nāññatra tava sāsanā;</l>
+          <l>yassa te dhammamaññāya, acchiduṃ bhavabandhanaṃ.</l>
+        </lg>
+        <lg>
+          <l>“Yattha nāmañca rūpañca, asesaṃ uparujjhati;</l>
+          <l>taṃ te dhammaṃ idhaññāya, acchiduṃ bhavabandhanan”ti.</l>
+        </lg>
+        <lg>
+          <l>“Gambhīraṃ bhāsasī vācaṃ, dubbijānaṃ sudubbudhaṃ;</l>
+          <l>kassa tvaṃ dhammamaññāya, vācaṃ bhāsasi īdisan”ti.</l>
+        </lg>
+        <lg>
+          <l>“Kumbhakāro pure āsiṃ, <name type="place">vekaḷiṅge</name>
+            <name type="person">ghaṭīkaro</name>;</l>
+          <l>mātāpettibharo āsiṃ, <name type="person">kassapassa</name>upāsako.</l>
+        </lg>
+        <lg>
+          <l>“Virato methunā dhammā, brahmacārī nirāmiso;</l>
+          <l>ahuvā te sagāmeyyo, ahuvā te pure sakhā.</l>
+        </lg>
+        <lg>
+          <l>“Sohamete pajānāmi, vimutte satta bhikkhavo;</l>
+          <l>rāgadosaparikkhīṇe, tiṇṇe loke visattikan”ti.</l>
+        </lg>
+        <lg>
+          <l>“Evametaṃ tadā āsi, yathā bhāsasi <name type="person">bhaggava</name>;</l>
+          <l>kumbhakāro pure āsi, vekaḷiṅge ghaṭīkaro.</l>
+        </lg>
+        <lg>
+          <l>“Mātāpettibharo āsi, kassapassa upāsako;</l>
+          <l>virato methunā dhammā, brahmacārī nirāmiso;</l>
+          <l>ahuvā me sagāmeyyo, ahuvā me pure sakhā”ti.</l>
+        </lg>
+        <lg>
+          <l>“Evametaṃ purāṇānaṃ, sahāyānaṃ ahu saṅgamo;</l>
+          <l>ubhinnaṃ bhāvitattānaṃ, sarīrantimadhārinan”ti.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

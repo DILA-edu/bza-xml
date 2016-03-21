@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 067. It is found in the 增壹阿含經 Sutra at T.02.0125.0637.</p>
+      </div>
+    </front>
+    <body xml:id="T02.0125.0637a18">
+      <anchor type="start" xml:id="t02.0125.0637a18"/>
+      <div type="parallel">
+        <p>聞如是。一時。佛在舍衛國祇樹給孤獨園。</p>
+        <p>
+          <seg type="not-parallel">爾時。尊者阿難至世尊所。頭面禮足。在一面住。斯須。復以兩手摩如來足已。復以口鳴如來足上。而作是說。天尊之體。何故乃爾。<anchor type="variant" n="fnT02p0637n07"/>身極緩<anchor type="variant" n="fnT02p0637n08"/>
+              爾。如來之身不如本故。
+                                  世尊告曰。如是。阿難。如汝所言。今如來身皮肉
+            <anchor type="variant" n="fnT02p0637n09"/>已緩。今日之體不如本故。所以然者。夫受形體。為病所逼。若應病眾生。為病所困。應死眾生。為死所逼。今日如來。年<anchor type="variant" n="fnT02p0637n09"/>
+              已衰微。年過八十。
+                                  是時。阿難聞此語已。悲泣
+            <anchor type="variant" n="fnT02p0637n10"/>哽噎。不能自勝。並作是語。咄嗟。老至乃至於斯。</seg>
+        </p>
+        <p>是時。世尊到時。著衣持鉢。入舍衛城乞<pb ed="T" n="0637b"/>食。是時。世尊漸漸乞食。至王波斯匿舍。當於爾時。波斯匿門前。<anchor type="variant" n="fnT02p0637n11"/>有故壞車數十乘。<anchor type="variant" n="fnT02p0637n12"/>捨在一面。是時。尊者阿難以見車棄在一面。見已。白世尊曰。此<anchor type="variant" n="fnT02p0637n13"/>車王波斯匿車。昔日作時極為精妙。如今<anchor type="variant" n="fnT02p0637n14"/>
+            日觀之。與瓦石同色。
+                            世尊告曰。如是。阿難。如汝所言。如今觀所有車。昔日之時極為精妙。金銀所造。今日壞敗。不可復用。如是外物尚壞敗。況復內者。
+                                爾時。世尊便說此偈。
+          </p>
+        <lg met="5">
+          <l>咄此老病死<caesura/>壞人極盛色</l>
+          <l>初時甚悅意<caesura/>今為死使逼</l>
+          <l>雖當<anchor type="variant" n="fnT02p0637n15"/>壽百歲<caesura/>皆當歸於死</l>
+          <l>無<anchor type="variant" n="fnT02p0637n16"/>免此患苦<caesura/>盡當歸此道</l>
+          <l>如內身所有<caesura/>為死之所驅</l>
+          <l>外諸四大者<caesura/>悉<anchor type="variant" n="fnT02p0637n17"/>趣於本無</l>
+          <l>是故求無死<caesura/>唯有涅槃耳</l>
+          <l>彼無死無生<caesura/>都無此諸行</l>
+        </lg>
+      </div>
+      <div type="not-parallel">
+        <p>爾時。世尊即就波斯匿王坐。是時。王波斯匿與世尊辦種種飲食。觀世尊食竟。王更取一小座。在如來前坐。白世尊曰。云何。世尊。諸佛形體皆金剛數。亦當有老‧病‧死乎。世尊告曰。如是。大王。如大王語。如來亦當有<anchor type="variant" n="fnT02p0637n18"/>此生‧老‧病‧死。我今亦是人數。父名真淨。母名摩耶。出轉輪聖王種。</p>
+        <p>爾時。世尊便說此偈。</p>
+        <lg met="5">
+          <l>諸佛出於人<caesura/>父名曰真淨</l>
+          <l>母名極清妙<caesura/>豪族<anchor type="variant" n="fnT02p0637n19"/>剎利種</l>
+          <l>死徑<anchor type="variant" n="fnT02p0637n20"/>為極困<caesura/>都不觀尊卑</l>
+          <l>諸佛尚不免<caesura/>況復餘凡俗</l>
+        </lg>
+        <p>
+          <pb ed="T" n="0637c"/>爾時。世尊與波斯匿王而說此偈。</p>
+        <lg met="5">
+          <l>祠祀火為上<caesura/>詩書頌為尊</l>
+          <l>人中王為貴<caesura/>眾流海為首</l>
+          <l>眾星月為上<caesura/>光明日為先</l>
+          <l>八方上下中<caesura/>世界之所載</l>
+          <l>天及世人民<caesura/>如來最為尊</l>
+          <l>其欲求福祿<caesura/>當供養三佛</l>
+        </lg>
+        <p>是時。世尊說此偈已。便從座起而去。還<anchor type="variant" n="fnT02p0636n04"/>
+            祇洹精舍。就座而坐。                
+                                爾時。世尊告諸比丘。有四法。在世間人所愛敬。云何為四。少壯之年。世間人民之所愛敬。無有病痛。人所愛敬。壽命人所愛敬。恩愛集聚。人所愛敬。是謂。比丘。有此四法。世間人民之所愛敬。
+          </p>
+      </div>
+      <div type="parallel">
+        <p>復次。比丘復有四法。世間人民所不愛敬。云何為四。比丘當知。少壯之年。若<anchor type="variant" n="fnT02p0637n21"/>時老病。世人所不喜。若無病者。後便得病。世人所不喜。若有得壽命。後便命終。世人所不喜。恩愛得集。後復別離。是世人所不喜。是謂。比丘。有此四法與世迴轉。諸天‧世人。乃至轉輪聖王‧諸佛世尊。<anchor type="variant" n="fnT02p0637n22"/>共有此法。是為。比丘。世間有此四法與世迴轉。</p>
+        <p>若不覺此四法時。便流轉生死。周旋五道。云何為四。<anchor type="variant" n="fnT02p0637n23"/>聖賢戒‧賢聖三昧‧賢聖智慧‧賢聖解脫。是<anchor type="variant" n="fnT02p0637n24"/>為。比丘。有此四法而不覺知者。則受上四法。我今及汝等。以覺知此賢聖四法。斷生死根。不復受有。如今如來形體衰老。當受此衰耗之報。是故。諸比丘。當求此永寂涅槃。不生‧不老‧不病‧不死。恩愛別離。常念無常之變。如是。<anchor type="variant" n="fnT02p0637n25"/>比丘。當作是<anchor type="variant" n="fnT02p0637n26"/>念。</p>
+        <p>爾時。諸比丘聞佛所<pb ed="T" n="0638a"/>說。歡喜奉行。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

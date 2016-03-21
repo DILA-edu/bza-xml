@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                      法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                            Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                            text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                            lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                            Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                            edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+            (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+            (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                            comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                            the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                            literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                        English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project is funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project is to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. The texts are kept in single files in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasts from 2005-2008. For any changes after 2008 see the revision
+                          description.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō).</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="bza255">
+      <anchor type="start" xml:id="Tp0463a24"/>
+      <div type="opening" xml:id="obza255">
+        <p n="bza255.01">如是我聞：一時佛在<name type="place">王舍城</name>
+          <name type="place">迦蘭陀竹林</name>。</p>
+      </div>
+      <div type="main" xml:id="mbza255">
+        <p n="bza255.02">爾時<name type="person">尼瞿陀劫波比丘</name>住彼<name type="place">第一曠野林</name>中。而此<app n="fnT02p0463n09">
+            <lem wit="【大】">野</lem>
+            <rdg resp="Taisho" wit="【宋】【元】【明】">野林</rdg>
+          </app>野中復有一林。時此比丘於彼遇病，尊者<app n="fnT02p0463n10">
+            <lem wit="【大】">婆耆</lem>
+            <rdg resp="Taisho" wit="【宋】【元】【明】">婆耆奢</rdg>
+          </app>
+          <name type="person">婆耆</name>供給彼病尼瞿陀劫波比丘。因此病故，即入涅槃。爾時尊者婆耆奢耶旬，供養和<app n="fnT02p0463n11">
+            <lem wit="【大】">上</lem>
+            <rdg resp="Taisho" wit="【宋】【元】【明】">尚</rdg>
+          </app>上尼瞿陀劫波已，漸次遊行，至王舍城<pb ed="T" xml:id="T02.0100.0463b" n="0463b"/>迦蘭陀竹林。時婆耆奢於其晨朝著衣持鉢，入王舍城乞食。乞食食已，洗鉢，收攝坐具，往詣佛所，整其衣服，合掌向佛，說偈問曰：</p>
+        <q who="vangisa">
+          <lg n="bza255.03" met="5" xml:id="cg255a">
+            <l>我今欲問佛<caesura/>無量之解慧</l>
+            <l>現在斷疑惑<caesura/>於曠野<app n="fnT02p0463n12">
+                <lem wit="【大】">城</lem>
+                <rdg resp="Taisho" wit="【明】">林</rdg>
+              </app>城中</l>
+            <l>比丘入涅槃<caesura/>生來有福德</l>
+            <l>守攝身口意<caesura/>兼有大名聞</l>
+            <l>尼瞿陀劫賓<caesura/>佛為作是名</l>
+            <l>佛為婆羅門<caesura/>立如是名字</l>
+          </lg>
+        </q>
+      </div>
+    </body>
+  </text>
+</TEI>

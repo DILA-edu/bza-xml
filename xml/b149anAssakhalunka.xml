@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Dutiya-ājānīyasuttaṃ</head>
+        <p>From the VRI Chaṭṭa Saṅgāyana edition. PTS: AN, IV, 190. This is part of the text-cluster of BZA (T.100) sutra 149.</p>
+      </div>
+    </front>
+    <body xml:lang="pi">
+      <anchor type="start" xml:id="pts.an.04.190"/>
+      <div type="parallel">
+        <p>“Aṭṭha ca <note type="variant">[aṭṭha (syā.)]</note>, bhikkhave, assakhaḷuṅke<note type="variant">[assakhaluṅke (sī.)]</note>desessāmi aṭṭha ca assadose, aṭṭha ca purisakhaḷuṅke aṭṭha ca purisadose. Taṃ suṇātha, sādhukaṃ manasi karotha; bhāsissāmī”ti. “Evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca–</p>
+        <p>“Katame ca, bhikkhave, aṭṭha assakhaḷuṅkā aṭṭha ca assadosā? Idha, bhikkhave, ekacco assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā pacchato paṭikkamati, piṭṭhito rathaṃ pavatteti. Evarūpopi, bhikkhave, idhekacco assakhaḷuṅko hoti. Ayaṃ, bhikkhave, paṭhamo assadoso.</p>
+        <p>“Puna caparaṃ, bhikkhave, idhekacco assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā pacchā laṅghati, kubbaraṃ hanati, tidaṇḍaṃ bhañjati. Evarūpopi, bhikkhave, idhekacco assakhaḷuṅko hoti. Ayaṃ, bhikkhave, dutiyo assadoso.</p>
+        <p>“Puna caparaṃ, bhikkhave, idhekacco assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā rathīsāya satthiṃ ussajjitvā rathīsaṃyeva ajjhomaddati. Evarūpopi, bhikkhave, idhekacco assakhaḷuṅko hoti. Ayaṃ, bhikkhave, tatiyo assadoso.</p>
+        <p>“Puna caparaṃ, bhikkhave, idhekacco assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā ummaggaṃ gaṇhati, ubbaṭumaṃ rathaṃ karoti. Evarūpopi bhikkhave, idhekacco assakhaḷuṅko hoti. Ayaṃ, bhikkhave, catuttho assadoso.</p>
+        <p>“Puna caparaṃ, bhikkhave, idhekacco assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā laṅghati purimakāyaṃ paggaṇhati purime pāde. Evarūpopi, bhikkhave, idhekacco assakhaḷuṅko hoti. Ayaṃ, bhikkhave, pañcamo assadoso.</p>
+        <p>“Puna caparaṃ, bhikkhave, idhekacco assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā anādiyitvā sārathiṃ anādiyitvā patodalaṭṭhiṃ <note type="variant">[patodaṃ (sī. pī.), patodayaṭṭhiṃ (syā. kaṃ.)]</note>dantehi mukhādhānaṃ<note type="variant">[mukhāṭhānaṃ (ka.)]</note>vidhaṃsitvā yena kāmaṃ pakkamati. Evarūpopi, bhikkhave, idhekacco assakhaḷuṅko hoti. Ayaṃ, bhikkhave, chaṭṭho assadoso.</p>
+        <p>“Puna caparaṃ, bhikkhave, idhekacco assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā neva abhikkamati no paṭikkamati tattheva khīlaṭṭhāyī ṭhito hoti. Evarūpopi, bhikkhave, idhekacco assakhaḷuṅko hoti. Ayaṃ, bhikkhave, sattamo assadoso.</p>
+        <p>“Puna caparaṃ, bhikkhave, idhekacco assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā purime ca pāde saṃharitvā pacchime ca pāde saṃharitvā <note type="variant">[saṅkharitvā (ka.)]</note>tattheva cattāro pāde abhinisīdati. Evarūpopi, bhikkhave, idhekacco assakhaḷuṅko hoti. Ayaṃ, bhikkhave, aṭṭhamo assadoso. Ime kho, bhikkhave, aṭṭha assakhaḷuṅkā aṭṭha ca assadosā.</p>
+        <p>
+          <note type="variant">[Vibha. 956]</note>“katame ca, bhikkhave, aṭṭha purisakhaḷuṅkā aṭṭha ca purisadosā? Idha, bhikkhave, bhikkhū bhikkhuṃ āpattiyā codenti. So bhikkhu bhikkhūhi āpattiyā codiyamāno ‘na sarāmī’ti asatiyā nibbeṭheti. Seyyathāpi so, bhikkhave, assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā pacchato paṭikkamati, piṭṭhito rathaṃ vatteti; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi. Evarūpopi, bhikkhave, idhekacco purisakhaḷuṅko hoti. Ayaṃ, bhikkhave, paṭhamo purisadoso.</p>
+        <p>“Puna caparaṃ, bhikkhave bhikkhū bhikkhuṃ āpattiyā codenti. So bhikkhu bhikkhūhi āpattiyā codiyamāno codakaṃyeva paṭippharati– ‘kiṃ nu kho tuyhaṃ bālassa abyattassa bhaṇitena! Tvampi nāma bhaṇitabbaṃ maññasī’ti! Seyyathāpi so, bhikkhave, assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā pacchā laṅghati, kubbaraṃ hanati, tidaṇḍaṃ bhañjati; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi. Evarūpopi, bhikkhave, idhekacco purisakhaḷuṅko hoti. Ayaṃ, bhikkhave, dutiyo purisadoso.</p>
+        <p>“Puna caparaṃ, bhikkhave, bhikkhū bhikkhuṃ āpattiyā codenti. So bhikkhu bhikkhūhi āpattiyā codiyamāno codakasseva paccāropeti– ‘tvaṃ khosi itthannāmaṃ āpattiṃ āpanno, tvaṃ tāva paṭhamaṃ paṭikarohī’ti. Seyyathāpi so, bhikkhave, assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā rathīsāya satthiṃ ussajjitvā rathīsaṃyeva ajjhomaddati; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi. Evarūpopi, bhikkhave, idhekacco purisakhaḷuṅko hoti. Ayaṃ, bhikkhave, tatiyo purisadoso.</p>
+        <p>“Puna caparaṃ, bhikkhave, bhikkhū bhikkhuṃ āpattiyā codenti. So bhikkhu bhikkhūhi āpattiyā codiyamāno aññenāññaṃ paṭicarati, bahiddhā kathaṃ apanāmeti, kopañca dosañca appaccayañca pātukaroti. Seyyathāpi so, bhikkhave, assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā ummaggaṃ gaṇhati, ubbaṭumaṃ rathaṃ karoti; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi. Evarūpopi, bhikkhave, idhekacco purisakhaḷuṅko hoti. Ayaṃ, bhikkhave, catuttho purisadoso.</p>
+        <p>“Puna caparaṃ, bhikkhave, bhikkhū bhikkhuṃ āpattiyā codenti. So bhikkhu bhikkhūhi āpattiyā codiyamāno saṅghamajjhe bāhuvikkhepaṃ karoti. Seyyathāpi so, bhikkhave assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā laṅghati, purimakāyaṃ paggaṇhati purime pāde; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi. Evarūpopi, bhikkhave, idhekacco purisakhaḷuṅko hoti. Ayaṃ, bhikkhave, pañcamo purisadoso.</p>
+        <p>“Puna caparaṃ, bhikkhave, bhikkhū bhikkhuṃ āpattiyā codenti. So bhikkhu bhikkhūhi āpattiyā codiyamāno anādiyitvā saṅghaṃ anādiyitvā codakaṃ sāpattikova yena kāmaṃ pakkamati. Seyyathāpi so, bhikkhave, assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā anādiyitvā sārathiṃ anādiyitvā patodalaṭṭhiṃ dantehi mukhādhānaṃ vidhaṃsitvā yena kāmaṃ pakkamati; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi. Evarūpopi, bhikkhave, idhekacco purisakhaḷuṅko hoti. Ayaṃ, bhikkhave, chaṭṭho purisadoso.</p>
+        <p>“Puna caparaṃ, bhikkhave, bhikkhū bhikkhuṃ āpattiyā codenti. So bhikkhu bhikkhūhi āpattiyā codiyamāno ‘nevāhaṃ āpannomhi, na panāhaṃ āpannomhī’ti so tuṇhībhāvena saṅghaṃ viheṭheti <note type="variant">[viheseti (pī. ka.)]</note>. Seyyathāpi so, bhikkhave, assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā neva abhikkamati no paṭikkamati tattheva khīlaṭṭhāyī ṭhito hoti; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi. Evarūpopi, bhikkhave, idhekacco purisakhaḷuṅko hoti. Ayaṃ, bhikkhave, sattamo purisadoso.</p>
+        <p>“Puna caparaṃ, bhikkhave, bhikkhū bhikkhuṃ āpattiyā codenti. So bhikkhu bhikkhūhi āpattiyā codiyamāno evamāha ‘kiṃ nu kho tumhe āyasmanto atibāḷhaṃ mayi byāvaṭā yāva <note type="variant">[idaṃ padaṃ sīhaḷapotthake natthi]</note>idānāhaṃ sikkhaṃ paccakkhāya hīnāyāvattissāmī’ti. So sikkhaṃ paccakkhāya hīnāyāvattitvā evamāha– ‘idāni kho tumhe āyasmanto attamanā hothā’ti? Seyyathāpi so, bhikkhave, assakhaḷuṅko ‘pehī’ti vutto, viddho samāno codito sārathinā purime ca pāde saṃharitvā pacchime ca pāde saṃharitvā tattheva cattāro pāde abhinisīdati; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi. Evarūpopi, bhikkhave, idhekacco purisakhaḷuṅko hoti. Ayaṃ, bhikkhave, aṭṭhamo purisadoso. Ime kho, bhikkhave, aṭṭha purisakhaḷuṅkā aṭṭha ca purisadosā”ti.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

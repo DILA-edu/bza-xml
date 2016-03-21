@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum
+                              Buddhist College 法鼓佛教研修學院.
+        </title>
+        <funder>
+          Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會
+        </funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist
+                              College 法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>
+            Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉,
+                                    Chueh Hui-chen 闕慧貞
+          </name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>
+          This is the default header for all files in the database. Files which contain
+                              gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.
+        </p>
+        <p>
+          The project was conducted 2005-2008. Some minor revisions and additions were done
+                              in 2009.
+        </p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                    Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                    text lies with the Vipassana Research Institute. Copyright for the Sanskrit
+                                    text lies with Fumio Enomoto. Copyright for the English text lies with
+                                    Marcus Bingenheimer. The Tibetan and Manchu texts are in the public realm.
+                                    The digital edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                    (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                    (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                    comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding
+                                    to the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                    literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly
+                                publications (as referenced). English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the
+                              Bieyi za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies
+                              中華佛學研究所 and the Dharma Drum Buddhist College 法鼓佛教研修學院. The project is funded by
+                              the Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會. The aim of the project is to produce a comparative digital edition
+                              and partial translation of the 364 sutras of the BZA and their parallels. The
+                              texts are kept in single files in an eXist database and are realized via XQuery
+                              and XSLT as HTML for the online user. The project lasts from 2005-2008. For any
+                              changes after 2008 see the revision description.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                              attribute on the containing elements
+        </p>
+        <p>
+          BZA: New Punctuation. Markup of person and place names. Verse and prose.
+                              References to the print edition (Taishō). Corrected characters (according to
+                              CBETA).
+        </p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō).</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA. Verse and
+                              Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan: Parallel and not-parallel divisions regarding the BZA.
+                              Verse and Prose. Variant readings.
+        </p>
+      </editorialDecl>
+      <charDesc>
+        <glyph xml:id="g056">
+          <glyphName>CJK IDEOGRAPH 145062</glyphName>
+          <charProp>
+            <localName>pronunciation</localName>
+            <value>jiang4; qiang2</value>
+          </charProp>
+          <mapping type="cbeta">[木*(強-ㄙ+口)]</mapping>
+          <mapping type="cbetaNo">??????</mapping>
+          <mapping type="UTF-8">F0 A3 9A A6</mapping>
+          <mapping type="unicode">145062</mapping>
+          <graphic url="gaiji/g056.gif"/>
+          <note>appears in bza307</note>
+        </glyph>
+      </charDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="bza307">
+      <anchor type="start" xml:id="Tp0477c24"/>
+      <div type="opening" xml:id="obza307">
+        <p n="bza307.01">如是我聞：一時佛在<name type="place">王舍城</name>
+          <name type="place">迦蘭陀竹林</name>。</p>
+      </div>
+      <div type="main" xml:id="mbza307">
+        <p n="bza307.02">當于爾時有六天子，本是外道六師徒黨：一名<name type="person">難勝</name>，二名<name type="person">自在</name>，三名<name type="person">顯現</name>，四名<name type="person">決勝</name>，五名<name type="person">時起</name>，六名<name type="person">輕弄</name>。此六天子咸於其夜來詣佛所，在一面坐。斯諸天光倍勝於常，遍照祇洹，赫然大明。爾時難勝即說偈言：</p>
+        <pb ed="T" xml:id="T02.0100.0478a" n="0478a"/>
+        <q who="devata">
+          <lg n="bza307.03" met="5" xml:id="cg307a">
+            <l>可譏毀比丘<caesura/>四時自禁制</l>
+            <l>見聞其住已<caesura/>是人離諸惡</l>
+          </lg>
+        </q>
+        <p n="bza307.04">自在天子復說偈言：</p>
+        <q who="devata">
+          <lg n="bza307.05" met="5" xml:id="cg307b">
+            <l>苦行可譏毀<caesura/>
+              <app n="fnT02p0478n01">
+                <lem wit="【大】">撿攝</lem>
+                <rdg resp="Taisho" wit="【宋】【元】【明】">攝檢</rdg>
+              </app>撿攝於己身</l>
+            <l>斷惡口忿諍<caesura/>苦樂同世尊</l>
+            <l>於其法主所<caesura/>不造作眾惡</l>
+          </lg>
+        </q>
+        <p n="bza307.06">顯現天子復說偈言：</p>
+        <q who="devata">
+          <lg n="bza307.07" met="5" xml:id="cg307c">
+            <l>斬截及傷害<caesura/>祠祀火燒等</l>
+            <l>皆無善惡報<caesura/>迦葉之所說</l>
+          </lg>
+        </q>
+        <p n="bza307.08">決勝天子復說偈言：</p>
+        <q who="devata">
+          <lg n="bza307.09" met="5" xml:id="cg307d">
+            <l>尼<app n="fnT02p0478n02">
+                <lem wit="【大】">乾</lem>
+                <rdg resp="Taisho" wit="【宋】【元】【明】">揵</rdg>
+              </app>乾若提子<caesura/>
+              <app n="fnT02p0478n03">
+                <lem wit="【大】">常</lem>
+                <rdg resp="Taisho" wit="【宋】【元】【明】">當</rdg>
+              </app>常說如是言</l>
+            <l>長夜修苦行<caesura/>
+              <app n="fnT02p0478n04">
+                <lem wit="【大】">斷除</lem>
+                <rdg resp="Taisho" wit="【宋】【元】【明】">除斷</rdg>
+              </app>斷除於妄語</l>
+            <l>離羅漢不遠<caesura/>墮於世尊數</l>
+          </lg>
+        </q>
+        <p n="bza307.10">爾時世尊以偈答<app n="fnT02p0478n05">
+            <lem wit="【大】">言</lem>
+            <rdg resp="Taisho" wit="【宋】【元】【明】">曰</rdg>
+          </app>言：</p>
+        <q who="gotamo">
+          <lg n="bza307.11" met="5" xml:id="cg307e">
+            <l>從今令汝等<caesura/>獨己若多眾</l>
+            <l>我觀皆鄙穢<caesura/>悉同於死尸</l>
+            <l>云何以野干<caesura/>同彼師子王</l>
+            <l>汝尊裸形眾<caesura/>極惡喜妄語</l>
+            <l>如斯外道等<caesura/>彼去羅漢遠</l>
+          </lg>
+        </q>
+        <p n="bza307.12">時有天子復說偈言：</p>
+        <q who="devata">
+          <lg n="bza307.13" met="5" xml:id="cg307f">
+            <l>作彼苦行者<caesura/>深為可譏毀</l>
+            <l>雖處於閑靜<caesura/>徒為勞苦事</l>
+            <l>願當擁護彼<caesura/>為其作教導</l>
+            <l>必趣於色有<caesura/>生梵世歡喜</l>
+          </lg>
+        </q>
+        <p n="bza307.14">爾時世尊復以偈答：</p>
+        <pb ed="T" xml:id="T02.0100.0478b" n="0478b"/>
+        <q who="gotamo">
+          <lg n="bza307.15" met="5" xml:id="cg307g">
+            <l>世界所有色<caesura/>此處及他處</l>
+            <l>并在虛空中<caesura/>有大光明者</l>
+            <l>如是等一切<caesura/>悉入魔羂<app n="fnT02p0478n06">
+                <lem wit="【大】">𣚦</lem>
+                <rdg resp="Taisho" wit="【元】【明】">弶</rdg>
+              </app>
+              <g ref="g056">[木*(強-ㄙ+口)]</g>
+            </l>
+            <l>譬如捕魚師<caesura/>以網掩眾魚</l>
+          </lg>
+        </q>
+        <p n="bza307.16">又有一天，復說偈言：</p>
+        <q who="devata">
+          <lg n="bza307.17" met="5" xml:id="cg307h">
+            <l>說有及欲過<caesura/>并諸癡幻惡</l>
+            <l>一切悉斷除<caesura/>讚歎斷欲結</l>
+            <l>應向彼禮拜<caesura/>供養以稱讚</l>
+            <l>所以如是者<caesura/>彼即世尊故</l>
+          </lg>
+        </q>
+        <p n="bza307.18">有一天子，復說偈言：</p>
+        <q who="devata">
+          <lg n="bza307.19" met="5" xml:id="cg307i">
+            <l>說有及瞋過<caesura/>并諸癡幻惡</l>
+            <l>一切悉斷除<caesura/>讚歎斷瞋結</l>
+            <l>應向彼禮拜<caesura/>供養以<app n="fnT02p0478n07">
+                <lem wit="【大】">讚歎</lem>
+                <rdg resp="Taisho" wit="【宋】【元】【明】">稱讚</rdg>
+              </app>讚歎</l>
+            <l>所以如是者<caesura/>彼即世尊故</l>
+          </lg>
+        </q>
+        <p n="bza307.20">時一天子復說偈言：</p>
+        <q who="devata">
+          <lg n="bza307.21" met="5" xml:id="cg307j">
+            <l>說有及癡過<caesura/>并諸癡幻惡</l>
+            <l>一切悉斷除<caesura/>讚歎斷癡者</l>
+          </lg>
+        </q>
+        <p n="bza307.22">時一天子復說偈言：</p>
+        <q who="devata">
+          <lg n="bza307.23" met="5" xml:id="cg307k">
+            <l>說有憍慢過<caesura/>并諸慢幻惡</l>
+            <l>一切悉斷除<caesura/>讚歎斷憍慢</l>
+          </lg>
+        </q>
+        <p n="bza307.24">時一天子復說偈言：</p>
+        <q who="devata">
+          <lg n="bza307.25" met="5" xml:id="cg307l">
+            <l>說有諸見過<caesura/>并諸見幻惡</l>
+            <l>一切悉斷除<caesura/>讚歎斷見者</l>
+          </lg>
+        </q>
+        <p n="bza307.26">時一天子復說偈言：</p>
+        <q who="devata">
+          <lg n="bza307.27" met="5" xml:id="cg307m">
+            <l>說有愛著過<caesura/>并諸愛幻惡</l>
+            <l>一切悉斷除<caesura/>讚歎斷愛者</l>
+          </lg>
+        </q>
+        <p n="bza307.28">有一天子，復說偈言：</p>
+        <q who="devata">
+          <lg n="bza307.29" met="5" xml:id="cg307n">
+            <l>王舍城諸山<caesura/>毘富羅最上</l>
+            <l>
+              <app n="fnT02p0478n08">
+                <lem wit="【大】">大</lem>
+                <rdg resp="Taisho" wit="【宋】">天</rdg>
+              </app>大地諸山中<caesura/>雪山王最上</l>
+            <l>四方諸世界<caesura/>上下及四維</l>
+            <l>一切天人中<caesura/>如來最為尊</l>
+          </lg>
+        </q>
+      </div>
+      <div type="closing" xml:id="cbza307">
+        <p n="bza307.30">時諸天子聞佛所說，各說偈已，歡喜頂禮，還于天宮。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

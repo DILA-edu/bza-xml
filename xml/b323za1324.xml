@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-1324">
+      <anchor type="start" xml:id="tp0363b29"/>
+      <div type="opening">
+        <p>如是我聞：一時佛在<name type="place">摩竭提國</name>人間遊行，到<name type="person">針毛鬼</name>
+        </p>
+      </div>
+      <pb ed="T" n="0363c"/>
+      <pb ed="T" n="0364a"/>
+      <div type="main">
+        <p>爾時針毛鬼會諸鬼神，集在一處。時有<anchor type="variant" n="fnT02p0363n09"/>
+          <name type="person">炎鬼</name>見世尊在針毛鬼住處夜宿。見已，往詣針毛鬼所，語針毛鬼言：<q who="kharayakka">
+            <p>聚落主！汝今大得善利，今如來、應、等正覺於汝室宿。</p>
+          </q>
+        </p>
+        <p>針毛鬼言：<q who="suciloma">
+            <p>今當試看，為是如來、為非？</p>
+          </q>
+        </p>
+        <p>時針毛鬼與諸鬼神集會已，還歸自舍，束身<anchor type="variant" n="fnT02p0363n10"/>衝佛。爾時世尊卻身避之。如是再三，束身衝佛，佛亦再三卻身避<anchor type="variant" n="fnT02p0363n11"/>之。</p>
+        <p>爾時針毛鬼言：<q who="suciloma">
+            <p>沙門怖耶？</p>
+          </q>
+        </p>
+        <p>佛言：<q who="gotamo">
+            <p>聚落主！我不怖也，但汝觸惡。</p>
+          </q>
+        </p>
+        <p>針毛鬼言：<q who="suciloma">
+            <p>今有所問，當為我說，能令我喜者善，不能令我喜者，當壞汝心，裂汝胸，令汝熱血從其面出，捉汝兩手<anchor type="variant" n="fnT02p0363n12"/>擲著恒水彼岸。</p>
+          </q>
+        </p>
+        <p>佛告針毛鬼：<q who="gotamo">
+            <p>聚落主！我不見諸天、魔、梵、沙門、婆羅門、天神、世人能壞如來、應、等正覺心者，能裂其胸者，能令熱血從面出者，執其兩臂擲著恒水彼岸者。汝今但問，當為汝說，令汝歡喜。</p>
+          </q>
+        </p>
+        <p>時針毛鬼說偈問佛：</p>
+        <q who="suciloma">
+          <lg met="5" xml:id="cgtn0099-1324a">
+            <l>一切貪恚心<caesura/>以何為其因</l>
+            <l>不樂身毛豎<caesura/>
+              <anchor type="variant" n="fnT02p0363n13"/>恐怖從何起</l>
+            <l>意念諸覺想<caesura/>為從何所起</l>
+            <l>猶如新生兒<caesura/>依倚於乳母</l>
+          </lg>
+        </q>
+        <p>爾時世尊說偈答言：</p>
+        <q who="gotamo">
+          <lg met="5" xml:id="cgtn0099-1324b">
+            <l>愛生自身長<caesura/>如尼拘律樹</l>
+            <l>展轉相拘引<caesura/>如<anchor type="variant" n="fnT02p0363n14"/>籐綿叢林</l>
+            <l>若知彼所因<caesura/>當令鬼覺悟</l>
+            <l>度生死海流<caesura/>不復重增有</l>
+          </lg>
+        </q>
+        <p>爾時針毛鬼聞世尊說偈，心得歡喜，向佛悔過，受持三歸。</p>
+      </div>
+      <div type="closing">
+        <p>佛說此經已，針毛鬼聞佛所說，歡喜奉行<anchor type="variant" n="fnT02p0364n01"/>！</p>
+      </div>
+    </body>
+  </text>
+</TEI>

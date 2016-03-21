@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Aṅgulimālasuttaṃ</head>
+        <p>From the VRI Chaṭṭa Saṅgāyana edition. PTS: MN, II, 097. This is part of the text-cluster of BZA (T.100) sutra 016.</p>
+      </div>
+    </front>
+    <body xml:lang="pi">
+      <anchor type="start" xml:id="pts.mn.02.097"/>
+      <div type="parallel">
+        <p>Evaṃ me sutaṃ– ekaṃ samayaṃ bhagavā <name type="place">sāvatthiyaṃ</name>viharati<name type="place">jetavane</name>
+          <name type="place">anāthapiṇḍikassa ārāme</name>.</p>
+        <p>
+          <seg type="not-parallel">Tena kho pana samayena  <name type="person">rañño pasenadissa  <name type="place">kosalassa</name>
+            </name> vijite coro <name type="person">aṅgulimālo</name>nāma hoti luddo lohitapāṇi hatapahate niviṭṭho adayāpanno pāṇabhūtesu. Tena gāmāpi agāmā katā, nigamāpi anigamā katā, janapadāpi ajanapadā katā. So manusse vadhitvā vadhitvā aṅgulīnaṃ mālaṃ dhāreti.</seg>
+        </p>
+        <p>Atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisi. Sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkanto senāsanaṃ saṃsāmetvā pattacīvaramādāya yena coro aṅgulimālo tenaddhānamaggaṃ paṭipajji. Addasāsuṃ kho gopālakā pasupālakā kassakā pathāvino bhagavantaṃ yena coro aṅgulimālo tenaddhānamaggapaṭipannaṃ. Disvāna bhagavantaṃ etadavocuṃ– “mā, samaṇa, etaṃ maggaṃ paṭipajji. Etasmiṃ, samaṇa, magge coro aṅgulimālo nāma luddo lohitapāṇi hatapahate niviṭṭho adayāpanno pāṇabhūtesu. Tena gāmāpi agāmā katā, nigamāpi anigamā katā, janapadāpi ajanapadā katā. So manusse vadhitvā vadhitvā aṅgulīnaṃ mālaṃ dhāreti. Etañhi, samaṇa, maggaṃ dasapi purisā vīsampi purisā tiṃsampi purisā cattārīsampi purisā paññāsampi purisā saṅkaritvā saṅkaritvā <note type="variant">[saṃharitvā saṃharitvā (sī. pī.), saṅgaritvā (syā. kaṃ.)]</note>paṭipajjanti. Tepi corassa aṅgulimālassa hatthatthaṃ gacchantī”ti.</p>
+        <p>Evaṃ vutte, bhagavā tuṇhībhūto agamāsi. Dutiyampi kho gopālakā…pe… tatiyampi kho gopālakā pasupālakā kassakā pathāvino bhagavantaṃ etadavocuṃ– “mā, samaṇa, etaṃ maggaṃ paṭipajji, etasmiṃ samaṇa magge coro aṅgulimālo nāma luddo lohitapāṇi hatapahate niviṭṭho adayāpanno pāṇabhūtesu, tena gāmāpi agāmā katā, nigamāpi anigamā katā, janapadāpi ajanapadā katā. So manusse vadhitvā vadhitvā aṅgulīnaṃ mālaṃ dhāreti. Etañhi samaṇa maggaṃ dasapi purisā vīsampi purisā tiṃsampi purisā cattārīsampi purisā paññāsampi purisā saṅkaritvā saṅkaritvā paṭipajjanti. Tepi corassa aṅgulimālassa hatthatthaṃ gacchantī”ti.</p>
+        <p>Atha kho bhagavā tuṇhībhūto agamāsi. Addasā kho coro aṅgulimālo bhagavantaṃ dūratova āgacchantaṃ. Disvānassa etadahosi– “acchariyaṃ vata, bho, abbhutaṃ vata, bho! Imañhi maggaṃ dasapi purisā vīsampi purisā tiṃsampi purisā cattārīsampi purisā paññāsampi purisā saṅkaritvā saṅkaritvā paṭipajjanti. Tepi mama hatthatthaṃ gacchanti. Atha ca panāyaṃ samaṇo eko adutiyo pasayha maññe āgacchati. Yaṃnūnāhaṃ imaṃ samaṇaṃ jīvitā voropeyyan”ti. Atha kho coro aṅgulimālo asicammaṃ gahetvā dhanukalāpaṃ sannayhitvā bhagavantaṃ piṭṭhito piṭṭhito anubandhi. Atha kho bhagavā tathārūpaṃ iddhābhisaṅkhāraṃ abhisaṅkhāsi <note type="variant">[abhisaṅkhāresi (syā. kaṃ. ka.)]</note>yathā coro aṅgulimālo bhagavantaṃ pakatiyā gacchantaṃ sabbathāmena gacchanto na sakkoti sampāpuṇituṃ.</p>
+        <p>
+          <seg type="not-parallel">Atha kho corassa aṅgulimālassa etadahosi– “acchariyaṃ vata, bho, abbhutaṃ vata, bho! Ahañhi pubbe hatthimpi dhāvantaṃ anupatitvā gaṇhāmi, assampi dhāvantaṃ anupatitvā gaṇhāmi, rathampi dhāvantaṃ anupatitvā gaṇhāmi, migampi dhāvantaṃ anupatitvā gaṇhāmi; atha ca panāhaṃ imaṃ samaṇaṃ pakatiyā gacchantaṃ sabbathāmena gacchanto na sakkomi sampāpuṇitun”ti!</seg>Ṭhitova bhagavantaṃ etadavoca– “tiṭṭha, tiṭṭha, samaṇā”ti. “Ṭhito ahaṃ, aṅgulimāla, tvañca tiṭṭhā”ti. Atha kho corassa aṅgulimālassa etadahosi– “ime kho samaṇā sakyaputtiyā saccavādino saccapaṭiññā. Atha panāyaṃ samaṇo gacchaṃ yevāha– ‘ṭhito ahaṃ, aṅgulimāla, tvañca tiṭṭhā’ti. Yaṃnūnāhaṃ imaṃ samaṇaṃ puccheyyan”ti.</p>
+        <p>Atha kho coro aṅgulimālo bhagavantaṃ gāthāya ajjhabhāsi–</p>
+        <lg>
+          <l>“Gacchaṃ vadesi samaṇa ṭhitomhi,</l>
+          <l>mamañca brūsi ṭhitamaṭṭhitoti;</l>
+          <l>pucchāmi taṃ samaṇa etamatthaṃ,</l>
+          <l>kathaṃ ṭhito tvaṃ ahamaṭṭhitomhī”ti.</l>
+          <l>“Ṭhito ahaṃ aṅgulimāla sabbadā,</l>
+          <l>sabbesu bhūtesu nidhāya daṇḍaṃ;</l>
+          <l>tuvañca pāṇesu asaññatosi,</l>
+          <l>tasmā ṭhitohaṃ tuvamaṭṭhitosī”ti.</l>
+          <l>“Cirassaṃ vata me mahito mahesī,</l>
+          <l> mahāvanaṃ pāpuṇi saccavādī <note type="variant">[mahāvanaṃ samaṇoyaṃ paccupādi (sī.), mahāvanaṃ samaṇa paccupādi (syā. kaṃ.)]</note>;</l>
+          <l>sohaṃ carissāmi pahāya pāpaṃ <note type="variant">[sohaṃ cirassāpi pahāssaṃ pāpaṃ (sī.), sohaṃ carissāmi pajahissaṃ pāpaṃ (syā. kaṃ.)]</note>,</l>
+          <l>sutvāna gāthaṃ tava dhammayuttaṃ”.</l>
+          <l>Itveva coro asimāvudhañca,</l>
+          <l>sobbhe papāte narake akiri;</l>
+          <l>avandi coro sugatassa pāde,</l>
+          <l>tattheva naṃ pabbajjaṃ ayāci.</l>
+          <l>Buddho ca kho kāruṇiko mahesi,</l>
+          <l>yo satthā lokassa sadevakassa;</l>
+          <l>‘tamehi bhikkhū’ti tadā avoca,</l>
+          <l>eseva tassa ahu bhikkhubhāvoti.</l>
+        </lg>
+      </div>
+      <div type="not-parallel">
+        <p>Atha kho bhagavā āyasmatā aṅgulimālena pacchāsamaṇena yena sāvatthi tena cārikaṃ pakkāmi. Anupubbena cārikaṃ caramāno yena sāvatthi tadavasari. Tatra sudaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena rañño pasenadissa kosalassa antepuradvāre mahājanakāyo sannipatitvā uccāsaddo mahāsaddo hoti– “coro te, deva, vijite aṅgulimālo nāma luddo lohitapāṇi hatapahate niviṭṭho adayāpanno pāṇabhūtesu. Tena gāmāpi agāmā katā, nigamāpi anigamā katā, janapadāpi ajanapadā katā. So manusse vadhitvā vadhitvā aṅgulīnaṃ mālaṃ dhāreti. Taṃ devo paṭisedhetū”ti.</p>
+        <p>Atha kho rājā pasenadi kosalo pañcamattehi assasatehi sāvatthiyā nikkhami divā divassa. Yena ārāmo tena pāvisi. Yāvatikā yānassa bhūmi yānena gantvā yānā paccorohitvā pattikova yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho rājānaṃ pasenadiṃ kosalaṃ bhagavā etadavoca– “kiṃ nu te, mahārāja,<name type="person"> rājā vā <name type="place">māgadho</name>seniyo bimbisāro</name>kupito <name type="person">
+            <name type="place">vesālikā</name>vā licchavī</name> aññe vā paṭirājāno”ti? “Na kho me, bhante, rājā māgadho seniyo bimbisāro kupito, nāpi vesālikā licchavī, nāpi aññe paṭirājāno. Coro me, bhante, vijite aṅgulimālo nāma luddo lohitapāṇi hatapahate niviṭṭho adayāpanno pāṇabhūtesu. Tena gāmāpi agāmā katā, nigamāpi anigamā katā, janapadāpi ajanapadā katā. So manusse vadhitvā vadhitvā aṅgulīnaṃ mālaṃ dhāreti. Tāhaṃ, bhante, paṭisedhissāmī”ti. “Sace pana tvaṃ, mahārāja, aṅgulimālaṃ passeyyāsi kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajitaṃ, virataṃ pāṇātipātā, virataṃ adinnādānā, virataṃ musāvādā, ekabhattikaṃ, brahmacāriṃ, sīlavantaṃ, kalyāṇadhammaṃ, kinti naṃ kareyyāsī”ti? “Abhivādeyyāma vā, bhante, paccuṭṭheyyāma vā āsanena vā nimanteyyāma, abhinimanteyyāma vā naṃ cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārehi, dhammikaṃ vā assa rakkhāvaraṇaguttiṃ saṃvidaheyyāma. Kuto panassa, bhante, dussīlassa pāpadhammassa evarūpo sīlasaṃyamo bhavissatī”ti?</p>
+        <p>Tena kho pana samayena āyasmā aṅgulimālo bhagavato avidūre nisinno hoti. Atha kho bhagavā dakkhiṇaṃ bāhuṃ paggahetvā rājānaṃ pasenadiṃ kosalaṃ etadavoca– “eso, mahārāja, aṅgulimālo”ti. Atha kho rañño pasenadissa kosalassa ahudeva bhayaṃ, ahu chambhitattaṃ, ahu lomahaṃso. Atha kho bhagavā rājānaṃ pasenadiṃ kosalaṃ bhītaṃ saṃviggaṃ lomahaṭṭhajātaṃ viditvā rājānaṃ pasenadiṃ kosalaṃ etadavoca– “mā bhāyi, mahārāja, natthi te ito bhayan”ti. Atha kho rañño pasenadissa kosalassa yaṃ ahosi bhayaṃ vā chambhitattaṃ vā lomahaṃso vā so paṭippassambhi. Atha kho rājā pasenadi kosalo yenāyasmā aṅgulimālo tenupasaṅkami; upasaṅkamitvā āyasmantaṃ aṅgulimālaṃ etadavoca– “ayyo no, bhante, aṅgulimālo”ti? “Evaṃ, mahārājā”ti. “Kathaṃgotto ayyassa pitā, kathaṃgottā mātā”ti? “<name type="person">Gaggo</name>kho, mahārāja, pitā,<name type="person">mantāṇī</name>mātā”ti. “Abhiramatu, bhante, ayyo gaggo mantāṇiputto. Ahamayyassa gaggassa mantāṇiputtassa ussukkaṃ karissāmi cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārānan”ti.</p>
+        <p>Tena kho pana samayena āyasmā aṅgulimālo āraññiko hoti piṇḍapātiko paṃsukūliko tecīvariko. Atha kho āyasmā aṅgulimālo rājānaṃ pasenadiṃ kosalaṃ etadavoca– “alaṃ, mahārāja, paripuṇṇaṃ me cīvaran”ti.</p>
+        <p>Atha kho rājā pasenadi kosalo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho rājā pasenadi kosalo bhagavantaṃ etadavoca– <seg type="parallel">“acchariyaṃ, bhante, abbhutaṃ, bhante! Yāvañcidaṃ, bhante, bhagavā adantānaṃ dametā, asantānaṃ sametā, aparinibbutānaṃ parinibbāpetā. Yañhi mayaṃ, bhante, nāsakkhimhā daṇḍenapi satthenapi dametuṃ so bhagavatā adaṇḍena asattheneva <note type="variant">[asatthena (syā. kaṃ.)]</note>danto.</seg>Handa ca dāni <note type="variant">[handa dāni (syā. kaṃ. pī.)]</note>mayaṃ, bhante, gacchāma; bahukiccā mayaṃ bahukaraṇīyā”ti. “Yassadāni, mahārāja, kālaṃ maññasī”ti. Atha kho rājā pasenadi kosalo uṭṭhāyāsanā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi.</p>
+      </div>
+      <div type="not-parallel">
+        <p>Atha kho āyasmā aṅgulimālo pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiyaṃ piṇḍāya pāvisi. Addasā kho āyasmā aṅgulimālo sāvatthiyaṃ sapadānaṃ piṇḍāya caramāno aññataraṃ itthiṃ mūḷhagabbhaṃ vighātagabbhaṃ <note type="variant">[visātagabbhaṃ (syā. kaṃ. pī. ka.)]</note>. Disvānassa etadahosi– “kilissanti vata, bho, sattā; kilissanti vata, bho, sattā”ti! Atha kho āyasmā aṅgulimālo sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkanto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā aṅgulimālo bhagavantaṃ etadavoca– “idhāhaṃ, bhante, pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisiṃ. Addasaṃ kho ahaṃ, bhante, sāvatthiyaṃ sapadānaṃ piṇḍāya caramāno aññataraṃ itthiṃ mūḷhagabbhaṃ vighātagabbhaṃ”. Disvāna mayhaṃ etadahosi– “kilissanti vata bho, sattā; kilissanti vata, bho, sattā”ti!</p>
+        <p>“Tena hi tvaṃ, aṅgulimāla, yena sā itthī tenupasaṅkama; upasaṅkamitvā taṃ itthiṃ evaṃ vadehi ‘yatohaṃ, bhagini, jāto <note type="variant">[bhagini jātiyā jāto (sī.)]</note>nābhijānāmi sañcicca pāṇaṃ jīvitā voropetā, tena saccena sotthi te hotu, sotthi gabbhassā”’ti.</p>
+        <p>“So hi nūna me, bhante, sampajānamusāvādo bhavissati. Mayā hi, bhante, bahū sañcicca pāṇā jīvitā voropitā”ti. “Tena hi tvaṃ, aṅgulimāla, yena sā itthī tenupasaṅkama; upasaṅkamitvā taṃ itthiṃ evaṃ vadehi– ‘yatohaṃ, bhagini, ariyāya jātiyā jāto, nābhijānāmi sañcicca pāṇaṃ jīvitā voropetā, tena saccena sotthi te hotu, sotthi gabbhassā”’ti.</p>
+        <p>“Evaṃ, bhante”ti kho āyasmā aṅgulimālo bhagavato paṭissutvā yena sā itthī tenupasaṅkami; upasaṅkamitvā taṃ itthiṃ etadavoca– “yatohaṃ, bhagini, ariyāya jātiyā jāto, nābhijānāmi sañcicca pāṇaṃ jīvitā voropetā, tena saccena sotthi te hotu, sotthi gabbhassā”ti. Atha khvāssā itthiyā sotthi ahosi, sotthi gabbhassa.</p>
+      </div>
+      <div type="parallel">
+        <p>Atha kho āyasmā aṅgulimālo eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva– yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti tadanuttaraṃ– brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja vihāsi. ‘Khīṇā jāti vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti abbhaññāsi. Aññataro kho panāyasmā aṅgulimālo arahataṃ ahosi.</p>
+        <p>
+          <seg type="not-parallel">Atha kho āyasmā aṅgulimālo pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisi. Tena kho pana samayena aññenapi leḍḍu khitto āyasmato aṅgulimālassa kāye nipatati, aññenapi daṇḍo khitto āyasmato aṅgulimālassa kāye nipatati, aññenapi sakkharā khittā āyasmato aṅgulimālassa kāye nipatati. Atha kho āyasmā aṅgulimālo bhinnena sīsena, lohitena gaḷantena, bhinnena pattena, vipphālitāya saṅghāṭiyā yena bhagavā tenupasaṅkami. Addasā kho bhagavā āyasmantaṃ aṅgulimālaṃ dūratova āgacchantaṃ. Disvāna āyasmantaṃ aṅgulimālaṃ etadavoca– “adhivāsehi tvaṃ, brāhmaṇa, adhivāsehi tvaṃ, brāhmaṇa. Yassa kho tvaṃ, brāhmaṇa, kammassa vipākena bahūni vassāni bahūni vassasatāni bahūni vassasahassāni niraye pacceyyāsi tassa tvaṃ, brāhmaṇa, kammassa vipākaṃ diṭṭheva dhamme paṭisaṃvedesī”ti.</seg>
+        </p>
+        <p>Atha kho āyasmā aṅgulimālo rahogato paṭisallīno vimuttisukhaṃ paṭisaṃvedi; tāyaṃ velāyaṃ imaṃ udānaṃ udānesi–</p>
+        <lg>
+          <l>“Yo pubbeva <note type="variant">[yo ca pubbe (sī. syā. kaṃ. pī.)]</note>pamajjitvā, pacchā so nappamajjati;</l>
+          <l>somaṃ <note type="variant">[so imaṃ (sī.)]</note>lokaṃ pabhāseti, abbhā muttova candimā.</l>
+          <l>“Yassa pāpaṃ kataṃ kammaṃ, kusalena pidhīyati <note type="variant">[pithīyati (sī. syā. kaṃ. pī.)]</note>;</l>
+          <l>somaṃ lokaṃ pabhāseti, abbhā muttova candimā.</l>
+          <l>“Yo have daharo bhikkhu, yuñjati buddhasāsane;</l>
+          <l>somaṃ lokaṃ pabhāseti, abbhā muttova candimā.</l>
+          <l>“Disā hi me dhammakathaṃ suṇantu,</l>
+          <l>disā hi me yuñjantu buddhasāsane;</l>
+          <l>disā hi me te manujā bhajantu,</l>
+          <l>ye dhammamevādapayanti santo.</l>
+          <l>“Disā hi me khantivādānaṃ, avirodhappasaṃsīnaṃ;</l>
+          <l>suṇantu dhammaṃ kālena, tañca anuvidhīyantu.</l>
+          <l>“Na hi jātu so mamaṃ hiṃse, aññaṃ vā pana kiñci naṃ <note type="variant">[kañci naṃ (sī. syā. kaṃ. pī.), kañcanaṃ (?)]</note>;</l>
+          <l>Pappuyya paramaṃ santiṃ, rakkheyya tasathāvare.</l>
+          <l>“Udakañhi nayanti nettikā, usukārā namayanti <note type="variant">[damayanti (ka.)]</note>tejanaṃ;</l>
+          <l>dāruṃ namayanti tacchakā, attānaṃ damayanti paṇḍitā.</l>
+          <l>“Daṇḍeneke damayanti, aṅkusehi kasāhi ca;</l>
+          <l>adaṇḍena asatthena, ahaṃ dantomhi tādinā.</l>
+          <l>“<name type="person">Ahiṃsako</name>ti me nāmaṃ, hiṃsakassa pure sato;</l>
+          <l>ajjāhaṃ saccanāmomhi, na naṃ hiṃsāmi kiñci naṃ <note type="variant">[kañci naṃ (sī. syā. kaṃ. pī.), kañcanaṃ (?)]</note>.</l>
+          <l>“Coro ahaṃ pure āsiṃ, aṅgulimāloti vissuto;</l>
+          <l>vuyhamāno mahoghena, buddhaṃ saraṇamāgamaṃ.</l>
+          <l>“Lohitapāṇi pure āsiṃ, aṅgulimāloti vissuto;</l>
+          <l>saraṇagamanaṃ passa, bhavanetti samūhatā.</l>
+          <l>“Tādisaṃ kammaṃ katvāna, bahuṃ duggatigāminaṃ;</l>
+          <l>phuṭṭho kammavipākena, aṇaṇo bhuñjāmi bhojanaṃ.</l>
+          <l>“Pamādamanuyuñjanti, bālā dummedhino janā;</l>
+          <l>appamādañca medhāvī, dhanaṃ seṭṭhaṃva rakkhati.</l>
+          <l>“Mā pamādamanuyuñjetha, mā kāmarati santhavaṃ;</l>
+          <l>appamatto hi jhāyanto, pappoti vipulaṃ <note type="variant">[paramaṃ (ka.)]</note>sukhaṃ.</l>
+          <l>“Svāgataṃ <note type="variant">[sāgataṃ (sī. pī.)]</note>nāpagataṃ<note type="variant">[nāma sagataṃ (ka.)]</note>, nayidaṃ dummantitaṃ mama;</l>
+          <l>saṃvibhattesu <note type="variant">[suvibhattesu (syā. kaṃ.), savibhattesu (sī. ka.), paṭibhattesu (pī.)]</note>dhammesu, yaṃ seṭṭhaṃ tadupāgamaṃ.</l>
+          <l>“Svāgataṃ nāpagataṃ, nayidaṃ dummantitaṃ mama;</l>
+          <l>tisso vijjā anuppattā, kataṃ buddhassa sāsanan”tntti.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

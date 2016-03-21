@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>
+          This is part of the text-cluster of BZA (T.100) sutra 036. It is found in the
+                              增壹阿含經 Sutra at T.02.0125.0772.
+        </p>
+      </div>
+    </front>
+    <body xml:id="T02.0125.0772c13">
+      <anchor type="start" xml:id="t02.0125.0772c13"/>
+      <div type="parallel">
+        <p>聞如是。一時。佛在舍衛國祇樹給孤獨園。</p>
+        <p>爾時。世尊告諸比丘。當行慈心。廣布慈心。以行慈心。所有瞋恚之心。自當消除。所以然者。比丘當知。昔<choice>
+            <sic>曰</sic>
+            <corr resp="CBETA">日</corr>
+          </choice>有鬼極為弊暴。來在釋提<anchor type="variant" n="fnT02p0772n33"/>桓因座上而坐。是時。三十三天極為瞋恚。云何此鬼在我主床上坐乎。是時。諸天適興恚心。彼鬼遂轉端<anchor type="variant" n="fnT02p0772n34"/>正。顏貌殊常。爾時。釋提<anchor type="variant" n="fnT02p0772n33"/>桓因在普集講堂上坐。與玉女共相娛樂。是時。有天子往至釋提桓因所。白帝釋言。<anchor type="variant" n="fnT02p0772n35"/>瞿翼當知。今有惡鬼在尊座上坐。今三十三天極懷恚怒。諸天適興恚怒。彼鬼遂轉端<choice>
+            <sic>正正</sic>
+            <corr resp="CBETA">正</corr>
+          </choice>。顏貌勝常。是時。釋提桓因便作是念。此鬼必是神妙之鬼。</p>
+        <p>是時。釋提桓因往至彼鬼所。相去不遠。自稱姓名。吾是釋提桓因。諸天之<anchor type="variant" n="fnT02p0772n36"/>主。時。釋提桓因自稱姓名時。彼惡鬼轉成醜形。顏貌可惡。是彼惡鬼即時消滅。比丘。<anchor type="variant" n="fnT02p0772n37"/>當以此方便。知其<pb ed="T" n="0773a"/>行慈心而不捨離。其德如是。</p>
+      </div>
+      <anchor type="gap" n="t02.0125.0773a01"/>
+      <gap resp="t.100" reason="longNonParallel"/>
+      <anchor type="continued" n="t02.0125.0773b18"/>
+      <div type="parallel">
+        <p>爾時。阿難聞佛所說。歡喜奉行。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

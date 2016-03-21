@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Sakka is patient in the face of insult</head>
+        <p>Translation of BZA 039. First version published in <emph>
+            Buddhist Studies
+                                Review
+          </emph>vol. 23-1 (2006).</p>
+      </div>
+    </front>
+    <body xml:id="bza039en" xml:lang="en">
+      <div>
+        <p>
+          Thus have I heard, once, the Buddha was staying at Sāvatthī at the Jeta Grove in
+                              the Anāthapiṇḍika Park.
+        </p>
+        <p>
+          At that time the World-honored One told the monks: “Long time ago, Sakka Devānam
+                              Indo was about to do battle with the asuras, when everything had been readied ,
+                              he addressed the devas: ‘If we devas should attain victory, we will with five
+                              bonds bind [the king of the] asuras, and bring him to our palace.’ The asura
+                              [king] also ordered his host: ‘If we win, we also will with five bonds bind
+                              Sakka Devānam Indo, and bring him to our palace.’
+        </p>
+        <p>
+          At that time, the devas won, and they bound Vepacitti with five bonds and brought
+                              him into their palace. When Vepacitti saw Sakka, he got angry and insulted him,
+                              using extremely foul language. When Sakka heard these insults, he stayed silent,
+                              did not react. His charioteer Mātali addressed him with a verse:
+        </p>
+        <lg>
+          <l>Sakka! Husband of Suja! Maghavā! // Are you afraid or weak?</l>
+          <l>
+            Vepacitti insults you to your face // how can you suffer this foul
+                                language?
+          </l>
+        </lg>
+        <p>And Sakka answered with a verse:</p>
+        <lg>
+          <l>
+            It is not that I am afraid that I engender patience // neither is it that I
+                                    am weak
+          </l>
+          <l>
+            And therefore suffer Vepacitti’s insults // I have by victorious wisdom
+                                    practiced patience
+          </l>
+          <l>
+            The foolish of shallow knowledge, unwise // always argue and quarrel without
+                                    end
+          </l>
+          <l>If I use force to chastise him // I am not different from this fool</l>
+        </lg>
+        <p>Again the charioteer said:</p>
+        <lg>
+          <l>
+            If one loosens the bonds of the naïve and foolish // they will behave worse
+                                    and worse 轉劇不休息
+          </l>
+          <l>
+            [They are] like a cow that walks behind // [and suddenly] tries to charge
+                                    over those in front of it
+          </l>
+          <l>A firm one will forcefully // restrain the foolish</l>
+        </lg>
+        <p>Again Sakka spoke a verse:</p>
+        <lg>
+          <l>
+            I reckon in order to restrain the foolish // there is nothing better than
+                                    patient silence
+          </l>
+          <l>
+            At a time when someone is incensed by hatred and anger // he can only be
+                                    restrained by patience
+          </l>
+          <l>What the foolish call strong // is not truly strong</l>
+          <l>
+            The foolish do not distinguish between good and bad // have no way to
+                                    restrain [themselves]
+          </l>
+          <l>
+            If I can find the courage in me // to patiently endure the foolish and
+                                    inferior
+          </l>
+          <l>This is called foremost patience // and to be skillful in patience.</l>
+          <l>The inferior person when facing someone strong // can not but practice it</l>
+          <l>this is called timid patience // not true patience.</l>
+          <l>Power gives the freedom // to counter those who insult [us]</l>
+          <l>with silence, not reacting // this is the best [form of] patience.</l>
+          <l>Weakness is afraid of power // it is silent [because] it cannot react</l>
+          <l>this is called fear // not the practice of patience.</l>
+          <l>The naïve and foolish without wisdom // afflict others by harming them,</l>
+          <l>seeing the other’s silent patience // they believe they are victorious.</l>
+          <l>A wise and saintly person // takes patience to be the best [way to behave].</l>
+          <l>
+            Thus among the saintly // the meritorious power of patience is always
+                                    praised.
+          </l>
+          <l>
+            It diminishes for oneself and also for others // eradicates many hindrances
+                                    and fears.
+          </l>
+          <l>
+            Seeing the other full of hatred and anger // but being able to practice
+                                    silent patience,
+          </l>
+          <l>
+            the other’s hatred will vanish naturally // no need for the strength of blade
+                                    and cudgel.
+          </l>
+          <l>For the great benefit of both // benefiting oneself and benefiting others.</l>
+          <l>
+            What the foolish deem patience because of fear // is praised by the wise and
+                                    saintly.
+          </l>
+          <l>
+            We are patient with those superior to us // because we are afraid of being
+                                    harmed.
+          </l>
+          <l>When struggling with equals // one too is patient, because one fear’s harm.</l>
+          <l>
+            To be able to be patient with people inferior to us // is the best form of
+                                    patience.
+          </l>
+        </lg>
+        <p>
+          The Buddha told the monks: “Sakka in the heaven of the thirty-three in freely
+                              exercising his rulership, if he can practice and praise patience, how much more
+                              should you, oh monks, who have abandoned form and entered the teaching, how much
+                              more should you practice and praise patience. Practicing and praising patience
+                              is the manner of [those having gone forth into] homelessness.
+        </p>
+        <p>
+          When the Buddha had finished, the monks, having listened to what he had said,
+                              were happy and practiced accordingly.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

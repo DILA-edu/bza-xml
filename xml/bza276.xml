@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum
+                              Buddhist College 法鼓佛教研修學院.
+        </title>
+        <funder>
+          Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會
+        </funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist
+                              College 法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>
+            Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉,
+                                    Chueh Hui-chen 闕慧貞
+          </name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>
+          This is the default header for all files in the database. Files which contain
+                              gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.
+        </p>
+        <p>
+          The project was conducted 2005-2008. Some minor revisions and additions were done
+                              in 2009.
+        </p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                    Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                    text lies with the Vipassana Research Institute. Copyright for the Sanskrit
+                                    text lies with Fumio Enomoto. Copyright for the English text lies with
+                                    Marcus Bingenheimer. The Tibetan and Manchu texts are in the public realm.
+                                    The digital edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                    (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                    (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                    comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding
+                                    to the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                    literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly
+                                publications (as referenced). English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the
+                              Bieyi za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies
+                              中華佛學研究所 and the Dharma Drum Buddhist College 法鼓佛教研修學院. The project is funded by
+                              the Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會. The aim of the project is to produce a comparative digital edition
+                              and partial translation of the 364 sutras of the BZA and their parallels. The
+                              texts are kept in single files in an eXist database and are realized via XQuery
+                              and XSLT as HTML for the online user. The project lasts from 2005-2008. For any
+                              changes after 2008 see the revision description.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                              attribute on the containing elements
+        </p>
+        <p>
+          BZA: New Punctuation. Markup of person and place names. Verse and prose.
+                              References to the print edition (Taishō). Corrected characters (according to
+                              CBETA).
+        </p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō).</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA. Verse and
+                              Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan: Parallel and not-parallel divisions regarding the BZA.
+                              Verse and Prose. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="bza276">
+      <anchor type="start" xml:id="Tp0470a14"/>
+      <div type="opening" xml:id="obza276">
+        <p n="bza276.01">如是我聞：一時佛在<name type="place">王舍城</name>
+          <name type="place">迦蘭陀竹林</name>。</p>
+      </div>
+      <div type="main" xml:id="mbza276">
+        <p n="bza276.02">爾時<name type="person">提婆達多</name>友<name type="person">瞿迦梨</name>往詣佛所，在一面立。佛告瞿迦梨：</p>
+        <q who="gotamo">
+          <p n="bza276.03">汝於<name type="person">舍利弗</name>有緣，莫生嫌想！舍利弗、<name type="person">目連</name>淨修梵行，心意柔軟。汝莫生嫌<app n="fnT02p0470n04">
+              <lem wit="【大】">根</lem>
+              <rdg resp="Taisho/CBETA" wit="【宋】【元】【明】【CBETA】【麗】"/>
+            </app>根，長夜受諸苦惱！</p>
+        </q>
+        <p n="bza276.04">瞿迦梨言：</p>
+        <q who="kokaliko">
+          <p n="bza276.05">我信佛語，我隨於佛，然舍利弗、目連實有惡欲。惡欲於彼，實得自在。彼隨惡欲。</p>
+        </q>
+        <p n="bza276.06">佛復告瞿迦梨：</p>
+        <q who="gotamo">
+          <p n="bza276.07">汝今勿於彼二人所生嫌恨心！</p>
+        </q>
+        <p n="bza276.08">如是至三。而瞿迦梨雖聞佛言，惡心不改，捨佛而去。去佛不遠，身生惡瘡，初如芥子。須臾之頃，猶如豆許。復漸長大，如毘梨果。身體爛潰，膿血流出。身壞命終，墮大蓮華地獄。時有三天，光色倍常，於其夜中來至佛所，頂禮佛足，在一面立。第一天白佛言：</p>
+        <q who="devata">
+          <p n="bza276.09">世尊！瞿迦梨是夜命終。</p>
+        </q>
+        <p n="bza276.10">第二天言：</p>
+        <q who="devata">
+          <p n="bza276.11">墮大蓮華地獄。</p>
+        </q>
+        <p n="bza276.12">第三天即說偈言：</p>
+        <q who="devata">
+          <lg n="bza276.13" met="4" xml:id="cg276a">
+            <l>夫人生世<caesura/>斧在口中</l>
+            <l>由其惡言<caesura/>
+              <pb ed="T" xml:id="T02.0100.0470b" n="0470b"/>自斬其身</l>
+            <l>應讚而毀<caesura/>應毀而讚</l>
+            <l>口出綺語<caesura/>後受苦殃</l>
+            <l>綺語奪財<caesura/>是故小過</l>
+            <l>謗佛<app n="fnT02p0470n05">
+                <lem wit="【大】">聖賢</lem>
+                <rdg resp="Taisho" wit="【宋】【元】【明】">賢聖</rdg>
+              </app>聖賢<caesura/>是名大患</l>
+            <l>受苦長遠<caesura/>具滿百千</l>
+            <l>入尼羅浮<caesura/>及三十六</l>
+            <l>入阿浮陀<caesura/>乃至墮彼</l>
+            <l>五阿浮陀<caesura/>誹謗賢聖</l>
+            <l>口意造惡<caesura/>入斯地獄</l>
+          </lg>
+        </q>
+        <p n="bza276.14">時彼三天禮佛足已，還於天宮。爾時佛告諸比丘：</p>
+        <q who="gotamo">
+          <p n="bza276.15">汝等欲聞彼阿浮陀地獄壽命長短以不？</p>
+        </q>
+        <p n="bza276.16">比丘白言：</p>
+        <q who="bhikku">
+          <p n="bza276.17">願為我說！我等聞已，信受憶持。</p>
+        </q>
+        <p n="bza276.18">爾時世尊告諸比丘：</p>
+        <q who="gotamo">
+          <p n="bza276.19">二十佉利胡麻得波羅<app n="fnT02p0470n06">
+              <lem wit="【大】">捺</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">㮈</rdg>
+            </app>捺，滿溢一車。有長壽<app n="fnT02p0470n07">
+              <lem wit="【大】">人</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">天</rdg>
+            </app>人，足滿百年取其一粒。如是胡麻一切都<app n="fnT02p0470n08">
+              <lem wit="【大】">盡</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">澌</rdg>
+            </app>盡，此阿浮陀地獄所得壽命猶故未盡。此二十阿浮陀觝成一尼羅浮陀，二十尼羅浮陀觝一呵吒吒，二十呵吒吒觝一睺睺，二十睺睺觝一蓮華地獄，二十蓮華地獄觝一大蓮華地獄。瞿迦梨比丘以謗舍利弗、目連故，墮是大蓮華地獄中。</p>
+        </q>
+        <p n="bza276.20">佛告諸比丘：</p>
+        <q who="gotamo">
+          <p n="bza276.21">被燒燋柱尚不應謗，況情識類。</p>
+        </q>
+      </div>
+      <div type="closing" xml:id="cbza276">
+        <p n="bza276.22">佛說是已，諸比丘聞佛所說，歡喜奉行。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

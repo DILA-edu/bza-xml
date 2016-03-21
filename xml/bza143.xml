@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum
+                              Buddhist College 法鼓佛教研修學院.
+        </title>
+        <funder>
+          Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會
+        </funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist
+                              College 法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>
+            Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉,
+                                    Chueh Hui-chen 闕慧貞
+          </name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>
+          This is the default header for all files in the database. Files which contain
+                              gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.
+        </p>
+        <p>
+          The project was conducted 2005-2008. Some minor revisions and additions were done
+                              in 2009.
+        </p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                    Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                    text lies with the Vipassana Research Institute. Copyright for the Sanskrit
+                                    text lies with Fumio Enomoto. Copyright for the English text lies with
+                                    Marcus Bingenheimer. The Tibetan and Manchu texts are in the public realm.
+                                    The digital edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                    (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                    (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                    comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding
+                                    to the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                    literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly
+                                publications (as referenced). English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the
+                              Bieyi za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies
+                              中華佛學研究所 and the Dharma Drum Buddhist College 法鼓佛教研修學院. The project is funded by
+                              the Chiang Ching-kuo Foundation for International Scholarly Exchange
+                              蔣經國國際學術交流基金會. The aim of the project is to produce a comparative digital edition
+                              and partial translation of the 364 sutras of the BZA and their parallels. The
+                              texts are kept in single files in an eXist database and are realized via XQuery
+                              and XSLT as HTML for the online user. The project lasts from 2005-2008. For any
+                              changes after 2008 see the revision description.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                              attribute on the containing elements
+        </p>
+        <p>
+          BZA: New Punctuation. Markup of person and place names. Verse and prose.
+                              References to the print edition (Taishō). Corrected characters (according to
+                              CBETA).
+        </p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō).</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA. Verse and
+                              Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan: Parallel and not-parallel divisions regarding the BZA.
+                              Verse and Prose. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="bza143">
+      <anchor type="start" xml:id="Tp0428b04"/>
+      <div type="opening" xml:id="obza143">
+        <p n="bza143.01">
+          <anchor type="variant" n="fnT02p0428n08"/>如是我聞：一時佛在<name type="place">舍衛國</name>
+          <name type="place">祇樹給孤獨園</name>。</p>
+      </div>
+      <div type="main" xml:id="mbza143">
+        <p n="bza143.02">爾時世尊告諸比丘：</p>
+        <q who="gotamo">
+          <p n="bza143.03">世有三種不調之馬，一切世人現悉知之：或有馬，行步駿疾，然無好色，是則名為『乘不具足』；或復有馬，行步<app n="fnT02p0428n09">
+              <lem wit="【大】">駿疾</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">不駿疾</rdg>
+            </app>駿疾，雖有好色，是亦名為『乘不具足』；或有良馬，行步駿疾，然有好色，是則名為『乘得具足』。人亦三種，如彼三種不調之馬。此三種人於佛教法現所知見。何等為三？有人駿疾具足，色及可乘然不具足；或復有人，駿疾具足，顏色具足，乘不具足；或復有人，駿疾、顏色及以可乘，悉皆具足。
+                            何者是駿疾具足，色不具足，乘不具足？如法中人如實知苦，如實知苦集，如實知苦滅，如實知向盡苦道。如是知見已，斷於三結，所謂身見、戒取、疑。斷此三結，得須陀洹，不墮惡趣，於道決定，乃至人、天七生，盡于苦際，是名駿疾具足。云何色不具足？若有問難<name type="person">阿毘曇</name>、<name type="person">毘尼</name>，不能善通。於深問難不能了達，句味相順不能稱說，不能如理而為具說，是名色不具足。云何<app n="fnT02p0428n10">
+              <lem wit="【大】">可</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】">名</rdg>
+            </app>可乘不具足？少於福德，所生之處無有福德，不得利養──衣服、飲食、臥具、湯藥，是名乘不具足，是名『駿疾具足，色不具足，乘不具足』。
+                            云何駿疾具足，顏色具足，乘不具足？何者駿疾具足？如法中人如實知苦，如實知<app n="fnT02p0428n11">
+              <lem wit="【大】">苦</lem>
+              <rdg resp="Taisho" wit="【宋】【元】【明】"/>
+            </app>苦集，如實知苦滅，如實知苦滅道。知見是已，斷於三結，所謂身見、戒<app n="fnT02p0428n12">
+              <lem wit="【大】">取</lem>
+              <rdg resp="Taisho" wit="【宋】">盜</rdg>
+            </app>取、疑。斷三結已，得須陀洹，不墮惡趣，<pb ed="T" xml:id="T02.0100.0428c" n="0428c"/>
+              於道決定，乃至七生人、天，盡於苦際，是名駿疾具足。云何名色具足？若有問難阿毘曇、毘尼，能善解脫，句味相應，稱理顯說，是名色得具足。云何名為乘不具足？少於福德，不能生便有大福德，不得利養──衣服、飲食、臥具、湯藥，是名『駿疾及色得于具足，乘不具足』。
+                                      云何名為駿疾、色、乘，悉皆具足？何等駿疾？如此法中如實知苦，如實知苦集，如實知苦滅，如實知苦滅道。既知見已，斷於三結，得須陀洹，七生人、天，不墮惡趣，是名駿疾具足。云何色得具足？若有問難阿毘曇、毘尼，能為通釋，句味相順，稱理顯說，是名色得具足。云何名為乘得具足？若多福德，生便有福，能得利養──衣服、飲食、臥具、湯藥，是名乘得具足，是名第三『駿疾、色、乘，悉皆具足』。
+            </p>
+        </q>
+      </div>
+      <div type="closing" xml:id="cbza143">
+        <p n="bza143.04">諸比丘聞佛所說，歡喜奉行。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

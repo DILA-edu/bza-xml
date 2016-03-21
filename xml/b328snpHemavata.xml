@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Hemavatasuttaṃ</head>
+        <p>From the VRI Chaṭṭa Saṅgāyana edition. PTS: Sn, 027. This is part of the text-cluster of BZA (T.100) sutra 328.</p>
+      </div>
+    </front>
+    <body xml:lang="pi">
+      <anchor type="start" xml:id="pts.sn.027"/>
+      <div type="parallel">
+        <lg type="not-parallel">
+          <l>“Ajja pannaraso uposatho, <note type="variant">(iti  <name type="person">sātāgiro</name>yakkho)</note>
+          </l>
+          <l>dibbā <note type="variant">[dibyā (sī. syā. kaṃ. pī.)]</note>ratti upaṭṭhitā;</l>
+          <l>anomanāmaṃ satthāraṃ, handa passāma  <name type="person">gotamaṃ</name>”.</l>
+        </lg>
+        <lg>
+          <l>“Kacci mano supaṇihito, <note type="variant">(iti  hemavato yakkho)</note>
+          </l>
+          <l>sabbabhūtesu tādino;</l>
+          <l>kacci iṭṭhe aniṭṭhe ca, saṅkappassa vasīkatā”.</l>
+        </lg>
+        <lg>
+          <l>“Mano cassa supaṇihito, <note type="variant">(iti sātāgiro yakkho)</note>
+          </l>
+          <l>sabbabhūtesu tādino;</l>
+          <l>atho iṭṭhe aniṭṭhe ca, saṅkappassa vasīkatā”.</l>
+        </lg>
+        <lg>
+          <l>“Kacci adinnaṃ nādiyati, <note type="variant">(iti hemavato yakkho)</note>
+          </l>
+          <l>kacci pāṇesu saññato;</l>
+          <l>kacci ārā pamādamhā, kacci jhānaṃ na riñcati”.</l>
+        </lg>
+        <lg>
+          <l> “Na so adinnaṃ ādiyati, <note type="variant">(iti sātāgiro yakkho)</note>
+          </l>
+          <l>atho pāṇesu saññato;</l>
+          <l>atho ārā pamādamhā, buddho jhānaṃ na riñcati”.</l>
+        </lg>
+        <lg>
+          <l>“Kacci musā na bhaṇati, <note type="variant">(iti hemavato yakkho)</note>
+          </l>
+          <l>kacci na khīṇabyappatho;</l>
+          <l>kacci vebhūtiyaṃ nāha, kacci samphaṃ na bhāsati”.</l>
+        </lg>
+        <lg>
+          <l> “Musā ca so na bhaṇati, <note type="variant">(iti sātāgiro yakkho)</note>
+          </l>
+          <l>atho na khīṇabyappatho;</l>
+          <l>atho vebhūtiyaṃ nāha, mantā atthaṃ ca <note type="variant">[atthaṃ so (sī. pī. ka.)]</note>bhāsati”.</l>
+        </lg>
+        <lg>
+          <l>“Kacci na rajjati kāmesu, <note type="variant">(iti hemavato yakkho)</note>
+          </l>
+          <l>kacci cittaṃ anāvilaṃ;</l>
+          <l>kacci mohaṃ atikkanto, kacci dhammesu cakkhumā”.</l>
+        </lg>
+        <lg>
+          <l>“Na so rajjati kāmesu, <note type="variant">(iti sātāgiro yakkho)</note>
+          </l>
+          <l>atho cittaṃ anāvilaṃ;</l>
+          <l>sabbamohaṃ atikkanto, buddho dhammesu cakkhumā”.</l>
+        </lg>
+        <lg>
+          <l> “Kacci vijjāya sampanno, <note type="variant">(iti hemavato yakkho )</note>
+          </l>
+          <l>kacci saṃsuddhacāraṇo;</l>
+          <l>kaccissa āsavā khīṇā, kacci natthi punabbhavo”.</l>
+        </lg>
+        <lg>
+          <l>“Vijjāya ceva sampanno, <note type="variant">(iti sātāgiro yakkho)</note>
+          </l>
+          <l>atho saṃsuddhacāraṇo;</l>
+          <l>sabbassa āsavā khīṇā, natthi tassa punabbhavo”.</l>
+        </lg>
+        <lg>
+          <l>“Sampannaṃ munino cittaṃ, kammunā byappathena ca;</l>
+          <l>vijjācaraṇasampannaṃ, dhammato naṃ pasaṃsati”.</l>
+        </lg>
+        <lg>
+          <l>“Sampannaṃ munino cittaṃ, kammunā byappathena ca;</l>
+          <l>vijjācaraṇasampannaṃ, dhammato anumodasi”.</l>
+        </lg>
+        <lg>
+          <l>“Sampannaṃ munino cittaṃ, kammunā byappathena ca;</l>
+          <l>vijjācaraṇasampannaṃ, handa passāma gotamaṃ.</l>
+        </lg>
+        <lg>
+          <l> “Eṇijaṅghaṃ kisaṃ vīraṃ <note type="variant">[dhīraṃ (syā.)]</note>, appāhāraṃ alolupaṃ;</l>
+          <l>muniṃ vanasmiṃ jhāyantaṃ, ehi passāma gotamaṃ.</l>
+        </lg>
+        <lg type="not-parallel">
+          <l>“Sīhaṃvekacaraṃ nāgaṃ, kāmesu anapekkhinaṃ;</l>
+          <l>upasaṅkamma pucchāma, maccupāsappamocanaṃ.</l>
+        </lg>
+        <lg>
+          <l>“Akkhātāraṃ pavattāraṃ, sabbadhammāna pāraguṃ;</l>
+          <l>buddhaṃ verabhayātītaṃ, mayaṃ pucchāma gotamaṃ”.</l>
+        </lg>
+        <lg>
+          <l> “Kismiṃ loko samuppanno, <note type="variant">(iti hemavato yakkho)</note>
+          </l>
+          <l>kismiṃ kubbati santhavaṃ <note type="variant">[sandhavaṃ (ka.)]</note>;</l>
+          <l>kissa loko upādāya, kismiṃ loko vihaññati”.</l>
+        </lg>
+        <lg>
+          <l> “Chasu <note type="variant">[chassu (sī. pī.)]</note>loko samuppanno, (<name type="person">hemavatā</name>
+              ti 
+                                      bhagavā)
+            </l>
+          <l>chasu kubbati santhavaṃ;</l>
+          <l>channameva upādāya, chasu loko vihaññati”.</l>
+        </lg>
+        <lg>
+          <l>“Katamaṃ taṃ upādānaṃ, yattha loko vihaññati;</l>
+          <l>niyyānaṃ pucchito brūhi, kathaṃ dukkhā pamuccati” <note type="variant">[pamuñcati (syā.)]</note>.</l>
+        </lg>
+        <lg>
+          <l>“Pañca kāmaguṇā loke, manochaṭṭhā paveditā;</l>
+          <l>ettha chandaṃ virājetvā, evaṃ dukkhā pamuccati.</l>
+        </lg>
+        <lg>
+          <l>“Etaṃ lokassa niyyānaṃ, akkhātaṃ vo yathātathaṃ;</l>
+          <l>etaṃ vo ahamakkhāmi, evaṃ dukkhā pamuccati”.</l>
+        </lg>
+        <lg>
+          <l>“Ko sūdha tarati oghaṃ, kodha tarati aṇṇavaṃ;</l>
+          <l>appatiṭṭhe anālambe, ko gambhīre na sīdati”.</l>
+        </lg>
+        <lg>
+          <l>“Sabbadā sīlasampanno, paññavā susamāhito;</l>
+          <l>ajjhattacintī <note type="variant">[ajjhattasaññī (syā. kaṃ. ka.)]</note>satimā, oghaṃ tarati duttaraṃ.</l>
+        </lg>
+        <lg>
+          <l>“Virato kāmasaññāya, sabbasaṃyojanātigo;</l>
+          <l>nandībhavaparikkhīṇo, so gambhīre na sīdati”.</l>
+        </lg>
+        <lg>
+          <l>“Gabbhīrapaññaṃ nipuṇatthadassiṃ, akiñcanaṃ kāmabhave asattaṃ;</l>
+          <l>taṃ passatha sabbadhi vippamuttaṃ, dibbe pathe kamamānaṃ mahesiṃ.</l>
+        </lg>
+        <lg>
+          <l>“Anomanāmaṃ nipuṇatthadassiṃ, paññādadaṃ kāmālaye asattaṃ;</l>
+          <l>taṃ passatha sabbaviduṃ sumedhaṃ, ariye pathe kamamānaṃ mahesiṃ.</l>
+        </lg>
+        <lg>
+          <l>“Sudiṭṭhaṃ vata no ajja, suppabhātaṃ suhuṭṭhitaṃ;</l>
+          <l>yaṃ addasāma sambuddhaṃ, oghatiṇṇamanāsavaṃ.</l>
+        </lg>
+        <lg>
+          <l>“Ime dasasatā yakkhā, iddhimanto yasassino;</l>
+          <l>sabbe taṃ saraṇaṃ yanti, tvaṃ no satthā anuttaro.</l>
+        </lg>
+        <lg>
+          <l>“Te mayaṃ vicarissāma, gāmā gāmaṃ nagā nagaṃ;</l>
+          <l>namassamānā sambuddhaṃ, dhammassa ca sudhammatan”ti.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

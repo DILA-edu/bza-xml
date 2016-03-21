@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 031. It is found in the 佛說觀佛三昧海經 Sutra at T.15.0643.0652.</p>
+      </div>
+    </front>
+    <body xml:id="T15.0643.0652a19">
+      <anchor type="start" xml:id="t15.0643.0652a19"/>
+      <div type="parallel">
+        <p>魔見是相。憔悴懊惱却臥床上。魔有三女長名悅彼。中名喜心。小名多媚。時魔三女至父王<anchor type="variant" n="fnT15p0652n05"/>所。長跪叉手為父作禮啟言。父王。今日何故愁悴乃爾。其父答言。沙門瞿曇結誓深重。今坐道樹要壞我民。是故愁耳。女白父言。我能往亂。願父莫愁。即自莊飾著雜寶冠。容媚挺特過<anchor type="variant" n="fnT15p0652n06"/>踰魔后。百千萬倍。眄目作姿現諸妖冶。瓔珞晃耀光翳六天。<seg type="not-parallel">乘羽<anchor type="variant" n="fnT15p0652n07"/>寶車。安施寶帳垂諸天華。於華鬚頭諸化玉女。手執樂器<anchor type="variant" n="fnT15p0652n08"/>鼓樂<anchor type="variant" n="fnT15p0652n09"/>絃歌聲萬種音<anchor type="variant" n="fnT15p0652n10"/>凡在世人之所憙樂。一一玉女。從五百女以為<pb ed="T" n="0652b"/>侍御。繒蓋<anchor type="variant" n="fnT15p0652n11"/>幢幡如雲而下。身毛孔中香烟芬馥。有百千色。玄黃<anchor type="variant" n="fnT15p0652n12"/>昱爍甚適人目。</seg>安<anchor type="variant" n="fnT15p0652n13"/>庠徐步至菩薩所。下車合掌禮敬菩薩。旋遶七匝。白菩薩言。太子生時。萬神侍御七寶來臻何棄天位來此樹下。我是天女盛美無比。顏貌紅輝六天無雙。今以微身奉上太子。供給左右可備灑掃。我等善能調身<anchor type="variant" n="fnT15p0652n14"/>按摩。今欲親附願遂下情。太子坐樹身體疲懈。宜須偃息服食甘露。即以寶器獻天百味。太子寂然身心不動。</p>
+        <p>
+          <seg type="not-parallel">以白<anchor type="variant" n="fnT15p0652n15"/>毫擬。令天三女<anchor type="variant" n="fnT15p0652n16"/>自見身內膿囊涕唾。九孔筋脈一切根本。大腸小腸生藏熟藏。於其中間。迴伏婉轉<anchor type="variant" n="fnT15p0652n17"/>踊生諸蟲。其數滿足有八<anchor type="variant" n="fnT15p0652n18"/>千戶。戶有九億諸小蟲等。蟲遊戲時走入小腸。皆有四口張口上向。大蟲遊戲入大腸中。從大腸出復入胃中。冷病起時胃<anchor type="variant" n="fnT15p0652n19"/>管閉塞。蟲不得入故食不消。脾腎肝肺心膽喉嚨。肺腴肝<anchor type="variant" n="fnT15p0652n20"/>鬲。如是中間復生四蟲。如四蛇合。上下同時唼食諸藏。滓盡汁出。入眼為淚。入鼻為<anchor type="variant" n="fnT15p0652n21"/>涕。聚口成唾。放口<anchor type="variant" n="fnT15p0652n22"/>涎流。薄皮厚皮。筋<anchor type="variant" n="fnT15p0652n23"/>髓諸脈悉生諸蟲。細於秋<anchor type="variant" n="fnT15p0650n14"/>毫數甚眾多不可具說。其女見此即便嘔吐從口而出。無有窮盡。</seg>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

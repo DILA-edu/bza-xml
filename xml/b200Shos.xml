@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Hosoda 1989a: 192-193</head>
+        <p>From Noriaki Hosoda 細田典明: Bonbun Zōagongyō Busshosetsuhon Gedōsōō (1) [Sanskrit fragments from the Parivrājakasaṃyukta of the Saṃyuktāgama (1) 梵文《雑阿含経》仏所說品外道相応(Ⅰ)] In《藤田宏達博士還曆記念論集：インド哲学と仏教》[Indian Philosophy and Buddhism: Essays in honour of Professor Kotatsu Fujita on his sixtieth birthday] 185-206. Kyoto. This is part of the text-cluster of BZA (T.100) sutra 200.</p>
+      </div>
+    </front>
+    <body xml:lang="sa">
+      <anchor type="start" xml:id="hos1989a.192"/>
+      <div type="parallel">
+        <note type="reference">「富隣尼経」B1. 157 V1-V5: Pūrṇika(?) （AN V, pp. 154-155 (Puṇṇiya) が一般に対照されるものの、內容的には対応しない。）; 『雑含』第九六六経、『別訳』第二〇〇経「分匿（経においては「富那」。）」</note>
+        <p>§ 4<note type="footnote">§4~§5：vgl. NidSa 22. 11-13.</note>
+          <note type="reference">(B1. 157)</note>(athāyuṣmān pūrṇiko 'ciraprakrāntān saṃbahulān anyatīrthikaparivrājakān vi)[di]tvā yena<note type="footnote">yena......ārocayati.: vgl. NidSa 22. 18.</note>bhagavāṃs tenopa(jagāma. upetya bhaga)[va] tpā<note type="reference">(V2)</note>(dau śirasā vanditvā, ekānte nyaśīdat. ekāntaniṣaṇṇa āyuṣmān pūrṇiko yāvad e)vāsyābh[ūt]﹙.﹚ s(aṃba)[h](u)lair anyatīrthikapari(vrājakaiḥ sārdham antarāka)thā<note type="reference">(V3)</note>(samudāhāras tat sarvaṃ bhagavato vistareṇārocayati.) evaṃ cāha﹙.﹚</p>
+        <p>§ 5  kaccid ahaṃ bhadanta (evaṃ vyā)kuruvāṇo no ca [bh](agavantam abhyācakṣe. nātisarāmy uktavādī cāhaṃ bhagavato dharmavā)[d](ī) ca dharma[s]ya cānudharmaṃ vyākaromi﹙.﹚ na ca me kaści(d āga)c(ch)e(tparataḥ saha dharmeṇa vādānuvādaṃ garhasthānīyo dharmaḥ.)</p>
+        <p>§ 6  (tatthyaṃ tvaṃ pūrṇika vyākuruvāṇ)[o] no ca mām abhyācakṣase﹙.﹚ nātisarasy uktavādī ca (tvaṃ mama dharmavādī ca dharmasya cānudharmaṃ vyākaroṣi. na ca te kaścid āgacchet parataḥ saha dharmeṇa) [v]ādānuvādaṃ garhasthānīyo dharmaḥ |</p>
+        <p>§ 7  tat kasmād dhetoḥ﹙.﹚ pū[r](vaṃ pūrṇika)......(ana)[bhi]sa(ma)yāt*﹙.﹚ śvāṃtrakulajātā<note type="footnote">Pischel: ge sa . yā taṃ śvātra(?); SHT V: ti saḥ yātaṃś=c=āṃtra. 問題点は二点あり、第一点については両者ともに yā taṃ と読むが、写真を見ると(SHT V, Tafel 71)、yā と taṃ の文字の間は線で結ばれてあり、ta の上にある点はアヌスヴァラーラではなくヴィラーマに解されろ（本稿「ヴィラーマの用法」参照）。漢訳の対応箇所は「不無間等」で、これに対応する梵語は na+abhisam√i- あるいは anabhisamaya- と考えられる。Vgl. NidSa 16. 4: yatrājñānam adarśanam anabhisamayaḥ.「於彼彼不知不見無無間等」（『大正蔵』二巻八五頁上二四）。yāt を語尾とすることから、anabhisamayāt を想定したが、動詞の変化形（z. B.: nābhisamiyāt）である可能性もあり、なお検討の余地がある。Vgl. SWTF 1. Lfg. S. 46; 2. Lfg. S. 127-128. 第二点は「亂如狗腸」以下の比喩に関わる表現で、パーリ・ニカーヤ (s. SHT V S. 169 Anm. 10), Mvy Nrn, 5390-3 (vgl. Lalitavistara. p. 205. 11-14) に類句が知られる。「亂如狗腸」にあたる箇所は、"tantākulakajātā" (DN Ⅱ, p. 55. 15; SN Ⅱ, p. 92. 16), "tantā kulakajātā" (SN Ⅳ, p. 158. 15), "tantākulajāto" (AN Ⅱ, p. 211. 33), "tantrajālajātāḥ" (Mvy 5390), "tantrākulajātasya" (LV p. 205. 11; s. BHSD s. v.)とあり、tantr˘ā- の部分が微妙に対照しない。しかし、「狗腸」にあたる梵語として *śvāntra- (śvan-+antra-) という語が想定される。この語は辞書には見られないが、前掲の AN や SN Ⅳ に対応する雑阿含の箇所には「為狗腸」（第九八四経『大正蔵』二巻二五六頁上二一）、「如狗肚臟」（第二一六経『大正蔵』二巻五四頁中二七）とあり、一方、DN に対応する中阿含第九七『大因経』では「如織機相鎖」（『大正蔵』一巻五七八頁中一七）、単行『人本欲生経』では「如織機」（『大正蔵』一巻二四二頁上六）とあることから、この比喩に関する定形句として tantra- 系と śvāntra- 系の二類が知られ、雑阿含は後者に拠るものであると言えよう。ちなみに、雑阿含第九八四経全体に相当する蔵文が Upāyikā に収録されているが（次注榎本論文九二頁注三参照）、当該箇所につぃては "dru bu 'dzings pa lta bu, rtswa mun dza dang bal (ba) dza lta bu dan." (P. ed. Tu 109 b5) とあり、"guḍaguṃjijātā muṃjabalbajajātā" に対応し「亂如狗腸」にあたる蔵語はない。</note>guḍaguṃji[j](ā)tā (muṃjabalbajajātā ājavaṃjavasamāpannā asmāl lokāt paraṃ lokaṃ<note type="footnote">lokaṃ......na vyativarttaṃte.: vgl. SHT V Kat.-Nr. 1375 a V4; b V1; Kat.-Nr. 1031 a R3. この箇所は両断簡とも前出の雑阿含第九八四経の一部であり、Kat.-Nr. 1031 と『雑阿含経』との比定は榎本文雄氏によってなされた。「『雑阿含経』関係の梵文写本断片ーー『Turfan出土梵文写本目録』第5卷をめぐってーー」、（『仏教研究』第十五号、八一ー九三頁、昭和六十年）参照。</note>parāl lokād imaṃ lo)kaṃ sa[n](dh)āvaṃ[t]i saṃsaraṃti sa[ṃ]sā(rān na v)yativarttaṃte﹙.﹚</p>
+        <p>§ 8  mi[th](yāmāneṣu pūrṇika)......(apariśeṣam<note type="footnote">apariśeṣam......gacchet.: vgl. SHT V Kat.-Nr. 1156 b V1.</note>adhyastaṃ parikṣayaṃ paryādā)[na]ṃ ga[c]chet sarvasyāḫ prajāyā dī(rgharātram arthāya hitāya) su<note type="reference">(R5)</note>(khāya ||)<note type="footnote">経末の形式について断簡から得る情報として、B1. 170 V3 では "sūtraṃ || "とあり、さらに五字分程のスペースをとって菱形文様（❖）を配している。</note>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

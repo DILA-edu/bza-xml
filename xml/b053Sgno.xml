@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Gnoli 1977: 181-183</head>
+        <p>From Raniero Gnoli: The Gilgit manuscript of the Saṅghabhedavastu: Being the 17th and last section of the Vinaya of the Mūlasarvāstivādin, Part I ( = Serie Orientale Roma, XLIX, 1). Roma: Istituto Italiano per il Medio ed Estremo Oriente: 181-183. This is part of the text-cluster of BZA (T.100) sutra 053.</p>
+      </div>
+    </front>
+    <body xml:lang="sa">
+      <anchor type="start" xml:id="Gno1977.181"/>
+      <div type="parallel">
+        <p>
+          <note type="reference">King Prasenajit meets the Buddha</note>aśrauṣīd rājā prasenajit kauśalaḥ śramaṇo gautamaḥ kauśaleṣu janapadeṣu cārikāṃ caran śrāvastīm anuprāptaḥ; śravastyāṃ viharati jetavane anāthapiṇḍadasyārāme; sa khalu bhagavān gautamo 'nuttarāṃ samyaksaṃbodhim abhisaṃbuddho'smīty ātmānaṃ pratijānīta iti; śrutvā ca punar yena bhagavāṃs tenopasaṅkrāntaḥ; upasaṅkramya bhagavatā sārdhaṃ saṃmukhaṃ saṃmodanīṃ saṃrañjanīṃ vividhāṃ kathāṃ vyatisārya ekānte niṣaṇṇaḥ;</p>
+        <p>ekāntaniṣaṇṇo rājā prasenajit kauśalo bhagavantam idam avocat "śrutaṃ me bho gautama bhavān<note type="reference">T 130b</note>gautamo 'nuttarāṃ samyaksaṃbodhim abhisaṃbuddho 'smīty ātmānaṃ pratijānīta iti; ye te bho gautama evam āhuḥ kaccit te evaṃ vyākurvāṇā, no ca bhavantaṃ gautamam abhyācakṣate, nātisaranti; uktavādinaś ca te bhavato gautamasya (dharmavādinaś ca dharmasya) cānudharmaṃ vyākurvanti? na ca teṣāṃ kaścid āgacchet parataḥ sahadharmeṇa vādānuvādaṃ garhāsthānīyo dharmaḥ";</p>
+        <p>"ye te mahārāja evam āhus tathyata evaṃ vyākurvāṇā no ca mām abhyācakṣate, nātisaranti; uktavādinaś ca te dharmavādinaś ca dharmasya cānudharmaṃ vyākurvanti; na ca teṣāṃ kaścid āgacchet parataḥ sahadharmeṇa vādānuvādaṃ garhāsthānīyo dharmaḥ; tat kasya hetor? aham asmi mahārāja anuttarāṃ samyaksaṃbodhim abhisaṃbuddhaḥ";</p>
+        <p>kiṃ cāpi bhavān gautama evam āha; api tu nāhaṃ bhavato gautamasya śraddhādeyo gacchāmi; tat kasya hetor? ye tāvad ime, bho gautama, vṛddhavṛddhāḥ, śramaṇabrāhmaṇāḥ, tad yathā pūraṇaḥ kāśyapo, maskarī gośalīputraḥ, sañjayī vairaḍīputraḥ, ajitaḥ keśakambalaḥ, kakudaḥ kātyayano, nirgrantho jñātiputraḥ, te tāvan nānuttarāṃ samyaksaṃbodhim abhisaṃbuddhā sma ity ātmānaṃ pratijānate?</p>
+        <p>
+          <note type="reference">The four small ones</note>
+          <note type="footnote">This is the sanskrit version of the Daharasutta (Saṃyutta Nikāya, I, 3, 1).</note>bhagavān āha: catvāra ime mahārāja dahrā nāvamantavyāḥ; na paribhavitavyāḥ; katame catvāraḥ? kṣatriyo, mahārāja, dahro nāvamantavyaḥ, (dahro) na paribhavitavyaḥ; uraga, mahārāja, dahro nāvamantavyaḥ, dahro na paribhavitavyaḥ; agnir, mahārāja, stoko nāvamantavyaḥ, stoko na paribhavitavyaḥ; bhikṣur, mahārāja, dahro nāvamantavyaḥ, dahro na paribhavitavyaḥ; tat kasya hetor? dahraś cāpi bhikṣur bhavati arhan<note type="footnote">A: aha.</note>
+          <note type="footnote">dgra bcom.</note>mahardhiko; mahānubhāvaḥ; idam<note type="reference">T 131b</note>avocat bhagavān; idam uktvā sugato hy athāparam etad uvāca śāstā:</p>
+        <lg>
+          <l>kṣatriyaṃ vyañjanopetam abhijātaṃ yaśasvinam |</l>
+          <l>dahraṃ taṃ nāvajānīyān nainaṃ paribhavet budhaḥ <note type="footnote">A: pariharet (Tib.: zil mi mnan, that is na paribhavet).</note>||</l>
+          <l>sthānaṃ hi rajyate rājan yad rājyaṃ prāpya kovidaḥ |</l>
+          <l>kṣatriyo daṇḍam ādadhyāt tasmāt taṃ praṇamet bhṛśam ||</l>
+          <l>tasmāt taṃ nāvajānīyād rakṣan jīvitam ātmanaḥ |</l>
+          <l>samyak cainaṃ pariharet saṃpaśyann artham ātmanaḥ ||</l>
+          <l>grāme vā yadi vāraṇye yatra paśyet bhujañgamam |</l>
+          <l>dahraṃ taṃ nāvajānīyān nainaṃ paribhavet budhaḥ ||</l>
+          <l>uccāvaceṣu varṇeṣu nāgaś carati haiṣiṇām <note type="footnote">haiṣiṇām is not represented in the Tib. transl. and the text is perhaps corrupted (the Pāli recension of the sūtra reads tejasī, tejasā and tejasi too).</note>|</l>
+          <l>āsādya bālān dahati narān nārīś<note type="footnote">A: narā nāryaś ca.</note>ca naikaśaḥ ||</l>
+          <l>tasmāt taṃ nāvajānīyād rakṣan jīvitam ātmanaḥ |</l>
+          <l>samyak cainaṃ pariharet saṃpaśyann artham ātmanaḥ ||</l>
+          <l>prabhūtapakṣo jvalanaḥ kṛṣṇavartmā hutāśanaḥ |</l>
+          <l>stokaṃ taṃ nāvajānī*yān nainaṃ paribhavet budhaḥ ||<note type="reference">*A 416b</note>
+          </l>
+          <l>stokaṃ bhūtvā bahur bhavaty upādānena pāvakaḥ |</l>
+          <l>tejasā dahati kṣipraṃ grāmāṃś ca nagarāṇi ca ||</l>
+          <l>tasmāt taṃ nāvajānīyād rakṣan jīvitam ātmanaḥ |</l>
+          <l>samyak cainaṃ pariharet saṃpaśyann artham ātmanaḥ ||</l>
+          <l>yam agnir dahate dāvaṃ grāmāṃś ca nagarāṇi ca |</l>
+          <l>jāyante pallavās tatra ahorātrānvayāḥ kvacit ||<note type="reference">T 132a</note>
+          </l>
+          <l>yas tarhi śīlasaṃpannaṃ bhikṣum āsādya dahyate<note type="footnote">ts'ig gyur pa.</note>|</l>
+          <l>na tasya putrā pautrā vā dāyādaṃ na sa vindati ||</l>
+          <l>na cirāt tālamastakavad uddāyādā bhavanti te<note type="footnote">ta lai mgo ni bcad pa bžin | riṅ por mi t'ogs rabs kyaṅ ạc'ad | According to Mvy 9134 tadyathā tālo mastakacchinnaḥ (dper na šin ta lai mgo bcad pa bžin) is one of the marks distinguishing an ill-natured bhikṣu. As to uddāyāda, see Edgerton, s.v. and Mvy 6972.</note>|</l>
+          <l>tasmāt taṃ nāvajānīyād rakṣan jīvitam ātmanaḥ ||</l>
+          <l>samyak cainaṃ pariharet saṃpaśyann artham ātmanaḥ |</l>
+          <l>kṣatriyaṃ vyañjanopetam uragaṃ<note type="footnote">A: vyañjanopetaṃ mugaram.</note>pāvakaṃ tathā ||</l>
+          <l>bhikṣuṃ ca śīlasaṃpannaṃ nainān paribhaved budhaḥ ||</l>
+          <l>tasmāt tān nāvajānīyād rakṣan jīvitam ātmanaḥ |</l>
+          <l>samyak cainān pariharet saṃpaśyann artham ātmanaḥ ||</l>
+        </lg>
+        <p>atha rājā prasenajit kauśalo bhagavato bhāṣitam abhinandya anumodya bhagavataḥ pādau śirasā vanditvā bhagavato 'ntikāt prakrāntaḥ.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

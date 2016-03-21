@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Sakka pays obeisance to the Buddha 2</head>
+        <p>Translation of BZA 041. First version published in <emph>
+            Buddhist Studies
+                                Review
+          </emph>vol. 23-1 (2006).</p>
+      </div>
+    </front>
+    <body xml:id="bza041en" xml:lang="en">
+      <div>
+        <p>
+          Thus have I heard, once, the Buddha was staying at Sāvatthī at the Jeta Grove in
+                              the Anāthapiṇḍika Park.
+        </p>
+        <p>
+          At that time the World-Honored One told the bhikkhus: “Long time ago Sakka
+                              Devānam Indo wanted to go for a ride and enjoy his park land. He ordered his
+                              charioteer Mātali: ‘Harness the thousand-horse chariot!’ Soon Mātali had
+                              harnessed the chariot, went to Sakka, and said to him: ‘The chariot is ready, we
+                              may leave whenever you please.’ Thereupon Sakka left the Vejayanta Palace and
+                              with folded hands paid obeisance facing south. When Mātali saw this, his mind
+                              was filled with surprise and fear, and he dropped whip and reigns.
+        </p>
+        <p>
+          Sakka said: ‘What have you seen that you are so scared?’ Mātali said: ‘Maghavā!
+                              Husband of Suja! When I saw you with folded hands paying obeisance facing south,
+                              my mind became filled with fear and I dropped whip and reigns. All beings revere
+                              you; all the kings are completely under your rule. The four [Guardian] kings and
+                              the thirty-three gods, all respectfully revere you. Who then surpasses you in
+                              power, that you stand and pay obeisance with folded hands facing south?’ Sakka
+                              answered: ‘Everybody reveres me, that might indeed be as you say. [However,]
+                              what all devas and human beings respectfully venerate is the Dhamma. I
+                              respectfully pay obeisance to the perfect discipline and Dhamma.’ And Sakka
+                              spoke a verse:
+        </p>
+        <lg>
+          <l>Those who have left home // and practice relentlessly</l>
+          <l>
+            To enter silent meditation during the long night, // who lead the holy life
+                                    perfectly
+          </l>
+          <l>They abandon the three poisons // can attain the Dhamma of liberation</l>
+          <l>To this Dhamma // I pay obeisance</l>
+          <l>To all great Arhants // who have abandoned desire</l>
+          <l>Dispelled the darkness of ignorance // have cut off all fetters</l>
+          <l>As well as to those lay-people who practice good // do not do evil actions</l>
+          <l>To all followers of the correct Dhamma // I pay obeisance</l>
+        </lg>
+        <p>Mātali said:</p>
+        <lg>
+          <l>You are venerating the very best // I will follow you in worship</l>
+        </lg>
+        <p>
+          When Sakka had spoken thus, he paid obeisance with folded hands, mounted the
+                              chariot and went.
+        </p>
+        <p>
+          The Buddha told the monks: “Sakka is powerful among men and devas, if even he
+                              does pay obeisance to the Dhamma, how much more should you, oh monks, who have
+                              cut off your hair, left home to study the way, how much more diligent should you
+                              be in paying obeisance to the Dhamma.”
+        </p>
+        <p>
+          When the Buddha had finished, the monks, having listened to what he had said,
+                              were happy and practiced accordingly.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Mahāvacchasuttaṃ</head>
+        <p>From the VRI Chaṭṭa Saṅgāyana edition. PTS: MN, I, 489. This is part of the text-cluster of BZA (T.100) sutra 198.</p>
+      </div>
+    </front>
+    <body xml:lang="pi">
+      <anchor type="start" xml:id="pts.mn.01.489"/>
+      <div type="parallel">
+        <p>Evaṃ me sutaṃ– ekaṃ samayaṃ bhagavā  <name type="place">rājagahe</name>viharati<name type="place">veḷuvane</name>
+          <name type="place">kalandakanivāpe</name>. Atha kho<name type="person">vacchagotto</name>paribbājako yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho vacchagotto paribbājako bhagavantaṃ etadavoca–</p>
+        <p>“dīgharattāhaṃ bhotā gotamena sahakathī. Sādhu me bhavaṃ <name type="person">gotamo</name>saṃkhittena kusalākusalaṃ desetū”ti. “Saṃkhittenapi kho te ahaṃ, vaccha, kusalākusalaṃ deseyyaṃ, vitthārenapi kho te ahaṃ, vaccha, kusalākusalaṃ deseyyaṃ; api ca te ahaṃ, vaccha, saṃkhittena kusalākusalaṃ desessāmi. Taṃ suṇāhi, sādhukaṃ manasi karohi, bhāsissāmī”ti. “Evaṃ, bho”ti kho vacchagotto paribbājako bhagavato paccassosi. Bhagavā etadavoca–</p>
+        <p>“Lobho kho, vaccha, akusalaṃ, alobho kusalaṃ; doso kho, vaccha, akusalaṃ, adoso kusalaṃ; moho kho, vaccha, akusalaṃ, amoho kusalaṃ. Iti kho, vaccha, ime tayo dhammā akusalā, tayo dhammā kusalā.</p>
+        <p>“Pāṇātipāto kho, vaccha, akusalaṃ, pāṇātipātā veramaṇī kusalaṃ; adinnādānaṃ kho, vaccha, akusalaṃ, adinnādānā veramaṇī kusalaṃ; kāmesumicchācāro kho, vaccha, akusalaṃ, kāmesumicchācārā veramaṇī kusalaṃ; musāvādo kho, vaccha, akusalaṃ, musāvādā veramaṇī kusalaṃ; pisuṇā vācā kho, vaccha, akusalaṃ pisuṇāya vācāya veramaṇī kusalaṃ; pharusā vācā kho, vaccha, akusalaṃ, pharusāya vācāya veramaṇī kusalaṃ; samphappalāpo kho, vaccha, akusalaṃ, samphappalāpā veramaṇī kusalaṃ; abhijjhā kho, vaccha, akusalaṃ, anabhijjhā kusalaṃ; byāpādo kho, vaccha, akusalaṃ, abyāpādo kusalaṃ; micchādiṭṭhi kho, vaccha, akusalaṃ sammādiṭṭhi kusalaṃ. Iti kho, vaccha, ime dasa dhammā akusalā, dasa dhammā kusalā.</p>
+        <p>“Yato kho, vaccha, bhikkhuno taṇhā pahīnā hoti ucchinnamūlā tālāvatthukatā anabhāvaṃkatā āyatiṃ anuppādadhammā, so hoti bhikkhu arahaṃ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṃyojano sammadaññā vimutto”ti.</p>
+        <p>“Tiṭṭhatu bhavaṃ gotamo. Atthi pana te bhoto gotamassa ekabhikkhupi sāvako yo āsavānaṃ khayā<note type="variant">[sāvako āsavānaṃ khayā (sī. syā. kaṃ. pī.) evamuparipi]</note>anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharatī”ti? “Na kho, vaccha, ekaṃyeva sataṃ na dve satāni na tīṇi satāni na cattāri satāni na pañca satāni, atha kho bhiyyova ye bhikkhū mama sāvakā āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharantī”ti.</p>
+        <p>“Tiṭṭhatu bhavaṃ gotamo, tiṭṭhantu bhikkhū. Atthi pana bhoto gotamassa ekā bhikkhunīpi sāvikā yā āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharatī”ti? “Na kho, vaccha, ekaṃyeva sataṃ na dve satāni na tīṇi satāni na cattāri satāni na pañca satāni, atha kho bhiyyova yā bhikkhuniyo mama sāvikā āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharantī”ti.</p>
+        <p>“Tiṭṭhatu bhavaṃ gotamo, tiṭṭhantu bhikkhū, tiṭṭhantu bhikkhuniyo. Atthi pana bhoto gotamassa ekupāsakopi sāvako gihī odātavasano brahmacārī yo pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ parikkhayā opapātiko tattha parinibbāyī anāvattidhammo tasmā lokā”ti? “Na kho, vaccha, ekaṃyeva sataṃ na dve satāni na tīṇi satāni na cattāri satāni na pañca satāni, atha kho bhiyyova ye upāsakā mama sāvakā gihī odātavasanā brahmacārino pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ parikkhayā opapātikā tattha parinibbāyino anāvattidhammā tasmā lokā”ti.</p>
+        <p>“Tiṭṭhatu bhavaṃ gotamo, tiṭṭhantu bhikkhū, tiṭṭhantu bhikkhuniyo, tiṭṭhantu upāsakā gihī odātavasanā brahmacārino. Atthi pana bhoto gotamassa ekupāsakopi sāvako gihī odātavasano kāmabhogī sāsanakaro ovādappaṭikaro yo tiṇṇavicikiccho vigatakathaṃkatho vesārajjappatto aparappaccayo satthusāsane viharatī”ti? “Na kho, vaccha, ekaṃyeva sataṃ na dve satāni na tīṇi satāni na cattāri satāni na pañca satāni atha kho bhiyyova ye upāsakā mama sāvakā gihī odātavasanā kāmabhogino sāsanakarā ovādappaṭikarā tiṇṇavicikicchā vigatakathaṃkathā vesārajjappattā aparappaccayā satthusāsane viharantī”ti.</p>
+        <p>“Tiṭṭhatu bhavaṃ gotamo, tiṭṭhantu bhikkhū, tiṭṭhantu bhikkhuniyo, tiṭṭhantu upāsakā gihī odātavasanā brahmacārino, tiṭṭhantu upāsakā gihī odātavasanā kāmabhogino. Atthi pana bhoto gotamassa ekupāsikāpi sāvikā gihinī odātavasanā brahmacārinī yā pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ parikkhayā opapātikā tattha parinibbāyinī anāvattidhammā tasmā lokā”ti? “Na kho, vaccha, ekaṃyeva sataṃ na dve satāni na tīṇi satāni na cattāri satāni na pañca satāni, atha kho bhiyyova yā upāsikā mama sāvikā gihiniyo odātavasanā brahmacāriniyo pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ parikkhayā opapātikā tattha parinibbāyiniyo anāvattidhammā tasmā lokā”ti.</p>
+        <p>“Tiṭṭhatu bhavaṃ gotamo, tiṭṭhantu bhikkhū, tiṭṭhantu bhikkhuniyo, tiṭṭhantu upāsakā gihī odātavasanā brahmacārino, tiṭṭhantu upāsakā gihī odātavasanā kāmabhogino, tiṭṭhantu upāsikā gihiniyo odātavasanā brahmacāriniyo. Atthi pana bhoto gotamassa ekupāsikāpi sāvikā gihinī odātavasanā kāmabhoginī sāsanakarā ovādappaṭikarā yā tiṇṇavicikicchā vigatakathaṃkathā vesārajjappattā aparappaccayā satthusāsane viharatī”ti? “Na kho, vaccha, ekaṃyeva sataṃ na dve satāni na tīṇi satāni na cattāri satāni na pañca satāni, atha kho bhiyyova yā upāsikā mama sāvikā gihiniyo odātavasanā kāmabhoginiyo sāsanakarā ovādappaṭikarā tiṇṇavicchikicchā vigatakathaṃkathā vesārajjappattā aparappaccayā satthusāsane viharantī”ti.</p>
+        <p>“Sace hi, bho gotama, imaṃ dhammaṃ bhavaṃyeva gotamo ārādhako abhavissa, no ca kho bhikkhū ārādhakā abhavissaṃsu evamidaṃ brahmacariyaṃ aparipūraṃ abhavissa tenaṅgena. Yasmā ca kho, bho gotama, imaṃ dhammaṃ bhavañceva gotamo ārādhako bhikkhū ca ārādhakā; evamidaṃ brahmacariyaṃ paripūraṃ tenaṅgena.</p>
+        <p>“Sace hi, bho gotama, imaṃ dhammaṃ bhavañceva gotamo ārādhako abhavissa, bhikkhū ca ārādhakā abhavissaṃsu, no ca kho bhikkhuniyo ārādhikā abhavissaṃsu; evamidaṃ brahmacariyaṃ aparipūraṃ abhavissa tenaṅgena. Yasmā ca kho, bho gotama, imaṃ dhammaṃ bhavañceva gotamo ārādhako, bhikkhū ca ārādhakā, bhikkhuniyo ca ārādhikā; evamidaṃ brahmacariyaṃ paripūraṃ tenaṅgena.</p>
+        <p>“Sace hi, bho gotama, imaṃ dhammaṃ bhavañceva gotamo ārādhako abhavissa, bhikkhū ca ārādhakā abhavissaṃsu, bhikkhuniyo ca ārādhikā abhavissaṃsu, no ca kho upāsakā gihī odātavasanā brahmacārino ārādhakā abhavissaṃsu; evamidaṃ brahmacariyaṃ aparipūraṃ abhavissa tenaṅgena. Yasmā ca kho, bho gotama, imaṃ dhammaṃ bhavañceva gotamo ārādhako, bhikkhū ca ārādhakā, bhikkhuniyo ca ārādhikā, upāsakā ca gihī odātavasanā brahmacārino ārādhakā; evamidaṃ brahmacariyaṃ paripūraṃ tenaṅgena.</p>
+        <p>“Sace hi, bho gotama, imaṃ dhammaṃ bhavañceva gotamo ārādhako abhavissa, bhikkhū ca ārādhakā abhavissaṃsu, bhikkhuniyo ca ārādhikā abhavissaṃsu, upāsakā ca gihī odātavasanā brahmacārino ārādhakā abhavissaṃsu, no ca kho upāsakā gihī odātavasanā kāmabhogino ārādhakā abhavissaṃsu; evamidaṃ brahmacariyaṃ aparipūraṃ abhavissa tenaṅgena. Yasmā ca kho, bho gotama, imaṃ dhammaṃ bhavañceva gotamo ārādhako, bhikkhū ca ārādhakā, bhikkhuniyo ca ārādhikā, upāsakā ca gihī odātavasanā brahmacārino ārādhakā, upāsakā ca gihī odātavasanā kāmabhogino ārādhakā; evamidaṃ brahmacariyaṃ paripūraṃ tenaṅgena.</p>
+        <p>“Sace hi, bho gotama, imaṃ dhammaṃ bhavañceva gotamo ārādhako abhavissa, bhikkhū ca ārādhakā abhavissaṃsu, bhikkhuniyo ca ārādhikā abhavissaṃsu, upāsakā ca gihī odātavasanā brahmacārino ārādhakā abhavissaṃsu, upāsakā ca gihī odātavasanā kāmabhogino ārādhakā abhavissaṃsu, no ca kho upāsikā gihiniyo odātavasanā brahmacāriniyo ārādhikā abhavissaṃsu; evamidaṃ brahmacariyaṃ aparipūraṃ abhavissa tenaṅgena. Yasmā ca kho, bho gotama, imaṃ dhammaṃ bhavañceva gotamo ārādhako, bhikkhū ca ārādhakā, bhikkhuniyo ca ārādhikā, upāsakā ca gihī odātavasanā brahmacārino ārādhakā, upāsakā ca gihī odātavasanā kāmabhogino ārādhakā upāsikā ca gihiniyo odātavasanā brahmacāriniyo ārādhikā; evamidaṃ brahmacariyaṃ paripūraṃ tenaṅgena.</p>
+        <p>“Sace hi, bho gotama, imaṃ dhammaṃ bhavañceva gotamo ārādhako abhavissa, bhikkhū ca ārādhakā abhavissaṃsu, bhikkhuniyo ca ārādhikā abhavissaṃsu, upāsakā ca gihī odātavasanā brahmacārino ārādhakā abhavissaṃsu, upāsakā ca gihī odātavasanā kāmabhogino ārādhakā abhavissaṃsu, upāsikā ca gihiniyo odātavasanā brahmacāriniyo ārādhikā abhavissaṃsu, no ca kho upāsikā gihiniyo odātavasanā kāmabhoginiyo ārādhikā abhavissaṃsu; evamidaṃ brahmacariyaṃ aparipūraṃ abhavissa tenaṅgena. Yasmā ca kho, bho gotama, imaṃ dhammaṃ bhavañceva gotamo ārādhako, bhikkhū ca ārādhakā, bhikkhuniyo ca ārādhikā, upāsakā ca gihī odātavasanā brahmacārino ārādhakā, upāsakā ca gihī odātavasanā kāmabhogino ārādhakā, upāsikā ca gihiniyo odātavasanā brahmacāriniyo ārādhikā, upāsikā ca gihiniyo odātavasanā kāmabhoginiyo ārādhikā; evamidaṃ brahmacariyaṃ paripūraṃ tenaṅgena.</p>
+        <p>“Seyyathāpi, bho gotama, <name type="place">gaṅgā nadī</name>samuddaninnā samuddapoṇā samuddapabbhārā samuddaṃ āhacca tiṭṭhati, evamevāyaṃ bhoto gotamassa parisā sagahaṭṭhapabbajitā nibbānaninnā nibbānapoṇā nibbānapabbhārā nibbānaṃ āhacca tiṭṭhati.<seg type="not-parallel">Abhikkantaṃ, bho gotama…pe…</seg>esāhaṃ bhavantaṃ gotamaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṅghañca. Labheyyāhaṃ bhoto gotamassa santike pabbajjaṃ, labheyyaṃ upasampadan”ti “Yo kho, vaccha, aññatitthiyapubbo imasmiṃ dhammavinaye ākaṅkhati pabbajjaṃ, ākaṅkhati upasampadaṃ, so cattāro māse parivasati. Catunnaṃ māsānaṃ accayena āraddhacittā bhikkhū pabbājenti upasampādenti bhikkhubhāvāya; api ca mettha puggalavemattatā viditā”ti. “Sace, bhante, aññatitthiyapubbā imasmiṃ dhammavinaye ākaṅkhantā pabbajjaṃ, ākaṅkhantā upasampadaṃ cattāro māse parivasanti, catunnaṃ māsānaṃ accayena āraddhacittā bhikkhū pabbājenti upasampādenti bhikkhubhāvāya; ahaṃ cattāri vassāni parivasissāmi. Catunnaṃ vassānaṃ accayena āraddhacittā bhikkhū pabbājentu upasampādentu bhikkhubhāvāyā”ti. Alattha kho vacchagotto paribbājako bhagavato santike pabbajjaṃ alattha upasampadaṃ.</p>
+        <p>Acirūpasampanno kho panāyasmā vacchagotto addhamāsūpasampanno yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā vacchagotto bhagavantaṃ etadavoca– “yāvatakaṃ, bhante, sekhena ñāṇena sekhāya vijjāya pattabbaṃ, anuppattaṃ taṃ mayā; uttari ca me <note type="variant">[uttariṃ me (sī. syā. kaṃ. pī.)]</note>bhagavā dhammaṃ desetū”ti. “Tena hi tvaṃ, vaccha, dve dhamme uttari bhāvehi– samathañca vipassanañca. Ime kho te, vaccha, dve dhammā uttari bhāvitā– samatho ca vipassanā ca– anekadhātupaṭivedhāya saṃvattissanti.</p>
+        <p>“So tvaṃ, vaccha, yāvadeva <note type="variant">[yāvade (pī.)]</note>ākaṅkhissasi– ‘anekavihitaṃ iddhividhaṃ paccanubhaveyyaṃ– ekopi hutvā bahudhā assaṃ, bahudhāpi hutvā eko assaṃ; āvibhāvaṃ, tirobhāvaṃ; tirokuṭṭaṃ tiropākāraṃ tiropabbataṃ asajjamāno gaccheyyaṃ, seyyathāpi ākāse; pathaviyāpi ummujjanimujjaṃ kareyyaṃ, seyyathāpi udake; udakepi abhijjamāne gaccheyyaṃ, seyyathāpi pathaviyaṃ; ākāsepi pallaṅkena kameyyaṃ, seyyathāpi pakkhī sakuṇo; imepi candimasūriye evaṃmahiddhike evaṃmahānubhāve pāṇinā parimaseyyaṃ, parimajjeyyaṃ; yāvabrahmalokāpi kāyena vasaṃ vatteyyan’ti, tatra tatreva sakkhibhabbataṃ pāpuṇissasi, sati sati-āyatane.</p>
+        <p>“So tvaṃ, vaccha, yāvadeva ākaṅkhissasi– ‘dibbāya sotadhātuyā visuddhāya atikkantamānusikāya ubho sadde suṇeyyaṃ– dibbe ca mānuse ca, ye dūre santike cā’ti, tatra tatreva sakkhibhabbataṃ pāpuṇissasi, sati sati-āyatane.</p>
+        <p>“So tvaṃ, vaccha, yāvadeva ākaṅkhissasi– ‘parasattānaṃ parapuggalānaṃ cetasā ceto paricca pajāneyyaṃ– sarāgaṃ vā cittaṃ sarāgaṃ cittanti pajāneyyaṃ, vītarāgaṃ vā cittaṃ vītarāgaṃ cittanti pajāneyyaṃ; sadosaṃ vā cittaṃ sadosaṃ cittanti pajāneyyaṃ, vītadosaṃ vā cittaṃ vītadosaṃ cittanti pajāneyyaṃ; samohaṃ vā cittaṃ samohaṃ cittanti pajāneyyaṃ, vītamohaṃ vā cittaṃ vītamohaṃ cittanti pajāneyyaṃ; saṃkhittaṃ vā cittaṃ saṃkhittaṃ cittanti pajāneyyaṃ, vikkhittaṃ vā cittaṃ vikkhittaṃ cittanti pajāneyyaṃ; mahaggataṃ vā cittaṃ mahaggataṃ cittanti pajāneyyaṃ, amahaggataṃ vā cittaṃ amahaggataṃ cittanti pajāneyyaṃ; sa-uttaraṃ vā cittaṃ sa-uttaraṃ cittanti pajāneyyaṃ, anuttaraṃ vā cittaṃ anuttaraṃ cittanti pajāneyyaṃ; samāhitaṃ vā cittaṃ samāhitaṃ cittanti pajāneyyaṃ, asamāhitaṃ vā cittaṃ asamāhitaṃ cittanti pajāneyyaṃ; vimuttaṃ vā cittaṃ vimuttaṃ cittanti pajāneyyaṃ, avimuttaṃ vā cittaṃ avimuttaṃ cittanti pajāneyyan’ti, tatra tatreva sakkhibhabbataṃ pāpuṇissasi, sati sati-āyatane.</p>
+        <p>“So tvaṃ, vaccha, yāvadeva ākaṅkhissasi– ‘anekavihitaṃ pubbenivāsaṃ anussareyyaṃ, seyyathidaṃ– ekampi jātiṃ dvepi jātiyo tissopi jātiyo catassopi jātiyo pañcapi jātiyo dasapi jātiyo vīsampi jātiyo tiṃsampi jātiyo cattālīsampi jātiyo paññāsampi jātiyo jātisatampi jātisahassampi jātisatasahassampi; anekepi saṃvaṭṭakappe anekepi vivaṭṭakappe anekepi saṃvaṭṭavivaṭṭakappe– amutrāsiṃ evaṃnāmo evaṃgotto evaṃvaṇṇo evamāhāro evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto amutra udapādiṃ; tatrāpāsiṃ evaṃnāmo evaṃgotto evaṃvaṇṇo evamāhāro evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto idhūpapannoti; iti sākāraṃ sa-uddesaṃ anekavihitaṃ pubbenivāsaṃ anussareyyan’ti, tatra tatreva sakkhibhabbataṃ pāpuṇissasi, sati sati-āyatane.</p>
+        <p>“So tvaṃ, vaccha, yāvadeva ākaṅkhissasi– ‘dibbena cakkhunā visuddhena atikkantamānusakena satte passeyyaṃ cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate yathākammūpage satte pajāneyyaṃ– ime vata bhonto sattā kāyaduccaritena samannāgatā vacīduccaritena samannāgatā manoduccaritena samannāgatā ariyānaṃ upavādakā micchādiṭṭhikā micchādiṭṭhikammasamādānā, te kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapannā; ime vā pana bhonto sattā kāyasucaritena samannāgatā vacīsucaritena samannāgatā manosucaritena samannāgatā ariyānaṃ anupavādakā sammādiṭṭhikā sammādiṭṭhikammasamādānā, te kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapannāti; iti dibbena cakkhunā visuddhena atikkantamānusakena satte passeyyaṃ cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate yathākammūpage satte pajāneyyan’ti, tatra tatreva sakkhibhabbataṃ pāpuṇissasi, sati sati-āyatane.</p>
+        <p>“So tvaṃ, vaccha, yāvadeva ākaṅkhissasi– ‘āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja vihareyyan’ti, tatra tatreva sakkhibhabbataṃ pāpuṇissasi, sati sati-āyatane”ti.</p>
+        <p>Atha kho āyasmā vacchagotto bhagavato bhāsitaṃ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi. Atha kho āyasmā vacchagotto eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva– yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti tadanuttaraṃ– brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja vihāsi. ‘Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti abbhaññāsi. Aññataro kho panāyasmā vacchagotto arahataṃ ahosi.</p>
+        <p>Tena kho pana samayena sambahulā bhikkhū bhagavantaṃ dassanāya gacchanti. Addasā kho āyasmā vacchagotto te bhikkhū dūratova āgacchante. Disvāna yena te bhikkhū tenupasaṅkami; upasaṅkamitvā te bhikkhū etadavoca “handa! Kahaṃ pana tumhe āyasmanto gacchathā”ti? “Bhagavantaṃ kho mayaṃ, āvuso, dassanāya gacchāmā”ti “Tenahāyasmanto mama vacanena bhagavato pāde sirasā vandatha, evañca vadetha– ‘vacchagotto, bhante, bhikkhu bhagavato pāde sirasā vandati, evañca vadeti– pariciṇṇo me bhagavā, pariciṇṇo me sugato”’ti. “Evamāvuso”ti kho te bhikkhū āyasmato vacchagottassa paccassosuṃ. Atha kho te bhikkhū yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ– “āyasmā, bhante, vacchagotto bhagavato pāde sirasā vandati, evañca vadeti– ‘pariciṇṇo me bhagavā, pariciṇṇo me sugato”’ti. “Pubbeva me, bhikkhave, vacchagotto bhikkhu cetasā ceto paricca vidito– ‘tevijjo vacchagotto bhikkhu mahiddhiko mahānubhāvo’ti. Devatāpi me etamatthaṃ ārocesuṃ– ‘tevijjo, bhante, vacchagotto bhikkhu mahiddhiko mahānubhāvo”’ti.</p>
+        <p>Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

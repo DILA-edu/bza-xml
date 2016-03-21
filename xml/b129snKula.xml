@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Kulasuttaṃ</head>
+        <p>From the VRI Chaṭṭa Saṅgāyana edition. PTS: SN, IV, 322. This is part of the text-cluster of BZA (T.100) sutra 129.</p>
+      </div>
+    </front>
+    <body xml:lang="pi">
+      <anchor type="start" xml:id="pts.sn.04.322"/>
+      <div type="parallel">
+        <p>Ekaṃ samayaṃ bhagavā  <name type="place">kosalesu</name>cārikaṃ caramāno mahatā bhikkhusaṅghena saddhiṃ yena<name type="place">nāḷandā</name>tadavasari Tatra sudaṃ bhagavā nāḷandāyaṃ viharati<name type="place">pāvārikambavane</name>.</p>
+        <p>Tena kho pana samayena nāḷandā dubbhikkhā hoti dvīhitikā setaṭṭhikā salākāvuttā. Tena kho pana samayena <name type="person">nigaṇṭho nāṭaputto</name>nāḷandāyaṃ paṭivasati mahatiyā nigaṇṭhaparisāya saddhiṃ. Atha kho<name type="person">asibandhakaputto</name>gāmaṇi nigaṇṭhasāvako yena nigaṇṭho nāṭaputto tenupasaṅkami; upasaṅkamitvā nigaṇṭhaṃ nāṭaputtaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho asibandhakaputtaṃ gāmaṇiṃ nigaṇṭho nāṭaputto etadavoca– “ehi tvaṃ, gāmaṇi, samaṇassa<name type="person">gotamassa</name>vādaṃ āropehi. Evaṃ te kalyāṇo kittisaddo abbhuggacchissati– ‘asibandhakaputtena gāmaṇinā samaṇassa gotamassa evaṃmahiddhikassa evaṃmahānubhāvassa vādo āropito”’ti.</p>
+        <p>“Kathaṃ panāhaṃ, bhante, samaṇassa gotamassa evaṃmahiddhikassa evaṃmahānubhāvassa vādaṃ āropessāmī”ti “Ehi tvaṃ, gāmaṇi, yena samaṇo gotamo tenupasaṅkama; upasaṅkamitvā samaṇaṃ gotamaṃ evaṃ vadehi– ‘nanu, bhante, bhagavā anekapariyāyena kulānaṃ anuddayaṃ <note type="variant">[anudayaṃ (syā. kaṃ. pī. ka.)]</note>vaṇṇeti, anurakkhaṃ vaṇṇeti, anukampaṃ vaṇṇetī’ti? Sace kho, gāmaṇi, samaṇo gotamo evaṃ puṭṭho evaṃ byākaroti– ‘evaṃ, gāmaṇi, tathāgato anekapariyāyena kulānaṃ anuddayaṃ vaṇṇeti, anurakkhaṃ vaṇṇeti, anukampaṃ vaṇṇetī’ti, tamenaṃ tvaṃ evaṃ vadeyyāsi– ‘atha kiñcarahi, bhante, bhagavā dubbhikkhe dvīhitike setaṭṭhike salākāvutte mahatā bhikkhusaṅghena saddhiṃ cārikaṃ carati? Ucchedāya bhagavā kulānaṃ paṭipanno, anayāya bhagavā kulānaṃ paṭipanno, upaghātāya bhagavā kulānaṃ paṭipanno’ti! Imaṃ kho te, gāmaṇi, samaṇo gotamo ubhatokoṭikaṃ pañhaṃ puṭṭho neva sakkhati<note type="variant">[sakkhiti (sī.) ma. ni. 2.83]</note>uggilituṃ, neva sakkhati ogilitun”ti. “Evaṃ bhante”ti kho asibandhakaputto gāmaṇi nigaṇṭhassa nāṭaputtassa paṭissutvā uṭṭhāyāsanā nigaṇṭhaṃ nāṭaputtaṃ abhivādetvā padakkhiṇaṃ katvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi.</p>
+        <p>Ekamantaṃ nisinno kho asibandhakaputto gāmaṇi bhagavantaṃ etadavoca–
+                    “Nanu, bhante, bhagavā anekapariyāyena kulānaṃ anuddayaṃ vaṇṇeti, anurakkhaṃ vaṇṇeti, anukampaṃ vaṇṇetī”ti? “Evaṃ, gāmaṇi, tathāgato anekapariyāyena kulānaṃ anuddayaṃ vaṇṇeti, anurakkhaṃ vaṇṇeti, anukampaṃ vaṇṇetī”ti. “Atha kiñcarahi, bhante, bhagavā dubbhikkhe dvīhitike setaṭṭhike salākāvutte mahatā bhikkhusaṅghena saddhiṃ cārikaṃ carati? Ucchedāya bhagavā kulānaṃ paṭipanno, anayāya bhagavā kulānaṃ paṭipanno, upaghātāya bhagavā kulānaṃ paṭipanno”ti. “Ito so, gāmaṇi, ekanavutikappe <note type="variant">[ekanavuto kappo (syā. kaṃ.), ekanavutikappo (pī.)]</note>yamahaṃ anussarāmi, nābhijānāmi kiñci kulaṃ pakkabhikkhānuppadānamattena upahatapubbaṃ. Atha kho yāni tāni kulāni aḍḍhāni mahaddhanāni mahābhogāni pahūtajātarūparajatāni pahūtavittūpakaraṇāni pahūtadhanadhaññāni, sabbāni tāni dānasambhūtāni ceva saccasambhūtāni ca sāmaññasambhūtāni ca. Aṭṭha kho, gāmaṇi, hetū, aṭṭha paccayā kulānaṃ upaghātāya. Rājato vā kulāni upaghātaṃ gacchanti, corato vā kulāni upaghātaṃ gacchanti, aggito vā kulāni upaghātaṃ gacchanti udakato vā kulāni upaghātaṃ gacchanti, nihitaṃ vā ṭhānā vigacchati<note type="variant">[nihitaṃ vā nādhigacchanti (sī. pī.)]</note>, duppayuttā vā kammantā vipajjanti, kule vā kulaṅgāroti<note type="variant">[kulānaṃ vā kulaṅgāro (sī.)]</note>uppajjati, yo te bhoge vikirati vidhamati viddhaṃseti, aniccatāye aṭṭhamīti.</p>
+        <p>Ime kho, gāmaṇi, aṭṭha hetū, aṭṭha paccayā kulānaṃ upaghātāya Imesu kho, gāmaṇi, aṭṭhasu hetūsu, aṭṭhasu paccayesu saṃvijjamānesu yo maṃ evaṃ vadeyya– ‘ucchedāya bhagavā kulānaṃ paṭipanno, anayāya bhagavā kulānaṃ paṭipanno, upaghātāya bhagavā kulānaṃ paṭipanno’ti, taṃ, gāmaṇi, vācaṃ appahāya taṃ cittaṃ appahāya taṃ diṭṭhiṃ appaṭinissajjitvā yathābhataṃ nikkhitto evaṃ niraye”ti. <seg type="not-parallel">Evaṃ vutte, asibandhakaputto gāmaṇi bhagavantaṃ etadavoca– “abhikkantaṃ, bhante, abhikkantaṃ, bhante…pe… upāsakaṃ maṃ bhagavā dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gatan”ti.</seg>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

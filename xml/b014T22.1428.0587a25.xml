@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p>This is part of the text-cluster of BZA (T.100) sutra 014. It is found in the 四分律 Vinaya at T.22.1428.0587.</p>
+      </div>
+    </front>
+    <body xml:id="T22.1428.0587a25">
+      <anchor type="start" xml:id="t22.1428.0587a25"/>
+      <div type="parallel">
+        <p>
+          <anchor type="variant" n="fnT22p0587n09"/>爾時佛在羅閱祇耆闍崛山中。</p>
+      </div>
+      <div type="not-parallel">
+        <p>
+          <anchor type="variant" n="fnT22p0587n10"/>時尊者沓婆摩羅子得阿羅漢。在靜處思惟心自念言。此身不牢固我今當以何方便求牢固法耶。復作是念我今宜可以力供養分僧臥具差次受請飯食耶。時沓婆摩羅子晡時從<pb ed="T" n="0587b"/>靜處起。整衣服往至世尊所。頭面禮足在一面坐。白世尊言。我向在靜處心作是念。是身不牢固以何方便求牢固法。我今寧可以力供養分僧臥具及差次受請飯食耶。</p>
+      </div>
+      <div type="parallel">
+        <p>世尊告諸比丘。差沓婆摩羅子分僧臥具及差次受請飯食。</p>
+      </div>
+      <div type="not-parallel">
+        <p>白二羯磨。眾中應差堪能羯磨者如上如是白。大德僧聽。若僧時到僧忍聽。差沓婆摩羅子分僧臥具差次受請飯食。白如是。大德僧聽。僧今差沓婆摩羅子分僧臥具差次受請飯食。誰諸長老忍。僧差沓婆摩羅子分僧臥具及差次受請飯食者默然。誰不忍者說。僧已忍。差沓婆摩羅子分僧臥具差次受請飯食竟。僧忍默然故<anchor type="variant" n="fnT22p0587n11"/>是事如是持。</p>
+      </div>
+      <div type="parallel">
+        <p>時尊者沓婆摩羅子。即為僧分臥具。</p>
+      </div>
+      <div type="not-parallel">
+        <p>同意者共同。阿練若阿練若共同。乞食乞食共同。納衣納衣共同。不作餘食法不作餘食法共同。一<anchor type="variant" n="fnT22p0587n12"/>坐食一<anchor type="variant" n="fnT22p0587n12"/>坐食共同。一摶食一摶食共同。塚間坐塚間坐共同。露坐露坐共同。樹下坐樹下坐共同。常坐常坐共同。隨坐隨坐共同。三衣三衣共同。唄匿唄匿共同。多聞多聞共同。法師法師共同。持律持律共同。坐禪坐禪共同。</p>
+        <p>時羅閱祇有客比丘來。沓婆摩羅子即隨次第所應得臥具分與。時有一長老比丘向暮上耆闍崛山。時尊者沓婆摩羅子手出火光與分臥具語言。此是房此是繩床是木床是大小蓐是臥枕是地敷是唾壺是盛小便器此是大便處此是淨地此是不淨地。時世尊讚言。我弟子中分僧臥具者沓婆摩羅子最為第<pb ed="T" n="0587c"/>一。</p>
+      </div>
+      <div type="parallel">
+        <p>時有慈地比丘來至羅閱城中。時沓婆摩羅子為客比丘分臥具隨上座次第<anchor type="variant" n="fnT22p0587n13"/>隨應得處與。時彼慈地比丘眾中下座得惡房惡臥具。便生<anchor type="variant" n="fnT22p0587n14"/>慎恚言。沓婆摩羅子有愛隨所憙者與好房好臥具。不愛者與惡房惡臥具。不愛我等故與我惡房惡臥具。眾僧云何乃差如此有愛者分僧臥具<anchor type="variant" n="fnT22p0587n15"/>耶。</p>
+        <p>時尊者沓婆摩羅子。夜過已明日差僧受請飯食。時羅<anchor type="variant" n="fnT22p0587n16"/>閱城中有檀越。常為僧一年再作肥美<anchor type="variant" n="fnT22p0587n17"/>飯食。時慈地比丘被差次至其家。彼檀越聞慈地比丘次來受食。便於門外敷弊坐具施設惡食。時慈地比丘得此惡食倍<anchor type="variant" n="fnT22p0587n18"/>復<anchor type="variant" n="fnT22p0587n14"/>慎恚言。沓婆摩羅子有愛隨所憙者與好房好臥具。所不憙者與惡房惡臥具。不愛我等故與惡房惡臥具。今日以不愛我等故復差與惡食。云何眾僧乃差如是有愛比丘為僧分臥具差次受請<anchor type="variant" n="fnT22p0587n19"/>也。</p>
+        <p>時羅閱城中有一比丘尼名曰慈。是慈地比丘妹。聞慈地比丘來至羅閱城中。即至慈地比丘所。在前立問訊。遠行勞耶不疲極耶。作如是善言問訊。時慈地比丘默然不答。比丘尼言。大德。我有何過而不見答。彼答言。何須與汝語。為沓婆摩羅子觸嬈我而不能助我。比丘尼言。欲使我作何等方便。令沓婆摩羅子不觸嬈大<anchor type="variant" n="fnT22p0587n20"/>德。慈地比丘言。汝伺佛比丘僧會時。便往眾中作如是言。大德。此非善非<anchor type="variant" n="fnT22p0587n21"/>宜非好不隨順所不應不合時。我本所憑無有恐懼憂惱。云何今日更生怖懼憂惱。云何水中生火。此沓婆摩羅子<pb ed="T" n="0588a"/>乃來犯我。眾僧即應和合為作滅擯。如是便不來嬈我。比丘尼言。此有何難便可作之。</p>
+        <p>時慈比丘尼往至<anchor type="variant" n="fnT22p0588n01"/>僧中如上所說。<anchor type="variant" n="fnT22p0588n05"/>時尊者沓婆摩羅子去佛不遠。世尊知而故問。汝聞此比丘尼所說不。答言聞。唯世尊當知之。世尊告言。今不應作如是報<anchor type="variant" n="fnT22p0588n06"/>我。若實當言實若不實當言不實。時沓婆摩<anchor type="variant" n="fnT22p0588n07"/>羅子聞世尊教<anchor type="variant" n="fnT22p0588n08"/>已。即從坐起偏露右臂右膝著地合掌白佛言。我從生已來未曾憶夢中行不淨。況於覺悟而行不淨。世尊報<anchor type="variant" n="fnT22p0588n09"/>曰。善哉善哉。沓婆摩羅子。汝應作是說。時世尊告諸比丘。汝等應檢問此慈地比丘。莫以無根非梵行謗此沓婆摩羅子比丘清淨人。若以無根非梵行謗者獲<anchor type="variant" n="fnT22p0588n10"/>大重罪。諸比丘答言。如是世尊。</p>
+        <p>諸比丘從佛受教。尋至慈地比丘所檢問本末。此事云何為<anchor type="variant" n="fnT22p0588n11"/>實爾不。莫以無根非梵行謗此沓婆摩羅子清淨梵行人。若以無根非梵行謗清淨梵行人得<anchor type="variant" n="fnT22p0588n10"/>大重罪。時慈地比丘得諸比丘詰問已報言。我知沓婆摩羅子清淨梵行人無是事。我來到羅閱城。彼為僧分房<pb ed="T" n="0588b"/>臥具。與我等惡房惡臥具。我即生不忍心言。沓婆摩羅子有愛。隨所喜<anchor type="variant" n="fnT22p0588n12"/>者與好房好臥具。不喜者與惡房惡臥具。以不愛我故與惡房惡臥具。差次受請與我惡食處。由此倍增<anchor type="variant" n="fnT22p0588n13"/>
+          <g ref="g008">[真/心]</g>恚言。眾僧云何<anchor type="variant" n="fnT22p0588n14"/>差此有愛人為僧分房<anchor type="variant" n="fnT22p0588n15"/>舍臥具差次受請飯食也。而此沓婆摩羅子清淨梵行人無如是事。時諸比丘聞。中有少欲知足行頭陀樂學戒知慚愧者。嫌責慈地比丘。汝云何以無根非梵行謗沓婆摩羅子梵行人耶。</p>
+        <p>時諸比丘往世尊所頭面<anchor type="variant" n="fnT22p0588n16"/>作禮在一面坐。以此因緣具白世尊。世尊爾時以此因緣集諸比丘。以無數方便呵責慈地比丘。汝所為非。非威儀<anchor type="variant" n="fnT22p0588n17"/>非沙門法非淨行非隨順行所不應為。云<anchor type="variant" n="fnT22p0588n18"/>何以無根非<anchor type="variant" n="fnT22p0588n19"/>梵行謗清淨梵行人耶。世尊告諸比丘。有二種人一向入地獄。何謂<anchor type="variant" n="fnT22p0588n20"/>二。若非梵行自稱梵行。若真梵行以無根非梵行謗之。是謂二一向入地獄。</p>
+      </div>
+      <div type="not-parallel">
+        <p>世尊<anchor type="variant" n="fnT22p0588n21"/>以無數方便呵責慈地比丘已。告諸比丘言。<anchor type="variant" n="fnT22p0588n22"/>此慈地比丘癡人。多種有漏處最初犯戒。自今已去與<anchor type="variant" n="fnT22p0588n23"/>諸比丘結戒。集十句義乃至正法久住。欲說戒者當如是說。若比丘<anchor type="variant" n="fnT22p0588n13"/>
+          <g ref="g008">[真/心]</g>恚所覆故。非波羅夷比丘以無根波羅夷法謗欲壞彼清淨行。若於異時若問若不問。知此事無根說。我<anchor type="variant" n="fnT22p0588n13"/>
+          <g ref="g008">[真/心]</g>恚故作是語。若比丘作是語者僧伽婆尸沙。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

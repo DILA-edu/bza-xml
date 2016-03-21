@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-0917">
+      <anchor type="start" xml:id="tp0232b24"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住舍衛國祇樹給孤獨園。</p>
+      </div>
+      <div type="main">
+        <p>爾時世尊告諸比丘：<q who="gotamo">
+            <p>世間有三種調馬。何等為三種？有馬捷疾具足、色不具足、形體不具足。有馬色具足、捷疾具足形體不具足。有馬捷疾具足、色具足、形體具足。如是有三種調士夫相。何等為三？有士夫<pb ed="T" n="0232c"/>捷疾具足、色不具足、形體不具足。有士夫捷疾具足、色具足、形體不具足。有士夫捷疾具足、色具足、形體具足。</p>
+          </q>
+        </p>
+        <q who="gotamo">
+          <p>比丘！何等為不調士夫捷疾具足、色不具足、形體不具足？有士夫於此<anchor type="variant" n="fnT02p0232n06"/>苦如實知，此苦集、此苦滅、此苦滅道跡如實知，如是觀者三結斷——身見、戒取、疑。此三結斷得須陀洹，不墮惡趣法，決定正趣三菩提，七有天人往生，究竟苦邊，是名捷疾具足？何等為非色具足。若有問<anchor type="variant" n="fnT02p0232n07"/>阿毘曇、律，不能以具足句味，次第隨順，具足解說，是名色不具足。云何形體不具足？非大德名聞，感致衣被、飲食、床臥、湯藥、眾具，是名士夫捷疾具足、色不具足、形體不具足。</p>
+        </q>
+        <q who="gotamo">
+          <p>何等為捷疾具足、色具足、形體不具足？謂士夫此苦如實知，此苦集、此苦滅、此苦滅道跡如實知，……乃至究竟苦邊，是捷疾具足。何等為色具足？若問阿毘曇、律，……乃至能為解說，是名色具足。何等為形體不具足？非大德名聞，不能感致衣被、飲食、臥具、湯藥，是名士夫捷疾具足、色具足、形體不具足。</p>
+        </q>
+        <q who="gotamo">
+          <p>何等為士夫捷疾具足、色具足、形體具足？謂士夫此苦如實知，此苦集、此苦滅、此苦滅道跡如實知，……乃至究竟苦邊，是名捷疾具足。何等為色具足？若問阿毘曇、律，……乃至能解<choice>
+              <sic>脫</sic>
+              <corr resp="CBETA">說</corr>
+            </choice>，是名色具足。何等<anchor type="variant" n="fnT02p0232n08"/>為形體具足？大德名聞，……乃至臥具、湯藥，是名形體具足。是名士夫捷疾具足、色具足、形體具足。</p>
+        </q>
+      </div>
+      <div type="closing">
+        <p>佛說此經已，諸比丘聞佛所說，歡喜奉行！</p>
+      </div>
+    </body>
+  </text>
+</TEI>

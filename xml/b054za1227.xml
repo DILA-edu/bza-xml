@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body xml:id="tn0099-1227">
+      <anchor type="start" xml:id="tp0335b09"/>
+      <div type="opening">
+        <p>如是我聞：一時佛住舍衛國祇樹給孤獨園。</p>
+      </div>
+      <div type="main">
+        <p>時波斯匿王有祖母，極所敬重，忽爾命終，出城闍維，供養舍利畢，弊衣亂髮，來詣佛所，稽首佛足，退坐一面。爾時世尊告波斯匿王：</p>
+        <q who="gotamo">
+          <p>大王！從何所來？弊衣亂髮。</p>
+        </q>
+        <p>波斯匿王白佛：</p>
+        <q who="pasenadi">
+          <p>世尊！我亡祖母，極所敬重，捨我命終，出<anchor type="variant" n="fnT02p0335n03"/>於城外闍維，供養畢，來詣世尊。</p>
+        </q>
+        <p>佛告大王：</p>
+        <q who="gotamo">
+          <p>極愛重敬念祖親耶？</p>
+        </q>
+        <p>波斯匿王白佛：</p>
+        <q who="pasenadi">
+          <p>世尊！極敬重愛戀！世尊！若國土所有象馬七寶乃至國位，悉持與人，能救祖母命者，悉當與之。既不能救，生死長辭，悲戀憂苦，不自堪勝。曾聞世尊所說，一切眾生、一切虫、一切神，生者皆死，無不窮盡。無有出生，而不死者。今日乃知世尊善說。</p>
+        </q>
+        <p>佛言：</p>
+        <q who="gotamo">
+          <p>大王！如是，如是，一切眾生、一切虫、一切神，生者輒死，終歸窮盡。無有一生，而不死者。</p>
+        </q>
+        <p>佛告大王：</p>
+        <q who="gotamo">
+          <p>正使婆羅門大姓、剎利大姓、長者大姓，生者皆死，無不死者。正使剎利大王灌頂居位，王四天下，得力自在，於諸敵國無不降伏，終歸有極，無不死者。若復──大王！──生長壽天，王於天宮，自在快<pb ed="T" n="0335c"/>樂，終亦歸盡，無不死者。若復──大王！──<anchor type="variant" n="fnT02p0335n04"/>羅漢比丘諸漏已盡，離諸重擔，所作已作，逮得己利，盡諸有結，正智、心善、解脫，彼亦歸盡，捨身涅槃。若復緣覺善調善<anchor type="variant" n="fnT02p0335n05"/>寂，盡此身命，終歸涅槃。諸佛世尊十力具足，四無所畏，勝師子吼，終亦捨身，取般涅槃。以如是比，大王！當知：一切眾生、一切虫、一切神，有生輒死，終歸磨滅，無不死者。</p>
+        </q>
+        <p>爾時世尊復說偈言：</p>
+        <q who="sakko">
+          <lg met="5" xml:id="cgtn0099-1227a">
+            <l>一切眾生類<caesura/>有命終歸死</l>
+            <l>各隨業所趣<caesura/>善惡果自受</l>
+            <l>惡業墮地獄<caesura/>為善上昇天</l>
+            <l>修習勝妙道<caesura/>漏盡般涅槃</l>
+            <l>如來及緣覺<caesura/>佛聲聞弟子</l>
+            <l>會當捨身命<caesura/>何況俗凡夫</l>
+          </lg>
+        </q>
+      </div>
+      <div type="closing">
+        <p>佛說此經已，波斯匿王聞佛所說，歡喜隨喜，作禮而去。</p>
+      </div>
+    </body>
+  </text>
+</TEI>

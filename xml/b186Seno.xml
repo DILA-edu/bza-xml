@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Enomoto 1994, no.0592</head>
+        <p>From Fumio Enomoto, "A comprehensive study of the Chinese Samyuktagama : Indic texts corresponding to the Chinese Samyuktagama as found in the Sarvastivada-Mulasarvastivada literature", Kyoto : Kacho Junior College, 1994. This is part of the text-cluster of BZA (T.100) sutra 186</p>
+      </div>
+    </front>
+    <body xml:lang="sa">
+      <anchor type="start" xml:id="eno.0592"/>
+      <div type="parallel">
+        <note type="reference">Saṅghabh 1, pp. 166--171; Śay-v pp. 14--16; Śay-vw pp. 115--118; Uv 30.28f.</note>
+        <p>bhagavān rājagṛhe viharati veṇuvane kalandakanivāpe . . . tasmiṃś ca samaye anāthapiṇḍado gṛhapatiḥ rājagṛham anuprāptaḥ kenacid eva karaṇīyena; sa tasya gṛhapater niveśane rātriṃ vāsam upagataḥ;</p>
+        <p>atha sa gṛhapatiḥ sarātram evot thāyāntarjanam āmantrayate: uttiṣṭhata āryā uttiṣṭhata bhadramukhāḥ; kāṣṭhāni pāṭayata; samidhaṃ prajvālayata; bhaktaṃ pacata; sūpikaṃ pacata; khādyakāni ullāḍayata; pratijāgṛta maṇḍalavāṭam iti;</p>
+        <p>athānāthapiṇḍadasya gṛhapater etad abhavat; kiṃ punar asya gṛhapater āvāho vā bhaviṣyati, vivāho vā, rāṣṭraṃ vā, śreṇī vā, pūgā vā, parṣado vā, rājā vānena māgadhaḥ śreṇyo bimbisāraḥ śvo 'ntargṛhe bhaktena nimantrito bhaviṣyati; iti viditvā taṃ gṛhapatim idam avocat:   kiṃ punas te gṛhapate āvāho vā bhaviṣyati vivāho vā rāṣṭraṃ vā śreṇī vā pūgā vā parṣado vā rājā vā te māgadhaḥ śreṇyo bimbisāraḥ śvo 'ntargṛhe bhaktenopanimantritaḥ? na me gṛhapate āvāho, na vivāho, na rāṣṭraṃ, na śreṇī, na pūgā, nāpi parṣado, nāpi rājā māgadhaḥ śreṇyo bimbisāraḥ śvo 'ntargṛhe bhaktenopanimantritaḥ; api tu buddhapramukho bhikṣusaṃgho 'ntargṛhe bhaktenopanimantritaḥ;</p>
+        <p>anāthapiṇḍadasya gṛhapater buddha ity aśrutapūrvaṃ ghoṣaṃ śrutvā sarvaromakūpāny āhṛṣṭāni; sa āhṛṣṭaromakūpas taṃ gṛhapatim idam avocat; ka eṣa gṛhapate buddho nāma; asti gṛhapate śramaṇo gautamaḥ śākyaputraḥ śākyakulāt keśaśmaśrv avatārya kāṣāyāṇi vastrāṇy ācchādya samyag eva śraddhayā agārād anagārikāṃ pravrajitaḥ; so 'nuttarāṃ samyaksaṃbodhim abhisaṃbuddhaḥ; sa eṣa gṛhapate buddho nāma;</p>
+        <p>ka eṣa gṛhapate saṃgho nāma; santi gṛhapate kṣatriyakulād api kulaputrāḥ keśaśmaśrv avatārya kāṣāyāṇi vastrāṇy ācchādya samyag eva śraddhayā agārād anagārikāṃ tam eva bhagavantaṃ pravrajitam anupravrajitāḥ; brāhmaṇakulād api vaiśyakulād api śūdrakulād api kulaputrāḥ keśaśmaśrv avatārya kāṣāyāṇi vastrāṇy ācchādya samyag eva śraddhayā agārād anagārikāṃ tam eva bhagavantaṃ pravrajitam anupravrajitāḥ; sa eṣa gṛhapate saṃgho nāma; śvaḥ sa mayā buddhapramukho bhikṣusaṃgho 'ntargṛhe bhaktenopanimantritaḥ;</p>
+        <p>kutra gṛhapate sa bhagavān etarhi viharati? asminn eva rājāgṛhe śītavane śmaśāne; labhyaṃ gṛhapate so 'smābhir bhagavān draṣṭum; tena hi gṛhapate āgamaya tāvat tvam; sthānam etad vidyate yad ihāgataṃ śvo drakṣyasi;</p>
+        <p> anāthapiṇḍado gṛhapatis tāṃ rātriṃ buddhālambanayā smṛtyā middham avakrāntaḥ; so 'prabhāte prabhātasaṃjñī yena śivikādvāraṃ tenopasaṃkrāntaḥ; tena khalu samayena śivikādvāraṃ rātryā dvau yāmau vivṛtaṃ tiṣṭhati, pūrvakaṃ paścimakaṃ ca, māhaiva āgantukānāṃ gamikānāṃ ca dūtānāṃ vighāto<note type="variant">[1 vighno Śay-v p. 15.]</note>bhaviṣyatīti;</p>
+        <p>yāvat paśyati śivikādvāraṃ vivṛtaṃ 2tiṣṭhati; sālokena2<note type="variant">[(2 ... 2) ālokena Śay-v p. 15.]</note>ca sphuṭam; tasyaitad abhavat; nūnaṃ prabhātā rajanī; tathāhi śivikādvāraṃ vivṛtaṃ tiṣṭhati; iti viditvā tenaiva ālokena nagarān niṣkrāntaḥ; samanantaraniṣkrāntasya cāsya ya ālokaḥ so 'ntarhitaḥ; andhakāraṃ prādurbhūtam; tasyābhūd bhayam; abhūc chambitatvam; abhūd romaharṣaḥ; māhaiva kaścid viheṭhayen manuṣyo vā amanuṣyo vā dhūrtako vā asaṃprāptaṃ vā syāt prabhūtaṃ kulaśulkam iti; viditvā pratinivartitukāmo madhuskandhasya devaputrasya sthaṇḍilaṃ pradakṣiṇīkaroti namaskaroti ca;</p>
+        <p>atha madhuskandhasya devaputrasya etad abhavat; adyaivānāthapiṇḍadena gṛhapatinā satyadarśanaṃ kartavyam; adyaivāyaṃ buddhaṃ bhagavantam apāsya anyadevatā namaskāraṃ kariṣyati; iti viditvā yāvac ca śivikādvāraṃ yāvac ca śītavanaṃ śmaśānam atrāntarād udāreṇāvabhāsenāvabhāsya anāthapiṇḍadaṃ gṛhapatim idam avocat; abhikrama gṛhapate mā pratikrama; abhikramatas te śreyo bhavati, na pratikramataḥ; tat kasya hetoḥ</p>
+        <lg>
+          <l> śatam aśvā śataṃ niṣkāḥ <caesura/>śatam aśvatarīrathāḥ |</l>
+          <l> nānāvittasya saṃpūrṇāḥ <caesura/>śataṃ ca vaḍavārathāḥ |</l>
+          <l>padāvihārasyaikasya <caesura/>kalāṃ nārhanti ṣoḍaśīm ||</l>
+        </lg>
+        <p>
+          <seg type="not-parallel">abhikrama gṛhapate, mā pratikrama; abhikramatas te śreyo bhavati, na pratikramataḥ; tat kasya hetoḥ</seg>
+        </p>
+        <lg>
+          <l>śataṃ haimavatā nāgāḥ <caesura/>suvarṇamaṇikalpitāḥ |</l>
+          <l>īṣādantā mahākāyā <caesura/>vyūḍhavanto mataṅgajāḥ |</l>
+          <l>padāvihārasyaikasya <caesura/>kalāṃ nārhanti ṣoḍaśīm ||</l>
+        </lg>
+        <p>
+          <seg type="not-parallel">abhikrama gṛhapate, mā pratikrama; abhikramatas te śreyo bhavati, na pratikramataḥ; tat kasya hetoḥ</seg>
+        </p>
+        <lg>
+          <l>  śataṃ kāmbojikākanyāḥ  <caesura/>āmuktamaṇikuṇḍalāḥ |</l>
+          <l>  suvarṇakeyūradharāḥ  <caesura/>niṣkagrīvāḥ svalaṃkṛtāḥ |</l>
+          <l> padāvihārasyaikasya  <caesura/>kalāṃ nārhanti ṣoḍaśīm ||</l>
+        </lg>
+        <p>abhikrama gṛhapate, mā pratikrama; abhikramatas te śreyo bhavati, na pratikramataḥ;</p>
+        <p>athānāthapiṇḍado gṛhapatis taṃ devaputram idam avocat;  <note type="reference">(Saṅghabh pp. 166--169; Śay-v pp. 14--16)</note>kas tvaṃ bhadramukha; aham asmi gṛhapate madhuskandho nāma māṇavaḥ, tavaiva purāṇo gṛhasakhaḥ; so 'haṃ śāriputramaudgalyāyanayor bhikṣvor antike cittam abhiprasādya (kālagataḥ) cāturmahārājikeṣu deveṣūpapannaḥ, asminn eva śivikādvāre naivāsikaḥ;<seg type="not-parallel">tasmād aham evaṃ vadāmi; abhikrama gṛhapate mā pratikrama; abhikramatas te śreyo bhavati, na pratikramata iti;</seg>
+        </p>
+        <p>athānāthapiṇḍadasya gṛhapater etad abhavat; <seg type="not-parallel">nāvaro buddho bhaviṣyati, nāvaraṃ dharmākhyānaṃ, yatredānīṃ devatā api autsukyam āpadyante tasya bhagavato darśanāya; iti viditvā yena śītavanaṃ śmaśānaṃ tenopasaṃkrāntaḥ;</seg>
+        </p>
+        <p>tena khalu samayena bahir vihārasyābhyavakāśe bhagavān caṅkrame caṅkramyate yadbhūyasā anāthapiṇḍadaṃ gṛhapatim āgamayamānaḥ; adrākṣīt anāthapiṇḍado gṛhapatir bhagavantaṃ dūrād eva; dṛṣṭvā ca punar yena bhagavāṃs tenopasaṃkrāntaḥ; upasaṃkramya bhagavantaṃ gṛhapatiḥ pratisaṃmodanayā pratisaṃmodate; kaccid bhagavān sukhaṃ śāyita iti; atha bhagavāṃs tasyāṃ velāyāṃ gāthā bhāṣate;  <note type="reference">(Saṅghabh p. 169; Śay-vw pp. 115f.)</note>
+        </p>
+        <lg>
+          <l>sarvathā vai sukhaṃ śete  <caesura/>brāhmaṇaḥ parinirvṛtaḥ |</l>
+          <l>  lipyate yo na kāmair hi  <caesura/>vipramukto nirupadhiḥ<note type="variant">[ 3 ~SĀc., Uvs; nirāsrava(ḥ) Uv ≠ SĀc.]</note>||<note type="reference">(Saṅghabh p. 169; Uv 30.28)</note>
+          </l>
+          <l> 4chitveha sarvam āśāstiṃ4 <note type="variant">[ (4 ... 4) chitveha sarvam āśaktiṃ Saṅghabh ≠ SĀc.; (sa)r(v)ā (āsakt)i(ya)ṃ cch(i)tv(ā) Uvs; sarvā hy āśāstayaś chitvā Uv~SĀc.]</note>
+            <caesura/>vinīya hṛdayajvaram |</l>
+          <l>   upaśāntaḥ sukhaṃ śete  <caesura/>5śāntiprāptena cetasā5<note type="variant">[ (5 ... 5) ~SĀc.; śāntiṃ prāpyeha cetasaḥ Uv; śānti(ṃ) prāp(n)oti cetasaḥ Uvs.]</note>||<note type="reference">(Śay-vw p. 116; ṣaṅghabh p. 169; ūv 30.29)</note>
+          </l>
+        </lg>
+        <p>  atha bhagavān anāthapiṇḍadaṃ gṛhapatim ādāya vihāraṃ praviśya prajñapta evāsane niṣaṇṇaḥ; anāthapiṇḍado gṛhapatir bhagavataḥ pādau śirasā vanditvā ekānte niṣaṇṇaḥ; ekānte niṣaṇṇam anāthapiṇḍadaṃ gṛhapatiṃ bhagavān dharmyayā kathayā saṃdarśayati samādāpayati samutte(jayati) saṃpraharṣayati; yāsau buddhānāṃ bhagavatāṃ pūrvakālakaraṇīyā dharmyā kathā; tadyathā dānakathā śīlakathā svargakathā kāmānām 6āsvādādīnavasaṃkleśavyavadānanaiśkramyapraviveke ānuśaṃsavyavadānapakṣyān6 <note type="variant">[(6 ... 6) -pravivekānuśaṃsa- Śay-vw p. 117.]</note>dharmān vistareṇa saṃprakāśayati;</p>
+        <p>yadā cainaṃ bhagavān adrākṣīt hṛṣṭacittaṃ kalyacittaṃ muditacittaṃ vinivaraṇacittaṃ bhavyaṃ pratibalaṃ sāmutkarṣikīṃ dharmadeśanām ājñātum, tadā yāsau buddhānāṃ bhagavatāṃ sāmutkarṣikī dharmadeśanā tadyathā duḥkhaṃ samudayo nirodho mārgaś catvāry āryasatyāni vistareṇa saṃprakāśayati; athānāthapiṇḍado gṛhapatis tasminn evāsane niṣaṇṇaś catvāry āryasatyāni abhisameti; tadyathā duḥkhaṃ samudayo nirodho mārgaḥ; tadyathā śuddhaṃ vastram apagatakālakaṃ rañjanopagataṃ raṅge prakṣiptaṃ samyag eva raṅgaṃ pratigṛhṇāti, evam evānāthapiṇḍado gṛhapatis tasminn evāsane niṣaṇṇaś catvāry āryasatyāni abhisameti; tadyathā duḥkhaṃ samudayo nirodho mārga iti;</p>
+        <p>athānāthapiṇḍado gṛhapatir dṛṣṭadharmā prāptadharmā viditadharmā paryavagāḍhadharmā tīrṇakāṅkṣo tīrṇavicikitsaḥ aparapratyayo 'nanyaneyaḥ śāstuḥ śāsane dharmeṣu vaiśāradyaprāptaḥ utthāyāsanād ekāṃsam uttarāsaṅgaṃ kṛtvā, yena bhagavāṃs tenāñjaliṃ praṇamayya bhagavantam idam avocat; abhikrānto 'haṃ bhadantābhikrāntaḥ; eṣo 'haṃ bhagavantaṃ śaraṇaṃ gacchāmi dharmaṃ ca bhikṣusaṃghaṃ ca; upāsakaṃ 7māṃ ca7<note type="variant">[ (7 ... 7) ca māṃ Śay-vw p. 117.]</note>dhāraya adyāgreṇa yāvajjīvaṃ prāṇopetaṃ śaraṇāgatam<note type="variant">[8 śaraṇagatam Śay-vw p. 117.]</note>abhiprasannaṃ;</p>
+        <p>atha bhagavān anāthapiṇḍadam gṛhapatim idam avocat; kiṃnāmā tvaṃ gṛhapate? aham asmi bhadanta sudatto nāmnā; api tv anāthebhyaḥ piṇḍakam anuprayacchāmi; tato mām anāthapiṇḍado gṛhapatir iti janaḥ saṃjānīte; kutobhūmakas tvaṃ gṛhapate? asti bhadanta prācīneṣu janapadeṣu śrāvastī nāma kosalānāṃ nigamaḥ; tatrāhaṃ prativasāmi; āgacchatu bhagavān śrāvastīm; ahaṃ bhagavantam upasthāsyāmi yāvajjīvaṃ cīvarapiṇḍapāta<note type="variant">[ 9 -śayanāsana- add. Śay-vw p. 118 = SĀc.]</note>glānapratyayabhaiṣajyapariṣkāraiḥ sārdhaṃ bhikṣusaṃghena;</p>
+        <p>santi gṛhapate vihārāḥ śrāvastyām? no bhadanta; yatra gṛhapate vihārāḥ santi tatra bhikṣava āgantavyaṃ gantavyaṃ vastavyaṃ manyante; āgacchatu bhagavān; ahaṃ tathā kariṣyāmi yathā śrāvastyāṃ vihārā bhaviṣyanti; bhikṣavaś ca āgantavyaṃ gantavyaṃ vastavyaṃ maṃsyanta iti; adhivāsayati bhagavān anāthapiṇḍadasya gṛhapates tūṣṇīṃbhāvena; anāthapiṇḍado gṛhapatir bhagavatas tūṣṇīṃbhāvenādhivāsanāṃ viditvā bhagavataḥ pādau śirasā vanditvā bhagavato 'ntikāt prakrāntaḥ |  <note type="reference">(Saṅghabh pp. 169--171; Śay-vw pp. 116--118)</note>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

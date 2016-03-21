@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Waldschmidt 1968a:16-23</head>
+        <p>From Ernst Waldschmidt: Drei Fragmente buddhistischer Sūtras aus den Turfan-handschriften. NAWG 1968.1, 3-26. Reprinted in AKS: 232-255. This is part of the text-cluster of BZA (T.100) sutra 012.</p>
+      </div>
+    </front>
+    <body xml:lang="sa">
+      <anchor type="start" xml:id="Wal1968a.16"/>
+      <div type="parallel">
+        <p>1 (evaṃ mayā srutam | ekaṃ samayaṃ bhagavāṃ śrāvastyāṃ viharati jetavane anāthapiṇḍadasyārāme |)</p>
+        <p>2 (athāyuṣmata ānandasya ekākino rahasi gatasya pratisaṃlīnasyaivaṃ cetasi cetaḥparivitarka udapādi<note type="footnote">cetaḥparivitarka bis trīṇi ist im. III. Fragment (unten S. 23) V5 belegt.</note>|)</p>
+        <p>3 (trīṇy etāni gandhajātāni yeṣāṃ gandhajātānām anuvātaṃ gandho vāti na prativātam | katamāni trīṇi | tadyathā mūlagandhaḥ sāraga)<note type="reference">V 1</note>ndhaḥ puṣpagandhaḥ |</p>
+        <p>4 asti tat kiñcid gandhajātaṃ yasya gandhajātasya anuvātam api gandho vāti prati(vātam api anuvātaprativā)tam api gandho vāti |</p>
+        <p>5 athāyuṣmān ānandaḥ sāyāhne pra(ti)<note type="reference">V 2</note>saṃlayanād vyutthāya yena bhagavāṃs tenopajagāma | upetya bhagavatpād(au) śiras(ā vanditvā ekānte asthāt | ek)ān(tasthi)ta āyuṣmān ānando bhagavantam idam a(vo)<note type="reference">V 3</note>cat |</p>
+        <p>6 iha mama bhadanta ekākino rahasi gatasya pratisaṃlīnasyaivaṃ cetasi cet(aḥparivitarka udapādi  |)</p>
+        <p>7 (trīṇy etā)ni gandhajātāni yeṣāṃ gandhajātānāṃ<note type="reference">V 4</note>anuvātaṃ gandho vāti na prativātaṃ | katamāni trīṇi | tadyathā mūlagandhaḥ sāragandhaḥ pu(ṣpagandhaḥ |)</p>
+        <p>8 (asti tat kiñcid gandhajātaṃ yasya) gandhajātasya anuvātam a(pi)<note type="reference">V 5</note>gandho vāti prativātam api anuvātaprativātam api gandho vāti |</p>
+        <p>9 evam etad ānanda evam etat | asti khalu ānanda gandhajātaṃ yasya gandhajātasya anuvātam api<note type="reference">R 1</note>gandho vāti prativātam api anuvātaprat(ivā)t(a)m api gandho vāti |</p>
+        <p>10 katarat tad ānanda gandhajātaṃ yas(ya gandhajātasya anuvātam api gandho vā)ti prativātam api anuvātapra<note type="reference">R 2</note>tivātam api gandho vāti |</p>
+        <p>11 ihānanda anyatarasmiṃ grāme vā nigame vā strī vā puru(ṣo vā prativasati śīlavāṃ kalyāṇa)dharma yāvajjīvaṃ prāṇātipātāt<note type="footnote">R 2: °pātaprativirataḥ; in R 4 °pātāt prativirataḥ; diese richtigere Lesart ist hier eingesetzt worden.</note>pra<note type="reference">R 3</note>tivirataḥ adattādānāt<note type="footnote">Die Ergänzung (śīlavāṃ kalyāṇa)dharma(ḥ) stützt sich auf sīlavā hoti kalyāṇadhammo in der Pāli-Entsprechung; sie ist nicht unbedingt gesichert.</note>kāmamithyācārād mṛṣāvādāt surāmaireyamadyapra(mādasthānāt prativirataḥ |)</p>
+        <p>12 (tasya ye te di)gvidikṣu saṃtaḥ samyaggatāḥ satya<note type="reference">R 4</note>rūpā varṇaṃ bhāṣaṃte | amuṣmiṃ grāme vā nigame vā strī vā puruṣo vā pr(at)i(vasati śīlavāṃ kalyāṇadharmaḥ |) yāva(jjīvaṃ) prāṇātipātāt prativirataḥ adattā(dā)<note type="reference">R 5</note>nāt kāmamithyācārād mṛṣāvādāt surāmaireyamadyapramādasthānāt prativi(rataḥ |)</p>
+        <p>13 (tad eva ānanda gandhajātaṃ)<note type="footnote">Es ist interessant, daß der Buddha in der stark abweichenden Version des Gandha-sūtra, deren chinesische Übersetzung im Tsêng-i-a-han-ching (Ekottarāgama) erhalten ist, drei Arten von Duft nennt, die sich auch gegen den Wind verbreiten: es sind der Duft der Tugend, der Duft der Gelehrsamkeit und der Duft der Freigebigkeit; vgl. T. I, Bd. 2, S. 613b Z. 5 v.l.</note>yasya gandhajātasya anuvātam api gandho vāti pra(tivātam api anuvātaprativātam api gandho vāti |)</p>
+        <p>14 (tasyāṃ velāyāṃ bhagavāṃ gāthā babhāṣe |)<note type="footnote">Die Strophen in den Absätzen 15--19 sind, wie oben ausgeführt, aus Udānavarga VI. 16--20 übernommen.</note>
+        </p>
+        <lg>
+          <l>15 (na puṣpagandhaḥ prativātam eti<caesura/>na vāhnijāt  tagarāc candanād vā |</l>
+          <l>satāṃ tu gandhaḥ prativātam eti<caesura/>sarvā diśaḥ satpuruṣaḥ pravāti ||)</l>
+          <l>16 (tagarāc candanāc cāpi<caesura/>vārṣikāyās tathotpalāt |</l>
+          <l>etebhyo gandhajātebhyaḥ<caesura/>śīlagandhas tv anuttaraḥ ||)</l>
+          <l>17 (alpamātro hy ayaṃ gandho<caesura/>yo 'yaṃ tagaracandanāt |</l>
+          <l>yas tu śīlavatāṃ gandho<caesura/>vāti deveṣv apīha saḥ ||)</l>
+          <l>18 (teṣāṃ viśuddhaśīlānām<caesura/>apramādavihāriṇām |</l>
+          <l>samyagājñāvimuktānāṃ<caesura/>māro mārgaṃ na vindati ||)</l>
+          <l>19 (eṣa kṣemagamo mārga<caesura/>eṣa mārgo viśuddhaye |</l>
+          <l>pratipannakāḥ prahāsyanti<caesura/>dhyāyino mārabandhanam ||)</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

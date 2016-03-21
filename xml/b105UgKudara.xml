@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>This file is part of the Bieyi za ahan jing 別譯雜阿含經-Project at Dharma Drum Buddhist College 法鼓佛教研修學院.</title>
+        <funder>Chiang Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會</funder>
+        <sponsor>
+          Chung-hwa Institute for Buddhist Studies 中華佛學研究所. Dharma Drum Buddhist College
+                          法鼓佛教研修學院.
+        </sponsor>
+        <principal>Marcus Bingenheimer</principal>
+        <respStmt>
+          <resp>Editing &amp; Encoding:</resp>
+          <name>Jung Hsi-chin 戎錫琴, Shi Zhanghui 釋章慧, Shu Huiyu 疏惠郁, Wang Ruixiang 王瑞鄉, Chueh Hui-chen 闕慧貞</name>
+        </respStmt>
+        <respStmt>
+          <resp>Programming</resp>
+          <name>Jen Jou Hung 洪振洲, Marcus Bingenheimer</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <p>This is the default header for all files in the database. Files which contain gaiji, however, have an additional CHARDECL section in the ENCODINGDESC below.</p>
+        <p>The project was conducted 2005-2008. Some minor revisions and additions were done in 2009.</p>
+      </editionStmt>
+      <publicationStmt>
+        <distributor>Dharma Drum Buddhist College 法鼓佛教研修學院.</distributor>
+        <date>2005-2009</date>
+        <availability>
+          <p>
+            All texts used with permission. Copyright for the Chinese text lies with the
+                                Chinese Buddhist Electronic Text Association (CBETA). Copyright for the Pāli
+                                text lies with the Vipassana Research Institute. Copyright for the Sanskrit text
+                                lies with Fumio Enomoto. Copyright for the English text lies with Marcus
+                                Bingenheimer. The Tibetan and Manchu texts are in the public realm. The digital
+                                edition itself is made available under the LGPL.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>If Chinese, the text below is based on the Taishō text from the CBETA-Database
+                (Version Feb.2006). If Pāli, the text base is the VRI Chaṭṭa Saṅgāyana edition
+                (ver.3). If Sanskrit the text base is <bibl>
+            Enomoto, Fumio 榎本文雄 (1994): A
+                                comprehensive study of the Chinese Saṃyuktāgama: Indic texts corresponding to
+                                the Chinese Saṃyuktāgama as found in the Sarvāstivāda-Mūlasarvāstivāda
+                                literature. Kyoto: Kacho Junior College
+          </bibl>
+            and other scholarly publications (as referenced).
+                            English translations by Marcus Bingenheimer.
+          </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This file has been created in the project "A Digital Comparative Edition of the Bieyi
+                          za ahan jing" conducted at the Chung-hwa Institute for Buddhist Studies 中華佛學研究所 and
+                          the Dharma Drum Buddhist College 法鼓佛教研修學院. The project was funded by the Chiang
+                          Ching-kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會. The aim of
+                          the project was to produce a comparative digital edition and partial translation of
+                          the 364 sutras of the BZA and their parallels. In the original interface, the texts were kept in
+                          an eXist database and are realized via XQuery and XSLT as HTML for the online user.
+                          The project lasted from 2005-2009.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          Changes from the respective text base are usually marked with a RESP="t.100"
+                          attribute on the containing elements
+        </p>
+        <p>Value added:</p>
+        <p>BZA: New Punctuation. Markup of person and place names. Verse and prose. References to the print edition (Taishō). Corrected characters (according to CBETA).</p>
+        <p>ZA: New Punctuation. Verse and prose. References to the print edition (Taishō). Markup of person and place names.</p>
+        <p>
+          Other Chinese: Parallel and not-parallel divisions regarding the BZA marked. Verse and
+                          Prose.
+        </p>
+        <p>
+          Pāli, Sanskrit, Tibetan &amp; others: Parallel and not-parallel divisions regarding the BZA. Verse
+                          and Prose. Markup of person and place names. Variant readings.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <head>Kudara 1990: 113</head>
+        <p>From Kudara, Kogi 百済康義: "Uiguru yaku betsuyaku zōagon-gyō danpen “Pelliot ouigour 218” no yimi suru koto ウイグル訳『別訳雑阿含経』断片 “Pelliot ouigour 218”の意味すること (A fragment from a Uigur version of the Bie-yi za a-han jing or the Minor Samyuktāgama-sūtra: Pelliot ouigour 218 and its significance)." 『仏教学研究 / 龍谷大学仏教学会』(武内　井ノ口教授定年記念) 1990 -03-31, Vol. 45: 99-124. This is part of the text-cluster of BZA (T.100) sutra 105.  Transcription slightly modified: 1. Line breaks converted into LB elements. 2. Numerals indicating word-order ommitted. 3. Wavy underline indicating additions to the right of the (vertical) line converted into ADD elements with POSITION=lateral attributes.</p>
+      </div>
+    </front>
+    <body xml:lang="ug">
+      <anchor type="start" xml:id="kud1990.113"/>
+      <div type="parallel">
+        <milestone unit="recto"/>
+        <p>[e]釋翅š̤akiš̤u <lb n="r07"/>šakilïɣ-lar-nïng kapilavastu-taqï<lb n="r08"/>arïɣ-ta |</p>
+        <p>[f]於隨順 nirvana-qa iyin<lb n="r09"/>udu nomlarïɣ, 四梵身天tört<lb n="r10"/>braxmakayik-taqï tngri-lär |</p>
+        <p>[g]   今於此<lb n="r11"/>林中a̤mtï bo arïɣ-ta,</p>
+        <p>[h]   yïɣïlmïš <lb n="r12"/>tirilmiš üčün uluɣ quvry,</p>
+        <p>[i]   anï<lb n="r13"/>üčün biz kälmiš ärür-biz</p>
+        <p>[j]   uɣrayu <lb n="r14"/>küsämiš üčün körgäli bursang quvraɣ<lb n="r15"/>-ïɣ,</p>
+        <p>[k]   näng ayïɣ köngül üzä</p>
+        <p>[l]   iki a̤rq̈a <lb n="r16"/>qïlɣu üčün ärmäz, tüz baz bursang<lb n="r17"/>quvra-ïɣ, |</p>
+        <p>[m]   譬如野馬inčä qaltï <lb n="r18"/>toẓïn at kišän-kä baɣ-qa tägdükdä<lb n="r19"/>
+        </p>
+        <p>[n]   tardï[p] qaṣɣuq-ïn aš[a<space extent="2"/>s]ikrip aɣïl<lb n="r20"/>……</p>
+        <p>[o]   ……………………………………………<lb n="r21"/>………</p>
+        <p>[p]   [at]ï köḍrülmiš-lig y[o]lčï yirči <lb n="r22"/>baxšï üzä yavaldurɣuluq bolmïš<lb n="r23"/>-lar[,]</p>
+        <p>[q]   [u]yur-lar üngäli mundata ulatï<lb n="r24"/>-[lar]-tïn,  [ulu]ɣ yan[g]a [täg,] |</p>
+        <p>[r]敬心〔戰慄〕<lb n="r25"/>[ayančang] ko̤ngül-i[n]………………..</p>
+        <p>………………<lb n="r26"/>…………….<lb n="r27"/>………………………….|</p>
+      </div>
+    </body>
+  </text>
+</TEI>

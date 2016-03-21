@@ -1,12 +1,14 @@
+# 別譯雜阿含專案 XML 及使用說明
+
+這是[別譯雜阿含專案](http://buddhistinformatics.dila.edu.tw/BZA)的 XML 檔使用說明。
+
 # 取得 xml
 
-到這個網址：http://buddhistinformatics.dila.edu.tw/BZA/index_zh.html
-
-右邊功能表最下面有「下載壓縮檔」
+這個倉庫的 XML 來自[別譯雜阿含專案](http://buddhistinformatics.dila.edu.tw/BZA) 右邊功能表最下面的「下載壓縮檔」。
 
 # 小經清單及對照表
 
-上述壓縮檔解開後，在根目錄有一個 comCatBza.xml，  
+上述壓縮檔解開後，在根目錄有一個 [comCatBza.xml](comCatBza.xml)，  
 這個 xml 檔裡是一個大 list，裡面就是許多小經的清單及對照，例如其中的一部小經如下：
 
 ```xml
@@ -46,4 +48,4 @@ xml:lang 屬性值參考 [ISO 639-2](http://www.loc.gov/standards/iso639-2/php/c
 
 # xml
 
-小經 xml 檔各元素說明詳見 doc/elements 資料夾。
+小經 xml 檔各元素說明詳見 [doc/elements](doc/elements) 資料夾。
